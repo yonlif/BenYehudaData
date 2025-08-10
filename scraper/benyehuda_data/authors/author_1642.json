@@ -1,0 +1,42 @@
+{
+  "id": 1642,
+  "url": "https://benyehuda.org/author/1642",
+  "metadata": {
+    "name": "ויאצ'סלב איבנוב",
+    "sort_name": "איבנוב, ויאצ'סלב ",
+    "other_designations": "ויאצ'סלב איבנוביץ' איבנוב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1866",
+      "death_year": "1949"
+    },
+    "bio_snippet": "משורר ומחזאי שהשתייך לזרם הסימבוליסטי, מתרגם, פילוסוף ומבקר ספרות",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 876
+  },
+  "texts": {
+    "author": [
+      35064,
+      35065,
+      35066,
+      35067
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

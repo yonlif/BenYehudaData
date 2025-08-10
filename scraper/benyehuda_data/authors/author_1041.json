@@ -1,0 +1,43 @@
+{
+  "id": 1041,
+  "url": "https://benyehuda.org/author/1041",
+  "metadata": {
+    "name": "נאוה סמל",
+    "sort_name": "סמל, נאוה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1954",
+      "death_year": "2017"
+    },
+    "bio_snippet": "סופרת, משוררת, מחזאית, תסריטאית, מתרגמת ועיתונאית ישראלית. הרבתה לעסוק בנושא הדור השני לשואה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 11975
+  },
+  "texts": {
+    "author": [
+      56621,
+      57127
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      46875,
+      56183
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3431,
+  "url": "https://benyehuda.org/author/3431",
+  "metadata": {
+    "name": "ב' טראוון",
+    "sort_name": "טראוון, ב' ",
+    "other_designations": "ב. טראוון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1882",
+      "death_year": "?"
+    },
+    "bio_snippet": "ב' טראוון הוא שם עט של סופר שכתב בגרמנית והתפרסם בארצות הברית בזכות ספרו, \"האוצר מסיירה מדרה\", אשר היווה בסיס לסרט בו כיכב המפרי בוגארט. רוב ההיסטוריונים מעריכים שטראוון היה למעשה רט מרוט, שחקן במה ואנרכיסט, שברח מאירופה למקסיקו בסביבות שנת 1924",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 307
+  },
+  "texts": {
+    "author": [
+      57408
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

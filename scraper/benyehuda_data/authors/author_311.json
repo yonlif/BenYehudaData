@@ -1,0 +1,39 @@
+{
+  "id": 311,
+  "url": "https://benyehuda.org/author/311",
+  "metadata": {
+    "name": "נ' אוגניוב",
+    "sort_name": "אוגניוב, נ'",
+    "other_designations": "מיכאיל גריגורייביץ' רוזאנוב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1888",
+      "death_year": "1938"
+    },
+    "bio_snippet": "סופר סובייטי; ניקולאי",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 1626
+  },
+  "texts": {
+    "author": [
+      4973
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

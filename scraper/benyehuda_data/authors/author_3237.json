@@ -1,0 +1,42 @@
+{
+  "id": 3237,
+  "url": "https://benyehuda.org/author/3237",
+  "metadata": {
+    "name": "אילה אסם",
+    "sort_name": "אילה אסם",
+    "other_designations": "איילה אוסם; אילה אסם־בלאנדר; אילה בלאנדר; איילה אוסם־בלאנדר",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "משוררת עברית ומתרגמת מאנגלית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 392
+  },
+  "texts": {
+    "author": [
+      56310,
+      56311,
+      56312,
+      56313
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": 2855,
+  "url": "https://benyehuda.org/author/2855",
+  "metadata": {
+    "name": "סילי פרידום",
+    "sort_name": "פרידום, סילי ",
+    "other_designations": "סילי פרידהום; סילי־פרידום; רנה פרנסואה ארמן פרידום",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1839",
+      "death_year": "1907"
+    },
+    "bio_snippet": "סילי פרידום הוא שמו הספרותי של רנה פרנסואה ארמן פרידום (René François Armand Prudhomme), משורר צרפתי. זכה בפרס נובל לספרות לשנת 1901 (השנה הראשונה שבה חולק הפרס). בהודעה לעיתונות שפרסמה האקדמיה השוודית נומקה זכייתו: \"כהוקרה מיוחדת עבור היצירה הפיוטית אשר מדגישה את האידיאליזם הנעלה, את השלמות האמנותית ושילוב נדיר של איכויות הלב והשכל\".",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 178
+  },
+  "texts": {
+    "author": [
+      19506,
+      19507,
+      19508,
+      51379
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

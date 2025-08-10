@@ -1,0 +1,40 @@
+{
+  "id": 855,
+  "url": "https://benyehuda.org/author/855",
+  "metadata": {
+    "name": "מרים אולינובר",
+    "sort_name": "אולינובר, מרים ",
+    "other_designations": "אולינאָווער",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1894",
+      "death_year": "1944"
+    },
+    "bio_snippet": "משוררת יידיש שפעלה בעיר לודז' שבפולין בתקופה שבין מלחמות העולם. נספתה באושוויץ",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1247
+  },
+  "texts": {
+    "author": [
+      24665,
+      24666
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

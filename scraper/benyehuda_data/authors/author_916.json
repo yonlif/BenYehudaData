@@ -1,0 +1,39 @@
+{
+  "id": 916,
+  "url": "https://benyehuda.org/author/916",
+  "metadata": {
+    "name": "רחל עזוז",
+    "sort_name": "עזוז רחל ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1947",
+      "death_year": ""
+    },
+    "bio_snippet": "מדריכה פדגוגית, מרצה לפילוסופיה ולתיאטרון. ממקימי מחלקת החינוך באגודה לזכויות האזרח. עיתונאית בנושאי אמנות ותרבות, מתרגמת ספרי ילדים ועורכת ספרים. כתבה ביחד עם אחרים ספרי לימוד. מציירת (הדפסים) ואוצרת תערוכות אמנים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "letters"
+    ],
+    "impressions_count": 2522
+  },
+  "texts": {
+    "author": [
+      26001
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

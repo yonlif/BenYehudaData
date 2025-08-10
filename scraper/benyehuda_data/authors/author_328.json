@@ -1,0 +1,40 @@
+{
+  "id": 328,
+  "url": "https://benyehuda.org/author/328",
+  "metadata": {
+    "name": "גרייס אגילר",
+    "sort_name": "אגילר, גרייס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1816",
+      "death_year": "1847"
+    },
+    "bio_snippet": "הייתה כותבת יהודית-בריטית בת המאה ה-19. עיקר כתיבתה עסקה בדת והיסטוריה יהודית.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1782
+  },
+  "texts": {
+    "author": [
+      6599,
+      38475
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

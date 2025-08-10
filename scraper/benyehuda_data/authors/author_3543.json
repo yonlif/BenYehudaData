@@ -1,0 +1,39 @@
+{
+  "id": 3543,
+  "url": "https://benyehuda.org/author/3543",
+  "metadata": {
+    "name": "יובל יבנה",
+    "sort_name": "יבנה, יובל ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1964",
+      "death_year": ""
+    },
+    "bio_snippet": "סופר, עורך, מוזיקאי – מלחין ומבצע",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 8
+  },
+  "texts": {
+    "author": [
+      33480
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

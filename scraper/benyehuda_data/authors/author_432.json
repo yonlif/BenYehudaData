@@ -1,0 +1,39 @@
+{
+  "id": 432,
+  "url": "https://benyehuda.org/author/432",
+  "metadata": {
+    "name": "ג'יימס פנימור קופר",
+    "sort_name": "קופר, ג'יימס פנימור",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1789",
+      "death_year": "1851"
+    },
+    "bio_snippet": "סופר אמריקאי, אבי סיפורי ההרפתקאות האינדיאניים, מחבר \"המוהיקני האחרון\", שהוא המפורסם מבין סיפורי \"פוזמק העור\". ",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1548
+  },
+  "texts": {
+    "author": [
+      10772
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

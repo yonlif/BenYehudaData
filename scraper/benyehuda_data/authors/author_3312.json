@@ -1,0 +1,39 @@
+{
+  "id": 3312,
+  "url": "https://benyehuda.org/author/3312",
+  "metadata": {
+    "name": "לאה הדומי",
+    "sort_name": "הדומי, לאה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1925",
+      "death_year": "2019"
+    },
+    "bio_snippet": "סופרת, פרופסור אמריטה לספרות עברית והשוואתית באוניברסיטת חיפה [על־פי בצרור החיים: רמת יוחנן הנצחה ומורשת ומקורות נוספים]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 169
+  },
+  "texts": {
+    "author": [
+      56324
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

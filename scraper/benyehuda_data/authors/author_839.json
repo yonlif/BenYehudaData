@@ -1,0 +1,43 @@
+{
+  "id": 839,
+  "url": "https://benyehuda.org/author/839",
+  "metadata": {
+    "name": "אברהם משה חן־תמים",
+    "sort_name": "חן־תמים, אברהם משה",
+    "other_designations": "אברהם משה חן תמים; העברי; הדל א\"מ העברי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1854",
+      "death_year": "1913"
+    },
+    "bio_snippet": "מראשוני הביל\"ויים, מורה ראשון בגדרה, מטיף לגאולה ולהזיות מיסטיות בארץ ומחוצה לה [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 1649
+  },
+  "texts": {
+    "author": [
+      24413,
+      42916,
+      56426,
+      56427
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

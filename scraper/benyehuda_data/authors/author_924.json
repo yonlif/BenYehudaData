@@ -1,0 +1,39 @@
+{
+  "id": 924,
+  "url": "https://benyehuda.org/author/924",
+  "metadata": {
+    "name": "יוחנן בדר",
+    "sort_name": "בדר יוחנן ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1901",
+      "death_year": "1994"
+    },
+    "bio_snippet": "חבר כנסת מהכנסת הראשונה ועד הכנסת השמינית. ממייסדי תנועת החירות; יוזם שותף של חוק בדר־עופר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 707
+  },
+  "texts": {
+    "author": [
+      26113
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 81,
+  "url": "https://benyehuda.org/author/81",
+  "metadata": {
+    "name": "בן־ציון כ\"ץ",
+    "sort_name": "כ\"ץ, בן־ציון",
+    "other_designations": "בן-ציון, בן ציון, בן אברהם, כץ",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1875",
+      "death_year": "1958"
+    },
+    "bio_snippet": "עיתונאי, סופר והיסטוריון, זוכה פרס סוקולוב. ",
+    "languages": [
+      "he",
+      "unk"
+    ],
+    "genres": [
+      "article",
+      "memoir",
+      "reference"
+    ],
+    "impressions_count": 9070
+  },
+  "texts": {
+    "author": [
+      7275,
+      33689,
+      49248
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      7599,
+      32416
+    ]
+  }
+}

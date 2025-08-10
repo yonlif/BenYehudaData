@@ -1,0 +1,37 @@
+{
+  "id": 2545,
+  "url": "https://benyehuda.org/author/2545",
+  "metadata": {
+    "name": "מאיר טשודנר",
+    "sort_name": "טשודנר, מאיר ",
+    "other_designations": "מאיר צ'ודנר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1888",
+      "death_year": "1943"
+    },
+    "bio_snippet": "משורר, סופר, עורך ומבקר יהודי־פולני. נספה בשואה",
+    "languages": [],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 73
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      47924
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

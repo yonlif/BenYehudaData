@@ -1,0 +1,41 @@
+{
+  "id": 2287,
+  "url": "https://benyehuda.org/author/2287",
+  "metadata": {
+    "name": "יעקב בן יצחק סגרי",
+    "sort_name": "סגרי, יעקב בן יצחק ",
+    "other_designations": "Jacob Segrè",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "1629"
+    },
+    "bio_snippet": "חי בסוף המאה ה־16 ותחילת המאה ה־17, בקיירי ובקזלי מונפרטו",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 254
+  },
+  "texts": {
+    "author": [
+      40758,
+      41970,
+      41971
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

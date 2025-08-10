@@ -1,0 +1,44 @@
+{
+  "id": 121,
+  "url": "https://benyehuda.org/author/121",
+  "metadata": {
+    "name": "לוי אריה אריאלי",
+    "sort_name": "אריאלי, לוי אריה",
+    "other_designations": "אורלוף; ל.א. אורלוף",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1886",
+      "death_year": "1943"
+    },
+    "bio_snippet": "סופר ומחזאי עברי. נולד באוקראינה, עלה לארץ ישראל וממנה היגר לארצות הברית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama",
+      "prose"
+    ],
+    "impressions_count": 9609
+  },
+  "texts": {
+    "author": [
+      5191,
+      5227,
+      5256,
+      5318,
+      31307
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

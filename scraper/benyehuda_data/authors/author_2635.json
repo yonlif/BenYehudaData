@@ -1,0 +1,39 @@
+{
+  "id": 2635,
+  "url": "https://benyehuda.org/author/2635",
+  "metadata": {
+    "name": "ועדת הסניגוריה בתקופת המנדט הבריטי בפלשתינה–א\"י",
+    "sort_name": "ועדת הסניגוריה בתקופת המנדט הבריטי בפלשתינה–א\"י",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "unknown",
+      "period": null,
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 579
+  },
+  "texts": {
+    "author": [
+      47333
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 239,
+  "url": "https://benyehuda.org/author/239",
+  "metadata": {
+    "name": "סיגביורן אובסטפלדר",
+    "sort_name": "אובסטפלדר, סיגביורן",
+    "other_designations": "בנורווגית: Sigbjørn Obstfelder‏;",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1866",
+      "death_year": "1900"
+    },
+    "bio_snippet": "היה משורר, נובליסט ומיסטיקן נורווגי.",
+    "languages": [
+      "no"
+    ],
+    "genres": [
+      "drama",
+      "prose"
+    ],
+    "impressions_count": 1583
+  },
+  "texts": {
+    "author": [
+      1315,
+      13333
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

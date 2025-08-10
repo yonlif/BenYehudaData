@@ -1,0 +1,43 @@
+{
+  "id": 895,
+  "url": "https://benyehuda.org/author/895",
+  "metadata": {
+    "name": "ג'ון גולסוורתי",
+    "sort_name": "גולסוורתי, ג'ון ",
+    "other_designations": "ג'ון סינג'ון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1867",
+      "death_year": "1933"
+    },
+    "bio_snippet": "סופר ומחזאי בריטי זוכה פרס נובל לספרות, עיקר פרסומו בזכות סדרת ספרי \"ההגדה לבית פורסייט\"",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2048
+  },
+  "texts": {
+    "author": [
+      25621,
+      42109,
+      42110,
+      42895,
+      55658
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1777,
+  "url": "https://benyehuda.org/author/1777",
+  "metadata": {
+    "name": "יעקב שלום קצנלנבוגן",
+    "sort_name": "קצנלנבוגן, יעקב שלום ",
+    "other_designations": "יש\"ק",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1877",
+      "death_year": "1904"
+    },
+    "bio_snippet": " סופר יהודי עברי שהתגורר בלונדון",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 2849
+  },
+  "texts": {
+    "author": [
+      37812,
+      37813,
+      37814,
+      37815,
+      37816,
+      37817,
+      37818,
+      37820,
+      37821,
+      37822,
+      37823,
+      37824,
+      37825,
+      37826,
+      37827,
+      37828,
+      37829,
+      37830,
+      37831,
+      37832,
+      37833,
+      37837,
+      37838,
+      37839,
+      58562
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      37840
+    ]
+  }
+}

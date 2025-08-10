@@ -1,0 +1,39 @@
+{
+  "id": 502,
+  "url": "https://benyehuda.org/author/502",
+  "metadata": {
+    "name": "דוד ליור",
+    "sort_name": "ליור, דוד",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1903",
+      "death_year": "1968"
+    },
+    "bio_snippet": "",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 2819
+  },
+  "texts": {
+    "author": [
+      11668
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

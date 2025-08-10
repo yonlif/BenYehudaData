@@ -1,0 +1,37 @@
+{
+  "id": 3506,
+  "url": "https://benyehuda.org/author/3506",
+  "metadata": {
+    "name": "משה סנדר איזנשטט",
+    "sort_name": "איזנשטט, משה סנדר ",
+    "other_designations": "משה סנדר איזנשטט; משה סנדר אייזינשטט",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "מתרגם",
+    "languages": [],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 36
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      58426
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

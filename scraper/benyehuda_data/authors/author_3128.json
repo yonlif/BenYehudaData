@@ -1,0 +1,39 @@
+{
+  "id": 3128,
+  "url": "https://benyehuda.org/author/3128",
+  "metadata": {
+    "name": "משה פורמנסקי",
+    "sort_name": "פורמנסקי, משה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1901",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד ורשה. התגורר בקיבוץ משמר העמק והיה מזכיר הקיבוץ הארצי. במלחמת העצמאות היה בין מגיני הקיבוץ, ונהרג מול הכפר רוביה פוקה מאש שנפתחה עליו [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 135
+  },
+  "texts": {
+    "author": [
+      54862
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

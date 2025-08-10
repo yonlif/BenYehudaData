@@ -1,0 +1,84 @@
+{
+  "id": 2291,
+  "url": "https://benyehuda.org/author/2291",
+  "metadata": {
+    "name": "יעקב בן דוד פראנשיס",
+    "sort_name": "פראנשיס, יעקב בן דוד ",
+    "other_designations": "יעקב פרנסיס; יעקב פראנשיס; חרי\"ף; Jacob Frances",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1615",
+      "death_year": "1667"
+    },
+    "bio_snippet": "נולד במנטובה, נפטר בפירנצה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 3225
+  },
+  "texts": {
+    "author": [
+      40764,
+      41994,
+      41995,
+      41996,
+      41997,
+      41998,
+      41999,
+      42000,
+      42001,
+      48228,
+      48229,
+      48230,
+      48231,
+      48232,
+      48233,
+      48234,
+      48235,
+      48236,
+      48237,
+      48238,
+      48239,
+      48240,
+      48241,
+      48242,
+      48243,
+      48244,
+      48245,
+      48246,
+      48247,
+      48248,
+      48249,
+      48250,
+      48251,
+      48252,
+      48253,
+      48254,
+      48255,
+      48256,
+      48257,
+      48258,
+      48259,
+      48260,
+      48261,
+      48262,
+      48263,
+      48264
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

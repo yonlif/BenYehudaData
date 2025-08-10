@@ -1,0 +1,80 @@
+{
+  "id": 1879,
+  "url": "https://benyehuda.org/author/1879",
+  "metadata": {
+    "name": "צאלח מצליח",
+    "sort_name": "מצליח, צאלח ",
+    "other_designations": "צאלח יוסף מצליח",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "פע",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר יהודי בבלי, רב וחזן",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 3291
+  },
+  "texts": {
+    "author": [
+      37990,
+      41091,
+      41092,
+      41093,
+      41094,
+      41095,
+      41096,
+      41097,
+      41098,
+      41099,
+      41100,
+      41232,
+      41233,
+      41234,
+      41235,
+      41236,
+      41237,
+      41238,
+      41239,
+      41240,
+      41241,
+      41246,
+      41247,
+      41248,
+      41249,
+      41250,
+      41251,
+      41252,
+      41253,
+      41254,
+      41255,
+      41276,
+      41277,
+      41278,
+      41279,
+      41280,
+      41281,
+      41282,
+      41283,
+      41284,
+      41285,
+      41286
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 456,
+  "url": "https://benyehuda.org/author/456",
+  "metadata": {
+    "name": "אברהם ליס",
+    "sort_name": "ליס, אברהם",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1913",
+      "death_year": "1998"
+    },
+    "bio_snippet": " מבקר ספרות ומסאי יידי ישראלי. ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 418
+  },
+  "texts": {
+    "author": [
+      11019
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

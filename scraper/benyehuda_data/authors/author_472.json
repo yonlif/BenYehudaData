@@ -1,0 +1,43 @@
+{
+  "id": 472,
+  "url": "https://benyehuda.org/author/472",
+  "metadata": {
+    "name": "בינה אופק",
+    "sort_name": "אופק, בינה",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1934",
+      "death_year": ""
+    },
+    "bio_snippet": "סופרת, עורכת ומתרגמת ישראלית.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2319
+  },
+  "texts": {
+    "author": [
+      12630,
+      46238,
+      46239,
+      46240,
+      46241
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": 523,
+  "url": "https://benyehuda.org/author/523",
+  "metadata": {
+    "name": "ניקולאי גוגול",
+    "sort_name": "גוגול, ניקולאי",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1809",
+      "death_year": "1852"
+    },
+    "bio_snippet": "סופר ומחזאי רוסי, יליד אוקראינה. מן המשפיעים והבולטים שבאמני הסיפורת של המאה ה-19. מוכר כיום כאחד מגדולי יוצרי ואמני הפרוזה בתולדותיה של הספרות הרוסית, וכן בזו של הספרות העולמית כולה. כן נודעו לתהילה סיפוריו הקצרים, ובמיוחד 'האדרת' ו-'האף'. ולצידם, רומן המופת 'נפשות מתות'. \t",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "drama",
+      "prose"
+    ],
+    "impressions_count": 10490
+  },
+  "texts": {
+    "author": [
+      12310,
+      12311,
+      12312,
+      32133,
+      32134,
+      46297,
+      58858,
+      58859,
+      58860,
+      58861,
+      58862,
+      58863,
+      58864,
+      58865
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      30661,
+      32390,
+      32548,
+      43804
+    ]
+  }
+}

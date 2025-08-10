@@ -1,0 +1,40 @@
+{
+  "id": 63,
+  "url": "https://benyehuda.org/author/63",
+  "metadata": {
+    "name": "יחזקאל קוטיק",
+    "sort_name": "קוטיק, יחזקאל",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1847",
+      "death_year": "1921"
+    },
+    "bio_snippet": "סופר ועסקן ציבורי.",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 20971
+  },
+  "texts": {
+    "author": [
+      11979,
+      12632
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

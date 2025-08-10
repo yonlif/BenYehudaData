@@ -1,0 +1,39 @@
+{
+  "id": 1227,
+  "url": "https://benyehuda.org/author/1227",
+  "metadata": {
+    "name": "אריאל פיקאר",
+    "sort_name": "פיקאר, אריאל ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1965",
+      "death_year": ""
+    },
+    "bio_snippet": "רב,  עוסק בהגות, מחקר וחינוך",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 803
+  },
+  "texts": {
+    "author": [
+      30689
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

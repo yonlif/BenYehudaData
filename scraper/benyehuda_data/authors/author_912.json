@@ -1,0 +1,41 @@
+{
+  "id": 912,
+  "url": "https://benyehuda.org/author/912",
+  "metadata": {
+    "name": "אונורה דה בלזק",
+    "sort_name": "בלזק, אונורה דה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1799",
+      "death_year": "1850"
+    },
+    "bio_snippet": "סופר ומחזאי צרפתי, מחלוצי זרם הריאליזם בספרות ואחד מהסופרים המשפיעים והבולטים במאה ה-19. יצירתו הגדולה של בלזק, \"הקומדיה האנושית\", היא מקבץ של רומנים וסיפורים קצרים המציגים תמונה פנורמית של חיי החברה הצרפתית במחצית הראשונה של המאה ה-19, ובפרט בתקופה שלאחר נפילת נפוליאון ולאחר חזרת בית בורבון לשלטון בשנת 1815",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2140
+  },
+  "texts": {
+    "author": [
+      25902,
+      25903,
+      25904
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

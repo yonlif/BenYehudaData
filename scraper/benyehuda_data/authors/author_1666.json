@@ -1,0 +1,46 @@
+{
+  "id": 1666,
+  "url": "https://benyehuda.org/author/1666",
+  "metadata": {
+    "name": "ג'ון דאן",
+    "sort_name": "דאן, ג'ון ",
+    "other_designations": "ג'ון דון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1572",
+      "death_year": "1631"
+    },
+    "bio_snippet": "משורר ומלומד אנגלי, חייל ופקיד, נחשב כנציג הבולט של זרם המשוררים המטאפיזיים",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1647
+  },
+  "texts": {
+    "author": [
+      34435,
+      34436,
+      34437,
+      34438,
+      34439,
+      57233,
+      57234,
+      57235
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3472,
+  "url": "https://benyehuda.org/author/3472",
+  "metadata": {
+    "name": "שלמה אטינגר",
+    "sort_name": "אטינגר, שלמה ",
+    "other_designations": "מהר\"ש אטינגר מזמושץ'",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1802",
+      "death_year": "1856"
+    },
+    "bio_snippet": "מחזאי, משורר וסופר ביידיש ובעברית. הוא כתב שירים ומשלים ומחזהו הסמלי סערקעלע נחשב כקלאסיקה בתיאטרון יידיש",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 116
+  },
+  "texts": {
+    "author": [
+      57673
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

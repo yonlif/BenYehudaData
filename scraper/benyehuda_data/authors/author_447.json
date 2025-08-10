@@ -1,0 +1,60 @@
+{
+  "id": 447,
+  "url": "https://benyehuda.org/author/447",
+  "metadata": {
+    "name": "מאיר שָׂשׂ",
+    "sort_name": "שָׂשׂ, מאיר",
+    "other_designations": "מאיר שש",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1922",
+      "death_year": "1993"
+    },
+    "bio_snippet": "היסטוריון ימי, מתרגם מלטינית ומיוונית ומראשוני המורים של בית הספר לקציני-ים עכו.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 24682
+  },
+  "texts": {
+    "author": [
+      10930,
+      11230,
+      11231,
+      11232,
+      11233,
+      11234,
+      11235,
+      11236,
+      11237,
+      11238,
+      11239,
+      11240,
+      12016,
+      12992,
+      12993,
+      12994,
+      12995,
+      15097
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      11241,
+      18053
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

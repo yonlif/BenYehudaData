@@ -1,0 +1,41 @@
+{
+  "id": 1683,
+  "url": "https://benyehuda.org/author/1683",
+  "metadata": {
+    "name": "גוטפריד אוגוסט  בירגר",
+    "sort_name": "בירגר,  גוטפריד אוגוסט  ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1747",
+      "death_year": "1794"
+    },
+    "bio_snippet": "משורר גרמני",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1331
+  },
+  "texts": {
+    "author": [
+      34360,
+      34363,
+      57155
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

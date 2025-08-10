@@ -1,0 +1,39 @@
+{
+  "id": 658,
+  "url": "https://benyehuda.org/author/658",
+  "metadata": {
+    "name": "מיכאיל מיכאילוב",
+    "sort_name": "מיכאילוב, מיכאיל",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1829",
+      "death_year": "1865"
+    },
+    "bio_snippet": "סופר רוסי.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 55
+  },
+  "texts": {
+    "author": [
+      18631
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

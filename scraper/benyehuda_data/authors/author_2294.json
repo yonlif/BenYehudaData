@@ -1,0 +1,39 @@
+{
+  "id": 2294,
+  "url": "https://benyehuda.org/author/2294",
+  "metadata": {
+    "name": "יום טוב ואלואזון",
+    "sort_name": "ואלואזון, יום טוב ",
+    "other_designations": "Bondí Valvason",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1616",
+      "death_year": "1690"
+    },
+    "bio_snippet": "פייטן מונציה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 107
+  },
+  "texts": {
+    "author": [
+      40766
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

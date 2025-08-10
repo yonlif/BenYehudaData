@@ -1,0 +1,40 @@
+{
+  "id": 1576,
+  "url": "https://benyehuda.org/author/1576",
+  "metadata": {
+    "name": "אן מימון גליפפה",
+    "sort_name": "גליפפה, אן מימון ",
+    "other_designations": "גליפאפה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "חי כנראה בסוף המאה ה־14",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר, חי בספרד",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 220
+  },
+  "texts": {
+    "author": [
+      34150,
+      34151
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 673,
+  "url": "https://benyehuda.org/author/673",
+  "metadata": {
+    "name": "ג'ון גודפרי סאקס",
+    "sort_name": "סאקס, ג'ון גודפרי",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1816",
+      "death_year": "1887"
+    },
+    "bio_snippet": "משורר אמריקאי.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "fables"
+    ],
+    "impressions_count": 73
+  },
+  "texts": {
+    "author": [
+      19193
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

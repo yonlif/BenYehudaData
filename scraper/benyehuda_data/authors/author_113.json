@@ -1,0 +1,47 @@
+{
+  "id": 113,
+  "url": "https://benyehuda.org/author/113",
+  "metadata": {
+    "name": "אליעזר שיין",
+    "sort_name": "שיין, אליעזר",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1880",
+      "death_year": "1931"
+    },
+    "bio_snippet": "מחנך עברי יליד בוברויסק, איש העלייה השלישית, מורה למתמטיקה ופעיל ציוני סוציאליסטי.\r\n\r\nעל שמו נקרא סמינר שיין, בית הספר למורים ולגננות בפתח תקווה, במקום פועל כיום בית הספר הארצי לעובדי חינוך נוער",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 1674
+  },
+  "texts": {
+    "author": [
+      1830,
+      2153,
+      2460,
+      2776,
+      3096,
+      45567,
+      45568,
+      45569
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

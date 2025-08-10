@@ -1,0 +1,39 @@
+{
+  "id": 2235,
+  "url": "https://benyehuda.org/author/2235",
+  "metadata": {
+    "name": "ישעיה בן אליה מטראני",
+    "sort_name": "מטראני, ישעיה בן אליה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1220",
+      "death_year": "?"
+    },
+    "bio_snippet": "נולד כנראה בטְרָנִי ב־1220 בערך \r\n\r\n",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 111
+  },
+  "texts": {
+    "author": [
+      38432
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

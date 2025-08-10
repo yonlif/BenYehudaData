@@ -1,0 +1,39 @@
+{
+  "id": 1038,
+  "url": "https://benyehuda.org/author/1038",
+  "metadata": {
+    "name": "דוד וקסליארסקי ",
+    "sort_name": "וקסליארסקי, דוד ",
+    "other_designations": "וועקסליארסקי, המהודר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 484
+  },
+  "texts": {
+    "author": [
+      28873
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

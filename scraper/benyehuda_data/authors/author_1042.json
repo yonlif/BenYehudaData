@@ -1,0 +1,39 @@
+{
+  "id": 1042,
+  "url": "https://benyehuda.org/author/1042",
+  "metadata": {
+    "name": "ג'יימס פין",
+    "sort_name": "פין, ג'יימס ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1806",
+      "death_year": "1872"
+    },
+    "bio_snippet": "הקונסול הבריטי השני בירושלים במאה ה-19. סייע ליהודים להתיישב בארץ ישראל. כתב על תולדות היהודים, הכיר את הלשון העברית, ופרסם ספר שבו תיאור מפורט על מצב היישוב היהודי בארץ",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 3832
+  },
+  "texts": {
+    "author": [
+      28825
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

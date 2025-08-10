@@ -1,0 +1,42 @@
+{
+  "id": 3142,
+  "url": "https://benyehuda.org/author/3142",
+  "metadata": {
+    "name": "מאיר פרנקל",
+    "sort_name": "פרנקל מאיר ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1923",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד גרמניה, עלה ארצה בנערותו במסגרת עליית הנוער. התיישב בגזר, ונפל במלחמת העצמאות עם חבריו בהגנה על יישובו [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir",
+      "poetry"
+    ],
+    "impressions_count": 231
+  },
+  "texts": {
+    "author": [
+      54441,
+      54442,
+      55016
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

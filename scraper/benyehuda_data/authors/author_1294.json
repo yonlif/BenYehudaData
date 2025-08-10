@@ -1,0 +1,39 @@
+{
+  "id": 1294,
+  "url": "https://benyehuda.org/author/1294",
+  "metadata": {
+    "name": "אבנר הובנה",
+    "sort_name": "הובנה, אבנר ",
+    "other_designations": "אדריאן ברנרד שוורץ",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1911",
+      "death_year": "1967"
+    },
+    "bio_snippet": "כלכלן ישראלי אמריקאי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 448
+  },
+  "texts": {
+    "author": [
+      31576
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

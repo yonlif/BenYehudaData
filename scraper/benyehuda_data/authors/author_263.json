@@ -1,0 +1,39 @@
+{
+  "id": 263,
+  "url": "https://benyehuda.org/author/263",
+  "metadata": {
+    "name": "ג'יין אוסטן",
+    "sort_name": "אוסטן, ג'יין",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1775",
+      "death_year": "1817"
+    },
+    "bio_snippet": "הייתה סופרת אנגלייה.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 10876
+  },
+  "texts": {
+    "author": [
+      1956
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

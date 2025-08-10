@@ -1,0 +1,39 @@
+{
+  "id": 889,
+  "url": "https://benyehuda.org/author/889",
+  "metadata": {
+    "name": "גדליה אלקושי",
+    "sort_name": "אלקושי, גדליה ",
+    "other_designations": "גדליהו אלקס",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1910",
+      "death_year": "1988"
+    },
+    "bio_snippet": "ביבליוגרף של הספרות העברית, עורך, פילולוג וחוקר הספרות העברית החדשה וספרות ההשכלה. פרופסור לספרות עברית באוניברסיטת תל אביב וממחברי האנציקלופדיה העברית",
+    "languages": [],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 499
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      25542,
+      30864,
+      30865
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

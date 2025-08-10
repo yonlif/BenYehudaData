@@ -1,0 +1,39 @@
+{
+  "id": 2822,
+  "url": "https://benyehuda.org/author/2822",
+  "metadata": {
+    "name": "טרוור נאן",
+    "sort_name": "נאן,  טרוור ",
+    "other_designations": "טרוור רוברט נאן",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1940",
+      "death_year": ""
+    },
+    "bio_snippet": "במאי תיאטרון אנגלי. מנהל אמנותי לשעבר של הלהקה השייקספירית המלכותית, התיאטרון המלכותי הלאומי, והתיאטרון המלכותי היימרקט. ביים דרמות, אופרות ומחזות זמר",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 184
+  },
+  "texts": {
+    "author": [
+      12593
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

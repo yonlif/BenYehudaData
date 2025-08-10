@@ -1,0 +1,39 @@
+{
+  "id": 2303,
+  "url": "https://benyehuda.org/author/2303",
+  "metadata": {
+    "name": "מרדכי פיראריסי",
+    "sort_name": "פיראריסי, מרדכי ",
+    "other_designations": "Mordecai Ferrarese",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "חי בפאדובה בראשית המאה ה־18",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 77
+  },
+  "texts": {
+    "author": [
+      40777
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

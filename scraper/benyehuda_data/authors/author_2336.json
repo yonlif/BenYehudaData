@@ -1,0 +1,39 @@
+{
+  "id": 2336,
+  "url": "https://benyehuda.org/author/2336",
+  "metadata": {
+    "name": "סוון הדין",
+    "sort_name": "הדין, סוון ",
+    "other_designations": "סוון אנדרס הדין; סון הדין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1865",
+      "death_year": "1952"
+    },
+    "bio_snippet": "מגלה ארצות שוודי, אשר פעל בעיקר בחלקה הפנימי של יבשת אסיה, והיה אחד המגלים הגדולים האחרונים של כדור הארץ מחוץ לאזורי הקטבים. יוקרתו נפגמה עקב תמיכתו בגרמניה בתקופת הנאצים",
+    "languages": [
+      "sv"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 295
+  },
+  "texts": {
+    "author": [
+      42659
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

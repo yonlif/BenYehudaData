@@ -1,0 +1,37 @@
+{
+  "id": 1089,
+  "url": "https://benyehuda.org/author/1089",
+  "metadata": {
+    "name": "עידוא בן גריון ",
+    "sort_name": "בן גריון, עידוא ",
+    "other_designations": "עידוא בן-גוריון; עידוא בן־גוריון; עידו בן גריון; עדוא בן גריון; עידוא בן גוריון",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1938",
+      "death_year": "1972"
+    },
+    "bio_snippet": "סופר ומחזאי עברי, במאי תיאטרון ופזמונאי ישראלי",
+    "languages": [],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 293
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      19203
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

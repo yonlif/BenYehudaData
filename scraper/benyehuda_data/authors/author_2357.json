@@ -1,0 +1,54 @@
+{
+  "id": 2357,
+  "url": "https://benyehuda.org/author/2357",
+  "metadata": {
+    "name": "ששון מרדכי שנדוך",
+    "sort_name": "שנדוך, ששון מרדכי ",
+    "other_designations": "ששון מרדכי שנדוך; ששון בן מרדכי שנדוך; ששון עג'מי; הרש\"ם; ששון מרדכי משה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1747",
+      "death_year": "1830"
+    },
+    "bio_snippet": "רב, אמן, משורר ומלחין",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1191
+  },
+  "texts": {
+    "author": [
+      43028,
+      43029,
+      43030,
+      43031,
+      43032,
+      43033,
+      43034,
+      43035,
+      43036,
+      43037,
+      43038,
+      43039,
+      43090,
+      43091,
+      43092,
+      43093
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

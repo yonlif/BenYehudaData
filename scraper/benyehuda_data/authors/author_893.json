@@ -1,0 +1,39 @@
+{
+  "id": 893,
+  "url": "https://benyehuda.org/author/893",
+  "metadata": {
+    "name": "שמעון בן סירא",
+    "sort_name": "בן סירא, שמעון",
+    "other_designations": " שמעון בן ישוע בן אלעזר בן סירא",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "ancient",
+      "birth_year": "המאה השלישית לפנה\"ס?",
+      "death_year": "המאה השנייה לפנה\"ס?"
+    },
+    "bio_snippet": "מחבר ספר 'בן סירא', הידוע גם בשם 'חכמת בן סירא' או 'משלי בן סירא', מהידועים שבספרים החיצוניים. הספר נכתב עברית בירושלים, בשלהי המאה השלישית או בתחילת המאה השנייה לפני ספירת הנוצרים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 11636
+  },
+  "texts": {
+    "author": [
+      25753
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

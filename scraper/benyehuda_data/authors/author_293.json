@@ -1,0 +1,39 @@
+{
+  "id": 293,
+  "url": "https://benyehuda.org/author/293",
+  "metadata": {
+    "name": "יהודה בן קורייש",
+    "sort_name": "קורייש, יהודה בן",
+    "other_designations": "יהודה אבן קריש",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "ה",
+      "death_year": "ה"
+    },
+    "bio_snippet": "היה מדקדק עברי, מחלוצי הבלשנות השמית.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 677
+  },
+  "texts": {
+    "author": [
+      3924
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

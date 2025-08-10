@@ -1,0 +1,39 @@
+{
+  "id": 215,
+  "url": "https://benyehuda.org/author/215",
+  "metadata": {
+    "name": "שלמה אבן-אלמעלם",
+    "sort_name": "אבן-אלמעלם, שלמה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "ה",
+      "death_year": "ה"
+    },
+    "bio_snippet": "משורר בן יהדות וספרד ורופא בחצרו של עלי בן-יוסף.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 936
+  },
+  "texts": {
+    "author": [
+      369
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

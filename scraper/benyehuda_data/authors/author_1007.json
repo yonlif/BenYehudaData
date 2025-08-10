@@ -1,0 +1,44 @@
+{
+  "id": 1007,
+  "url": "https://benyehuda.org/author/1007",
+  "metadata": {
+    "name": "שמואל רומאנלי",
+    "sort_name": "רומאנלי, שמואל ",
+    "other_designations": "שמואל אהרן רומנלי, רומנילי, רומאנילי, איש מנטובה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1757",
+      "death_year": "1814"
+    },
+    "bio_snippet": "סופר עברי יהודי־איטלקי, איש תנועת ההשכלה, מחבר \"משא בערב\". עקר ממקומו שוב ושוב; נהג לחבר שירים לכבוד אירועים בחיי הקהילה, לכבוד חשובי הקהילה המקומיים ואף למלכים ולנסיכים, אולם בשל נטייתו ללעוג לנכבדים, ובשל אי־הקפדתו על תורה ומצוות, גורש מהקהילות השונות ונאלץ לעקור שוב ממקומו",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama",
+      "poetry"
+    ],
+    "impressions_count": 557
+  },
+  "texts": {
+    "author": [
+      40798,
+      42237,
+      42238,
+      42239,
+      42240
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

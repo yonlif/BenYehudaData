@@ -1,0 +1,41 @@
+{
+  "id": 1821,
+  "url": "https://benyehuda.org/author/1821",
+  "metadata": {
+    "name": "קרל מרקס",
+    "sort_name": "מרקס, קרל ",
+    "other_designations": "קרל היינריך מרקס; קרל מרכס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1818",
+      "death_year": "1883"
+    },
+    "bio_snippet": "פילוסוף, כלכלן, סוציולוג, היסטוריון, עיתונאי וסוציאליסט מהפכני יהודי־גרמני. עבודתו העיונית והתאורטית הניחה יסודות לניתוחו של הסדר התעשייתי המודרני, והיוותה תשתית לכל ביקורת הקפיטליזם שנוצרה אחריו. המפורסמים שבכתביו הם 'המניפסט הקומוניסטי' ו'ביקורת הכלכלה המדינית', הידוע בתור 'הקפיטל'",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "article",
+      "letters"
+    ],
+    "impressions_count": 3922
+  },
+  "texts": {
+    "author": [
+      35687,
+      44796
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

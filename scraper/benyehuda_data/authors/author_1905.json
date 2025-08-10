@@ -1,0 +1,41 @@
+{
+  "id": 1905,
+  "url": "https://benyehuda.org/author/1905",
+  "metadata": {
+    "name": "חיים חיסין",
+    "sort_name": "חיסין, חיים ",
+    "other_designations": "חיים איסר חיסין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1865",
+      "death_year": "1932"
+    },
+    "bio_snippet": "רופא, פעיל ציוני בבלארוס, איש ביל\"ו, מראשוני תל אביב",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 932
+  },
+  "texts": {
+    "author": [
+      36945
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      44408
+    ]
+  }
+}

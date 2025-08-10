@@ -1,0 +1,46 @@
+{
+  "id": 717,
+  "url": "https://benyehuda.org/author/717",
+  "metadata": {
+    "name": "אברהם אריה עקביא",
+    "sort_name": "עקביא, אברהם אריה",
+    "other_designations": "א\"ל יעקובוביץ; יעקובובויץ; א. א. עקביא; א.ל. עקביא; ל. אליאב",
+    "intellectual_property": "permission_for_all",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1882",
+      "death_year": "1964"
+    },
+    "bio_snippet": "סופר ומתרגם עברי, כרונולוג, חוקר הלוח העברי ותוכן.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 1210
+  },
+  "texts": {
+    "author": [
+      44675
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      19901,
+      30839,
+      52901,
+      53300,
+      53301
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2266,
+  "url": "https://benyehuda.org/author/2266",
+  "metadata": {
+    "name": "אפרים בן יואב ממודינה",
+    "sort_name": "ממודינה, אפרים בן יואב ",
+    "other_designations": "אפרים בן יואב ממודינא; Efraim da Modena",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "חי באמצע המאה ה־15",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 81
+  },
+  "texts": {
+    "author": [
+      40738
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

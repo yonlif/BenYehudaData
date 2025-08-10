@@ -1,0 +1,45 @@
+{
+  "id": 309,
+  "url": "https://benyehuda.org/author/309",
+  "metadata": {
+    "name": "פּוֹל וֶרלֶן",
+    "sort_name": "וֶרלֶן, פּוֹל",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1844",
+      "death_year": "1896"
+    },
+    "bio_snippet": "מגדולי משורריה של צרפת.",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 2426
+  },
+  "texts": {
+    "author": [
+      4877,
+      4878,
+      4879,
+      7517,
+      39814
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      44388
+    ]
+  }
+}

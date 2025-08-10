@@ -1,0 +1,41 @@
+{
+  "id": 1723,
+  "url": "https://benyehuda.org/author/1723",
+  "metadata": {
+    "name": "דורית זילברמן",
+    "sort_name": "זילברמן, דורית ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1956",
+      "death_year": ""
+    },
+    "bio_snippet": "סופרת וחוקרת ספרות ישראלית, זוכת פרס היצירה לסופרים עבריים, עוסקת בעריכת דין",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2880
+  },
+  "texts": {
+    "author": [
+      34558,
+      35000,
+      35163
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

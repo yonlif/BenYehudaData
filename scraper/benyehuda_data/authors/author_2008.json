@@ -1,0 +1,39 @@
+{
+  "id": 2008,
+  "url": "https://benyehuda.org/author/2008",
+  "metadata": {
+    "name": "יוסף דרנבורג",
+    "sort_name": "דרנבורג, יוסף ",
+    "other_designations": "יוסף נפתלי דרנבורג",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1811",
+      "death_year": "1895"
+    },
+    "bio_snippet": "מזרחן צרפתי ממוצא יהודי",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 298
+  },
+  "texts": {
+    "author": [
+      53298
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

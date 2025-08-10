@@ -1,0 +1,40 @@
+{
+  "id": 944,
+  "url": "https://benyehuda.org/author/944",
+  "metadata": {
+    "name": "גאיוס ולריוס קאטולוס",
+    "sort_name": "קאטולוס, גאיוס ולריוס ",
+    "other_designations": "גיוס ולריוס קטולוס , דוקטוס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "84 לפנה\"ס?",
+      "death_year": "54 לפנה\"ס"
+    },
+    "bio_snippet": "משורר רומאי",
+    "languages": [
+      "la"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1158
+  },
+  "texts": {
+    "author": [
+      26492,
+      26495
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

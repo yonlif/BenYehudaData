@@ -1,0 +1,41 @@
+{
+  "id": 2963,
+  "url": "https://benyehuda.org/author/2963",
+  "metadata": {
+    "name": "דליה שלח",
+    "sort_name": "שלח, דליה",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1936",
+      "death_year": "2003"
+    },
+    "bio_snippet": "ילידת וחברת קיבוץ אפיקים, משוררת, וכתבת בבטאון הקיבוצים “אגרת” ובעלון אפיקים [על פי אתר קיבוץ אפיקים]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 154
+  },
+  "texts": {
+    "author": [
+      54053,
+      54054,
+      54055
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

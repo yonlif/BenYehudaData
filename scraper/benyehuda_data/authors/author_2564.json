@@ -1,0 +1,45 @@
+{
+  "id": 2564,
+  "url": "https://benyehuda.org/author/2564",
+  "metadata": {
+    "name": "ניקולאי גומיליוב",
+    "sort_name": "גומיליוב, ניקולאי ",
+    "other_designations": "ניקולאי סטפנוביץ׳ גומיליוב; ניקולי גומילוב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1886",
+      "death_year": "1921"
+    },
+    "bio_snippet": "",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 518
+  },
+  "texts": {
+    "author": [
+      46263,
+      46264,
+      46265,
+      46266,
+      46267,
+      58707,
+      58718
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

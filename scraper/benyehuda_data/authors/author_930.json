@@ -1,0 +1,46 @@
+{
+  "id": 930,
+  "url": "https://benyehuda.org/author/930",
+  "metadata": {
+    "name": "חיים בן־דור",
+    "sort_name": "בן־דור, חיים ",
+    "other_designations": "חיים בן דור, חיים בן-דור",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1924",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד ירושלים. התגייס לצבא הבריטי – לחיל הים, ואחר כך לפלמ\"ח. השאיר כתבים רבים (רשימות עיוניות, שירים, סיפורים, תרגומים, ביקורת ספרותית, מכתבי־רשימות). נפל במהלך פעולת תגמול בבלד א־שייח' על טבח בתי הזיקוק. שכונת בן־דור בעיר נשר נקראה על שמו.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "letters",
+      "prose"
+    ],
+    "impressions_count": 4606
+  },
+  "texts": {
+    "author": [
+      29289,
+      54499,
+      54500,
+      54818,
+      54819,
+      54820
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

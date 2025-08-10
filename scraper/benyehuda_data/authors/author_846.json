@@ -1,0 +1,39 @@
+{
+  "id": 846,
+  "url": "https://benyehuda.org/author/846",
+  "metadata": {
+    "name": "רנטה רוזנטל־הגינבוטום",
+    "sort_name": "רוזנטל־הגינבוטום, רנטה",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1944",
+      "death_year": ""
+    },
+    "bio_snippet": "מרצה לארכיאולוגיה קלאסית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 582
+  },
+  "texts": {
+    "author": [
+      24550
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 474,
+  "url": "https://benyehuda.org/author/474",
+  "metadata": {
+    "name": "מיגל דה סרוואנטס",
+    "sort_name": "סרוואנטס, מיגל דה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1547",
+      "death_year": "1616"
+    },
+    "bio_snippet": " סופר ומחזאי ספרדי, הידוע בעיקר בשל הספר \"דון קיחוטה דה לה מאנשה\". נחשב לאחד מגדולי היוצרים בשפה הספרדית. ",
+    "languages": [
+      "es"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 23771
+  },
+  "texts": {
+    "author": [
+      11229
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      49673
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1018,
+  "url": "https://benyehuda.org/author/1018",
+  "metadata": {
+    "name": "שאול ביבר",
+    "sort_name": "ביבר, שאול ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1922",
+      "death_year": "2013"
+    },
+    "bio_snippet": "פזמונאי, מחזאי, במאי ומפיק ישראלי. מלוחמי ומפקדי הש\"י והפלמ\"ח ולאחר מכן מאושיות התרבות והבידור בישראל. נחשב לאבי הלהקות הצבאיות.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2305
+  },
+  "texts": {
+    "author": [
+      28161
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

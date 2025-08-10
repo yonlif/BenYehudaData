@@ -1,0 +1,43 @@
+{
+  "id": 1912,
+  "url": "https://benyehuda.org/author/1912",
+  "metadata": {
+    "name": "חיים אליעזר מושקט",
+    "sort_name": "מושקט, חיים אליעזר ",
+    "other_designations": "חיים אליעזר בן בנימין מושקט; אחד מבעלי האספות; מר\"ט",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1851",
+      "death_year": "1916"
+    },
+    "bio_snippet": "סופר, מתרגם, מחבר מאמרים בענייני היום ובחקר היהדות בכתבי־עת, חבר חיבת־ציון [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 364
+  },
+  "texts": {
+    "author": [
+      45129,
+      45422
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      45175
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

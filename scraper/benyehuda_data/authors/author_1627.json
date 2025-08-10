@@ -1,0 +1,40 @@
+{
+  "id": 1627,
+  "url": "https://benyehuda.org/author/1627",
+  "metadata": {
+    "name": "ברוך אוליצקי",
+    "sort_name": "אוליצקי, ברוך ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1907",
+      "death_year": "1941"
+    },
+    "bio_snippet": "משורר יהודי פולני שכתב ביידיש; נספה בשואה",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 555
+  },
+  "texts": {
+    "author": [
+      34343,
+      34344
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

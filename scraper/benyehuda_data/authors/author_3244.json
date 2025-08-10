@@ -1,0 +1,41 @@
+{
+  "id": 3244,
+  "url": "https://benyehuda.org/author/3244",
+  "metadata": {
+    "name": "ויסטן יו אודן",
+    "sort_name": "אודן, ויסטן יו ",
+    "other_designations": "וו. ה. אודן",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1907",
+      "death_year": "1973"
+    },
+    "bio_snippet": "משורר בריטי־אמריקאי",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 318
+  },
+  "texts": {
+    "author": [
+      56405,
+      57195,
+      57196
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

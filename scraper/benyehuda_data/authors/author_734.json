@@ -1,0 +1,39 @@
+{
+  "id": 734,
+  "url": "https://benyehuda.org/author/734",
+  "metadata": {
+    "name": "יוסף בן יהושע",
+    "sort_name": "בן יהושע, יוסף ",
+    "other_designations": "יוסף הכהן הרופא, יוסף בן יהושע הכהן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1496",
+      "death_year": "1558"
+    },
+    "bio_snippet": "רופא והיסטוריון יהודי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 961
+  },
+  "texts": {
+    "author": [
+      27967
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

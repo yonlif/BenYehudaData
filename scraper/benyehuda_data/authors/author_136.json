@@ -1,0 +1,41 @@
+{
+  "id": 136,
+  "url": "https://benyehuda.org/author/136",
+  "metadata": {
+    "name": "יוסף אליהו שלוש",
+    "sort_name": "שלוש, יוסף אליהו",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1870",
+      "death_year": "1934"
+    },
+    "bio_snippet": "ממייסדי תל אביב, יזם, סוחר ותעשיין.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 8641
+  },
+  "texts": {
+    "author": [
+      9421
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      44403
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 362,
+  "url": "https://benyehuda.org/author/362",
+  "metadata": {
+    "name": "עידו בסוק",
+    "sort_name": "בסוק, עידו",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1950",
+      "death_year": ""
+    },
+    "bio_snippet": "מתרגם, עורך ומשורר ישראלי, חוקר ספרות והיסטוריה.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 1180
+  },
+  "texts": {
+    "author": [
+      7599
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

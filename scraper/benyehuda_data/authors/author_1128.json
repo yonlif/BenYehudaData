@@ -1,0 +1,39 @@
+{
+  "id": 1128,
+  "url": "https://benyehuda.org/author/1128",
+  "metadata": {
+    "name": "עזרא זוסמן",
+    "sort_name": "זוסמן, עזרא",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1900",
+      "death_year": "1973"
+    },
+    "bio_snippet": "משורר עברי, מתרגם, עורך ומבקר תיאטרון ישראלי. חתן פרס ביאליק לספרות יפה לשנת 1968.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 252
+  },
+  "texts": {
+    "author": [
+      29299
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

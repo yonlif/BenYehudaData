@@ -1,0 +1,39 @@
+{
+  "id": 2018,
+  "url": "https://benyehuda.org/author/2018",
+  "metadata": {
+    "name": "שפטיה בן אמיתי",
+    "sort_name": "בן אמיתי, שפטיה ",
+    "other_designations": "שפטיה בן אמתי; שפטיה בר אמתי; שפטיה בר־אמתי; שפטיה בר-אמתי; שפטיה בן-אמיתי; שפטיה בן־אמיתי; שפטיה בר אמיתי; שפטיה בר-אמיתי; שפטיה בר־אמיתי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "ancient",
+      "birth_year": "המאה ה־9",
+      "death_year": "886"
+    },
+    "bio_snippet": "פייטן ורופא מהעיר אוריה שבדרום איטליה; ממשפחת אחימעץ האיטלקית, שקורותיה מסופרים ב'מגילת אחימעץ'",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 232
+  },
+  "texts": {
+    "author": [
+      38401
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

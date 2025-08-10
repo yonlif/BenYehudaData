@@ -1,0 +1,39 @@
+{
+  "id": 949,
+  "url": "https://benyehuda.org/author/949",
+  "metadata": {
+    "name": "מנחם גנסין",
+    "sort_name": "גנסין, מנחם ",
+    "other_designations": "בר נתן, בר חלפתא, אסתרין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1882",
+      "death_year": "1951"
+    },
+    "bio_snippet": "שחקן ובמאי תיאטרון, מהאבות המייסדים של התיאטרון העברי בארץ ישראל וממייסדיו של תיאטרון \"הבימה\". שחקן אופי גדול, לימד משחק דורות של שחקנים. פרסם רשימות בעיתונים וכתב בענייני תיאטרון בכתבי עת וקבצים שונים. אחיו הצעיר של הסופר אורי ניסן גנסין",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 4536
+  },
+  "texts": {
+    "author": [
+      31000
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

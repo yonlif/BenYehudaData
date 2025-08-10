@@ -1,0 +1,59 @@
+{
+  "id": 2788,
+  "url": "https://benyehuda.org/author/2788",
+  "metadata": {
+    "name": "אילנה המרמן",
+    "sort_name": "המרמן, אילנה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "other",
+      "period": "modern",
+      "birth_year": "1944",
+      "death_year": ""
+    },
+    "bio_snippet": "עורכת ספרותית, מתרגמת, מחברת ספרי עיון ופעילת שמאל רדיקלית ישראלית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 345
+  },
+  "texts": {
+    "author": [
+      56353,
+      56356
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      49832,
+      49833,
+      49834,
+      49835,
+      49836,
+      49837,
+      49838,
+      49839,
+      49840,
+      49841,
+      49842,
+      49843,
+      49844,
+      49845,
+      49846,
+      49847,
+      49848
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

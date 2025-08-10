@@ -1,0 +1,39 @@
+{
+  "id": 3281,
+  "url": "https://benyehuda.org/author/3281",
+  "metadata": {
+    "name": "גלינה פרומן",
+    "sort_name": "פרומן, גלינה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "סופרת, עיתונאית בינלאומית ומנהלת תוכניות קריאה בישראל (ספריית פיג'מה ומַכְּתָבַּת אַלְפַאנוּס) [על פי פן הוצאה לאור]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 316
+  },
+  "texts": {
+    "author": [
+      56480
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

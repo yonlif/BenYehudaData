@@ -1,0 +1,39 @@
+{
+  "id": 1117,
+  "url": "https://benyehuda.org/author/1117",
+  "metadata": {
+    "name": "שאול ברקלי",
+    "sort_name": "ברקלי, שאול ",
+    "other_designations": "שאול אהרן, קלקו, קאלקו, קליקו",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1897",
+      "death_year": "1970"
+    },
+    "bio_snippet": "משורר, סופר וכותב בענייני לשון, מורה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 4179
+  },
+  "texts": {
+    "author": [
+      29288
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

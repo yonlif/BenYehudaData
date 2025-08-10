@@ -1,0 +1,39 @@
+{
+  "id": 728,
+  "url": "https://benyehuda.org/author/728",
+  "metadata": {
+    "name": "לואיס וולאס",
+    "sort_name": "וולאס, לואיס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1827",
+      "death_year": "1905"
+    },
+    "bio_snippet": "סופר, איש צבא ואיש ציבור אמריקני שפעל במחצית השנייה של המאה ה-19. ",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 734
+  },
+  "texts": {
+    "author": [
+      20880
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

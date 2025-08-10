@@ -1,0 +1,59 @@
+{
+  "id": 977,
+  "url": "https://benyehuda.org/author/977",
+  "metadata": {
+    "name": "אברהם שלום יהודה",
+    "sort_name": "יהודה, אברהם שלום ",
+    "other_designations": "אברהם שלום יחזקאל יהודה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1877",
+      "death_year": "1951"
+    },
+    "bio_snippet": "חוקר תולדות עם ישראל והתרבות הערבית, פעיל ציוני, סופר ופובליציסט",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 11666
+  },
+  "texts": {
+    "author": [
+      30973,
+      30974,
+      30975,
+      30976,
+      30977,
+      30978,
+      30979,
+      30980,
+      30981,
+      30982,
+      30983,
+      30984,
+      30985,
+      30986,
+      30987,
+      30988,
+      30989,
+      30990,
+      30991,
+      30992,
+      30993
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

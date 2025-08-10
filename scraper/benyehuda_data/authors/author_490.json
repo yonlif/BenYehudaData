@@ -1,0 +1,39 @@
+{
+  "id": 490,
+  "url": "https://benyehuda.org/author/490",
+  "metadata": {
+    "name": "אימרה מדאץ'",
+    "sort_name": "מדאץ', אימרה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1823",
+      "death_year": "1864"
+    },
+    "bio_snippet": " משורר וסופר הונגרי. עורך דין בהכשרתו.",
+    "languages": [
+      "hu"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 1059
+  },
+  "texts": {
+    "author": [
+      11435
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

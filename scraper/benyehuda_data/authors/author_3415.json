@@ -1,0 +1,39 @@
+{
+  "id": 3415,
+  "url": "https://benyehuda.org/author/3415",
+  "metadata": {
+    "name": "מנדל פורטוגלי",
+    "sort_name": "פורטוגלי, מנדל ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1888",
+      "death_year": "1917"
+    },
+    "bio_snippet": "מאנשי העלייה השנייה, ממייסדי ארגון בר גיורא, ממנהיגי השומר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "letters"
+    ],
+    "impressions_count": 188
+  },
+  "texts": {
+    "author": [
+      57208
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

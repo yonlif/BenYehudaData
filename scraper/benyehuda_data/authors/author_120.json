@@ -1,0 +1,93 @@
+{
+  "id": 120,
+  "url": "https://benyehuda.org/author/120",
+  "metadata": {
+    "name": "שלום שטריט",
+    "sort_name": "שטריט, שלום",
+    "other_designations": "שלום שטרייט",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1888",
+      "death_year": "1946"
+    },
+    "bio_snippet": "סופר, מבקר ספרות ומחנך ארץ-ישראלי.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 10661
+  },
+  "texts": {
+    "author": [
+      4659,
+      4692,
+      4727,
+      4760,
+      4809,
+      4823,
+      4865,
+      4912,
+      4913,
+      4963,
+      4994,
+      5030,
+      31237,
+      31238,
+      31239,
+      31240,
+      31241,
+      31242,
+      31277,
+      31278,
+      31279,
+      31280,
+      31281,
+      31282,
+      31283,
+      31284,
+      31285,
+      31286,
+      31303,
+      31304,
+      31305,
+      31306,
+      31309,
+      31310,
+      31311,
+      31312,
+      31313,
+      31314,
+      31315,
+      31316,
+      31317,
+      31318,
+      31319,
+      31320,
+      31321,
+      31322,
+      39671,
+      52884,
+      52885,
+      52886,
+      52887,
+      52888
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      44319
+    ]
+  }
+}

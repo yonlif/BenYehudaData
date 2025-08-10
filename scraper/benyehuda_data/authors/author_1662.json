@@ -1,0 +1,40 @@
+{
+  "id": 1662,
+  "url": "https://benyehuda.org/author/1662",
+  "metadata": {
+    "name": "ג'ון פלצ'ר",
+    "sort_name": "פלצ'ר, ג'ון ",
+    "other_designations": "ג'ון פלטשר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1579",
+      "death_year": "1625"
+    },
+    "bio_snippet": "מחזאי אנגלי יעקוביני, בעשור הראשון לקריירת הכתיבה שלו כתב יחד עם פרנסיס במונט",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 262
+  },
+  "texts": {
+    "author": [
+      34453,
+      34454
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 488,
+  "url": "https://benyehuda.org/author/488",
+  "metadata": {
+    "name": "אברהם זינגר",
+    "sort_name": "זינגר, אברהם",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1864",
+      "death_year": "1920"
+    },
+    "bio_snippet": "סופר יהודי־רוסי, פיליטוניסט ומתרגם",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 894
+  },
+  "texts": {
+    "author": [
+      21195
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      11434
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

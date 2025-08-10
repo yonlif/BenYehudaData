@@ -1,0 +1,39 @@
+{
+  "id": 655,
+  "url": "https://benyehuda.org/author/655",
+  "metadata": {
+    "name": "אנטול פראנס",
+    "sort_name": "פראנס, אנטול",
+    "other_designations": "אנאטול פראנס; אנאטול פרנס; אנטול פרנס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1844",
+      "death_year": "1924"
+    },
+    "bio_snippet": "סופר צרפתי, חתן פרס נובל לספרות לשנת 1921.",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1380
+  },
+  "texts": {
+    "author": [
+      18634
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

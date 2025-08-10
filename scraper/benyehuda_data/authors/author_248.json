@@ -1,0 +1,39 @@
+{
+  "id": 248,
+  "url": "https://benyehuda.org/author/248",
+  "metadata": {
+    "name": "מרק ארנשטין",
+    "sort_name": "ארנשטין, מרק",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1878",
+      "death_year": "1943"
+    },
+    "bio_snippet": "",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 603
+  },
+  "texts": {
+    "author": [
+      1599
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

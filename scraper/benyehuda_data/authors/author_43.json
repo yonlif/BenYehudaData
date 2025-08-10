@@ -1,0 +1,42 @@
+{
+  "id": 43,
+  "url": "https://benyehuda.org/author/43",
+  "metadata": {
+    "name": "יעקב ספיר",
+    "sort_name": "ספיר, יעקב",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1822",
+      "death_year": "1886"
+    },
+    "bio_snippet": "חוקר כתבי יד, שד\"ר ותייר. ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 18805
+  },
+  "texts": {
+    "author": [
+      5091,
+      33589,
+      42865
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

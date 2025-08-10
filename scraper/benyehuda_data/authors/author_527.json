@@ -1,0 +1,39 @@
+{
+  "id": 527,
+  "url": "https://benyehuda.org/author/527",
+  "metadata": {
+    "name": "פנחס גוברין",
+    "sort_name": "גוברין, פנחס",
+    "other_designations": "פנחס גלובמן",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1904",
+      "death_year": "1985"
+    },
+    "bio_snippet": "איש העלייה השלישית. ממייסדי תל יוסף.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 12964
+  },
+  "texts": {
+    "author": [
+      12668
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

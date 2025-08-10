@@ -1,0 +1,39 @@
+{
+  "id": 856,
+  "url": "https://benyehuda.org/author/856",
+  "metadata": {
+    "name": "יוסף האפרתי",
+    "sort_name": "האפרתי, יוסף",
+    "other_designations": "יוסף האפרתי מטרוֹפּלוביץ; מטרופלביץ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1770",
+      "death_year": "1804"
+    },
+    "bio_snippet": "משורר ומחזאי עברי מדור המאספים – הדור הראשון של תנועת ההשכלה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 1107
+  },
+  "texts": {
+    "author": [
+      24671
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

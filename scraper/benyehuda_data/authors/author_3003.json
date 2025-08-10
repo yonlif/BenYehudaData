@@ -1,0 +1,42 @@
+{
+  "id": 3003,
+  "url": "https://benyehuda.org/author/3003",
+  "metadata": {
+    "name": "בנימין אלחנן",
+    "sort_name": "אלחנן, בנימין ",
+    "other_designations": "בנימין אלחנן; בנימין רבינוביץ; רבי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1926",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד ברלין. למד באוניברסיטה העברית בירושלים. נפל כמפקד מחלקה בפריצת הדרך לנגב, בכיבוש הכפר בית עפא [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 236
+  },
+  "texts": {
+    "author": [
+      54492,
+      54553,
+      54554
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

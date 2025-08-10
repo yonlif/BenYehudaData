@@ -1,0 +1,43 @@
+{
+  "id": 3036,
+  "url": "https://benyehuda.org/author/3036",
+  "metadata": {
+    "name": "יהודה גליקליך",
+    "sort_name": "גליקליך, יהודה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1914",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד וינה, התגייס לצבא הבריטי ושירת בארץ ובמצרים. גויס לצה\"ל בסוף 1948, שלח יד בנפשו [על פי \"גווילי אש\"]",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 240
+  },
+  "texts": {
+    "author": [
+      54847,
+      54848,
+      54849,
+      54850,
+      54851
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

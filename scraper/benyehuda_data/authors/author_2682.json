@@ -1,0 +1,49 @@
+{
+  "id": 2682,
+  "url": "https://benyehuda.org/author/2682",
+  "metadata": {
+    "name": "יהודה יצחק מילין",
+    "sort_name": "מילין, יהודה יצחק",
+    "other_designations": "יהודה יצחק מלין; יהודה מילין",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1896",
+      "death_year": "1974"
+    },
+    "bio_snippet": "מורה, מחבר מאמרים בנושאי חינוך, יהדות וספרות; מתרגם [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 155
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      48021,
+      48022,
+      48023,
+      48024,
+      49338,
+      49339,
+      49340,
+      49574,
+      49575,
+      49576,
+      49577,
+      49578,
+      49579
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

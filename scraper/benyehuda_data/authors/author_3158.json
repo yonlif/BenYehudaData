@@ -1,0 +1,39 @@
+{
+  "id": 3158,
+  "url": "https://benyehuda.org/author/3158",
+  "metadata": {
+    "name": "שלמה רוזן",
+    "sort_name": "רוזן, שלמה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1919",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד פולין. עם עלותו ארצה הצטרף ל\"קבוצת אברהם\" בכפר פינס שעברה בהמשך לכפר עציון. פרסם מאמרים בעיתונות וספר אוטוביוגרפי, \"מתוך המפולת\". נפל עם חבריו בנפול גוש עציון. הניח אישה ובת [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 89
+  },
+  "texts": {
+    "author": [
+      55036
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

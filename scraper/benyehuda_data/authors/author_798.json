@@ -1,0 +1,71 @@
+{
+  "id": 798,
+  "url": "https://benyehuda.org/author/798",
+  "metadata": {
+    "name": "שלום דב בר מקסימון",
+    "sort_name": "מקסימון, שלום דב בר",
+    "other_designations": "שלום דב-בר מקסימון; שלום דב־בר מקסימון; ש\"ב מקסימון; ש. ב. מקסימון; שלום דב בר מקסימובסקי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1881",
+      "death_year": "1933"
+    },
+    "bio_snippet": "פובליציסט, עורך וכותב אגדות. היה יד ימינו של ברנר בהוצאת כתב העת \"המעורר\" בלונדון",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 2920
+  },
+  "texts": {
+    "author": [
+      23482,
+      23483,
+      23484,
+      23485,
+      23486,
+      23487,
+      23488,
+      23489,
+      23490,
+      23491,
+      23492,
+      57421,
+      57422,
+      57423,
+      57424,
+      57495,
+      57496,
+      57497,
+      57498,
+      57499,
+      57500,
+      57501,
+      57502,
+      57503,
+      57504,
+      57505,
+      57630,
+      57631,
+      57632,
+      57633,
+      57634
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      34961
+    ]
+  }
+}

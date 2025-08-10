@@ -1,0 +1,39 @@
+{
+  "id": 1980,
+  "url": "https://benyehuda.org/author/1980",
+  "metadata": {
+    "name": "אברהם פרימן ",
+    "sort_name": "פרימן, אברהם ",
+    "other_designations": "אברהם פריימן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1890",
+      "death_year": "1953"
+    },
+    "bio_snippet": "סופר עברי ומשורר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2097
+  },
+  "texts": {
+    "author": [
+      45931
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

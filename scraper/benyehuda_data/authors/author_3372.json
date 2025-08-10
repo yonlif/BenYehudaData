@@ -1,0 +1,39 @@
+{
+  "id": 3372,
+  "url": "https://benyehuda.org/author/3372",
+  "metadata": {
+    "name": "ראובן פרומר",
+    "sort_name": "פרומר , ראובן ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1945",
+      "death_year": ""
+    },
+    "bio_snippet": "ד״ר לפסיכולוגיה, סופר ומשורר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 240
+  },
+  "texts": {
+    "author": [
+      57149
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

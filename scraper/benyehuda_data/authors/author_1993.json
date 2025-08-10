@@ -1,0 +1,39 @@
+{
+  "id": 1993,
+  "url": "https://benyehuda.org/author/1993",
+  "metadata": {
+    "name": "אריה לודוויג שטראוס ",
+    "sort_name": "שטראוס, אריה לודוויג ",
+    "other_designations": "אריה לודויג שטראוס; לודוויג שטראוס; אריה לודויג בן עמנואל שטראוס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1892",
+      "death_year": "1953"
+    },
+    "bio_snippet": "סופר, משורר וחוקר ספרות יהודי יליד גרמניה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 281
+  },
+  "texts": {
+    "author": [
+      43094
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

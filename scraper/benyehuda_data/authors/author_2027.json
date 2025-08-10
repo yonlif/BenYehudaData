@@ -1,0 +1,42 @@
+{
+  "id": 2027,
+  "url": "https://benyehuda.org/author/2027",
+  "metadata": {
+    "name": "אליה בר שמעיה",
+    "sort_name": "בר שמעיה, אליהו",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "המאה ה־11",
+      "death_year": ""
+    },
+    "bio_snippet": "פייטן, חי בבארי שבדרום איטליה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 386
+  },
+  "texts": {
+    "author": [
+      38412,
+      41648,
+      41649,
+      41650
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

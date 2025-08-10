@@ -1,0 +1,39 @@
+{
+  "id": 3540,
+  "url": "https://benyehuda.org/author/3540",
+  "metadata": {
+    "name": "ג'ון סקלינג",
+    "sort_name": "סקלינג, ג'ון ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1609",
+      "death_year": "1641"
+    },
+    "bio_snippet": "משורר אנגלי",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 21
+  },
+  "texts": {
+    "author": [
+      58840
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

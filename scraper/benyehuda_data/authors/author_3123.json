@@ -1,0 +1,42 @@
+{
+  "id": 3123,
+  "url": "https://benyehuda.org/author/3123",
+  "metadata": {
+    "name": "שמעון סמרגד",
+    "sort_name": "סמרגד, שמעון ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1924",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד וינה, התגייס לצבא הבריטי. בארץ עבד כעיתונאי ב\"קול ירושלים\". נפל במלחמת השחרור בפעולה בכפר מלחה. השאיר עיזבון שפורסם בדפוס [על פי \"גווילי אש\"]",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 170
+  },
+  "texts": {
+    "author": [
+      54496,
+      54497,
+      54816
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

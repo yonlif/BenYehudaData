@@ -1,0 +1,48 @@
+{
+  "id": 581,
+  "url": "https://benyehuda.org/author/581",
+  "metadata": {
+    "name": "ויקטור הוגו",
+    "sort_name": "הוגו, ויקטור",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1802",
+      "death_year": "1885"
+    },
+    "bio_snippet": "משורר, סופר, מחזאי, אינטלקטואל ופוליטיקאי צרפתי. ממייסדי זרם הרומנטיקה, נחשב לאחד מגדולי הכותבים בשפה הצרפתית ונודע מעבר לגבולות ארצו בעיקר בשל ספריו המפורסמים: \"הגיבן מנוטרדאם\" ו\"עלובי החיים\". התעניין גם באמנויות הפלסטיות והחזותיות: השאיר רישומים בתחום האדריכלות והיה ממובילי תנועת התחייה הגותית בצרפת.",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 7653
+  },
+  "texts": {
+    "author": [
+      15995,
+      19305,
+      20520,
+      36678,
+      42186,
+      43076,
+      43193,
+      43194,
+      49592
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

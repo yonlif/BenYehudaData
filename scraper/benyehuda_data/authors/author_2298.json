@@ -1,0 +1,39 @@
+{
+  "id": 2298,
+  "url": "https://benyehuda.org/author/2298",
+  "metadata": {
+    "name": "יהושע יוסף בן דוד לוי",
+    "sort_name": "לוי, יהושע יוסף בן דוד ",
+    "other_designations": "יהושע יוסף לוי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1650",
+      "death_year": "1700"
+    },
+    "bio_snippet": "חי בוונציה בסביבות 1700",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 97
+  },
+  "texts": {
+    "author": [
+      40772
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 232,
+  "url": "https://benyehuda.org/author/232",
+  "metadata": {
+    "name": "ויליאם וורדסוורת'",
+    "sort_name": "וורדסוורת', ויליאם",
+    "other_designations": "ויליאם וורדסוורת",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1770",
+      "death_year": "1850"
+    },
+    "bio_snippet": "היה משורר אנגלי, שיחד עם סמואל טיילור קולרידג' החל את התקופה הרומנטית בספרות האנגלית.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 2746
+  },
+  "texts": {
+    "author": [
+      4304,
+      6036,
+      39821
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

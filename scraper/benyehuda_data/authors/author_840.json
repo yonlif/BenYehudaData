@@ -1,0 +1,40 @@
+{
+  "id": 840,
+  "url": "https://benyehuda.org/author/840",
+  "metadata": {
+    "name": "יעקב איצקוביץ",
+    "sort_name": "איצקוביץ, יעקב",
+    "other_designations": "יעקב אביצוק",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1924",
+      "death_year": "1993"
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 4156
+  },
+  "texts": {
+    "author": [
+      24463,
+      34361
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

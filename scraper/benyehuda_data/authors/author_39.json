@@ -1,0 +1,43 @@
+{
+  "id": 39,
+  "url": "https://benyehuda.org/author/39",
+  "metadata": {
+    "name": "זלמן דוד לבונטין",
+    "sort_name": "לבונטין, זלמן דוד ",
+    "other_designations": "זלמן דוד בן יהודה ליב לבונטין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1856",
+      "death_year": "1940"
+    },
+    "bio_snippet": "מחלוצי העלייה הראשונה, ממייסדי ראשון לציון, וממקימי בנק אוצר התיישבות היהודים.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 5689
+  },
+  "texts": {
+    "author": [
+      43,
+      24652,
+      24670
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      43197
+    ]
+  }
+}

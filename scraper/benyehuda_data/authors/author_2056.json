@@ -1,0 +1,41 @@
+{
+  "id": 2056,
+  "url": "https://benyehuda.org/author/2056",
+  "metadata": {
+    "name": "שמואל אברהם פוזננסקי",
+    "sort_name": "פוזננסקי, שמואל אברהם ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1864",
+      "death_year": "1921"
+    },
+    "bio_snippet": "מלומד הידוע בשל מחקריו על הקראות והלוח העברי. ערביסט, ביבליוגרף עברי ורב בבית הכנסת הגדול בוורשה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 421
+  },
+  "texts": {
+    "author": [
+      44823,
+      52182
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

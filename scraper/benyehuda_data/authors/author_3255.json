@@ -1,0 +1,42 @@
+{
+  "id": 3255,
+  "url": "https://benyehuda.org/author/3255",
+  "metadata": {
+    "name": "נילי מירסקי",
+    "sort_name": "מירסקי, נילי ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1943",
+      "death_year": "2018"
+    },
+    "bio_snippet": " עורכת ישראלית, מתרגמת מרוסית ומגרמנית לעברית, דוקטור בספרות צרפתית, רוסית וגרמנית. לימדה בחוג לספרות, בפקולטה למדעי הרוח באוניברסיטת תל אביב. זכתה בפרסים רבים על עבודתה, בהם פרס טשרניחובסקי לתרגום בשנת 1989 ופרס ישראל לספרות, בתחום התרגום, לשנת תשס\"ח (2008)",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 378
+  },
+  "texts": {
+    "author": [
+      56354
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      56293
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

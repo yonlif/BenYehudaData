@@ -1,0 +1,37 @@
+{
+  "id": 847,
+  "url": "https://benyehuda.org/author/847",
+  "metadata": {
+    "name": "משה בר־נסים",
+    "sort_name": "בר־נסים, משה",
+    "other_designations": "משה נסים; בר נסים;",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1882",
+      "death_year": "1926"
+    },
+    "bio_snippet": "ממחוללי החייאת השפה העברית מזכירו ועוזרו של אליעזר בן-יהודה בהכנת מילון בן יהודה",
+    "languages": [],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 365
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      24560
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

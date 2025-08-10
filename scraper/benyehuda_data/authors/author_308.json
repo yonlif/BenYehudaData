@@ -1,0 +1,48 @@
+{
+  "id": 308,
+  "url": "https://benyehuda.org/author/308",
+  "metadata": {
+    "name": "גי דה מופאסאן",
+    "sort_name": "מופאסאן, גי דה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1850",
+      "death_year": "1893"
+    },
+    "bio_snippet": "גִי דֶה מוֹפָּאסָאן היה סופר צרפתי שכתב בעיקר סיפורים קצרים ורומנים.",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 4313
+  },
+  "texts": {
+    "author": [
+      4811,
+      10552,
+      48020
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      32389,
+      32400,
+      32425,
+      32516,
+      32545,
+      44291
+    ]
+  }
+}

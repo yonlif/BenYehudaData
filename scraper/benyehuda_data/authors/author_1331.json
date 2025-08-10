@@ -1,0 +1,39 @@
+{
+  "id": 1331,
+  "url": "https://benyehuda.org/author/1331",
+  "metadata": {
+    "name": "ענתרה אבן שדאד",
+    "sort_name": "אבן שדאד, ענתרה ",
+    "other_designations": "ענתר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "525",
+      "death_year": "608"
+    },
+    "bio_snippet": "חייל ומשורר ערבי טרום־אסלאמי",
+    "languages": [
+      "ar"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1709
+  },
+  "texts": {
+    "author": [
+      31622
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

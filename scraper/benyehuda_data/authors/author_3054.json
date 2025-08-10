@@ -1,0 +1,42 @@
+{
+  "id": 3054,
+  "url": "https://benyehuda.org/author/3054",
+  "metadata": {
+    "name": "דן הוכברג",
+    "sort_name": "הוכברג, דן ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1931",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד מקווה ישראל. השתתף בקרב על מלכיה, נפל במבצע \"דני\" לשחרור לוד ורמלה [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 260
+  },
+  "texts": {
+    "author": [
+      54254,
+      54255,
+      54256,
+      54257
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

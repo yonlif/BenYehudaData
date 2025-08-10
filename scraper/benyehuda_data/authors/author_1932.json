@@ -1,0 +1,39 @@
+{
+  "id": 1932,
+  "url": "https://benyehuda.org/author/1932",
+  "metadata": {
+    "name": "משה דרעי",
+    "sort_name": "דרעי, משה ",
+    "other_designations": "משה בן אברהם דרעי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "המאה ה־12",
+      "death_year": ""
+    },
+    "bio_snippet": "רופא ומשורר עברי יהודי־קראי מפורסם בן המאה ה־12, יליד אלכסנדריה, הנחשב לגדול המשוררים הקראים של כל הזמנים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 271
+  },
+  "texts": {
+    "author": [
+      38151
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

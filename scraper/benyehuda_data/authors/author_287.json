@@ -1,0 +1,71 @@
+{
+  "id": 287,
+  "url": "https://benyehuda.org/author/287",
+  "metadata": {
+    "name": "לב טולסטוי",
+    "sort_name": "טולסטוי, לב",
+    "other_designations": "לב ניקולייביץ' טולסטוי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1828",
+      "death_year": "1910"
+    },
+    "bio_snippet": "היה סופר והוגה רוסי שנודע בזכות שורה של יצירות מופת המהוות את שיאו של הרומן הריאליסטי. ",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 56163
+  },
+  "texts": {
+    "author": [
+      3185,
+      3210,
+      5466,
+      10482,
+      11108,
+      11296,
+      15997,
+      15998,
+      15999,
+      16000,
+      16422,
+      20852,
+      22524,
+      22996,
+      44826,
+      44827,
+      44828,
+      44829,
+      46340
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      11463,
+      16638,
+      20154,
+      20184,
+      20186,
+      21293,
+      28830,
+      29766,
+      32332,
+      32343,
+      32371,
+      32549,
+      32785
+    ]
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": 421,
+  "url": "https://benyehuda.org/author/421",
+  "metadata": {
+    "name": "חיים הררי",
+    "sort_name": "הררי, חיים",
+    "other_designations": "שניאור זלמן בלומברג",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1883",
+      "death_year": "1940"
+    },
+    "bio_snippet": "מחנך עברי, מורה, סופר ופובליציסט, חבר באספת הנבחרים השנייה, שחקן ובמאי חובב, מראשוני אגודת \"חובבי הבמה העברית\", ממייסדי העיר תל אביב.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "drama"
+    ],
+    "impressions_count": 9865
+  },
+  "texts": {
+    "author": [
+      10505,
+      10506,
+      10507,
+      10508,
+      10509,
+      10510,
+      10511,
+      10512,
+      10513,
+      10514,
+      10515,
+      10516,
+      10517,
+      10518,
+      10519,
+      10520,
+      10521,
+      10522,
+      10523,
+      10524,
+      10525,
+      10526,
+      10527,
+      10528,
+      10529,
+      10530,
+      27865
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      43745
+    ]
+  }
+}

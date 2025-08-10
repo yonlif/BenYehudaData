@@ -1,0 +1,41 @@
+{
+  "id": 2518,
+  "url": "https://benyehuda.org/author/2518",
+  "metadata": {
+    "name": "צ'ארלס קינגסלי",
+    "sort_name": "קינגסלי, צ'ארלס ",
+    "other_designations": "צ'רלס קינגסלי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1819",
+      "death_year": "1875"
+    },
+    "bio_snippet": "כומר וסופר אנגלי",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 245
+  },
+  "texts": {
+    "author": [
+      19289,
+      45622
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

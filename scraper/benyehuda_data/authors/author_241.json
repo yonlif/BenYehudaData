@@ -1,0 +1,39 @@
+{
+  "id": 241,
+  "url": "https://benyehuda.org/author/241",
+  "metadata": {
+    "name": "גבריאלֶה ד'אנונציו",
+    "sort_name": "ד'אנונציו, גבריאלֶה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1863",
+      "death_year": "1938"
+    },
+    "bio_snippet": "סופר, משורר, מחזאי, טייס וגיבור מלחמה איטלקי, מבשרה של התנועה הפשיסטית באיטליה.",
+    "languages": [
+      "it"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1161
+  },
+  "texts": {
+    "author": [
+      1374
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 894,
+  "url": "https://benyehuda.org/author/894",
+  "metadata": {
+    "name": "רות לורנד",
+    "sort_name": "לורנד, רות ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1948",
+      "death_year": ""
+    },
+    "bio_snippet": "פרופסור לפילוסופיה באוניברסיטת חיפה. התמחותה בפילוסופיה של האסתטיקה, ובין נושאי מחקרה מהות היופי, הסדר ואי הסדר, הפרשנות והערכת האמנות, וכן היסטוריה של הפילוסופיה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 18696
+  },
+  "texts": {
+    "author": [
+      25631
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      29236
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 329,
+  "url": "https://benyehuda.org/author/329",
+  "metadata": {
+    "name": "מתיו מורי",
+    "sort_name": "מורי, מתיו",
+    "other_designations": "מוירי, מתיו פנטין ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1806",
+      "death_year": "1873"
+    },
+    "bio_snippet": "אוקיינוגרף, קרטוגרף, אסטרונום, גאולוג, היסטוריון, וחייל בצי האמריקאי.",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 776
+  },
+  "texts": {
+    "author": [
+      6683
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

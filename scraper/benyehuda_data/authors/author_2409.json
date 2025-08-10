@@ -1,0 +1,46 @@
+{
+  "id": 2409,
+  "url": "https://benyehuda.org/author/2409",
+  "metadata": {
+    "name": "קנוט האמסון",
+    "sort_name": "האמסון, קנוט ",
+    "other_designations": "קנוט המסון; קנוד פדרסן ד",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1859",
+      "death_year": "1952"
+    },
+    "bio_snippet": "סופר נורווגי, חתן פרס נובל לספרות לשנת 1920",
+    "languages": [
+      "no"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2109
+  },
+  "texts": {
+    "author": [
+      43821,
+      47682,
+      47683,
+      47684,
+      47685,
+      47686,
+      47687,
+      47688
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

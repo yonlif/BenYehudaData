@@ -1,0 +1,39 @@
+{
+  "id": 1901,
+  "url": "https://benyehuda.org/author/1901",
+  "metadata": {
+    "name": "אברהם אבן חסדאי",
+    "sort_name": "אבן חסדאי, אברהם ",
+    "other_designations": "אברהם הלוי בן שמואל אבן חסדאי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "המחצית הראשונה של המאה ה־13",
+      "death_year": ""
+    },
+    "bio_snippet": "איש מדע, פילוסוף, משורר ומתרגם, מראשי הקהילה היהודית בברצלונה, כונה \"הנשיא\"",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1676
+  },
+  "texts": {
+    "author": [
+      37335
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

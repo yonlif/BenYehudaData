@@ -1,0 +1,39 @@
+{
+  "id": 759,
+  "url": "https://benyehuda.org/author/759",
+  "metadata": {
+    "name": "רפי וייכרט",
+    "sort_name": "וייכרט, רפי",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1964",
+      "death_year": ""
+    },
+    "bio_snippet": "מתרגם, משורר, מסאי, פרופסור מן המניין לספרות באוניברסיטת חיפה, ובמכללה האקדמית לחינוך אורנים, ומוציא לאור ישראלי.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 1074
+  },
+  "texts": {
+    "author": [
+      22032
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

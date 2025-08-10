@@ -1,0 +1,39 @@
+{
+  "id": 813,
+  "url": "https://benyehuda.org/author/813",
+  "metadata": {
+    "name": "מ\"י רודאיוב",
+    "sort_name": "רודאיוב, מ\"י",
+    "other_designations": "מ. י. רודאיוב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "pl"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 385
+  },
+  "texts": {
+    "author": [
+      23809
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

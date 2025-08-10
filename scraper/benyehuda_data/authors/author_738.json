@@ -1,0 +1,40 @@
+{
+  "id": 738,
+  "url": "https://benyehuda.org/author/738",
+  "metadata": {
+    "name": "תומס בבינגטון מקולי",
+    "sort_name": "מקולי, תומס בבינגטון",
+    "other_designations": "תומאס בבינגטון מקולי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1800",
+      "death_year": "1859"
+    },
+    "bio_snippet": "משורר, היסטוריון ופוליטיקאי בריטי. ",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 1281
+  },
+  "texts": {
+    "author": [
+      21036,
+      21037
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

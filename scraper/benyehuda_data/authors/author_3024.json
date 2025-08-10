@@ -1,0 +1,42 @@
+{
+  "id": 3024,
+  "url": "https://benyehuda.org/author/3024",
+  "metadata": {
+    "name": "משה בנזימן",
+    "sort_name": "בנזימן, משה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1923",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד ירושלים. כתב שירים ורשימות. התגייס לחיל הים, ונפל במלחמת העצמאות בפריצת הדרך לנגב בקרב על בית עפא [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 258
+  },
+  "texts": {
+    "author": [
+      54417,
+      54418,
+      54501
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

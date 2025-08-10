@@ -1,0 +1,39 @@
+{
+  "id": 773,
+  "url": "https://benyehuda.org/author/773",
+  "metadata": {
+    "name": "היפוליט קרנא",
+    "sort_name": "קרנא, היפוליט",
+    "other_designations": "Hippolyte Carnot",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1801",
+      "death_year": "1888"
+    },
+    "bio_snippet": "פוליטיקאי צרפתי",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 2517
+  },
+  "texts": {
+    "author": [
+      22658
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

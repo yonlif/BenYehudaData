@@ -1,0 +1,39 @@
+{
+  "id": 2672,
+  "url": "https://benyehuda.org/author/2672",
+  "metadata": {
+    "name": "הועד להוצאת כתבי דוד סמילנסקי",
+    "sort_name": "הועד להוצאת כתבי דוד סמילנסקי",
+    "other_designations": "הוועד להוצאת כתבי דוד סמילנסקי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "unknown",
+      "period": "revival",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 106
+  },
+  "texts": {
+    "author": [
+      42537
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

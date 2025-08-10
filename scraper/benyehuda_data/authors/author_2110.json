@@ -1,0 +1,39 @@
+{
+  "id": 2110,
+  "url": "https://benyehuda.org/author/2110",
+  "metadata": {
+    "name": "צבי פרץ חיות",
+    "sort_name": "חיות, צבי פרץ ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1876",
+      "death_year": "1927"
+    },
+    "bio_snippet": "רב, היסטוריון וחוקר תנ\"ך יהודי־אוסטרי, יליד גליציה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 143
+  },
+  "texts": {
+    "author": [
+      53397
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

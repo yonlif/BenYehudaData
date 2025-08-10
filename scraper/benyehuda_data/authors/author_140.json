@@ -1,0 +1,73 @@
+{
+  "id": 140,
+  "url": "https://benyehuda.org/author/140",
+  "metadata": {
+    "name": "יוסף צרפתי",
+    "sort_name": "צרפתי, יוסף",
+    "other_designations": "יוסף בן שמואל צרפתי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1470",
+      "death_year": "1527"
+    },
+    "bio_snippet": "חי בפירנצה וברומא, נפטר ב־1527 בסביבת העיר ויקוורו בפלך רומא",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 4367
+  },
+  "texts": {
+    "author": [
+      2608,
+      38122,
+      38123,
+      38124,
+      38125,
+      38126,
+      38127,
+      38128,
+      38129,
+      40746,
+      41847,
+      41848,
+      41849,
+      41850,
+      41851,
+      41852,
+      41853,
+      41854,
+      41855,
+      41856,
+      41857,
+      41858,
+      41889,
+      41890,
+      41891,
+      41892,
+      41893,
+      41894,
+      41895,
+      41896,
+      41897,
+      41898,
+      41899,
+      41900,
+      41901
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 545,
+  "url": "https://benyehuda.org/author/545",
+  "metadata": {
+    "name": "יוליוס קיסר",
+    "sort_name": "קיסר, יוליוס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "100",
+      "death_year": "44 לפנה\"ס"
+    },
+    "bio_snippet": "היה מנהיג צבאי ופוליטי חשוב ברפובליקה הרומית. ",
+    "languages": [
+      "la"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 757
+  },
+  "texts": {
+    "author": [
+      18053
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

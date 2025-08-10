@@ -1,0 +1,55 @@
+{
+  "id": 1135,
+  "url": "https://benyehuda.org/author/1135",
+  "metadata": {
+    "name": "דני קרמן",
+    "sort_name": "קרמן, דני ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1940",
+      "death_year": ""
+    },
+    "bio_snippet": "מאייר, סאטיריקן ומעצב ישראלי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 284
+  },
+  "texts": {
+    "author": [
+      45625
+    ],
+    "editor": [],
+    "illustrator": [
+      30709,
+      30711,
+      30713,
+      30716,
+      30719,
+      30722,
+      30723,
+      30725,
+      30726,
+      30728,
+      30731,
+      30732,
+      30735,
+      30736,
+      49767
+    ],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

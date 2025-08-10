@@ -1,0 +1,46 @@
+{
+  "id": 3182,
+  "url": "https://benyehuda.org/author/3182",
+  "metadata": {
+    "name": "הרולד שימל",
+    "sort_name": "שימל, הרולד ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1935",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר ומתרגם עברי. זכה בפרס שר התרבות והספורט לאמנים ותיקים ע\"ש אריק איינשטיין לשנת 2021",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 1182
+  },
+  "texts": {
+    "author": [
+      54805,
+      56460,
+      56461,
+      56462,
+      56463,
+      56464,
+      56465
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

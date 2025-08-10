@@ -1,0 +1,39 @@
+{
+  "id": 2226,
+  "url": "https://benyehuda.org/author/2226",
+  "metadata": {
+    "name": "מאיר בן משה",
+    "sort_name": "בן משה, מאיר ",
+    "other_designations": "מאיר בן־משה; מאיר בן-משה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "מרומא, חי באי סִיצִילְיָה במחצית הראשונה של המאה הי\"ג",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 109
+  },
+  "texts": {
+    "author": [
+      38425
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

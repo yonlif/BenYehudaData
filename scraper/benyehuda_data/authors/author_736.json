@@ -1,0 +1,40 @@
+{
+  "id": 736,
+  "url": "https://benyehuda.org/author/736",
+  "metadata": {
+    "name": "א' טריה",
+    "sort_name": "טריה, א'",
+    "other_designations": "",
+    "intellectual_property": "unknown",
+    "person": {
+      "gender": "unknown",
+      "period": null,
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "pl"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 647
+  },
+  "texts": {
+    "author": [
+      21033,
+      21034
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

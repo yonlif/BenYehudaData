@@ -1,0 +1,78 @@
+{
+  "id": 1957,
+  "url": "https://benyehuda.org/author/1957",
+  "metadata": {
+    "name": "יעקב הורוביץ",
+    "sort_name": "הורוביץ, יעקב ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1901",
+      "death_year": "1975"
+    },
+    "bio_snippet": "סופר עברי, עורך ומתרגם",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama",
+      "prose"
+    ],
+    "impressions_count": 6889
+  },
+  "texts": {
+    "author": [
+      38458,
+      41266,
+      41267,
+      41268,
+      41287,
+      41288,
+      48858,
+      49092,
+      49249,
+      49250,
+      49251,
+      49400,
+      49417,
+      49418,
+      49515,
+      49516,
+      49517,
+      49589,
+      49590,
+      49591,
+      49603,
+      49604,
+      49675,
+      49879,
+      50070,
+      50311,
+      50312,
+      50313,
+      51298,
+      51469,
+      51558,
+      51645,
+      51646,
+      51918,
+      51919,
+      56592
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      39263,
+      41780
+    ]
+  }
+}

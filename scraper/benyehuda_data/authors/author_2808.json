@@ -1,0 +1,39 @@
+{
+  "id": 2808,
+  "url": "https://benyehuda.org/author/2808",
+  "metadata": {
+    "name": "שאול רז",
+    "sort_name": "רז, שאול ",
+    "other_designations": "שאול רוזנברג",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1920",
+      "death_year": "1988"
+    },
+    "bio_snippet": "לוחם בבריגאדה היהודית, ממקימי כפר עציון וממגיניו, נפל בשבי הלגיון. עורך \"הצופה לילדים\" שבו פרסם שירים, סיפורים ורשימות; חבר מערכת \"הצופה\"",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "letters"
+    ],
+    "impressions_count": 4406
+  },
+  "texts": {
+    "author": [
+      50066
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

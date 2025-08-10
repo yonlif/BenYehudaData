@@ -1,0 +1,39 @@
+{
+  "id": 2693,
+  "url": "https://benyehuda.org/author/2693",
+  "metadata": {
+    "name": "לב חקק",
+    "sort_name": "חקק, לב ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1944",
+      "death_year": ""
+    },
+    "bio_snippet": "סופר וחוקר ספרות ישראלי המתגורר בארצות הברית. פרופסור ללשון וספרות עברית באוניברסיטת קליפורניה בלוס אנג'לס",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 166
+  },
+  "texts": {
+    "author": [
+      53474
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

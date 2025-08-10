@@ -1,0 +1,40 @@
+{
+  "id": 2982,
+  "url": "https://benyehuda.org/author/2982",
+  "metadata": {
+    "name": "וולאס סטיבנס",
+    "sort_name": "סטיבנס, וולאס ",
+    "other_designations": "ואלאס סטיבנס",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1879",
+      "death_year": "1955"
+    },
+    "bio_snippet": "משורר אמריקאי, עורך דין, נולד בעיר רדינג שבפנסילבניה, מבכירי המשוררים האמריקנים במאה ה־20",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 110
+  },
+  "texts": {
+    "author": [
+      33753,
+      54160
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

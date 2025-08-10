@@ -1,0 +1,40 @@
+{
+  "id": 2404,
+  "url": "https://benyehuda.org/author/2404",
+  "metadata": {
+    "name": "אברהם כצ'יר",
+    "sort_name": "כצ'יר, אברהם ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1823",
+      "death_year": "1890"
+    },
+    "bio_snippet": "פייטן",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 129
+  },
+  "texts": {
+    "author": [
+      44079,
+      44080
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

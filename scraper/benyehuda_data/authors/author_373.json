@@ -1,0 +1,43 @@
+{
+  "id": 373,
+  "url": "https://benyehuda.org/author/373",
+  "metadata": {
+    "name": "אברהם מרדכי פיורקו",
+    "sort_name": "פיורקו, אברהם מרדכי",
+    "other_designations": "אברהם מרדכי בן יצחק פיורקו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1853",
+      "death_year": "1933"
+    },
+    "bio_snippet": "סופר עברי, סופר ילדים, עורך, בעל בית דפוס ומו\"ל. מחלוצי ספרות ועיתונות הילדים והנוער העברית.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "letters",
+      "prose"
+    ],
+    "impressions_count": 494
+  },
+  "texts": {
+    "author": [
+      53288,
+      53289,
+      53290,
+      53291
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3013,
+  "url": "https://benyehuda.org/author/3013",
+  "metadata": {
+    "name": "יעקב ארנון",
+    "sort_name": "ארנון, יעקב ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1928",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד ירושלים. השתתף בקרבות רבים, ונפל בהסתערות על המבצר המצרי שעל גבעה בצומת הדרכים שבשער הנגב. הגבעה נקראת על שמו: גבעת ארנון [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 168
+  },
+  "texts": {
+    "author": [
+      54930
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

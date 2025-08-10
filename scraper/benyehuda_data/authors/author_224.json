@@ -1,0 +1,69 @@
+{
+  "id": 224,
+  "url": "https://benyehuda.org/author/224",
+  "metadata": {
+    "name": "אדגר אלן פו",
+    "sort_name": "פו, אדגר אלן",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1809",
+      "death_year": "1849"
+    },
+    "bio_snippet": "אדגר אלן פו היה משורר וסופר אמריקני. אבי סיפור האימה, סיפורת המתח והספרות הבלשית.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 66508
+  },
+  "texts": {
+    "author": [
+      655,
+      1862,
+      19203,
+      21942,
+      42648,
+      42649,
+      42704,
+      42748,
+      42749,
+      42750,
+      44423,
+      44424,
+      44554,
+      44555,
+      44813,
+      44837,
+      44843,
+      44844,
+      45051,
+      45052,
+      45057,
+      45058,
+      45059,
+      50498,
+      50499,
+      50500,
+      50501,
+      58857
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      7792
+    ]
+  }
+}

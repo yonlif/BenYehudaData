@@ -1,0 +1,67 @@
+{
+  "id": 282,
+  "url": "https://benyehuda.org/author/282",
+  "metadata": {
+    "name": "סרגי יסנין",
+    "sort_name": "יסנין, סרגי",
+    "other_designations": "ברוסית:Сергей Александрович Есенин ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1895",
+      "death_year": "1925"
+    },
+    "bio_snippet": "היה משורר לירי רוסי.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 3097
+  },
+  "texts": {
+    "author": [
+      2947,
+      48392,
+      48393,
+      48394,
+      48395,
+      48396,
+      48397,
+      48398,
+      48399,
+      48400,
+      48401,
+      48402,
+      48403,
+      48404,
+      48405,
+      48406,
+      48407,
+      58809,
+      58810,
+      58811,
+      58812,
+      58813,
+      58814,
+      58815,
+      58816,
+      58817,
+      58818,
+      58819,
+      58820
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

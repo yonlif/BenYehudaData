@@ -1,0 +1,39 @@
+{
+  "id": 1788,
+  "url": "https://benyehuda.org/author/1788",
+  "metadata": {
+    "name": "שרל דה קוסטר",
+    "sort_name": "דה קוסטר, שרל ",
+    "other_designations": "שארל דה קוסטר; שרל דה־קוסטר; שרל דה-קוסטר; שרל תאודור הנרי דה קוסטר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1827",
+      "death_year": "1879"
+    },
+    "bio_snippet": "סופר בלגי, שהניח את הבסיס לספרות בלגית ילידית",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 7692
+  },
+  "texts": {
+    "author": [
+      35287
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

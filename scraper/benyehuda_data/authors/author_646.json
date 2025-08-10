@@ -1,0 +1,40 @@
+{
+  "id": 646,
+  "url": "https://benyehuda.org/author/646",
+  "metadata": {
+    "name": "לוקיאנוס",
+    "sort_name": "לוקיאנוס",
+    "other_designations": "לוקיאנוס איש סאמוסאטה; לוקיאנוס איש סמוסאטה; לוקיאנוס איש סמוסטה; לוקיאנוס מסמוסטה; לוקיאנוס מסאמוסאטה; לוקיאנוס מסאמוסטה; לוקיאנוס מסמוסאטה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "120",
+      "death_year": "180"
+    },
+    "bio_snippet": "רטוריקן וסאטיריקן יווני ממוצא אשורי.",
+    "languages": [
+      "grc"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 1969
+  },
+  "texts": {
+    "author": [
+      18379,
+      18394
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

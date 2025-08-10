@@ -1,0 +1,39 @@
+{
+  "id": 3351,
+  "url": "https://benyehuda.org/author/3351",
+  "metadata": {
+    "name": "בּוֹ ג'וֹ־אִי",
+    "sort_name": "בו ג'ו אי",
+    "other_designations": "בו ג'ו אי; באי ג'ו יי; בו ג'ואי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "772",
+      "death_year": "846"
+    },
+    "bio_snippet": "משורר, מוזיקאי, ומדינאי סיני",
+    "languages": [
+      "zh"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 59
+  },
+  "texts": {
+    "author": [
+      56691
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

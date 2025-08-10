@@ -1,0 +1,49 @@
+{
+  "id": 4,
+  "url": "https://benyehuda.org/author/4",
+  "metadata": {
+    "name": "אבשלום פיינברג",
+    "sort_name": "פיינברג, אבשלום",
+    "other_designations": "אבשלום פינברג",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1889",
+      "death_year": "1917"
+    },
+    "bio_snippet": "מחולל רעיון ניל\"י ומייסדה. נהרג בשליחות הארגון, כשניסה לחצות את קו החזית העות'מאני-בריטי במלחמת העולם הראשונה, ולחבור לכוחות הבריטיים בחצי האי סיני לצורך חידוש הקשר המודיעיני בינם לבין ניל\"י.",
+    "languages": [
+      "he",
+      "unk"
+    ],
+    "genres": [
+      "letters",
+      "memoir",
+      "poetry"
+    ],
+    "impressions_count": 13472
+  },
+  "texts": {
+    "author": [
+      6539,
+      6874,
+      52340,
+      52383,
+      52534
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      25071,
+      26227
+    ]
+  }
+}

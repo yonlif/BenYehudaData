@@ -1,0 +1,77 @@
+{
+  "id": 1772,
+  "url": "https://benyehuda.org/author/1772",
+  "metadata": {
+    "name": "יצחק ליב ברוך ",
+    "sort_name": "ברוך, יצחק ליב ",
+    "other_designations": "יצחק ליב ברוכוביץ; י\"ל ברוך; לבי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1874",
+      "death_year": "1953"
+    },
+    "bio_snippet": "משורר, סופר ומתרגם עברי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 501
+  },
+  "texts": {
+    "author": [
+      55938
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      41555,
+      41592,
+      41737,
+      42003,
+      42004,
+      42005,
+      42006,
+      42109,
+      42110,
+      42634,
+      42635,
+      42636,
+      42637,
+      42638,
+      42639,
+      42640,
+      42641,
+      42642,
+      42643,
+      42644,
+      42705,
+      42895,
+      42912,
+      42913,
+      43196,
+      43502,
+      43951,
+      43952,
+      45297,
+      47132,
+      47259,
+      47263,
+      55939,
+      56091,
+      58522
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

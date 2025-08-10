@@ -1,0 +1,49 @@
+{
+  "id": 2811,
+  "url": "https://benyehuda.org/author/2811",
+  "metadata": {
+    "name": "אלן ג'יי לרנר",
+    "sort_name": "לרנר, אלן ג'יי ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1918",
+      "death_year": "1986"
+    },
+    "bio_snippet": " מחבר שירים, לבריתן ותסריטאי אמריקאי. יצר יחד עם פרדריק לאו את אחד ממחזות הזמר הפופולריים ביותר בעולם, הן על הבמה והן בקולנוע, \"גברתי הנאווה\". הוא זכה בשלושה פרסי טוני ובשלושה פרסי האקדמיה, בין שאר פרסים ואותות כבוד",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1344
+  },
+  "texts": {
+    "author": [
+      12558,
+      12559,
+      12560,
+      12561,
+      12562,
+      12563,
+      12564,
+      12565,
+      12566,
+      12567,
+      12568
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

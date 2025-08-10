@@ -1,0 +1,45 @@
+{
+  "id": 2161,
+  "url": "https://benyehuda.org/author/2161",
+  "metadata": {
+    "name": "בנימין חיים יצחק ראביד",
+    "sort_name": "ראביד, בנימין חיים יצחק ",
+    "other_designations": "בנימין חיים יצחק רביד; בנימין ח\"י ראביד",
+    "intellectual_property": "permission_for_all",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1936",
+      "death_year": ""
+    },
+    "bio_snippet": "היסטוריון לתולדות העם היהודי בימי הביניים ובראשית העת החדשה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 962
+  },
+  "texts": {
+    "author": [
+      42896,
+      42897,
+      42898,
+      43010,
+      44680,
+      44822,
+      45624
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

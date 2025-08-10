@@ -1,0 +1,40 @@
+{
+  "id": 3043,
+  "url": "https://benyehuda.org/author/3043",
+  "metadata": {
+    "name": "נעם גרוסמן",
+    "sort_name": "גרוסמן, נעם ",
+    "other_designations": "נועם גרוסמן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1927",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד ברוקלין, בן למשורר העברי ראובן גרוסמן. פעיל בשדה התרבות ועורך שידורי רדיו לנוער. סטודנט למדעי הרוח באוניברסיטה העברית בירושלים.  מפקד פלוגה במלחמת העצמאות, נפל עם 15 מחבריו בקרב ליד עטרות. לאחר מותו יצא אוסף של רשימות, סיפורים ומכתבים פרי עטו. אביו הוציא קובץ שירים \"עלי דווי - על מות לבן\", ושנה לאחר נפילתו שינתה המשפחה את שמה מגרוסמן ל\"אבינועם\" [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 202
+  },
+  "texts": {
+    "author": [
+      54357,
+      54358
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

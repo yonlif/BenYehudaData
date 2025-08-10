@@ -1,0 +1,39 @@
+{
+  "id": 1378,
+  "url": "https://benyehuda.org/author/1378",
+  "metadata": {
+    "name": "רות אנדריאס־פרידריך",
+    "sort_name": "אנדריאס־פרידריך, רות ",
+    "other_designations": "אנדריאס-פרידריך, אנדריאס פרידריך",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1901",
+      "death_year": "1977"
+    },
+    "bio_snippet": " סופרת ועיתונאית גרמנייה, מתנגדת למשטר הנאצי וחסידת אומות העולם ",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 8511
+  },
+  "texts": {
+    "author": [
+      32673
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

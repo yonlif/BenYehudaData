@@ -1,0 +1,39 @@
+{
+  "id": 3247,
+  "url": "https://benyehuda.org/author/3247",
+  "metadata": {
+    "name": "עמוס עוז",
+    "sort_name": "עוז, עמוס ",
+    "other_designations": "עמוס קלוזנר",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1939",
+      "death_year": "2018"
+    },
+    "bio_snippet": " סופר ואינטלקטואל ישראלי, פרופסור לספרות באוניברסיטת בן־גוריון בנגב",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 258
+  },
+  "texts": {
+    "author": [
+      56088
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

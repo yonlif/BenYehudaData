@@ -1,0 +1,39 @@
+{
+  "id": 575,
+  "url": "https://benyehuda.org/author/575",
+  "metadata": {
+    "name": "יחיאל מאָר",
+    "sort_name": "מאָר, יחיאל",
+    "other_designations": "יחיאל מור",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1902",
+      "death_year": "1984"
+    },
+    "bio_snippet": "יוצר יידי. פעל בצרפת.",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 277
+  },
+  "texts": {
+    "author": [
+      14102
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

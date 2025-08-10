@@ -1,0 +1,41 @@
+{
+  "id": 2215,
+  "url": "https://benyehuda.org/author/2215",
+  "metadata": {
+    "name": "שלמה בר יהודה הבבלי",
+    "sort_name": "הבבלי, שלמה בר יהודה ",
+    "other_designations": "שלמה בר־יהודה הבבלי; שלמה בר-יהודה הבבלי; שלמה בן יהודה הבבלי; שלמה בן־יהודה הבבלי; שלמה בן-יהודה הבבלי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "ancient",
+      "birth_year": "חי בסוף המאה העשירית, כנראה",
+      "death_year": ""
+    },
+    "bio_snippet": "חי כנראה  באיטליה בסוף המאה העשירית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 384
+  },
+  "texts": {
+    "author": [
+      38408,
+      41610,
+      41611
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

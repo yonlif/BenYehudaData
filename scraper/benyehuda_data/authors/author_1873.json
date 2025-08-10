@@ -1,0 +1,39 @@
+{
+  "id": 1873,
+  "url": "https://benyehuda.org/author/1873",
+  "metadata": {
+    "name": "דוד עונקינירה",
+    "sort_name": "עונקינירה, דוד ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "פעל במאה ה־16",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר, פעל בטורקייה באמצע המאה ה־16",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 175
+  },
+  "texts": {
+    "author": [
+      38065
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

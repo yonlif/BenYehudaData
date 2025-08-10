@@ -1,0 +1,39 @@
+{
+  "id": 3321,
+  "url": "https://benyehuda.org/author/3321",
+  "metadata": {
+    "name": "משה דביר",
+    "sort_name": "דביר, משה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "סופר ומשורר, סיפורו זכה להיות בין המומלצים בתחרות הסיפור הקצר של עיתון הארץ, 1999. שיריו התפרסמו בכמה כתבי עת. חבר ועד עמותת 'מקום לשירה'",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 333
+  },
+  "texts": {
+    "author": [
+      56482
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

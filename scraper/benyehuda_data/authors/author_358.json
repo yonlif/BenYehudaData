@@ -1,0 +1,42 @@
+{
+  "id": 358,
+  "url": "https://benyehuda.org/author/358",
+  "metadata": {
+    "name": "אדמון רוסטאן",
+    "sort_name": "רוסטאן, אדמון",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1868",
+      "death_year": "1918"
+    },
+    "bio_snippet": "אדמון רוסטאן היה משורר ומחזאי צרפתי. רוסטאן מקושר אל הנאו-רומנטיציזם, וידוע בעיקר בזכות מחזהו \"סיראנו דה ברז'ראק\". מחזותיו הרומנטיים של רוסטאן סיפקו חלופה לתיאטרון הנטורליסטי שהיה פופולרי בסוף המאה ה-19.",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "drama",
+      "poetry"
+    ],
+    "impressions_count": 2168
+  },
+  "texts": {
+    "author": [
+      7507,
+      9056,
+      19511
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

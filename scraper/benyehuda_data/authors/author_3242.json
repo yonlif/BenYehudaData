@@ -1,0 +1,43 @@
+{
+  "id": 3242,
+  "url": "https://benyehuda.org/author/3242",
+  "metadata": {
+    "name": "משה דור",
+    "sort_name": "דור, משה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1932",
+      "death_year": "2016"
+    },
+    "bio_snippet": " משורר, עיתונאי, עורך ומתרגם עברי ישראלי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir",
+      "poetry"
+    ],
+    "impressions_count": 237
+  },
+  "texts": {
+    "author": [
+      56291,
+      56292,
+      56308,
+      56407
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

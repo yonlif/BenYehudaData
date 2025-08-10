@@ -1,0 +1,39 @@
+{
+  "id": 3216,
+  "url": "https://benyehuda.org/author/3216",
+  "metadata": {
+    "name": "הנרייטה אליזבת מארשל",
+    "sort_name": "מארשל, הנרייטה אליזבת ",
+    "other_designations": "הנרייטה אליזבת מרשל",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1867",
+      "death_year": "1941"
+    },
+    "bio_snippet": "סופרת סקוטית, ידועה במיוחד בזכות יצירותיה בהיסטוריה לאומית פופולרית לילדים",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 136
+  },
+  "texts": {
+    "author": [
+      55229
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

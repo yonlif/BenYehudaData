@@ -1,0 +1,41 @@
+{
+  "id": 3346,
+  "url": "https://benyehuda.org/author/3346",
+  "metadata": {
+    "name": "יונדב קפלון",
+    "sort_name": "קפלון, יונדב ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1963",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר ישראלי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 171
+  },
+  "texts": {
+    "author": [
+      56685,
+      56686
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": 3303,
+  "url": "https://benyehuda.org/author/3303",
+  "metadata": {
+    "name": "יונה וולך",
+    "sort_name": "וולך, יונה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1944",
+      "death_year": "1985"
+    },
+    "bio_snippet": "משוררת ישראלית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 2550
+  },
+  "texts": {
+    "author": [
+      56132,
+      56133,
+      56134,
+      56135,
+      56136,
+      56137,
+      56366,
+      56367,
+      56368,
+      56369,
+      56370,
+      56371,
+      56372,
+      56373
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

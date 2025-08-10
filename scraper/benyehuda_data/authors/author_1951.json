@@ -1,0 +1,61 @@
+{
+  "id": 1951,
+  "url": "https://benyehuda.org/author/1951",
+  "metadata": {
+    "name": "איציק מאנגר",
+    "sort_name": "מאנגר, איציק ",
+    "other_designations": "יצחק מנגר, איציק מנגר, איציק מאנגער",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1901",
+      "death_year": "1969"
+    },
+    "bio_snippet": " משורר, מחזאי וסופר יידיש",
+    "languages": [
+      "yi",
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 2406
+  },
+  "texts": {
+    "author": [
+      12516,
+      37664,
+      40835,
+      40836,
+      49246,
+      49327,
+      52489,
+      52782,
+      57542,
+      57543,
+      57563,
+      57565,
+      57567,
+      57569,
+      57571,
+      57573,
+      57789,
+      57845,
+      57846
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      49245,
+      53544
+    ]
+  }
+}

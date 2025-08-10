@@ -1,0 +1,39 @@
+{
+  "id": 1931,
+  "url": "https://benyehuda.org/author/1931",
+  "metadata": {
+    "name": "יהודה זרקו",
+    "sort_name": "זרקו, יהודה ",
+    "other_designations": "יהודה זרקו בן אברהם",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "המאה ה־16",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר עברי־יווני יליד רודוס",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 196
+  },
+  "texts": {
+    "author": [
+      38162
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

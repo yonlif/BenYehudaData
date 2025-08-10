@@ -1,0 +1,48 @@
+{
+  "id": 2276,
+  "url": "https://benyehuda.org/author/2276",
+  "metadata": {
+    "name": "משה בן יואב",
+    "sort_name": "בן יואב, משה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "1530"
+    },
+    "bio_snippet": "חי בפירנצה במחצית הראשונה של המאה ה־16, מת אחר שנת 1530",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 762
+  },
+  "texts": {
+    "author": [
+      40747,
+      41902,
+      41903,
+      41904,
+      41905,
+      41906,
+      41907,
+      41908,
+      41909,
+      41910
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

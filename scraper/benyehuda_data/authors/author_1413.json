@@ -1,0 +1,40 @@
+{
+  "id": 1413,
+  "url": "https://benyehuda.org/author/1413",
+  "metadata": {
+    "name": "אבן אל־מוקפע",
+    "sort_name": "אבן אל־מוקפע",
+    "other_designations": "אבן אל-מוקפע, אבן אל מוקפע, עבדאללה אבן אל־מוקפע, אבן אל־מוקאפאע, אבן אל-מוקאפאע, אבן אל מוקאפאע",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "724",
+      "death_year": "759"
+    },
+    "bio_snippet": "סופר ומתרגם ממוצא פרסי שכתב בשפה הערבית",
+    "languages": [
+      "ar"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 951
+  },
+  "texts": {
+    "author": [
+      33107,
+      33108
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 659,
+  "url": "https://benyehuda.org/author/659",
+  "metadata": {
+    "name": "אדלברט פון שאמיסו",
+    "sort_name": "שאמיסו, אדלברט פון",
+    "other_designations": "אדלברט שמיסו; א. שמיסו; א. שאמיסו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1781",
+      "death_year": "1838"
+    },
+    "bio_snippet": "חוקר טבע, סופר ומשורר גרמני יליד צרפת, ממעמד האצולה, אשר השתייך לזרם הרומנטיקה בספרות הגרמנית. זכורים בעיקר יומני המסעות שלו והנובלה \"סיפורו המופלא של פטר שלומיאל\".",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 480
+  },
+  "texts": {
+    "author": [
+      19207,
+      19208,
+      52578,
+      52579,
+      52580
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

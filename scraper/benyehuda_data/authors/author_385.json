@@ -1,0 +1,39 @@
+{
+  "id": 385,
+  "url": "https://benyehuda.org/author/385",
+  "metadata": {
+    "name": "יצחק בעל “עזרת נשים”",
+    "sort_name": "יצחק בעל “עזרת נשים\"",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 338
+  },
+  "texts": {
+    "author": [
+      9029
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

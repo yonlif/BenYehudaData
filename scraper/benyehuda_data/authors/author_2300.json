@@ -1,0 +1,39 @@
+{
+  "id": 2300,
+  "url": "https://benyehuda.org/author/2300",
+  "metadata": {
+    "name": "יצחק קנטריני",
+    "sort_name": "קנטריני, יצחק ",
+    "other_designations": "יצחק חיים קנטריני; יצחק חיים הכהן מן החזנים; Isaac Chaim Cantarini;  Isaacus Viva‏",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1644",
+      "death_year": "1723"
+    },
+    "bio_snippet": "משורר, סופר, רופא, רב ודרשן יהודי איטלקי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 103
+  },
+  "texts": {
+    "author": [
+      40774
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

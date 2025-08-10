@@ -1,0 +1,43 @@
+{
+  "id": 570,
+  "url": "https://benyehuda.org/author/570",
+  "metadata": {
+    "name": "וירג'יניה וולף",
+    "sort_name": "וולף, וירג'יניה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1882",
+      "death_year": "1941"
+    },
+    "bio_snippet": "סופרת, מבקרת ספרות ופמיניסטית אנגלייה, הנחשבת לאחת הסופרות המודרניות החשובות של המאה ה-20 ולחלוצת זרם התודעה בספרות. בין ספריה הבולטים: \"גברת דאלווי\" (1925), \"אל המגדלור\" (1927), \"אורלנדו\" (1928) ו\"חדר משלך\" (1929).",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "article",
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 7935
+  },
+  "texts": {
+    "author": [
+      14104,
+      16001,
+      54871
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

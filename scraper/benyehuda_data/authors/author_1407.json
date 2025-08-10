@@ -1,0 +1,78 @@
+{
+  "id": 1407,
+  "url": "https://benyehuda.org/author/1407",
+  "metadata": {
+    "name": "ראובן אבינועם",
+    "sort_name": "אבינועם, ראובן ",
+    "other_designations": "ראובן גרוסמן, ראובן אבי־נעם, ראובן אבינעם",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1905",
+      "death_year": "1974"
+    },
+    "bio_snippet": "מורה ומפקח, סופר, משורר, מתרגם ועורך עברי, זוכה פרס טשרניחובסקי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir",
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 949
+  },
+  "texts": {
+    "author": [
+      40337,
+      54247,
+      54249
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      40336,
+      53910,
+      53911,
+      53912,
+      54259,
+      54260,
+      54261,
+      54262,
+      54263,
+      54447,
+      54448,
+      54449,
+      54450,
+      54451,
+      54452,
+      54453,
+      54454,
+      54455,
+      54482,
+      54483,
+      54484,
+      54485,
+      54496,
+      54497,
+      54595,
+      54816,
+      54847,
+      54848,
+      54849,
+      54850,
+      54851,
+      54929,
+      54939
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

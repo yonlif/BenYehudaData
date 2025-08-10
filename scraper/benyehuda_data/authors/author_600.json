@@ -1,0 +1,44 @@
+{
+  "id": 600,
+  "url": "https://benyehuda.org/author/600",
+  "metadata": {
+    "name": "יהודה סומו",
+    "sort_name": "סומו, יהודה",
+    "other_designations": "יהודה סומו משער אריה פורטלאונה; יהודה בן יצחק; לאונה דה סומו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1525",
+      "death_year": "1590"
+    },
+    "bio_snippet": "היה איש רנסאנס איטלקי יהודי. הדרמטורג העברי הראשון, נודע בשל המחזה העברי שכתב \"צחות בדיחותא דקידושין\".",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama",
+      "poetry",
+      "reference"
+    ],
+    "impressions_count": 2459
+  },
+  "texts": {
+    "author": [
+      23085,
+      23086,
+      23087,
+      37119
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

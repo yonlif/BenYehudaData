@@ -1,0 +1,41 @@
+{
+  "id": 3210,
+  "url": "https://benyehuda.org/author/3210",
+  "metadata": {
+    "name": "ליב קוויטקו",
+    "sort_name": "קוויטקו, ליב ",
+    "other_designations": "ליב מויסייביץ' קוויטקו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1890",
+      "death_year": "1952"
+    },
+    "bio_snippet": "משורר יידיש, סופר ועורך. נרצח בפקודת סטלין באוגוסט 1952 עם יתר הרוגי המלכות בברית המועצות. נחשב בעיני רבים לגדול יוצרי היידיש לילדים בברית המועצות לשעבר",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 192
+  },
+  "texts": {
+    "author": [
+      54951,
+      54952,
+      54953
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

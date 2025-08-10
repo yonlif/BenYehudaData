@@ -1,0 +1,39 @@
+{
+  "id": 964,
+  "url": "https://benyehuda.org/author/964",
+  "metadata": {
+    "name": "מנחם גלרטר",
+    "sort_name": "גלרטר, מנחם ",
+    "other_designations": "מנחם עמנואל גלרטר",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1900",
+      "death_year": "1985"
+    },
+    "bio_snippet": "חבר הנהגת השומר הצעיר בפולין, פעיל בקרן היסוד וב\"הפועל הצעיר\" וממקימי תנועת הנוער גורדוניה. מורה בגימנסיה 'תרבות' ברובנו. עלה ב-1934, והיה פעיל בוועד הלאומי ועם קום המדינה - מזכיר נשיאות הוועד הפועל הציוני, ומנהל מדור אמריקה הלטינית בהסתדרות הציונית (מתוך ספרו: ציוני לכל החיים)",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 12354
+  },
+  "texts": {
+    "author": [
+      27753
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

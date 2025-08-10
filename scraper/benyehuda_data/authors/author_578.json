@@ -1,0 +1,60 @@
+{
+  "id": 578,
+  "url": "https://benyehuda.org/author/578",
+  "metadata": {
+    "name": "ישראל מהלמן",
+    "sort_name": "מהלמן, ישראל",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1900",
+      "death_year": "1989"
+    },
+    "bio_snippet": " ביביליוגרף, חוקר ואיש חינוך עברי.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 20276
+  },
+  "texts": {
+    "author": [
+      14434,
+      14435,
+      14437,
+      14625,
+      14627,
+      14628,
+      14629,
+      14630,
+      14631,
+      14632,
+      14633,
+      14634,
+      14635,
+      14636,
+      14638,
+      14639,
+      18398,
+      24120,
+      52581,
+      57965,
+      57975
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

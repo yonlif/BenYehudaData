@@ -1,0 +1,53 @@
+{
+  "id": 1074,
+  "url": "https://benyehuda.org/author/1074",
+  "metadata": {
+    "name": "יפה ברלוביץ",
+    "sort_name": "ברלוביץ, יפה ",
+    "other_designations": "רן הספרן, נעמה, יפה בר לביא, מזלי עש, בילי בלוך",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1937",
+      "death_year": ""
+    },
+    "bio_snippet": "חוקרת ספרות, ממובילות המחקר בנושאי ספרות ותרבות העלייה הראשונה, ובמחקר יצירותיהן הנשכחות של הסופרות־הנשים בתקופת היישוב",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 3024
+  },
+  "texts": {
+    "author": [
+      33182,
+      53914,
+      53915,
+      54681,
+      54779,
+      55124,
+      56113,
+      56466,
+      56891,
+      56893,
+      57523,
+      57524,
+      57525,
+      57592,
+      57593
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 721,
+  "url": "https://benyehuda.org/author/721",
+  "metadata": {
+    "name": "וילהלם האוף",
+    "sort_name": "האוף, וילהלם",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1802",
+      "death_year": "1827"
+    },
+    "bio_snippet": "סופר גרמני מתקופת הבידרמאייר. התפרסם בעיקר בזכות סיפורי הילדים שלו.",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 3976
+  },
+  "texts": {
+    "author": [
+      20271,
+      20272,
+      20273,
+      20274,
+      20275,
+      32855,
+      32856,
+      33078,
+      33803,
+      34545,
+      34566,
+      34576,
+      34680,
+      37906,
+      37907,
+      37915
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

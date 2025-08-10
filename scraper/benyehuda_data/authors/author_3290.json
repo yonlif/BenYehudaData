@@ -1,0 +1,39 @@
+{
+  "id": 3290,
+  "url": "https://benyehuda.org/author/3290",
+  "metadata": {
+    "name": "עמוס אורן",
+    "sort_name": "אורן, עמוס ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1985",
+      "death_year": ""
+    },
+    "bio_snippet": "יוצר תאטרון, בוגר הסטודיו למשחק ניסן נתיב ובית הספר הבינלאומי לתאטרון פיזי ז׳ק לקוק בפריז, מנחה סדנאות ספרות ושירה ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 294
+  },
+  "texts": {
+    "author": [
+      56491
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

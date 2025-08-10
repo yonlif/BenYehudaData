@@ -1,0 +1,39 @@
+{
+  "id": 26,
+  "url": "https://benyehuda.org/author/26",
+  "metadata": {
+    "name": "אברהם אשר פינשטין",
+    "sort_name": "פינשטין, אברהם אשר",
+    "other_designations": "אברהם אשר בן אריה דוד פינשטין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1870",
+      "death_year": "1944"
+    },
+    "bio_snippet": "מורה, פעיל בתנועת חיבת ציון ובציונות המדינית בפינסק; חיבר זיכרונות על הפוגרומים בשלהי מלחמת העולם הראשונה בפינסק ובחבל פוליסיה [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 2624
+  },
+  "texts": {
+    "author": [
+      646
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1166,
+  "url": "https://benyehuda.org/author/1166",
+  "metadata": {
+    "name": "חנניה אלחנן חי הכהן",
+    "sort_name": "הכהן, חנניה אלחנן חי ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1751",
+      "death_year": "1834"
+    },
+    "bio_snippet": "רב איטלקי, משורר, חוקר לשון מקרא ותלמוד, ומחבר ספרי לימוד [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 83
+  },
+  "texts": {
+    "author": [
+      40799
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

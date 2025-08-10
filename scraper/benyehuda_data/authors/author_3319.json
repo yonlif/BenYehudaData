@@ -1,0 +1,39 @@
+{
+  "id": 3319,
+  "url": "https://benyehuda.org/author/3319",
+  "metadata": {
+    "name": "אורית צמח",
+    "sort_name": "צמח, אורית ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1978",
+      "death_year": ""
+    },
+    "bio_snippet": "עורכת ספרות ולשון ומשוררת, פרסמה שני ספרי ילדים [על־פי עיריית תל אביב–יפו: סדנת כתיבת שירת מחאה נשית]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 184
+  },
+  "texts": {
+    "author": [
+      56488
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

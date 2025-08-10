@@ -1,0 +1,37 @@
+{
+  "id": 2765,
+  "url": "https://benyehuda.org/author/2765",
+  "metadata": {
+    "name": "עזרא סדן",
+    "sort_name": "סדן, עזרא ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1933",
+      "death_year": ""
+    },
+    "bio_snippet": "כלכלן ישראלי. כיהן כמנכ\"ל משרד האוצר, מנכ\"ל משרד החקלאות וכמשנה לנגיד הבנק העולמי, פרופסור אמריטוס בפקולטה לחקלאות של האוניברסיטה העברית ועמד בראש החוג לכלכלה חקלאית",
+    "languages": [],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 150
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      49327
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

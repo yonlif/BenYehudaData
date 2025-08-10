@@ -1,0 +1,39 @@
+{
+  "id": 2488,
+  "url": "https://benyehuda.org/author/2488",
+  "metadata": {
+    "name": "חיים חנוך שטיין",
+    "sort_name": "שטיין, חיים חנוך ",
+    "other_designations": "חיים־חנוך שטין; חיים־חנוך שטיין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1905",
+      "death_year": "1941"
+    },
+    "bio_snippet": "מחבר מאמרים ורשימות על נושאים תנ\"כיים, בעיקר על שאול המלך [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 65
+  },
+  "texts": {
+    "author": [
+      58698
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

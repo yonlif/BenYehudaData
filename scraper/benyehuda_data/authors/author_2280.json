@@ -1,0 +1,39 @@
+{
+  "id": 2280,
+  "url": "https://benyehuda.org/author/2280",
+  "metadata": {
+    "name": "יהודה מוסקאטו",
+    "sort_name": "מוסקאטו, יהודה ",
+    "other_designations": "יהודה אריה (בן יוסף) מוסקאטו; יהודה אריה מוסקאטו; יהודה אריה בן יוסף מוסקאטו; המוסקאטו; יהודה מוסקטו; Leon Moscato",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1530",
+      "death_year": "1589"
+    },
+    "bio_snippet": "רב, פילוסוף, משורר, דרשן, ומוזיקאי, מחבר הפירוש \"קול יהודה\" על ספר הכוזרי. נולד באוזימו,  אנקונה איטליה, נפטר במנטובה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 160
+  },
+  "texts": {
+    "author": [
+      40751
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

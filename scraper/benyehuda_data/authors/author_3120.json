@@ -1,0 +1,41 @@
+{
+  "id": 3120,
+  "url": "https://benyehuda.org/author/3120",
+  "metadata": {
+    "name": "יהודה סלומון",
+    "sort_name": "סלומון, יהודה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1928",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד ברלין. לחם במלחמת העצמאות עם חטיבת יפתח בגליל העליון, ונפל ליד מלכיה. גם חברתו, חנה אברך, נפלה. השאיר אחריו מכתבים ורשימות רבות [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 188
+  },
+  "texts": {
+    "author": [
+      54355,
+      54937
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

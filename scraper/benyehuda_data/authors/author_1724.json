@@ -1,0 +1,56 @@
+{
+  "id": 1724,
+  "url": "https://benyehuda.org/author/1724",
+  "metadata": {
+    "name": "משה שווייגר ",
+    "sort_name": "שווייגר , משה ",
+    "other_designations": "משה שויגר; משה שוויגר ; משה שוייגר ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1892",
+      "death_year": "1943"
+    },
+    "bio_snippet": "מחבר יצירות ביידיש ובעברית בכתבי עת, והשתתף בעיתונות ההומוריסטית בעילום שם [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 2013
+  },
+  "texts": {
+    "author": [
+      34632,
+      34633,
+      34634,
+      34635,
+      34636,
+      34637,
+      34638,
+      34639,
+      34640,
+      34641,
+      34642,
+      34643,
+      34644,
+      34645,
+      34646,
+      34647,
+      34648
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

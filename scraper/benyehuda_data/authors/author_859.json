@@ -1,0 +1,39 @@
+{
+  "id": 859,
+  "url": "https://benyehuda.org/author/859",
+  "metadata": {
+    "name": "יעקב שאפנר",
+    "sort_name": "שאפנר, יעקב ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1875",
+      "death_year": "1944"
+    },
+    "bio_snippet": "סופר שוויצרי, תמך בנאציזם",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 750
+  },
+  "texts": {
+    "author": [
+      24725
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

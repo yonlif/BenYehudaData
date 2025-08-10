@@ -1,0 +1,54 @@
+{
+  "id": 1910,
+  "url": "https://benyehuda.org/author/1910",
+  "metadata": {
+    "name": "אברהם היימן חרל\"פ",
+    "sort_name": "חרל\"פ, אברהם היימן ",
+    "other_designations": "אברהם חיים חרל\"פ; אברהם חיים היימן חרל\"פ; אברהם היימן; אברהם חיים־היימן חרלף",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1861",
+      "death_year": "1916"
+    },
+    "bio_snippet": "סופר, מחבר ספרי לימוד בדקדוק, מחבר מאמרים ופיליטונים [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1768
+  },
+  "texts": {
+    "author": [
+      38371,
+      38441,
+      38442,
+      38443,
+      38444,
+      38445,
+      38446,
+      38447,
+      38448,
+      38449,
+      38450,
+      38451,
+      38452,
+      38453,
+      38468,
+      38469
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

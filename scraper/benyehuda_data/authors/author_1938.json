@@ -1,0 +1,39 @@
+{
+  "id": 1938,
+  "url": "https://benyehuda.org/author/1938",
+  "metadata": {
+    "name": "בנימין בן זרח",
+    "sort_name": "בן זרח, בנימין ",
+    "other_designations": "בנימין בן זרח הגדול; בנימין בן זרח בעל שם; בנימין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "פעל באמצע המאה ה־11",
+      "death_year": ""
+    },
+    "bio_snippet": "פייטן, נודע כאחד מבעלי השם. בן דורו של רש\"י",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 356
+  },
+  "texts": {
+    "author": [
+      37905
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

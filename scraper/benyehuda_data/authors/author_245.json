@@ -1,0 +1,39 @@
+{
+  "id": 245,
+  "url": "https://benyehuda.org/author/245",
+  "metadata": {
+    "name": "עדה נגרי",
+    "sort_name": "נגרי, עדה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1870",
+      "death_year": "1945"
+    },
+    "bio_snippet": "משוררת וסופרת איטלקיה. האישה היחידה שהתקבלה לאקדמיה המלכותית האיטלקית",
+    "languages": [
+      "it"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 690
+  },
+  "texts": {
+    "author": [
+      1509
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

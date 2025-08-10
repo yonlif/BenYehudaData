@@ -1,0 +1,42 @@
+{
+  "id": 3028,
+  "url": "https://benyehuda.org/author/3028",
+  "metadata": {
+    "name": "אביב ברזלי",
+    "sort_name": "ברזלי, אביב ",
+    "other_designations": "אביב ברזילי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1931",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד נס ציונה, למד בכדורי, מגיל צעיר פרסם רשימות בעיתון \"במעלה\". במלחמת העצמאות השתתף בקרבות פלוג'ה, ונפל בקרב על בית חנון [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 218
+  },
+  "texts": {
+    "author": [
+      54258,
+      54347,
+      54348
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

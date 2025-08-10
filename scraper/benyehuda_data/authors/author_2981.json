@@ -1,0 +1,40 @@
+{
+  "id": 2981,
+  "url": "https://benyehuda.org/author/2981",
+  "metadata": {
+    "name": "צ'סלב מילוש",
+    "sort_name": "מילוש, צ'סלב",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1911",
+      "death_year": "2004"
+    },
+    "bio_snippet": " משורר, מסאי ומתרגם פולני; חתן פרס נובל לספרות לשנת 1980 וחסיד אומות העולם מטעם יד ושם כמו אחיו אנדרז'יי מילוש",
+    "languages": [
+      "pl"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 229
+  },
+  "texts": {
+    "author": [
+      54158,
+      56408
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

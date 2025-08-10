@@ -1,0 +1,52 @@
+{
+  "id": 994,
+  "url": "https://benyehuda.org/author/994",
+  "metadata": {
+    "name": "יהודה אריה ממודנה",
+    "sort_name": "מודנה, יהודה אריה ",
+    "other_designations": "ריא\"ם, יהודה אריה ממודינה, ממודינא; Leon Modena",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1571",
+      "death_year": "1648"
+    },
+    "bio_snippet": "רב, דרשן, סופר ומשורר ומגיה ספרים. עסק גם במקצועות חופשיים – מנהל תיאטרון ואקדמיה למוזיקה בגטו של ונציה.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "drama",
+      "memoir",
+      "poetry",
+      "reference"
+    ],
+    "impressions_count": 4879
+  },
+  "texts": {
+    "author": [
+      27905,
+      31022,
+      31251,
+      33053,
+      33055,
+      40761,
+      41973,
+      41974,
+      41975,
+      41977
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

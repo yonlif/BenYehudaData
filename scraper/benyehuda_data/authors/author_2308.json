@@ -1,0 +1,37 @@
+{
+  "id": 2308,
+  "url": "https://benyehuda.org/author/2308",
+  "metadata": {
+    "name": "ג'ובני אנדראה דל אנגווילרה",
+    "sort_name": "דל אנגווילרה, ג'ובני אנדראה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1517",
+      "death_year": "1570"
+    },
+    "bio_snippet": "משורר איטלקי, ידוע בעיקר בשל תרגומן לאיטלקית של \"מטאמורפוזות\" לאובידיוס",
+    "languages": [],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 117
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      42185
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

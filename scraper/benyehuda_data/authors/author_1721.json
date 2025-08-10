@@ -1,0 +1,40 @@
+{
+  "id": 1721,
+  "url": "https://benyehuda.org/author/1721",
+  "metadata": {
+    "name": "אדוארד בולבר־ליטון",
+    "sort_name": "בולבר־ליטון, אדוארד ",
+    "other_designations": "אדוארד בולבר–ליטון, אדוארד בולבר ליטון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1803",
+      "death_year": "1873"
+    },
+    "bio_snippet": "סופר ופוליטיקאי אנגלי",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 575
+  },
+  "texts": {
+    "author": [
+      34555,
+      34560
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

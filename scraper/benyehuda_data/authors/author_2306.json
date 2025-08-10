@@ -1,0 +1,39 @@
+{
+  "id": 2306,
+  "url": "https://benyehuda.org/author/2306",
+  "metadata": {
+    "name": "ישעיהו באסאן",
+    "sort_name": "באסאן, ישעיהו ",
+    "other_designations": "ישעיהו מרדכי באסאן; ישעיהו מרדכי באסאני; ישעיהו מרדכי באסאנו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1673",
+      "death_year": "1739"
+    },
+    "bio_snippet": "רב איטלקי ומשורר מחכמי יהדות איטליה בראשית המאה ה־18, רבן של פדובה ושל רֶג'וֹ אמיליה (ריגיו), ורבו של רמח\"ל",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 153
+  },
+  "texts": {
+    "author": [
+      40780
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

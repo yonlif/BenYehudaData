@@ -1,0 +1,41 @@
+{
+  "id": 2704,
+  "url": "https://benyehuda.org/author/2704",
+  "metadata": {
+    "name": "פיוטר קרופוטקין",
+    "sort_name": "קרופוטקין, פיוטר ",
+    "other_designations": "פיוטר אלכסייביץ' קרופוטקין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1842",
+      "death_year": "1921"
+    },
+    "bio_snippet": "אחרי מות מיכאל באקונין, התאורטיקן הראשי של האנרכו־קומוניזם",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 684
+  },
+  "texts": {
+    "author": [
+      57108,
+      57114,
+      57119
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

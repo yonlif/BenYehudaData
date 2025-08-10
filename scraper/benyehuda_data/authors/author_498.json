@@ -1,0 +1,50 @@
+{
+  "id": 498,
+  "url": "https://benyehuda.org/author/498",
+  "metadata": {
+    "name": "דוד צמח",
+    "sort_name": "צמח, דוד",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1859",
+      "death_year": "1934"
+    },
+    "bio_snippet": "פובליציסט ומתרגם עברי פולני בן תקופת התחייה.",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 484
+  },
+  "texts": {
+    "author": [
+      32854
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      21869,
+      32855,
+      32856,
+      33078,
+      33803,
+      34576,
+      37906,
+      37907,
+      37915
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

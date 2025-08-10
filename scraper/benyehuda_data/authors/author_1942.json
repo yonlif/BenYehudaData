@@ -1,0 +1,40 @@
+{
+  "id": 1942,
+  "url": "https://benyehuda.org/author/1942",
+  "metadata": {
+    "name": "משה הכהן גולדמן",
+    "sort_name": "גולדמן, משה הכהן",
+    "other_designations": "משה דב בן אליעזר אריה גולדמן; איש מדהב\"א",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1863",
+      "death_year": "1918"
+    },
+    "bio_snippet": "מורה, עיתונאי ומוציא לאור, חלוץ העיתונות העברית היומית באמריקה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 407
+  },
+  "texts": {
+    "author": [
+      47903,
+      47904
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

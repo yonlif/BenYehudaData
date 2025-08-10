@@ -1,0 +1,40 @@
+{
+  "id": 3130,
+  "url": "https://benyehuda.org/author/3130",
+  "metadata": {
+    "name": "עמוס פין",
+    "sort_name": "פין, עמוס ",
+    "other_designations": "עמוס פיין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1922",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד נהלל. שירת במלחמת העצמאות בחיל הרגלים, ונפל כשהניח מוקש מתחת לגשר באזור לג'ון. הניח אישה ותינוקת. צה\"ל הקים מוזיאון לחבלה ולמיקוש הנושא את שמו [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 164
+  },
+  "texts": {
+    "author": [
+      54838,
+      54839
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

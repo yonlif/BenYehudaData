@@ -1,0 +1,53 @@
+{
+  "id": 1439,
+  "url": "https://benyehuda.org/author/1439",
+  "metadata": {
+    "name": "צבי קרול",
+    "sort_name": "קרול, צבי ",
+    "other_designations": "צבי בן מרדכי, אבי-יורם, צ\"ק",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1907",
+      "death_year": "1948"
+    },
+    "bio_snippet": "משורר, עורך, מבקר והומוריסטן עברי וחוקר הסוציאליזם היהודי\r\n",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 454
+  },
+  "texts": {
+    "author": [
+      38950
+    ],
+    "editor": [
+      38930,
+      38931,
+      38932,
+      38933,
+      38934,
+      38935,
+      38936,
+      38937,
+      38938,
+      38939,
+      38940,
+      38941,
+      38942
+    ],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

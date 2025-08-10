@@ -1,0 +1,39 @@
+{
+  "id": 3443,
+  "url": "https://benyehuda.org/author/3443",
+  "metadata": {
+    "name": "אור אלכסנדרוביץ'",
+    "sort_name": "אלכסנדרוביץ', אור ",
+    "other_designations": "אור אלכסנדרוביץ",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "אדריכל, חוקר, עורך ומתרגם [מתוך הדף של הטכניון: מכון טכנולוגי לישראל / הפקולטה לארכיטקטורה ובינוי ערים]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 18
+  },
+  "texts": {
+    "author": [
+      57522
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

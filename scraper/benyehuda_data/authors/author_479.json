@@ -1,0 +1,50 @@
+{
+  "id": 479,
+  "url": "https://benyehuda.org/author/479",
+  "metadata": {
+    "name": "עמוס אריכא",
+    "sort_name": "אריכא, עמוס",
+    "other_designations": "דון-כיארי, ניגאל; דון-כיארי, ניגל; הנטר, א\"ל; דולג, ע'",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1933",
+      "death_year": ""
+    },
+    "bio_snippet": "מחזאי, צייר וסופר ישראלי.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama",
+      "prose"
+    ],
+    "impressions_count": 29042
+  },
+  "texts": {
+    "author": [
+      11439,
+      11693,
+      11694,
+      11695,
+      12286,
+      15027,
+      15029,
+      15030,
+      15032,
+      15048,
+      29443
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

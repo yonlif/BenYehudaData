@@ -1,0 +1,43 @@
+{
+  "id": 468,
+  "url": "https://benyehuda.org/author/468",
+  "metadata": {
+    "name": "אלכסנדר ביין",
+    "sort_name": "ביין, אלכסנדר",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1903",
+      "death_year": "1988"
+    },
+    "bio_snippet": "היסטוריון וביוגרף ישראלי, חתן פרס ישראל להיסטוריוגרפיה ציונית.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 19266
+  },
+  "texts": {
+    "author": [
+      13105,
+      23602,
+      34486,
+      42457
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

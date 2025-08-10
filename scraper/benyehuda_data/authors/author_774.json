@@ -1,0 +1,44 @@
+{
+  "id": 774,
+  "url": "https://benyehuda.org/author/774",
+  "metadata": {
+    "name": "נחמיה אלוני",
+    "sort_name": "אלוני, נחמיה",
+    "other_designations": "נחמיה אלוני (לינדה) ",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1906",
+      "death_year": "1983"
+    },
+    "bio_snippet": "חוקר בנושא של חכמת ישראל, הספרות, הלשון והשירה העברית בימי הביניים",
+    "languages": [
+      "unk",
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 2019
+  },
+  "texts": {
+    "author": [
+      30037,
+      36933,
+      36935,
+      44814,
+      44815
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

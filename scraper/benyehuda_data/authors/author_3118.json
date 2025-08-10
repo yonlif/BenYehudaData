@@ -1,0 +1,39 @@
+{
+  "id": 3118,
+  "url": "https://benyehuda.org/author/3118",
+  "metadata": {
+    "name": "זיוה נתן",
+    "sort_name": "נתן, זיוה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1929",
+      "death_year": "1948"
+    },
+    "bio_snippet": "ילידת גבת, היטיבה לשיר ולנגן. נהרגה עם חברתה רות רבינוב ליד עין דור, כשחזרה במשאית מקורס חי\"ש. המשורר יהושע רבינוב הקדיש לזכרן את שיריו \"מול הר העקידה\" [על פי \"גווילי אש\"] ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 131
+  },
+  "texts": {
+    "author": [
+      54889
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": 216,
+  "url": "https://benyehuda.org/author/216",
+  "metadata": {
+    "name": "הורטיוס",
+    "sort_name": "הורטיוס",
+    "other_designations": "קווינטוס הורטיוס פלקוס; הורציוס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "8 בדצמבר 65 לפנה\"ס",
+      "death_year": "27 בנובמבר 8 לפנה\"ס"
+    },
+    "bio_snippet": "קווינטוס הורטיוס פלקוס היה משורר רומי מפורסם.",
+    "languages": [
+      "la"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 14920
+  },
+  "texts": {
+    "author": [
+      370,
+      781,
+      1286,
+      1601,
+      1906,
+      2227,
+      2541,
+      2854,
+      3176,
+      3491,
+      3811,
+      4129,
+      4451,
+      4778,
+      5152,
+      5461,
+      5794,
+      6116,
+      6440,
+      6769,
+      7051,
+      7094
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      26486
+    ]
+  }
+}

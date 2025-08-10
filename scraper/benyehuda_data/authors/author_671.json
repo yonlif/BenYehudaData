@@ -1,0 +1,39 @@
+{
+  "id": 671,
+  "url": "https://benyehuda.org/author/671",
+  "metadata": {
+    "name": "אלכסנדר גרין",
+    "sort_name": "גרין, אלכסנדר",
+    "other_designations": "אלכסנדר גרינבסקי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1880",
+      "death_year": "1932"
+    },
+    "bio_snippet": "סופר רוסי סובייטי. הוא שייך את עצמו לזרם הסימבוליזם. עלילה של רוב יצירותיו מתרחשת במדינה דמיונית \"גרינלנדיה\".",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 165
+  },
+  "texts": {
+    "author": [
+      19209
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 733,
+  "url": "https://benyehuda.org/author/733",
+  "metadata": {
+    "name": "אברהם גלמן",
+    "sort_name": "גלמן, אברהם",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1889",
+      "death_year": "1937"
+    },
+    "bio_snippet": "הוסמך לרבנות בגיל 16 ולימד תורה ועברית. כתב מאמרים וסיפורים בעיתונות בארץ ובפולין, ביידיש ובעברית.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1784
+  },
+  "texts": {
+    "author": [
+      21471,
+      21472,
+      21473,
+      21474,
+      57751,
+      57752
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2337,
+  "url": "https://benyehuda.org/author/2337",
+  "metadata": {
+    "name": "סטפאן מלארמה",
+    "sort_name": "מלארמה, סטפאן ",
+    "other_designations": "סטפן מלארמה; סטפן מלרמה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1842",
+      "death_year": "1898"
+    },
+    "bio_snippet": " משורר צרפתי, מראשי תנועת הסימבוליזם",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 262
+  },
+  "texts": {
+    "author": [
+      42702
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      44387
+    ]
+  }
+}

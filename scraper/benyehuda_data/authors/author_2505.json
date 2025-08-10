@@ -1,0 +1,39 @@
+{
+  "id": 2505,
+  "url": "https://benyehuda.org/author/2505",
+  "metadata": {
+    "name": "דמטריוס קפטאנאקיס",
+    "sort_name": "קפטאנאקיס, דמטריוס ",
+    "other_designations": "דמטריוס קפטנקיס; Demetrios Capetanakis",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1912",
+      "death_year": "1944"
+    },
+    "bio_snippet": "משורר, מסאי ומבקר יווני; בסוף חייו חי בבריטניה וכתב שירים באנגלית",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 140
+  },
+  "texts": {
+    "author": [
+      45930
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

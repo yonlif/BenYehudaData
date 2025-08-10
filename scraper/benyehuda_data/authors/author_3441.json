@@ -1,0 +1,42 @@
+{
+  "id": 3441,
+  "url": "https://benyehuda.org/author/3441",
+  "metadata": {
+    "name": "פייר־ז'אן דה ברנז'ה",
+    "sort_name": "ברנז'ה, פייר־ז'אן דה ",
+    "other_designations": "פייר ז'אן דה ברנז'ה; פייר-ז'אן דה ברנז'ה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1780",
+      "death_year": "1857"
+    },
+    "bio_snippet": "משורר ושנסונייר (כותב שירים) צרפתי פורה, שנהנה מפופולריות והשפעה רבה בצרפת במהלך חייו, אך פרסומו דעך בעשרות השנים שלאחר מותו",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 56
+  },
+  "texts": {
+    "author": [
+      19301,
+      19302,
+      19303,
+      19304
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

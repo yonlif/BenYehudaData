@@ -1,0 +1,71 @@
+{
+  "id": 290,
+  "url": "https://benyehuda.org/author/290",
+  "metadata": {
+    "name": "בנימין אליאב",
+    "sort_name": "אליאב, בנימין",
+    "other_designations": "ביינוש, לובוצקי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1909",
+      "death_year": "1974"
+    },
+    "bio_snippet": "עיתונאי, איש רוח, חוקר, עורך ודיפלומט, יזם תרבותי.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 1593
+  },
+  "texts": {
+    "author": [
+      31516
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      3689,
+      5107,
+      5923,
+      8471,
+      16020,
+      16021,
+      16493,
+      16494,
+      16495,
+      16496,
+      16497,
+      16500,
+      16501,
+      16502,
+      16503,
+      16504,
+      16614,
+      16615,
+      16616,
+      16617,
+      16618,
+      16619,
+      18882,
+      18883,
+      31474,
+      31475,
+      31476,
+      31477,
+      31478,
+      31621
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

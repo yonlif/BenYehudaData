@@ -1,0 +1,78 @@
+{
+  "id": 1124,
+  "url": "https://benyehuda.org/author/1124",
+  "metadata": {
+    "name": "גרשון שקד",
+    "sort_name": "שקד, גרשון ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1929",
+      "death_year": "2006"
+    },
+    "bio_snippet": "חוקר ספרות עברית, בין הבולטים במבקרי הסיפורת העברית וחוקריה וזוכה פרס ישראל לחקר הספרות העברית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 5586
+  },
+  "texts": {
+    "author": [
+      38372,
+      51530,
+      51531,
+      51532,
+      52103,
+      52109,
+      52110,
+      52111,
+      52171,
+      52172,
+      52871,
+      53348,
+      53349,
+      53350,
+      53352,
+      53402,
+      53403,
+      53459,
+      53460,
+      53475,
+      53476,
+      53480,
+      53481,
+      53491,
+      53492,
+      53499,
+      53527,
+      53646,
+      53647,
+      53648,
+      53649,
+      53650,
+      53651,
+      53652,
+      53744,
+      53814,
+      53866
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      30666
+    ]
+  }
+}

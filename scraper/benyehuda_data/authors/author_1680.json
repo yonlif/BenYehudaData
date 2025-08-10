@@ -1,0 +1,39 @@
+{
+  "id": 1680,
+  "url": "https://benyehuda.org/author/1680",
+  "metadata": {
+    "name": "הנרי ווהן",
+    "sort_name": "ווהן, הנרי ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1621",
+      "death_year": "1695"
+    },
+    "bio_snippet": "סופר, מתרגם, משורר מטפיזי ורופא ולשי",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 166
+  },
+  "texts": {
+    "author": [
+      34414
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

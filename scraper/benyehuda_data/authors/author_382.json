@@ -1,0 +1,40 @@
+{
+  "id": 382,
+  "url": "https://benyehuda.org/author/382",
+  "metadata": {
+    "name": "יהודה אבן גיאת",
+    "sort_name": "גיאת, יהודה אבן",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 443
+  },
+  "texts": {
+    "author": [
+      9025,
+      9026
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

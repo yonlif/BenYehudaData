@@ -1,0 +1,39 @@
+{
+  "id": 3326,
+  "url": "https://benyehuda.org/author/3326",
+  "metadata": {
+    "name": "ערן כהן גבע",
+    "sort_name": "כהן גבע, ערן ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר, קונדיטור ואקטיביסט בקהילה האוטיסטית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 79
+  },
+  "texts": {
+    "author": [
+      56486
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

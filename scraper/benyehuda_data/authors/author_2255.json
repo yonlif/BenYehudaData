@@ -1,0 +1,39 @@
+{
+  "id": 2255,
+  "url": "https://benyehuda.org/author/2255",
+  "metadata": {
+    "name": "שלמה בן יצחק מפרוג'ה",
+    "sort_name": "מפרוג'ה, שלמה בן יצחק ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "מפרוג'ה,  חי בימי המגפה של 1374]\r\n",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 76
+  },
+  "texts": {
+    "author": [
+      40732
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

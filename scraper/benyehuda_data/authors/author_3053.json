@@ -1,0 +1,40 @@
+{
+  "id": 3053,
+  "url": "https://benyehuda.org/author/3053",
+  "metadata": {
+    "name": "אברהם אריה הויזמן",
+    "sort_name": "הויזמן, אברהם אריה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1923",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד ירושלים, פובליציסט בעיתונות החרדית וכותב שירה. במלחמת העצמאות השתתף בפעולות בירושלים ובסביבתה, ונפל בפעולת חבלה בקסטל [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 188
+  },
+  "texts": {
+    "author": [
+      54420,
+      54421
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

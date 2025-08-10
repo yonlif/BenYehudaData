@@ -1,0 +1,44 @@
+{
+  "id": 223,
+  "url": "https://benyehuda.org/author/223",
+  "metadata": {
+    "name": "יהודה אבן תיבון",
+    "sort_name": "תיבון, יהודה אבן",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1120",
+      "death_year": "1190"
+    },
+    "bio_snippet": "מתרגם ורופא בממלכת ספרד בימי הביניים בתור הזהב של יהדות ספרד.",
+    "languages": [],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 1674
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      604,
+      1304,
+      2026,
+      3704,
+      4152,
+      4473,
+      7575,
+      8604
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3218,
+  "url": "https://benyehuda.org/author/3218",
+  "metadata": {
+    "name": "ח. רדי",
+    "sort_name": "ח. רדי",
+    "other_designations": "חיים רדי; חיים רדי (ברמן)",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "מנכ\"ל משרד החוץ והעבודה לשעבר [ע\"פ האנציקלופדיה של חלוצי הישוב ובוניו / דוד תדהר]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 75
+  },
+  "texts": {
+    "author": [
+      55241
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

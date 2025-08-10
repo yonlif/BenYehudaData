@@ -1,0 +1,39 @@
+{
+  "id": 1898,
+  "url": "https://benyehuda.org/author/1898",
+  "metadata": {
+    "name": "יצחק יעקב ריינס",
+    "sort_name": "ריינס, יצחק יעקב ",
+    "other_designations": "יצחק יעקב רינס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1839",
+      "death_year": "1915"
+    },
+    "bio_snippet": " רב ליטאי. מגדולי התורה ביהדות ליטא, ומייסד תנועת \"המזרחי\". נודע כעילוי תלמודי עוד בצעירותו. באר את התלמוד ואת ספרות המפרשים והפוסקים בשלוב רעיונות מדעיים ולוגיים. ייסד את ישיבת \"תורה ודעת\" ששילבה לימודים תורניים וכלליים, מעמודי התווך של הציונות הדתית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 717
+  },
+  "texts": {
+    "author": [
+      47090
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

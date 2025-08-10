@@ -1,0 +1,39 @@
+{
+  "id": 3477,
+  "url": "https://benyehuda.org/author/3477",
+  "metadata": {
+    "name": "שמואל שבת",
+    "sort_name": "שבת, שמואל ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "סופר ואסיר ציון",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 366
+  },
+  "texts": {
+    "author": [
+      57950
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

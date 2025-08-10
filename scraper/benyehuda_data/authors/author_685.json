@@ -1,0 +1,41 @@
+{
+  "id": 685,
+  "url": "https://benyehuda.org/author/685",
+  "metadata": {
+    "name": "אהרן שמי",
+    "sort_name": "שמי, אהרן",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1929",
+      "death_year": "2010"
+    },
+    "bio_snippet": "עיתונאי, סופר וסאטיריקן ישראלי.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 840
+  },
+  "texts": {
+    "author": [
+      18755,
+      45475
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

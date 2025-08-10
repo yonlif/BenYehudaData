@@ -1,0 +1,44 @@
+{
+  "id": 3546,
+  "url": "https://benyehuda.org/author/3546",
+  "metadata": {
+    "name": "ניקולאי נוסוב",
+    "sort_name": "נוסוב, ניקולאי ",
+    "other_designations": "ניקולאי ניקולאייביץ' נוסוב",
+    "intellectual_property": "orphan",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1908",
+      "death_year": "1976"
+    },
+    "bio_snippet": "סופר סובייטי של ספרות ילדים",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 95
+  },
+  "texts": {
+    "author": [
+      58908,
+      58909,
+      58910,
+      58911,
+      58912,
+      58913
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

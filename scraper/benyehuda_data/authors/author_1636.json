@@ -1,0 +1,40 @@
+{
+  "id": 1636,
+  "url": "https://benyehuda.org/author/1636",
+  "metadata": {
+    "name": "אֶוּריפִּידֶס",
+    "sort_name": "אוריפידס",
+    "other_designations": "אוריפידס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "480",
+      "death_year": "406"
+    },
+    "bio_snippet": "אחד משלושת המחזאים הטראגיים הגדולים באתונה העתיקה (יחד עם אייסכילוס וסופוקלס והצעיר מביניהם)",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 774
+  },
+  "texts": {
+    "author": [
+      35048,
+      58375
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

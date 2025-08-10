@@ -1,0 +1,39 @@
+{
+  "id": 1357,
+  "url": "https://benyehuda.org/author/1357",
+  "metadata": {
+    "name": "נתן פיינברג",
+    "sort_name": "פיינברג, נתן ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1895",
+      "death_year": "1988"
+    },
+    "bio_snippet": "משפטן, מומחה למשפט בינלאומי, ממקימי הפקולטה למשפטים של האוניברסיטה העברית והדקן הראשון שלה ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 533
+  },
+  "texts": {
+    "author": [
+      32072
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

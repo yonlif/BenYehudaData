@@ -1,0 +1,40 @@
+{
+  "id": 3300,
+  "url": "https://benyehuda.org/author/3300",
+  "metadata": {
+    "name": "אדוניס",
+    "sort_name": "אדוניס",
+    "other_designations": "עלי אחמד סעיד אסבר",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1930",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר ואינטלקטואל סורי שחי גם בלבנון וצרפת. כינויו מתייחס לאל פיניקי, סמל של התחדשות מחזורית",
+    "languages": [
+      "ar"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 193
+  },
+  "texts": {
+    "author": [
+      56127,
+      56128
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

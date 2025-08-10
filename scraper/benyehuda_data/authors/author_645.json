@@ -1,0 +1,39 @@
+{
+  "id": 645,
+  "url": "https://benyehuda.org/author/645",
+  "metadata": {
+    "name": "תיאוקריטוס",
+    "sort_name": "תיאוקריטוס",
+    "other_designations": "תאוקריטוס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "310",
+      "death_year": "250"
+    },
+    "bio_snippet": "מחשובי המשוררים ההלניסטים, השפיע רבות על ורגיליוס ובאמצעותו על התפיסה האסתטית של הרנסאנס.",
+    "languages": [
+      "grc"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 1180
+  },
+  "texts": {
+    "author": [
+      18149
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

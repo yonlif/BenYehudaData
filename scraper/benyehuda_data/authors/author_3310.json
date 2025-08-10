@@ -1,0 +1,44 @@
+{
+  "id": 3310,
+  "url": "https://benyehuda.org/author/3310",
+  "metadata": {
+    "name": "רן פרידנשטיין",
+    "sort_name": "פרידנשטיין, רן ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 254
+  },
+  "texts": {
+    "author": [
+      56314,
+      56315,
+      56316,
+      56317,
+      56318,
+      56319
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

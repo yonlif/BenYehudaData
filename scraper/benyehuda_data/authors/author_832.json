@@ -1,0 +1,57 @@
+{
+  "id": 832,
+  "url": "https://benyehuda.org/author/832",
+  "metadata": {
+    "name": "משה שמיר",
+    "sort_name": "שמיר, משה",
+    "other_designations": "צבי בראלי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1921",
+      "death_year": "2004"
+    },
+    "bio_snippet": "סופר, סופר לילדים, מחזאי, פובליציסט, מבקר ספרות, מרצה לדרמה, עורך מדורי ספרות בעיתונות הארצית, עורך כתבי עת ואיש ציבור ישראלי, אחד מחשובי הסופרים הישראליים של העת החדשה, חבר הכנסת התשיעית (במסגרת סיעת לעם של הליכוד) וממקימי מפלגת התחיה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 35403
+  },
+  "texts": {
+    "author": [
+      24122,
+      27956,
+      27987,
+      33079,
+      53381,
+      53461,
+      53462,
+      53463,
+      53464,
+      53465,
+      53466,
+      53467
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      16421,
+      26054,
+      49823,
+      51553,
+      52045
+    ]
+  }
+}

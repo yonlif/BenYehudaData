@@ -1,0 +1,39 @@
+{
+  "id": 3279,
+  "url": "https://benyehuda.org/author/3279",
+  "metadata": {
+    "name": "שושנה קרבסי",
+    "sort_name": "קרבסי, שושנה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1964",
+      "death_year": ""
+    },
+    "bio_snippet": "משוררת, עורכת וסופרת ילדים ישראלית. בנוסף, היא גם מספרת סיפורים ממורשת הנשים של יהדות מרוקו ומרצה בתחום. ספרה \"נהר ושדים אין בו\" בתמיכת מפעל הפיס זכה בפרס שרת התרבות לשנת 2017",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 138
+  },
+  "texts": {
+    "author": [
+      56487
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

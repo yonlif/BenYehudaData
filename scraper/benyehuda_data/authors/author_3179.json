@@ -1,0 +1,42 @@
+{
+  "id": 3179,
+  "url": "https://benyehuda.org/author/3179",
+  "metadata": {
+    "name": "אריך ארנדט",
+    "sort_name": "ארנדט, אריך ",
+    "other_designations": "אריך אוטו ריינהולד ארנדט",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1903",
+      "death_year": "1984"
+    },
+    "bio_snippet": "משורר גרמני ומתרגם",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 323
+  },
+  "texts": {
+    "author": [
+      54726,
+      54727,
+      54728,
+      54730
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

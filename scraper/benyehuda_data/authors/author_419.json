@@ -1,0 +1,54 @@
+{
+  "id": 419,
+  "url": "https://benyehuda.org/author/419",
+  "metadata": {
+    "name": "נח פינס",
+    "sort_name": "פינס, נח",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1871",
+      "death_year": "1939"
+    },
+    "bio_snippet": "משורר, מתרגם ומחנך. ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 2048
+  },
+  "texts": {
+    "author": [
+      10489,
+      10490,
+      10491,
+      10492,
+      10493,
+      10494,
+      10495,
+      10496,
+      10497,
+      10498,
+      10499,
+      10500,
+      10501,
+      10502,
+      10503,
+      10504
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

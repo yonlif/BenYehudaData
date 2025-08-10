@@ -1,0 +1,39 @@
+{
+  "id": 2514,
+  "url": "https://benyehuda.org/author/2514",
+  "metadata": {
+    "name": "ארמין ואמברי",
+    "sort_name": "ואמברי, ארמין ",
+    "other_designations": "ארמין ומברי; ארמיניוס ואמברי; ארמיניוס ומברי; הרמן ואמברגר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1832",
+      "death_year": "1913"
+    },
+    "bio_snippet": "מזרחן, תייר, בלשן, חוקר מרכז אסיה הונגרי־יהודי. בנו היחיד רוסטם ואמברי היה עורך דין פלילי וחבר האספה הלאומית ההונגרית",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 191
+  },
+  "texts": {
+    "author": [
+      45706
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

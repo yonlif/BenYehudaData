@@ -1,0 +1,39 @@
+{
+  "id": 1665,
+  "url": "https://benyehuda.org/author/1665",
+  "metadata": {
+    "name": "וולטר ראלי ",
+    "sort_name": "ראלי , וולטר ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1552",
+      "death_year": "1618"
+    },
+    "bio_snippet": "סופר, משורר, חייל, חצרן ומגלה ארצות אנגלי בתקופה האליזבטנית",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 191
+  },
+  "texts": {
+    "author": [
+      34440
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

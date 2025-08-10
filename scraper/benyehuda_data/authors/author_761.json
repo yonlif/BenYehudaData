@@ -1,0 +1,39 @@
+{
+  "id": 761,
+  "url": "https://benyehuda.org/author/761",
+  "metadata": {
+    "name": "תומאס הוד",
+    "sort_name": "הוד, תומאס",
+    "other_designations": "תומס הוד",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1799",
+      "death_year": "1845"
+    },
+    "bio_snippet": "משורר, סופר והומוריסט אנגלי.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 439
+  },
+  "texts": {
+    "author": [
+      22456
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

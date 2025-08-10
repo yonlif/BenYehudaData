@@ -1,0 +1,42 @@
+{
+  "id": 3545,
+  "url": "https://benyehuda.org/author/3545",
+  "metadata": {
+    "name": "נחום סולומונוביץ' אלטשולר",
+    "sort_name": "אלטשולר, נחום סולומונוביץ' ",
+    "other_designations": "נחום (בנימין) סולומונוביץ' אלטשולר; נחום סולומונוביץ אלטשולר",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1921",
+      "death_year": "1988"
+    },
+    "bio_snippet": "משורר רוסי, סטיריקן ושחקן [ע\"פ אתר פרטי תחת narod.ru]",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "fables"
+    ],
+    "impressions_count": 9
+  },
+  "texts": {
+    "author": [
+      19261,
+      19262,
+      19263,
+      19264
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

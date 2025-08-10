@@ -1,0 +1,41 @@
+{
+  "id": 716,
+  "url": "https://benyehuda.org/author/716",
+  "metadata": {
+    "name": "חיים שירמן",
+    "sort_name": "שירמן, חיים",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1904",
+      "death_year": "1981"
+    },
+    "bio_snippet": "חוקר שירת ימי הביניים של יהדות ספרד, הפיוט הקדום בארץ ישראל, השירה העברית, התיאטרון והמוזיקה של יהדות איטליה.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 3789
+  },
+  "texts": {
+    "author": [
+      38400
+    ],
+    "editor": [
+      40799
+    ],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

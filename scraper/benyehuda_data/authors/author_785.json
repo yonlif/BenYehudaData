@@ -1,0 +1,54 @@
+{
+  "id": 785,
+  "url": "https://benyehuda.org/author/785",
+  "metadata": {
+    "name": "דן מירון",
+    "sort_name": "מירון, דן",
+    "other_designations": "",
+    "intellectual_property": "unknown",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1934",
+      "death_year": ""
+    },
+    "bio_snippet": "חוקר ספרות עברית וספרות יידיש ומבקר. זוכה פרס ביאליק לחכמת ישראל (תש\"ם) ופרס ישראל לחקר הספרות העברית (תשנ\"ג-1993). משנת 2020 חבר האקדמיה הלאומית הישראלית למדעים.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 12583
+  },
+  "texts": {
+    "author": [
+      23496,
+      26120,
+      29554,
+      30345,
+      31617,
+      34318,
+      53692,
+      53693
+    ],
+    "editor": [
+      57884
+    ],
+    "illustrator": [],
+    "translator": [
+      28325
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      30667
+    ]
+  }
+}

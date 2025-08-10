@@ -1,0 +1,39 @@
+{
+  "id": 316,
+  "url": "https://benyehuda.org/author/316",
+  "metadata": {
+    "name": "סטיבן וינסנט בני",
+    "sort_name": "בני, סטיבן וינסנט",
+    "other_designations": "סטיבן וינסנט בנה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1898",
+      "death_year": "1943"
+    },
+    "bio_snippet": "היה משורר וסופר אמריקאי. ",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 407
+  },
+  "texts": {
+    "author": [
+      5460
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

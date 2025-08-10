@@ -1,0 +1,39 @@
+{
+  "id": 3350,
+  "url": "https://benyehuda.org/author/3350",
+  "metadata": {
+    "name": "דוּ פוּ",
+    "sort_name": "דו פו",
+    "other_designations": "דו פו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": null,
+      "period": null,
+      "birth_year": "712",
+      "death_year": "770"
+    },
+    "bio_snippet": "משורר סיני שחי בימי שושלת טאנג ונחשב לאחד מגדולי המשוררים הסינים. שירתו מתאפיינת בהשקפת עולם קונפוציאנית, במגוון רחב של נושאים וצורות-שיר, בהזדהות עם הסבל האנושי וצערן של בריות פשוטות, בעיסוק במוסר ובהיסטוריה, ובאמנות גדולה וחדשנית. בתקופת שושלת סונג אמרו על שיריו שאפשר לפרשם באלף אופנים שונים. ",
+    "languages": [
+      "zh"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 57
+  },
+  "texts": {
+    "author": [
+      56690
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

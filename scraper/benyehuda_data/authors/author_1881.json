@@ -1,0 +1,39 @@
+{
+  "id": 1881,
+  "url": "https://benyehuda.org/author/1881",
+  "metadata": {
+    "name": "דוד בן זכריה הלוי",
+    "sort_name": "הלוי, דוד בן זכריה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "פעל במאה ה־16",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר, פעל במאה ה־16",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 164
+  },
+  "texts": {
+    "author": [
+      37954
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

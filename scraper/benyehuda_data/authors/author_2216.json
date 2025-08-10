@@ -1,0 +1,40 @@
+{
+  "id": 2216,
+  "url": "https://benyehuda.org/author/2216",
+  "metadata": {
+    "name": "שבתי בר משה ראש כלה",
+    "sort_name": "ראש כלה, שבתי בר משה ",
+    "other_designations": "-משה ראש כלה; שבתי בן משה ראש כלה; שבתי בן-משה ראש כלה; שבתי בן־משה ראש כלה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "חי באמצע המאה ה־11",
+      "death_year": ""
+    },
+    "bio_snippet": "מרומא, חי באמצע המאה הי\"א",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 192
+  },
+  "texts": {
+    "author": [
+      38411,
+      41624
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

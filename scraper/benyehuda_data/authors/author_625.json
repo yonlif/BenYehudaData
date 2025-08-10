@@ -1,0 +1,41 @@
+{
+  "id": 625,
+  "url": "https://benyehuda.org/author/625",
+  "metadata": {
+    "name": "יעקב גורדין",
+    "sort_name": "גורדין, יעקב",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1853",
+      "death_year": "1909"
+    },
+    "bio_snippet": "מחזאי יהודי יליד רוסיה, ממייסדי תרבות היידיש ותיאטרון היידיש בארצות הברית.\r\n\r\n",
+    "languages": [
+      "ru",
+      "yi"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 2031
+  },
+  "texts": {
+    "author": [
+      17283,
+      19071
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

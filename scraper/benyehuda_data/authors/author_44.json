@@ -1,0 +1,88 @@
+{
+  "id": 44,
+  "url": "https://benyehuda.org/author/44",
+  "metadata": {
+    "name": "מנדלי מוכר ספרים",
+    "sort_name": "מנדלי מוכר ספרים",
+    "other_designations": "שלום יעקב אברמוביץ'; מנדלה מוכר ספרים; מנדלי מו\"ס; ש\"י אברמוביץ'",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1836",
+      "death_year": "1917"
+    },
+    "bio_snippet": "מחשובי סופרי היידיש והעברית בעת החדשה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 51417
+  },
+  "texts": {
+    "author": [
+      504,
+      926,
+      1875,
+      2194,
+      2502,
+      2821,
+      3442,
+      3778,
+      4094,
+      4420,
+      4741,
+      5120,
+      5437,
+      5766,
+      6083,
+      6408,
+      6732,
+      7060,
+      7390,
+      7710,
+      8029,
+      8353,
+      8678
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      398,
+      537,
+      4571,
+      4997,
+      6964,
+      7744,
+      7871,
+      20159,
+      22287,
+      25899,
+      31419,
+      32532,
+      35703,
+      41789,
+      44225,
+      44276,
+      44277,
+      44281,
+      44287,
+      44782,
+      44783,
+      44784,
+      47285,
+      49314,
+      49673
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": 268,
+  "url": "https://benyehuda.org/author/268",
+  "metadata": {
+    "name": "אברהם סוצקבר",
+    "sort_name": "סוצקבר, אברהם",
+    "other_designations": "סלובצקי; סוצקעווער",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1913",
+      "death_year": "2010"
+    },
+    "bio_snippet": " מהחשובים במשוררי היידיש במחצית השנייה של המאה ה-20,  זוכה פרס ישראל ופרס איציק מאנגר ליצירה ספרותית ביידיש",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 9425
+  },
+  "texts": {
+    "author": [
+      2154,
+      4509,
+      4763,
+      6617,
+      29306,
+      29409,
+      29410,
+      29411,
+      29412,
+      29413,
+      34316,
+      34317,
+      52488,
+      52783
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      29422,
+      48550
+    ]
+  }
+}

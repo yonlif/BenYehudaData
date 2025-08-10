@@ -1,0 +1,41 @@
+{
+  "id": 1136,
+  "url": "https://benyehuda.org/author/1136",
+  "metadata": {
+    "name": "יהודית הנדל",
+    "sort_name": "הנדל, יהודית ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1921",
+      "death_year": "2014"
+    },
+    "bio_snippet": "סופרת ישראלית, כלת פרס ישראל לספרות לשנת 2003",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 939
+  },
+  "texts": {
+    "author": [
+      56071
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      32393
+    ]
+  }
+}

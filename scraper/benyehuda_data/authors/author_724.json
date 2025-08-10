@@ -1,0 +1,39 @@
+{
+  "id": 724,
+  "url": "https://benyehuda.org/author/724",
+  "metadata": {
+    "name": "משה לסקי",
+    "sort_name": "לסקי, משה",
+    "other_designations": "משה לאסקי",
+    "intellectual_property": "unknown",
+    "person": {
+      "gender": "unknown",
+      "period": "enlightenment",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "בין משכילי וארשה בחצי הראשון של המאה הי\"ט.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 534
+  },
+  "texts": {
+    "author": [
+      20449
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": 1829,
+  "url": "https://benyehuda.org/author/1829",
+  "metadata": {
+    "name": "פסח רודרמן",
+    "sort_name": "רודרמן, פסח ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1854",
+      "death_year": "1886"
+    },
+    "bio_snippet": "סופר ומתרגם",
+    "languages": [],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 155
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      35732,
+      35733
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

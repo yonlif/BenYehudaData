@@ -1,0 +1,39 @@
+{
+  "id": 1316,
+  "url": "https://benyehuda.org/author/1316",
+  "metadata": {
+    "name": "מרדכי בננסון ",
+    "sort_name": "בננסון, מרדכי ",
+    "other_designations": "מרדכי בן אפרים",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1881",
+      "death_year": "1952"
+    },
+    "bio_snippet": "כלכלן ישראלי, ממנהלי חברת הסנה וממייסדי בית הספר הגבוה למשפט וכלכלה בתל אביב. פרסם בעברית ובלשונות אחרות ספרים, מאמרים ומחקרים בענייני כלכלה וביטוח [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 239
+  },
+  "texts": {
+    "author": [
+      35274
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

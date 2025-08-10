@@ -1,0 +1,39 @@
+{
+  "id": 3368,
+  "url": "https://benyehuda.org/author/3368",
+  "metadata": {
+    "name": "שאול רזניק",
+    "sort_name": "רזניק, שאול ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1976",
+      "death_year": ""
+    },
+    "bio_snippet": "יליד לבוב, עובד בתחום הפרסום, מתרגם",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 193
+  },
+  "texts": {
+    "author": [
+      57151
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

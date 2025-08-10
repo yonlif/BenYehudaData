@@ -1,0 +1,41 @@
+{
+  "id": 337,
+  "url": "https://benyehuda.org/author/337",
+  "metadata": {
+    "name": "מרים בריק־נקריץ",
+    "sort_name": "בריק־נקריץ, מרים ",
+    "other_designations": "בריק-נקריץ, בריק נקריץ",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1932",
+      "death_year": "2018"
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 2294
+  },
+  "texts": {
+    "author": [
+      16408
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      7003
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

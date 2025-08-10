@@ -1,0 +1,44 @@
+{
+  "id": 152,
+  "url": "https://benyehuda.org/author/152",
+  "metadata": {
+    "name": "יהושע פרידמן",
+    "sort_name": "פרידמן, יהושע",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1885",
+      "death_year": "1934"
+    },
+    "bio_snippet": "מלומד, מחנך עברי ועסקן תרבות יהודי ליטאי, משורר ומתרגם עברי שתרגם בעיקר מן השירה הרומית הקלאסית.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 1415
+  },
+  "texts": {
+    "author": [
+      17870
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      6722,
+      7051,
+      7380
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

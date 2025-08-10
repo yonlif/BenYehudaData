@@ -1,0 +1,42 @@
+{
+  "id": 246,
+  "url": "https://benyehuda.org/author/246",
+  "metadata": {
+    "name": "שרל ון לרברג",
+    "sort_name": "לרברג, שרל ון",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1861",
+      "death_year": "1907"
+    },
+    "bio_snippet": "משורר בלגי. ",
+    "languages": [
+      "fr",
+      "nl"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1379
+  },
+  "texts": {
+    "author": [
+      1565,
+      3709,
+      8543
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

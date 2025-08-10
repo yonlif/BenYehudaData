@@ -1,0 +1,59 @@
+{
+  "id": 2257,
+  "url": "https://benyehuda.org/author/2257",
+  "metadata": {
+    "name": "שמואל יבנאלי",
+    "sort_name": "יבנאלי, שמואל ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1884",
+      "death_year": "1961"
+    },
+    "bio_snippet": "איש העלייה השנייה, ממנהיגי תנועת הפועלים בארץ ישראל, ממייסדי מפלגות אחדות העבודה ומפא\"י",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 1743
+  },
+  "texts": {
+    "author": [
+      47315,
+      47316,
+      47317,
+      47318,
+      47319,
+      47324,
+      47325,
+      47326,
+      47327,
+      47328,
+      47329,
+      47330,
+      47331,
+      47332,
+      47967,
+      47968,
+      47969,
+      47970,
+      47971,
+      47972,
+      56784
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

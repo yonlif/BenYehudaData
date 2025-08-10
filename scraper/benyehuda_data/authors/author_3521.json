@@ -1,0 +1,39 @@
+{
+  "id": 3521,
+  "url": "https://benyehuda.org/author/3521",
+  "metadata": {
+    "name": "אריסטופאנס",
+    "sort_name": "אריסטופאנס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "446",
+      "death_year": "385"
+    },
+    "bio_snippet": " גדול מחברי הקומדיה באתונה העתיקה. אריסטופאנס חיבר כ־40 קומדיות, שמתוכן שרדו עד ימינו 11, ולמעשה הן הקומדיות העתיקות היחידות שנשתמרו בשלמותן (להבדיל משתי הקונבנציות של הקומדיה היוונית שבאו לאחריה: הקומדיה התיכונה, והקומדיה החדשה). ההקשר שבהן מוצגות הקומדיות הוא הקשר של תחרות, שהתקיימה מדי שנה בחגיגות התיאטרון באתונה",
+    "languages": [
+      "grc"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 24
+  },
+  "texts": {
+    "author": [
+      58660
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

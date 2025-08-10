@@ -1,0 +1,39 @@
+{
+  "id": 768,
+  "url": "https://benyehuda.org/author/768",
+  "metadata": {
+    "name": "יעקב סלע בלובשטיין",
+    "sort_name": "בלובשטיין, יעקב סלע",
+    "other_designations": "יעקב סלע; יעקב בלובשטיין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1880",
+      "death_year": "1935"
+    },
+    "bio_snippet": "מתרגם ועסק בהפצת תרבות לעם. אחיה של רחל בלובשטיין. ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 865
+  },
+  "texts": {
+    "author": [
+      30650
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

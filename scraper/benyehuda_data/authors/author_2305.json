@@ -1,0 +1,39 @@
+{
+  "id": 2305,
+  "url": "https://benyehuda.org/author/2305",
+  "metadata": {
+    "name": "בנימין הכהן ויטאלי",
+    "sort_name": "ויטאלי, בנימין הכהן ",
+    "other_designations": "הרב\"ך; בנימין כהן ויטאלי; בנימין הכהן ויטלי; בנימין בן אליעזר הכהן ויטאלי;  Benjamin ben Eliezer ha-Kohen Vitale, of Reggio",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1651",
+      "death_year": "1730"
+    },
+    "bio_snippet": "רב, פוסק הלכה ומקובל. רבה של רג'ו אמיליה (רג'יו), ומגדולי יהדות איטליה. הוא היה חתנו של הרמ\"ז, וחותנו של רבי ישעיהו באסאן, והיה ידוע בתמיכתו ברמח\"ל בפולמוס הידוע",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 152
+  },
+  "texts": {
+    "author": [
+      40779
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

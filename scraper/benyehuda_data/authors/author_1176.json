@@ -1,0 +1,42 @@
+{
+  "id": 1176,
+  "url": "https://benyehuda.org/author/1176",
+  "metadata": {
+    "name": "יוסף יהודה לרנר",
+    "sort_name": "לרנר, יוסף יהודה ",
+    "other_designations": "אוסיפ מיכאילוביץ' לרנר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1847",
+      "death_year": "1907"
+    },
+    "bio_snippet": "עיתונאי שכתב בעיתונות הרוסית, היידית והעברית; מחזאי ביידיש שהקים תאטרון יידי באודסה; המיר דתו לנצרות בסוף חייו [ע\"פ ENCYCLOPEDIA.COM]\r\n",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 420
+  },
+  "texts": {
+    "author": [
+      38600
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      30656
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

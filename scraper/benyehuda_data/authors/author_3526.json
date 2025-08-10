@@ -1,0 +1,40 @@
+{
+  "id": 3526,
+  "url": "https://benyehuda.org/author/3526",
+  "metadata": {
+    "name": "סמיון נדסון",
+    "sort_name": "נדסון, סמיון ",
+    "other_designations": "סמיון יעקובלביץ' נדסון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1862",
+      "death_year": "1887"
+    },
+    "bio_snippet": "משורר רוסי ממוצא יהודי",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 32
+  },
+  "texts": {
+    "author": [
+      58748,
+      58749
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

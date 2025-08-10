@@ -1,0 +1,40 @@
+{
+  "id": 1941,
+  "url": "https://benyehuda.org/author/1941",
+  "metadata": {
+    "name": "רבנו גרשום ",
+    "sort_name": "גרשום, רבנן",
+    "other_designations": "גרשום מאור הגולה; רבנו גרשום מאור הגולה; רגמ\"ה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "960",
+      "death_year": "1028"
+    },
+    "bio_snippet": "מגדולי חכמי ישראל ומנהיג יהדות אשכנז במאה ה־11",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 437
+  },
+  "texts": {
+    "author": [
+      37683,
+      37886
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

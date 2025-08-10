@@ -1,0 +1,51 @@
+{
+  "id": 196,
+  "url": "https://benyehuda.org/author/196",
+  "metadata": {
+    "name": "רוברט הריק",
+    "sort_name": "הריק, רוברט",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1591",
+      "death_year": "1674"
+    },
+    "bio_snippet": "היה משורר לירי ואיש דת אנגלי. ",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 2212
+  },
+  "texts": {
+    "author": [
+      263,
+      1957,
+      4116,
+      6294,
+      7143,
+      7601,
+      34444,
+      34445,
+      34446,
+      34447,
+      34448,
+      34449
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

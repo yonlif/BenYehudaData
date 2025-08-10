@@ -1,0 +1,43 @@
+{
+  "id": 351,
+  "url": "https://benyehuda.org/author/351",
+  "metadata": {
+    "name": "משה מנדלסון",
+    "sort_name": "מנדלסון, משה",
+    "other_designations": "משה מנדלסזון, משה בן מנחם, רמבמ\"ן, משה מדעסוי, משה דעסוי, רמ\"ד",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1729",
+      "death_year": "1786"
+    },
+    "bio_snippet": "פילוסוף והוגה דעות יהודי-גרמני, מאבות תנועת ההשכלה היהודית.",
+    "languages": [
+      "de",
+      "he"
+    ],
+    "genres": [
+      "article",
+      "letters"
+    ],
+    "impressions_count": 4580
+  },
+  "texts": {
+    "author": [
+      7365,
+      27904,
+      41592
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

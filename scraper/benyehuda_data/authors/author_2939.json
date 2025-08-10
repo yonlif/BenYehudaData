@@ -1,0 +1,39 @@
+{
+  "id": 2939,
+  "url": "https://benyehuda.org/author/2939",
+  "metadata": {
+    "name": "יצחק יעקב יעקובוביץ",
+    "sort_name": "יעקובוביץ, יצחק יעקב ",
+    "other_designations": "יעקב יצחק יעקובוביץ; יעקב יעקובוביץ",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1889",
+      "death_year": "1975"
+    },
+    "bio_snippet": "אחיו הצעיר של א. א. עקביא; עסק בחקרי הלשון העברית; פרסם שירים, סיפורים ותרגומים בעיתונות יידיש [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 792
+  },
+  "texts": {
+    "author": [
+      53623
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

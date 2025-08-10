@@ -1,0 +1,39 @@
+{
+  "id": 2319,
+  "url": "https://benyehuda.org/author/2319",
+  "metadata": {
+    "name": "יצחק חיים פרוסולוני",
+    "sort_name": "פרוסולוני, יצחק חיים ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "?",
+      "death_year": "1794"
+    },
+    "bio_snippet": "נולד בסיינה ומת בליוורנו בשנת 1794",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 77
+  },
+  "texts": {
+    "author": [
+      40791
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

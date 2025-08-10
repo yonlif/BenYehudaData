@@ -1,0 +1,50 @@
+{
+  "id": 1454,
+  "url": "https://benyehuda.org/author/1454",
+  "metadata": {
+    "name": "חיים תורן",
+    "sort_name": "תורן, חיים ",
+    "other_designations": "חיים זיגלבוים",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1913",
+      "death_year": "1988"
+    },
+    "bio_snippet": "סופר ועורך ישראלי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir"
+    ],
+    "impressions_count": 2413
+  },
+  "texts": {
+    "author": [
+      33303,
+      33304,
+      33305,
+      33306,
+      33307,
+      33308,
+      33309,
+      33310,
+      33311,
+      33312,
+      33593
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

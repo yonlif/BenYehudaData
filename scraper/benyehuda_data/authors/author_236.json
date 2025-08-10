@@ -1,0 +1,39 @@
+{
+  "id": 236,
+  "url": "https://benyehuda.org/author/236",
+  "metadata": {
+    "name": "לנדה מטלון",
+    "sort_name": "מטלון, לנדה",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1920",
+      "death_year": "2006"
+    },
+    "bio_snippet": "מתרגמת ישראלית. ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 2398
+  },
+  "texts": {
+    "author": [
+      1273
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

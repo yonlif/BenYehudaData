@@ -1,0 +1,41 @@
+{
+  "id": 214,
+  "url": "https://benyehuda.org/author/214",
+  "metadata": {
+    "name": "יצחק בעל \"משלי ערב\"",
+    "sort_name": "יצחק בעל \"משלי ערב\"",
+    "other_designations": "אסחאק",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "מאה 12? ראשית המאה ה־13?",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר עברי, חי במחצית השנייה של המאה ה־12 או בראשית המאה ה־13",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 810
+  },
+  "texts": {
+    "author": [
+      368,
+      38152
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

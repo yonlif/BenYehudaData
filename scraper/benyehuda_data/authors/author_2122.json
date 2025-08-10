@@ -1,0 +1,70 @@
+{
+  "id": 2122,
+  "url": "https://benyehuda.org/author/2122",
+  "metadata": {
+    "name": "ירוסלב האשק ",
+    "sort_name": "האשק, ירוסלב",
+    "other_designations": "יארוסלב האשק ; ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1883",
+      "death_year": "1923"
+    },
+    "bio_snippet": "ירוסלב האשק (בצ'כית: Jaroslav Hašek;‏ 30 באפריל 1883 – 3 בינואר 1923) היה סאטיריקן, סופר ועיתונאי צ'כי, שהתפרסם בעיקר בזכות ספרו \"החייל האמיץ שווֵייק\", ...",
+    "languages": [
+      "cs"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 23569
+  },
+  "texts": {
+    "author": [
+      39972,
+      40354,
+      40355,
+      40356,
+      40357,
+      40358,
+      40360,
+      40361,
+      41269,
+      41270,
+      41271,
+      41272,
+      41273,
+      41274,
+      41289,
+      41290,
+      41291,
+      41292,
+      42697,
+      42698,
+      42699,
+      42700,
+      42701,
+      42917,
+      44093,
+      44094,
+      44095,
+      44096,
+      44097,
+      44098,
+      44099,
+      44100
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1224,
+  "url": "https://benyehuda.org/author/1224",
+  "metadata": {
+    "name": "אריך הירשפלד",
+    "sort_name": "הירשפלד, אריך ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1885",
+      "death_year": "1945"
+    },
+    "bio_snippet": "רב חובל יהודי־גרמני, מחלוצי הספנות העברית בתקופת המנדט, קברניט אנית הנוסעים הארצישראלית \"הר־ציון\"\r\n",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 1055
+  },
+  "texts": {
+    "author": [
+      30664
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1461,
+  "url": "https://benyehuda.org/author/1461",
+  "metadata": {
+    "name": "יהוסף האזובי",
+    "sort_name": "האזובי, יהוסף ",
+    "other_designations": "יהוסף בן חנן בן נתן האזובי, בן חנן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "פעל במאה ה־12",
+      "death_year": ""
+    },
+    "bio_snippet": "מגדולי חכמי יהדות פרובנס ופייטניה במאה ה־12",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 587
+  },
+  "texts": {
+    "author": [
+      33319
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

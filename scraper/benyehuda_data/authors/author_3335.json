@@ -1,0 +1,42 @@
+{
+  "id": 3335,
+  "url": "https://benyehuda.org/author/3335",
+  "metadata": {
+    "name": "נעמי שהאב־נאי",
+    "sort_name": "שהאב־נאי, נעמי",
+    "other_designations": "נעמי שיהאב נאי; נעמי שהאב נאי; נעמי שיהאב־נאי; נעמי שהאב ניי; נעמי שיהאב ניי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1952",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 381
+  },
+  "texts": {
+    "author": [
+      56384,
+      56385,
+      56386,
+      56387
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3475,
+  "url": "https://benyehuda.org/author/3475",
+  "metadata": {
+    "name": "ישעיהו זנה",
+    "sort_name": "זנה, ישעיהו ",
+    "other_designations": "ישעיהו זונה; ישעיהו זאנה",
+    "intellectual_property": "permission_for_all",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1887",
+      "death_year": "1960"
+    },
+    "bio_snippet": " היסטוריון עברי וביבליוגרף יהודי אמריקאי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 100
+  },
+  "texts": {
+    "author": [
+      57776
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

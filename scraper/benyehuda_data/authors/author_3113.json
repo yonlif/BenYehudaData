@@ -1,0 +1,39 @@
+{
+  "id": 3113,
+  "url": "https://benyehuda.org/author/3113",
+  "metadata": {
+    "name": "ישראל מרזל",
+    "sort_name": "מרזל, ישראל ",
+    "other_designations": "ישראל אלוני",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1928",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד תל אביב. במלחמת השחרור נקרא להצטרף למחלקת הל\"ה שהחישה עזרה לגוש עציון הנצור, ונפל עם חבריו למחלקה [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 115
+  },
+  "texts": {
+    "author": [
+      54928
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

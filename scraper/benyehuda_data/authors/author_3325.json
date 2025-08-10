@@ -1,0 +1,39 @@
+{
+  "id": 3325,
+  "url": "https://benyehuda.org/author/3325",
+  "metadata": {
+    "name": "נורית גרץ",
+    "sort_name": "גרץ, נורית ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1940",
+      "death_year": ""
+    },
+    "bio_snippet": "סופרת וחוקרת ספרות ישראלית, פרופסור אמריטה לספרות וקולנוע באוניברסיטה הפתוחה. שימשה בעבר כראש המגמה העיונית בחוג לקולנוע וטלוויזיה באוניברסיטת תל אביב ובהמשך כיהנה כראש החוג לתרבות, הפקה ויצירה במכללת ספיר. זוכת פרס ברנר (2009) ופרס לנדאו (2024)",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 114
+  },
+  "texts": {
+    "author": [
+      56351
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

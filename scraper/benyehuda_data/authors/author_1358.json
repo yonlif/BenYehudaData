@@ -1,0 +1,48 @@
+{
+  "id": 1358,
+  "url": "https://benyehuda.org/author/1358",
+  "metadata": {
+    "name": "בן־ציון ידידיה",
+    "sort_name": "ידידיה, בן־ציון ",
+    "other_designations": "בן ציון ידידיה; בן-ציון ידידיה; בן-ציון בן משה; בנציון",
+    "intellectual_property": "orphan",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1884",
+      "death_year": "1956"
+    },
+    "bio_snippet": "מתרגם לעברית, מחבר מאמרים בתחומי ספרות ואמנות, מורה ומרצה",
+    "languages": [],
+    "genres": [
+      "drama",
+      "prose"
+    ],
+    "impressions_count": 177
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      32073,
+      32078,
+      40993,
+      40994,
+      41725,
+      41726,
+      41727,
+      43823,
+      43824,
+      43825,
+      43826
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

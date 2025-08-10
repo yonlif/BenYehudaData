@@ -1,0 +1,44 @@
+{
+  "id": 1746,
+  "url": "https://benyehuda.org/author/1746",
+  "metadata": {
+    "name": "מרדכי סבר",
+    "sort_name": "סבר, מרדכי ",
+    "other_designations": "מרדכי סברדליק",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1906",
+      "death_year": "1984"
+    },
+    "bio_snippet": "עיתונאי, מסאי ומתרגם ",
+    "languages": [],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 197
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      35377,
+      35378,
+      35379,
+      35380,
+      35381,
+      35382,
+      35383,
+      35384
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

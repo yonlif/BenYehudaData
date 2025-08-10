@@ -1,0 +1,37 @@
+{
+  "id": 139,
+  "url": "https://benyehuda.org/author/139",
+  "metadata": {
+    "name": "צבי חיים הרמן רקנדורף",
+    "sort_name": "רקנדורף, צבי חיים הרמן",
+    "other_designations": "בגרמנית: Hermann Reckendorf",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1825",
+      "death_year": "1875"
+    },
+    "bio_snippet": "סופר והבראיסט יהודי גרמני, מומחה להיסטוריה של עם ישראל ולשפות שמיות.",
+    "languages": [],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 1510
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      1648
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

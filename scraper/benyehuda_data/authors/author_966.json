@@ -1,0 +1,45 @@
+{
+  "id": 966,
+  "url": "https://benyehuda.org/author/966",
+  "metadata": {
+    "name": "אברהם זילברשטיין ",
+    "sort_name": "זילברשטיין, אברהם",
+    "other_designations": "אברהם סילברסטון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1900",
+      "death_year": "1951"
+    },
+    "bio_snippet": "רב, כתב מחקרים על החסידות",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 984
+  },
+  "texts": {
+    "author": [
+      47091,
+      47092,
+      47093,
+      47094,
+      47095,
+      47096,
+      47097
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

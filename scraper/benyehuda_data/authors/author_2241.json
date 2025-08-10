@@ -1,0 +1,39 @@
+{
+  "id": 2241,
+  "url": "https://benyehuda.org/author/2241",
+  "metadata": {
+    "name": "יואב בן דניאל",
+    "sort_name": "בן דניאל, יואב ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "כנראה חי ברוֹמָא במחצית השניה של המאה הי\"ג",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 108
+  },
+  "texts": {
+    "author": [
+      40720
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

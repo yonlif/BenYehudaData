@@ -1,0 +1,81 @@
+{
+  "id": 2333,
+  "url": "https://benyehuda.org/author/2333",
+  "metadata": {
+    "name": "אברהם ברוך מני",
+    "sort_name": "מני, אברהם ברוך ",
+    "other_designations": "אברהם ברוך מאני",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1855",
+      "death_year": "1881"
+    },
+    "bio_snippet": "מחבר חידושי תורה,  משורר, עסק בדקדוק ובחשבון",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 2674
+  },
+  "texts": {
+    "author": [
+      42558,
+      42559,
+      42560,
+      42561,
+      42562,
+      42563,
+      42564,
+      42565,
+      42566,
+      42567,
+      42613,
+      42614,
+      42615,
+      42616,
+      42617,
+      42618,
+      42619,
+      42620,
+      42621,
+      42622,
+      42624,
+      42625,
+      42626,
+      42627,
+      42628,
+      42629,
+      42630,
+      42631,
+      42632,
+      42633,
+      42712,
+      42713,
+      42714,
+      42715,
+      42716,
+      42717,
+      42718,
+      42719,
+      42720,
+      42721,
+      42722,
+      42723,
+      42724
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

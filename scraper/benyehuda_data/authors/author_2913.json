@@ -1,0 +1,39 @@
+{
+  "id": 2913,
+  "url": "https://benyehuda.org/author/2913",
+  "metadata": {
+    "name": "מנחם מנדל בודק",
+    "sort_name": "בודק, מנחם מנדל ",
+    "other_designations": "יוסף מנחם יואל בודיק; יוסף מנחם יואל בודק",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1825",
+      "death_year": "1874"
+    },
+    "bio_snippet": "מקובל, היסטוריון, סופר ועורך. התפרסם בספריו על הקבלה, על האגדה, ובספרי ביוגרפיה-הגיוגרפיה, ובעיקר נודע בספרו \"סדר הדורות מתלמידי הבעש\"ט\"",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 154
+  },
+  "texts": {
+    "author": [
+      52535
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

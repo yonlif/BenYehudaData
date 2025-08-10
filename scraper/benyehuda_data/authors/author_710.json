@@ -1,0 +1,39 @@
+{
+  "id": 710,
+  "url": "https://benyehuda.org/author/710",
+  "metadata": {
+    "name": "אנדרה ליכטנברגר",
+    "sort_name": "ליכטנברגר, אנדרה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1870",
+      "death_year": "1940"
+    },
+    "bio_snippet": "סופר וסוציולוג צרפתי .",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 663
+  },
+  "texts": {
+    "author": [
+      20107
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

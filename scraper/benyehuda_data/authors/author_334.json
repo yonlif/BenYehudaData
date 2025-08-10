@@ -1,0 +1,39 @@
+{
+  "id": 334,
+  "url": "https://benyehuda.org/author/334",
+  "metadata": {
+    "name": "סופוקלס",
+    "sort_name": "סופוקלס",
+    "other_designations": "פילוקטטס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "496",
+      "death_year": "406"
+    },
+    "bio_snippet": "היה מחזאי יווני; בין שלושת הטראגיקונים היווניים הגדולים.",
+    "languages": [
+      "grc"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 23549
+  },
+  "texts": {
+    "author": [
+      6958
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

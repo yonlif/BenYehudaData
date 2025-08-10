@@ -1,0 +1,39 @@
+{
+  "id": 3195,
+  "url": "https://benyehuda.org/author/3195",
+  "metadata": {
+    "name": "גרטרוד שטיין",
+    "sort_name": "שטיין, גרטרוד ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1874",
+      "death_year": "1946"
+    },
+    "bio_snippet": "סופרת יהודייה־אמריקאית, שחיה רוב חייה בפריז ונמנתה עם מובילי המודרניזם בספרות ובאמנות",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 100
+  },
+  "texts": {
+    "author": [
+      54882
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 444,
+  "url": "https://benyehuda.org/author/444",
+  "metadata": {
+    "name": "הרודוטוס",
+    "sort_name": "הרודוטוס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "484",
+      "death_year": "425"
+    },
+    "bio_snippet": "היסטוריון יווני המכונה \"אבי ההיסטוריה\".",
+    "languages": [
+      "grc"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 17653
+  },
+  "texts": {
+    "author": [
+      10919
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 485,
+  "url": "https://benyehuda.org/author/485",
+  "metadata": {
+    "name": "ארתור רופין",
+    "sort_name": "רופין, ארתור",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1876",
+      "death_year": "1943"
+    },
+    "bio_snippet": "מנהיג ציוני, כלכלן וסוציולוג, מנהל המשרד הארצישראלי ביפו, ממעצבי ההתיישבות הציונית בארץ ישראל. עמד בראש מחלקת ההתיישבות של ההנהלה הציונית ביישוב והיה חבר הנהלת הסוכנות היהודית.",
+    "languages": [
+      "he",
+      "de"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 10899
+  },
+  "texts": {
+    "author": [
+      11449,
+      24079,
+      24123,
+      24511,
+      24717,
+      31912,
+      50040,
+      54319,
+      58951
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      3748,
+      11722,
+      43078,
+      53262
+    ]
+  }
+}

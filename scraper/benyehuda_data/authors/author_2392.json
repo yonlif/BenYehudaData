@@ -1,0 +1,44 @@
+{
+  "id": 2392,
+  "url": "https://benyehuda.org/author/2392",
+  "metadata": {
+    "name": "לודוויג אוגוסט פרנקל",
+    "sort_name": "פרנקל, לודוויג אוגוסט ",
+    "other_designations": "אברהם אלעזר; לודוויג אַוּגוסט רִיטר פון פרנקל-הוכווארט; לודוויג אַוּגוסט רִיטר פון פרנקל הוכווארט; לודוויג אַוּגוסט רִיטֶר פון פרנקל־הוכווארט; לודוויג אוגוסט פראנקל",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1810",
+      "death_year": "1894"
+    },
+    "bio_snippet": "מורה, עיתונאי, סופר ומשורר יהודי־אוסטרי, רופא בהכשרתו, מייסד בית הספר למל בירושלים",
+    "languages": [
+      "de",
+      "he"
+    ],
+    "genres": [
+      "letters",
+      "memoir",
+      "poetry"
+    ],
+    "impressions_count": 689
+  },
+  "texts": {
+    "author": [
+      43725,
+      48595,
+      53635
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

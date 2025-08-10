@@ -1,0 +1,39 @@
+{
+  "id": 2783,
+  "url": "https://benyehuda.org/author/2783",
+  "metadata": {
+    "name": "משה אברהם בן ראובן חיט",
+    "sort_name": "חיט, משה אברהם בן ראובן",
+    "other_designations": "אברהם טרביטש ;אברהם טריבטש; אברהם בן ראובן טרביטש ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1760",
+      "death_year": "1800"
+    },
+    "bio_snippet": "מלומד יהודי אוסטרי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 402
+  },
+  "texts": {
+    "author": [
+      50041
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

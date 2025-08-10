@@ -1,0 +1,47 @@
+{
+  "id": 92,
+  "url": "https://benyehuda.org/author/92",
+  "metadata": {
+    "name": "בן ציון אלפס",
+    "sort_name": "אלפס, בן ציון ",
+    "other_designations": "בן־ציון, בן-ציון, בנציון בן ירמיהו עקיבא",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1850",
+      "death_year": "1940"
+    },
+    "bio_snippet": "מחנך, דרשן, סופר ועסקן ציבור.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 6074
+  },
+  "texts": {
+    "author": [
+      446,
+      1210,
+      8635,
+      14267,
+      32448
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      44838
+    ]
+  }
+}

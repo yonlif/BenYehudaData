@@ -1,0 +1,53 @@
+{
+  "id": 793,
+  "url": "https://benyehuda.org/author/793",
+  "metadata": {
+    "name": "נחום בומזה ",
+    "sort_name": "בומזה, נחום",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1906",
+      "death_year": "1954"
+    },
+    "bio_snippet": "משורר יידי",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1651
+  },
+  "texts": {
+    "author": [
+      50309,
+      52621,
+      52622,
+      52623,
+      52624,
+      52625,
+      54359,
+      57803,
+      57804,
+      57839,
+      57840,
+      57841,
+      57842,
+      57843,
+      57844
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

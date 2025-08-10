@@ -1,0 +1,39 @@
+{
+  "id": 699,
+  "url": "https://benyehuda.org/author/699",
+  "metadata": {
+    "name": "ישעיהו בלידן",
+    "sort_name": "בלידן, ישעיהו",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1847",
+      "death_year": "1927"
+    },
+    "bio_snippet": "רב ורופא בשירות הברון רוטשילד.",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 120
+  },
+  "texts": {
+    "author": [
+      19266
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

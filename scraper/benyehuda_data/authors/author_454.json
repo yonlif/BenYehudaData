@@ -1,0 +1,39 @@
+{
+  "id": 454,
+  "url": "https://benyehuda.org/author/454",
+  "metadata": {
+    "name": "פליה מלכין",
+    "sort_name": "מלכין, פליה",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "תרס\"ד",
+      "death_year": "1987"
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 372
+  },
+  "texts": {
+    "author": [
+      11018
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

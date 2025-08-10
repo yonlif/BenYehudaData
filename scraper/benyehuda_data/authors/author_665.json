@@ -1,0 +1,39 @@
+{
+  "id": 665,
+  "url": "https://benyehuda.org/author/665",
+  "metadata": {
+    "name": "אלכסנדר סומארוקוב",
+    "sort_name": "סומארוקוב, אלכסנדר",
+    "other_designations": "אלכסנדר סומרוקוב;",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1717",
+      "death_year": "1777"
+    },
+    "bio_snippet": "משורר ומחזאי רוסי. מניח היסודות לתיאטרון הרוסי.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "fables"
+    ],
+    "impressions_count": 84
+  },
+  "texts": {
+    "author": [
+      19196
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

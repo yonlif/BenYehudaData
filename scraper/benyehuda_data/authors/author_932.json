@@ -1,0 +1,41 @@
+{
+  "id": 932,
+  "url": "https://benyehuda.org/author/932",
+  "metadata": {
+    "name": "יחיאל פישל קסטלמן",
+    "sort_name": "קסטלמן, יחיאל פישל ",
+    "other_designations": "יחיאל פישל בן יעקב קסטלמן, הרי\"פ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1825",
+      "death_year": "?"
+    },
+    "bio_snippet": "למדן במערב אוקראינה, עלה בשנת 1850 עם משפחתו לארץ ישראל, התיישב בצפת, ונסע כשליח לקהילות היהודיות בעיראק ובכורדיסטן",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 1648
+  },
+  "texts": {
+    "author": [
+      26271,
+      26272,
+      26273
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

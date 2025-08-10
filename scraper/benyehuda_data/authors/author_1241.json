@@ -1,0 +1,39 @@
+{
+  "id": 1241,
+  "url": "https://benyehuda.org/author/1241",
+  "metadata": {
+    "name": "שמואל חיים לולי",
+    "sort_name": "לולי, שמואל חיים ",
+    "other_designations": "שמואל חיים בן דוד לוֹלי, שחבד\"ל, לולי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1788",
+      "death_year": "1843"
+    },
+    "bio_snippet": "כתב חקרי יהדות ושירה, בן דוד של שד\"ל [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 103
+  },
+  "texts": {
+    "author": [
+      40800
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 515,
+  "url": "https://benyehuda.org/author/515",
+  "metadata": {
+    "name": "רפאל ג'ובניולי",
+    "sort_name": "ג'ובניולי, רפאל",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1838",
+      "death_year": "1915"
+    },
+    "bio_snippet": "סופר ופוליטיקאי איטלקי.",
+    "languages": [
+      "it"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1206
+  },
+  "texts": {
+    "author": [
+      12029
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

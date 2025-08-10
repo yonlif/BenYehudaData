@@ -1,0 +1,37 @@
+{
+  "id": 1045,
+  "url": "https://benyehuda.org/author/1045",
+  "metadata": {
+    "name": "אריה ליב סמיאטיצקי",
+    "sort_name": "סמיאטיצקי, אריה ליב ",
+    "other_designations": "אריה ליב בן צבי סמיטיצקי, ל. סמן, א' אחירב, א. שמו, א. חיצון, אלמוני",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1883",
+      "death_year": "1945"
+    },
+    "bio_snippet": "סופר עברי, עורך, מתרגם ומורה",
+    "languages": [],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 348
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      34262
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

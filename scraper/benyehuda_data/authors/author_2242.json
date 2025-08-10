@@ -1,0 +1,62 @@
+{
+  "id": 2242,
+  "url": "https://benyehuda.org/author/2242",
+  "metadata": {
+    "name": "משה חוצין",
+    "sort_name": "חוצין, משה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "?",
+      "death_year": "1810"
+    },
+    "bio_snippet": "פייטן, בנו של ראש רבני בגדד ר' צדקה בן סעדיה חוצין",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1545
+  },
+  "texts": {
+    "author": [
+      41823,
+      41824,
+      41825,
+      41826,
+      41827,
+      41828,
+      41829,
+      41830,
+      41831,
+      41832,
+      41833,
+      41834,
+      41835,
+      41836,
+      41837,
+      41838,
+      41839,
+      41840,
+      41841,
+      41842,
+      41843,
+      41844,
+      41845,
+      41846
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

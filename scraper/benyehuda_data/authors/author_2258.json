@@ -1,0 +1,39 @@
+{
+  "id": 2258,
+  "url": "https://benyehuda.org/author/2258",
+  "metadata": {
+    "name": "יוסף בן יהודה זארק",
+    "sort_name": "זארק, יוסף בן יהודה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "1457"
+    },
+    "bio_snippet": "פייטן, נולד בספרד בסוף המאה הי\"ד,  מת אחרי שנת 1457",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 88
+  },
+  "texts": {
+    "author": [
+      40735
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

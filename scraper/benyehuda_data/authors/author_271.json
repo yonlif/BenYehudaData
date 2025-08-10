@@ -1,0 +1,47 @@
+{
+  "id": 271,
+  "url": "https://benyehuda.org/author/271",
+  "metadata": {
+    "name": "דנטה אליגיירי",
+    "sort_name": "אליגיירי, דנטה",
+    "other_designations": "דאנטה, דנטי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1265",
+      "death_year": "1321"
+    },
+    "bio_snippet": "דנטה אליגיירי, המכונה גם רק דנטה, היה משורר ופילוסוף פלורנטיני. יצירתו הגדולה ביותר, \"הקומדיה האלוהית\" נחשבת לאחת מהיצירות הספרותיות הגדולות של ימי הביניים המאוחרים ומהווה בסיס לשפה האיטלקית המודרנית.",
+    "languages": [
+      "it"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 33101
+  },
+  "texts": {
+    "author": [
+      2308,
+      28448,
+      29191,
+      30258,
+      41228
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      8676,
+      51424
+    ]
+  }
+}

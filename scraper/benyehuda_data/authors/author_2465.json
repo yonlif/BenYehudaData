@@ -1,0 +1,45 @@
+{
+  "id": 2465,
+  "url": "https://benyehuda.org/author/2465",
+  "metadata": {
+    "name": "נתניאל הות'ורן",
+    "sort_name": "הות'ורן, נתניאל ",
+    "other_designations": "נתניאל הותורן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1804",
+      "death_year": "1864"
+    },
+    "bio_snippet": " סופר אמריקאי",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 858
+  },
+  "texts": {
+    "author": [
+      44790,
+      44791,
+      44792,
+      44793,
+      44794,
+      44795,
+      57481
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 512,
+  "url": "https://benyehuda.org/author/512",
+  "metadata": {
+    "name": "אבות ישורון",
+    "sort_name": "ישורון, אבות",
+    "other_designations": "יחיאל פרלמוטר",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1904",
+      "death_year": "1992"
+    },
+    "bio_snippet": "משורר עברי ישראלי, חתן פרס ישראל לשנת תשנ\"ב (1992).",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir",
+      "poetry"
+    ],
+    "impressions_count": 138864
+  },
+  "texts": {
+    "author": [
+      54045,
+      54046,
+      54047,
+      54048,
+      54049,
+      54050,
+      54051,
+      54052,
+      54159,
+      54714,
+      54715,
+      54716,
+      54717,
+      54718,
+      54719,
+      54720,
+      54721,
+      56375,
+      56628,
+      56629,
+      56630,
+      56631,
+      56632,
+      56633,
+      56634,
+      56635,
+      56636,
+      56637,
+      56684,
+      57243,
+      57244,
+      57245,
+      57246,
+      57247,
+      57659,
+      57660,
+      57661,
+      57662,
+      57663,
+      57664,
+      58701,
+      58702,
+      58703
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      11667,
+      41757
+    ]
+  }
+}

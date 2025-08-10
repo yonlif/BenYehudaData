@@ -1,0 +1,39 @@
+{
+  "id": 657,
+  "url": "https://benyehuda.org/author/657",
+  "metadata": {
+    "name": "פרדריק מיסטרל",
+    "sort_name": "מיסטרל, פרדריק",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1830",
+      "death_year": "1914"
+    },
+    "bio_snippet": "סופר, מחזאי ומשורר צרפתי, זוכה פרס נובל לספרות (יחד עם חוזה אצ'גרי), ממחדשי הספרות הפרובנסאלית. מ-1854 עמד בראש תנועת הפליבריז' Le Félibrige ששאפה להחיות את תרבות פרובאנס.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 104
+  },
+  "texts": {
+    "author": [
+      19206
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

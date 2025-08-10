@@ -1,0 +1,53 @@
+{
+  "id": 899,
+  "url": "https://benyehuda.org/author/899",
+  "metadata": {
+    "name": "ישראל זנגוויל",
+    "sort_name": "זנגוויל, ישראל ",
+    "other_designations": "ישראל זנגויל;  ישראל זנגביל",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1864",
+      "death_year": "1926"
+    },
+    "bio_snippet": "סופר יהודי־בריטי ופעיל ציוני. מייסד התנועה הטריטוריאליסטית היהודית.\r\n\r\n",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 3119
+  },
+  "texts": {
+    "author": [
+      3244,
+      25757,
+      25857,
+      25858,
+      25860,
+      25861,
+      25862,
+      35160,
+      47924,
+      53910,
+      53911,
+      53912
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      1589,
+      25859
+    ]
+  }
+}

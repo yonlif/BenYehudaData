@@ -1,0 +1,39 @@
+{
+  "id": 3164,
+  "url": "https://benyehuda.org/author/3164",
+  "metadata": {
+    "name": "לאה רקוב",
+    "sort_name": "רקוב, לאה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1928",
+      "death_year": "1948"
+    },
+    "bio_snippet": "ילידת עתלית. במלחמת העצמאות השתתפה בליווי שיירות, ונפלה בשער הגיא [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 138
+  },
+  "texts": {
+    "author": [
+      54931
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

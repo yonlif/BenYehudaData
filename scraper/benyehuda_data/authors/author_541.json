@@ -1,0 +1,39 @@
+{
+  "id": 541,
+  "url": "https://benyehuda.org/author/541",
+  "metadata": {
+    "name": "מרקוס ויטרוביוס פוליו",
+    "sort_name": "פוליו, מרקוס ויטרוביוס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "70/80 לפנה\"ס",
+      "death_year": "אחרי 15 לספירה"
+    },
+    "bio_snippet": "היה סופר, אדריכל ומהנדס אזרחי וצבאי רומאי בן המאה ה-1 לפנה\"ס.",
+    "languages": [
+      "la"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 288
+  },
+  "texts": {
+    "author": [
+      18053
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

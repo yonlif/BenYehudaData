@@ -1,0 +1,39 @@
+{
+  "id": 1305,
+  "url": "https://benyehuda.org/author/1305",
+  "metadata": {
+    "name": "יצחק טריואקס ",
+    "sort_name": "טריואקס, יצחק ",
+    "other_designations": "אברהם יצחק טריואקס, אברהם יצחק טריוקס, אברהם יצחק טריוואקס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1893",
+      "death_year": "1952"
+    },
+    "bio_snippet": "עיתונאי וסופר ציוני יידי עברי, מו\"ל ומפיץ ספרים בוורשה ובארץ ישראל",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 778
+  },
+  "texts": {
+    "author": [
+      37720
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

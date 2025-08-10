@@ -1,0 +1,39 @@
+{
+  "id": 1658,
+  "url": "https://benyehuda.org/author/1658",
+  "metadata": {
+    "name": "אדמונד ספנסר",
+    "sort_name": "ספנסר, אדמונד ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1553",
+      "death_year": "1599"
+    },
+    "bio_snippet": "משורר ומלומד אנגלי. נודע ביצירתו \"מלכת הפיות\", (The Faerie Queene) אפוס רומנטי אלגורי שהשפיע על השירה האנגלית לדורותיה. מגדולי המשוררים האנגלים",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 367
+  },
+  "texts": {
+    "author": [
+      34419
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

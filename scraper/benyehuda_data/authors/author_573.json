@@ -1,0 +1,43 @@
+{
+  "id": 573,
+  "url": "https://benyehuda.org/author/573",
+  "metadata": {
+    "name": "פרנץ קפקא",
+    "sort_name": "קפקא, פרנץ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1883",
+      "death_year": "1924"
+    },
+    "bio_snippet": " סופר יהודי יליד פראג שכתב בשפה הגרמנית ונחשב לאחד מגדולי הסופרים של המאה העשרים. בין כתביו הבולטים: הרומנים \"המשפט\" ו\"הטירה\", הנובלה \"הגלגול\" ואחרים. כתביו עוסקים במצבו של האדם המודרני העומד מול מערכות ביורוקרטיות רבות עוצמה, בהשפעת הטכנולוגיה על החברה וברגשות ניכור ואטימות ביחסים בין בני האדם.\r\n\r\nכיום, בכמה שפות, נכנס לשימוש הביטוי \"קפקאי\" המתאר דבר מה מסובך שלא לצורך, אבסורדי, מתסכל ומדכא, ובמיוחד ביורוקרטיה בעלת מאפיינים אלה.",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 21681
+  },
+  "texts": {
+    "author": [
+      14094,
+      14095
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      32770,
+      53543
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 50,
+  "url": "https://benyehuda.org/author/50",
+  "metadata": {
+    "name": "גליקל מהמלן",
+    "sort_name": "מהמלן, גליקל",
+    "other_designations": "גליקל האמיל",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": "medieval",
+      "birth_year": "1646",
+      "death_year": "1724"
+    },
+    "bio_snippet": "אשת עסקים וכותבת זיכרונות יהודייה אשכנזייה.",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 7667
+  },
+  "texts": {
+    "author": [
+      7975
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

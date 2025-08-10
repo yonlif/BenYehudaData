@@ -1,0 +1,39 @@
+{
+  "id": 872,
+  "url": "https://benyehuda.org/author/872",
+  "metadata": {
+    "name": "אליאס לנרוט",
+    "sort_name": "לנרוט, אליאס",
+    "other_designations": " Elias Lönnrot",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1802",
+      "death_year": "1884"
+    },
+    "bio_snippet": "פילולוג, חוקר פולקלור, משורר, רופא ובוטנאי פיני. נודע בעיקר באיסוף שירי עם מסורתיים פינים ויצירת האפוס הלאומי קלוולה. בעל תפקיד מכריע בהתעוררות הספרות הפינית ובעיצוב הזהות הלאומית של עמו.",
+    "languages": [
+      "fi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1747
+  },
+  "texts": {
+    "author": [
+      4242
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

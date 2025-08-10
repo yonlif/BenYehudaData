@@ -1,0 +1,39 @@
+{
+  "id": 2429,
+  "url": "https://benyehuda.org/author/2429",
+  "metadata": {
+    "name": "ישע סמפטר",
+    "sort_name": "סמפטר, ישע ",
+    "other_designations": "ג'סי אתל סמפטר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": "revival",
+      "birth_year": "1883",
+      "death_year": "1938"
+    },
+    "bio_snippet": "משוררת, פעילה חברתית ומחנכת ארץ ישראלית, ילידת ארצות הברית",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 166
+  },
+  "texts": {
+    "author": [
+      7254
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

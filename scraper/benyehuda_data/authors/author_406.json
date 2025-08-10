@@ -1,0 +1,39 @@
+{
+  "id": 406,
+  "url": "https://benyehuda.org/author/406",
+  "metadata": {
+    "name": "רודולף אריך ראספה",
+    "sort_name": "ראספה, רודולף אריך",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1736",
+      "death_year": "1794"
+    },
+    "bio_snippet": "היה סופר, ספרן ומדען גרמני. ",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 546
+  },
+  "texts": {
+    "author": [
+      10289
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 3338,
+  "url": "https://benyehuda.org/author/3338",
+  "metadata": {
+    "name": "פנחס שדה",
+    "sort_name": "שדה, פנחס",
+    "other_designations": "פנחס פלדמן",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1929",
+      "death_year": "1994"
+    },
+    "bio_snippet": "סופר, משורר ומתרגם עברי.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 626
+  },
+  "texts": {
+    "author": [
+      56402,
+      56403,
+      57723,
+      57724,
+      57725,
+      57726,
+      57727,
+      57728,
+      57729,
+      57730
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      56404,
+      56405,
+      56406
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [
+      35882
+    ],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2866,
+  "url": "https://benyehuda.org/author/2866",
+  "metadata": {
+    "name": "אמנון לינדר",
+    "sort_name": "לינדר, אמנון ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1937",
+      "death_year": ""
+    },
+    "bio_snippet": "עוסק בהיסטוריה אינטלקטואלית אירופאית בימי הביניים, עם דגש על גישות כלפי יהודים, יהדות, ירושלים וארץ הקודש [לפי אתר האוניברסיטה העברית, החוג להיסטוריה]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 835
+  },
+  "texts": {
+    "author": [
+      52382
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

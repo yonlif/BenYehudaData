@@ -1,0 +1,47 @@
+{
+  "id": 1192,
+  "url": "https://benyehuda.org/author/1192",
+  "metadata": {
+    "name": "שבתאי (שבו) לוי",
+    "sort_name": "לוי, שבתאי (שבו) ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1918",
+      "death_year": "2005"
+    },
+    "bio_snippet": "סופר, מורה לביולוגיה, חוקר בדואים בסיני, ממקימי החברה להגנת הטבע",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 1856
+  },
+  "texts": {
+    "author": [
+      43662,
+      44223,
+      47276,
+      47277,
+      53811,
+      53812,
+      53813
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

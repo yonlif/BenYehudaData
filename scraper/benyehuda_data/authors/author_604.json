@@ -1,0 +1,46 @@
+{
+  "id": 604,
+  "url": "https://benyehuda.org/author/604",
+  "metadata": {
+    "name": "יונת ואלכסנדר סנד",
+    "sort_name": "סנד, יונת ואלכסנדר",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "other",
+      "period": "modern",
+      "birth_year": "1926",
+      "death_year": "2004"
+    },
+    "bio_snippet": "זוג סופרים ומתרגמים ישראלים. כתבו את כל ספריהם במשותף עד פטירתו של אלכסנדר.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 10698
+  },
+  "texts": {
+    "author": [
+      16165,
+      16166,
+      22342,
+      22867,
+      28490,
+      56298
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      8244
+    ]
+  }
+}

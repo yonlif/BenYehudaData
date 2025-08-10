@@ -1,0 +1,39 @@
+{
+  "id": 3514,
+  "url": "https://benyehuda.org/author/3514",
+  "metadata": {
+    "name": "דניאל הלל",
+    "sort_name": "הלל, דניאל ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1930",
+      "death_year": "2021"
+    },
+    "bio_snippet": "אגרונום וחוקר ישראלי. מחקריו בנושא השקיה שיפרו באופן דרמטי את התפוקה החקלאית באזור הנגב, ובאזורים צחיחים אחרים ברחבי העולם. בשנותיו האחרונות עסק במחקר במטרה להתאים טכניקות חקלאיות להתמודדות עם מחסור במים הנובע מתהליכי מדבור. בשנת 2012 זכה בפרס המזון העולמי, והוא הישראלי היחיד שזכה בפרס זה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 98
+  },
+  "texts": {
+    "author": [
+      58496
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

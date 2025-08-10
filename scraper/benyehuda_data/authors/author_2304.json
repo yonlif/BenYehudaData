@@ -1,0 +1,39 @@
+{
+  "id": 2304,
+  "url": "https://benyehuda.org/author/2304",
+  "metadata": {
+    "name": "אברהם בן שבתי הכהן",
+    "sort_name": "הכהן, אברהם בן שבתי ",
+    "other_designations": "Abraham Coen (Zante); Abraham Cohen of Zante; Abraham Cohen Zante",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1670",
+      "death_year": "1729"
+    },
+    "bio_snippet": "רופא יהודי, רב, פילוסוף דתי ומשורר, חי באי זאנטה (זקינתוס)",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 81
+  },
+  "texts": {
+    "author": [
+      40778
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

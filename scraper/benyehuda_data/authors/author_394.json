@@ -1,0 +1,43 @@
+{
+  "id": 394,
+  "url": "https://benyehuda.org/author/394",
+  "metadata": {
+    "name": "צ'ארלס דיקנס",
+    "sort_name": "דיקנס, צ'ארלס",
+    "other_designations": "צ'רלס דיקנס; צ'ארלס דיקנז",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1812",
+      "death_year": "1870"
+    },
+    "bio_snippet": "סופר, עיתונאי ושחקן תיאטרון אנגלי בתקופה הוויקטוריאנית.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 12017
+  },
+  "texts": {
+    "author": [
+      9607,
+      10870,
+      22757,
+      33056,
+      34326
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

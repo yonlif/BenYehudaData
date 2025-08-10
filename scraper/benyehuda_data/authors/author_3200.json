@@ -1,0 +1,45 @@
+{
+  "id": 3200,
+  "url": "https://benyehuda.org/author/3200",
+  "metadata": {
+    "name": "סאשה צ'ורני",
+    "sort_name": "צ'ורני, סאשה ",
+    "other_designations": "סאשה צ'רני; סשה צ'ורני; סשה צ'רני; אלכסנדר מיכאלוביץ' גליקברג",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1880",
+      "death_year": "1932"
+    },
+    "bio_snippet": "משורר, כותב סאטירות וסופר ילדים רוסי",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "fables",
+      "poetry"
+    ],
+    "impressions_count": 220
+  },
+  "texts": {
+    "author": [
+      19260,
+      54902,
+      54903,
+      54904,
+      58709,
+      58720
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

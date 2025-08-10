@@ -1,0 +1,48 @@
+{
+  "id": 1496,
+  "url": "https://benyehuda.org/author/1496",
+  "metadata": {
+    "name": "יעקב יהושע",
+    "sort_name": "יהושע, יעקב ",
+    "other_designations": "יהושע בן־חנניה, יהושע בן-חנניה",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1905",
+      "death_year": "1982"
+    },
+    "bio_snippet": "מזרחן, מנהל המחלקה המוסלמית והדרוזית במשרד הדתות, סופר וחוקר היישוב היהודי הוותיק בירושלים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir",
+      "reference"
+    ],
+    "impressions_count": 21749
+  },
+  "texts": {
+    "author": [
+      33358,
+      33362,
+      33369,
+      33372,
+      33385,
+      33417,
+      33581,
+      33592,
+      33840
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

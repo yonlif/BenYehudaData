@@ -1,0 +1,39 @@
+{
+  "id": 1690,
+  "url": "https://benyehuda.org/author/1690",
+  "metadata": {
+    "name": "היינריך הופמן",
+    "sort_name": "הופמן, היינריך ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1809",
+      "death_year": "1894"
+    },
+    "bio_snippet": " סופר ורופא גרמני. ספרו הנודע ביותר הוא יהושע הפרוע",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 3858
+  },
+  "texts": {
+    "author": [
+      34508
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

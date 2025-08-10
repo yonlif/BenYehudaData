@@ -1,0 +1,68 @@
+{
+  "id": 1443,
+  "url": "https://benyehuda.org/author/1443",
+  "metadata": {
+    "name": "משלם בן שלמה דיפיארה ",
+    "sort_name": "דיפיארה , משלם בן שלמה ",
+    "other_designations": "משולם בן שלמה דיפיארה ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": ".",
+      "death_year": "."
+    },
+    "bio_snippet": "משורר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 3276
+  },
+  "texts": {
+    "author": [
+      33187,
+      33188,
+      33189,
+      33190,
+      33191,
+      33192,
+      33193,
+      33194,
+      33195,
+      33290,
+      33291,
+      33292,
+      33293,
+      33294,
+      33295,
+      33296,
+      33297,
+      33298,
+      34172,
+      34173,
+      34174,
+      34175,
+      34176,
+      34177,
+      34178,
+      34179,
+      34180,
+      34181,
+      34182,
+      34183
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

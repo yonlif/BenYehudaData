@@ -1,0 +1,61 @@
+{
+  "id": 393,
+  "url": "https://benyehuda.org/author/393",
+  "metadata": {
+    "name": "יאנוש קורצ'אק",
+    "sort_name": "קורצ'אק, יאנוש",
+    "other_designations": "הנריק גולדשמיט, ינוש קורצ'אק, ינוש קורצ'ק, יאנוש קורצ'ק",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1878",
+      "death_year": "1942"
+    },
+    "bio_snippet": "רופא, מחנך והוגה חינוכי, סופר, פובליציסט ופעיל חברתי יהודי פולני.",
+    "languages": [
+      "pl"
+    ],
+    "genres": [
+      "article",
+      "letters",
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 32828
+  },
+  "texts": {
+    "author": [
+      9306,
+      9308,
+      9310,
+      9312,
+      9317,
+      9320,
+      9321,
+      9324,
+      9326,
+      9330,
+      10909,
+      11447,
+      13637,
+      13726,
+      14245,
+      14246,
+      14289,
+      14298,
+      20935,
+      28865
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 1054,
+  "url": "https://benyehuda.org/author/1054",
+  "metadata": {
+    "name": "שאול גורדון",
+    "sort_name": "גורדון, שאול ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1881",
+      "death_year": "1956"
+    },
+    "bio_snippet": "בנקאי, מחבר ספרי עיון ומתרגם",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "lexicon"
+    ],
+    "impressions_count": 3814
+  },
+  "texts": {
+    "author": [
+      28905,
+      31473
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

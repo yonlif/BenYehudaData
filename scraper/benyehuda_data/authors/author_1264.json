@@ -1,0 +1,63 @@
+{
+  "id": 1264,
+  "url": "https://benyehuda.org/author/1264",
+  "metadata": {
+    "name": "מרדכי גיאורגו לאנגר",
+    "sort_name": "לאנגר, מרדכי גיאורגו ",
+    "other_designations": "מרדכי דב גיאורגו ייז'י, לנגר, גאורגו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1894",
+      "death_year": "1943"
+    },
+    "bio_snippet": "משורר עברי, חוקר ומסאי, עיתונאי ומורה, הראשון ביהדות המערב בעת החדשה שהגיע מלשון זרה לשירה העברית. כתב בגרמנית, צ'כית ועברית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 2370
+  },
+  "texts": {
+    "author": [
+      34988,
+      34989,
+      34990,
+      34991,
+      34992,
+      34993,
+      35246,
+      35247,
+      35248,
+      35249,
+      35250,
+      35251,
+      35252,
+      35253,
+      35254,
+      35255,
+      35256,
+      35257,
+      35258,
+      35259,
+      35260,
+      35261,
+      35262
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      51219
+    ]
+  }
+}

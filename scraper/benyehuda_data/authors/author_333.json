@@ -1,0 +1,39 @@
+{
+  "id": 333,
+  "url": "https://benyehuda.org/author/333",
+  "metadata": {
+    "name": "אמה לזרוס",
+    "sort_name": "לזרוס, אמה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1849",
+      "death_year": "1887"
+    },
+    "bio_snippet": "הייתה משוררת יהודייה אמריקאית, ממוצא פורטוגלי - גרמני. שירה המפורסם ביותר הוא הסונטה \"הקולוסוס החדש\", החקוק על פסל החירות בניו יורק.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1575
+  },
+  "texts": {
+    "author": [
+      6951
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

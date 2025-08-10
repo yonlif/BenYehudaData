@@ -1,0 +1,70 @@
+{
+  "id": 1389,
+  "url": "https://benyehuda.org/author/1389",
+  "metadata": {
+    "name": "אהרן מיכל ברכיהו",
+    "sort_name": "ברכיהו, אהרן מיכל ",
+    "other_designations": "בורוכוב, ברוכוב, אהרן מיכאל ברכיהו, אהרן מיכל בן אבא יעקב הכהן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1869",
+      "death_year": "1946"
+    },
+    "bio_snippet": "פובליציסט ציוני, מזכיר הוועד האודיסאי, איש העלייה השנייה, מזכיר בצלאל",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 3170
+  },
+  "texts": {
+    "author": [
+      32795,
+      32796,
+      32797,
+      32798,
+      32799,
+      32800,
+      32801,
+      32802,
+      32803,
+      32804,
+      32805,
+      32806,
+      32807,
+      32808,
+      32809,
+      32810,
+      32811,
+      32812,
+      32813,
+      32814,
+      32815,
+      32816,
+      32817,
+      32818,
+      32819,
+      32820,
+      32821,
+      32822,
+      32823,
+      32824
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      3109
+    ]
+  }
+}

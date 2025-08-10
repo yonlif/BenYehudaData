@@ -1,0 +1,39 @@
+{
+  "id": 2297,
+  "url": "https://benyehuda.org/author/2297",
+  "metadata": {
+    "name": "יוסף פיאמיטה",
+    "sort_name": "פיאמיטה, יוסף ",
+    "other_designations": "יוסף בן שלמה פיאמיטה; יוסף פיאמיטא; Josef Fiamita; Josef Fiammetta",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "1721"
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 96
+  },
+  "texts": {
+    "author": [
+      40771
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": 3019,
+  "url": "https://benyehuda.org/author/3019",
+  "metadata": {
+    "name": "מנחם בורשטין",
+    "sort_name": "בורשטין, מנחם ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1930",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד ווהלין. נפל במלחמת העצמאות במשלט בדרך לירושלים. לאחר מותו יצא לאור ספר עם שיריו ורשימותיו [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 594
+  },
+  "texts": {
+    "author": [
+      54264,
+      54265,
+      54266,
+      54267,
+      54268,
+      54269,
+      54270,
+      54271,
+      54272,
+      54273,
+      54274,
+      54275,
+      54276
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

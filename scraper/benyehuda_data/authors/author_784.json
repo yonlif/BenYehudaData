@@ -1,0 +1,39 @@
+{
+  "id": 784,
+  "url": "https://benyehuda.org/author/784",
+  "metadata": {
+    "name": "מרדכי אמתי",
+    "sort_name": "אמתי, מרדכי",
+    "other_designations": "מרדכי אמיתי; מרדכי אמִתי; מרדכי ורהפט; מרדכי וורהפט",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1914",
+      "death_year": "1993"
+    },
+    "bio_snippet": "סופר עברי, סופר ילדים, מתרגם ועורך. מחייה ההגדה של פסח בצורתה החילונית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 645
+  },
+  "texts": {
+    "author": [
+      23130
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

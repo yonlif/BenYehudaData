@@ -1,0 +1,39 @@
+{
+  "id": 1740,
+  "url": "https://benyehuda.org/author/1740",
+  "metadata": {
+    "name": "דוד קאופמן",
+    "sort_name": "קאופמן, דוד ",
+    "other_designations": "דוד קויפמן; דוד בן יהודה ליב קויפמן; דוד קויפמאנן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1852",
+      "death_year": "1899"
+    },
+    "bio_snippet": "מלומד יהודי יליד מוראביה, שהתפרסם כחוקר מדעי היהדות, כמרצה וכאספן. התיישב בהונגריה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 268
+  },
+  "texts": {
+    "author": [
+      53240
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

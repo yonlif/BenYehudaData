@@ -1,0 +1,39 @@
+{
+  "id": 831,
+  "url": "https://benyehuda.org/author/831",
+  "metadata": {
+    "name": "דבורה דביר",
+    "sort_name": "דביר, דבורה",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1896",
+      "death_year": "1981"
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 3319
+  },
+  "texts": {
+    "author": [
+      24121
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2222,
+  "url": "https://benyehuda.org/author/2222",
+  "metadata": {
+    "name": "ליאונטי בר משה",
+    "sort_name": "בר משה, ליאונטי ",
+    "other_designations": "ליאונטי בן משה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "מרומא, חי במחצית השניה של המאה הי\"ב",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 100
+  },
+  "texts": {
+    "author": [
+      38422
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "id": 53,
+  "url": "https://benyehuda.org/author/53",
+  "metadata": {
+    "name": "פנחס גריבסקי",
+    "sort_name": "גריבסקי, פנחס ",
+    "other_designations": "פנחס מרדכי בן צבי, פינחס, גרייבסקי, גראיעווסקי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1873",
+      "death_year": "1941"
+    },
+    "bio_snippet": "סופר ומתעד חיי היהודים בירושלים.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir",
+      "reference"
+    ],
+    "impressions_count": 33744
+  },
+  "texts": {
+    "author": [
+      7589,
+      7624,
+      11832,
+      11833,
+      11846,
+      11847,
+      11848,
+      11849,
+      11850,
+      11851,
+      11852,
+      11853,
+      12628,
+      15152,
+      17377,
+      17378,
+      17380,
+      17381,
+      17382,
+      17383,
+      17384,
+      17385,
+      25404,
+      26544,
+      27784,
+      30647,
+      30651,
+      30742,
+      30816,
+      30820,
+      30970,
+      31290,
+      31468,
+      32698,
+      32727,
+      32745,
+      32899,
+      33050,
+      33076,
+      33077,
+      33167,
+      33175,
+      33478,
+      33516,
+      33937,
+      34118,
+      34261,
+      34549,
+      35189,
+      39416
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

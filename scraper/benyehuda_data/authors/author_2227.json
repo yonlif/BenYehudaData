@@ -1,0 +1,39 @@
+{
+  "id": 2227,
+  "url": "https://benyehuda.org/author/2227",
+  "metadata": {
+    "name": "אירנה גוסמן",
+    "sort_name": "גוסמן, אירנה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1912",
+      "death_year": "?"
+    },
+    "bio_snippet": "מחזאית (כתבה כפי הנראה מחזה יחיד, בגרמנית)",
+    "languages": [
+      "pl"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 151
+  },
+  "texts": {
+    "author": [
+      41735
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

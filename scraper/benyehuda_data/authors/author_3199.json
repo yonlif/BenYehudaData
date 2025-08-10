@@ -1,0 +1,39 @@
+{
+  "id": 3199,
+  "url": "https://benyehuda.org/author/3199",
+  "metadata": {
+    "name": "ישראל חרודי",
+    "sort_name": "חרודי, ישראל",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1898",
+      "death_year": "1972"
+    },
+    "bio_snippet": "איש גדוד העבודה; ממקימי תל יוסף. שכל את בנו ב\"שבת השחורה\".",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "letters"
+    ],
+    "impressions_count": 110
+  },
+  "texts": {
+    "author": [
+      54806
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

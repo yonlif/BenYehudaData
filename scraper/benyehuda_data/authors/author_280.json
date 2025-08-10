@@ -1,0 +1,76 @@
+{
+  "id": 280,
+  "url": "https://benyehuda.org/author/280",
+  "metadata": {
+    "name": "מקסים גורקי",
+    "sort_name": "גורקי, מקסים",
+    "other_designations": "אלכסיי מקסימוֹביץ' פֶּשְקוֹב ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1868",
+      "death_year": "1936"
+    },
+    "bio_snippet": "סופר רוסי, מייסד ספרות הריאליזם הסוציאליסטי",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "article",
+      "drama",
+      "letters",
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 12024
+  },
+  "texts": {
+    "author": [
+      2731,
+      4395,
+      4408,
+      4461,
+      4490,
+      4527,
+      4558,
+      4576,
+      16550,
+      16551,
+      16552,
+      16553,
+      16554,
+      16555,
+      16556,
+      16557,
+      16638,
+      16639,
+      16640,
+      16641,
+      16642,
+      16643,
+      35073,
+      38954,
+      38957,
+      38968,
+      41555,
+      51793,
+      55744,
+      56472,
+      58509
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      32344,
+      43806
+    ]
+  }
+}

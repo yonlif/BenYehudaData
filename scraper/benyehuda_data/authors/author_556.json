@@ -1,0 +1,39 @@
+{
+  "id": 556,
+  "url": "https://benyehuda.org/author/556",
+  "metadata": {
+    "name": "דיוניסיוס סולומוס",
+    "sort_name": "סולומוס, דיוניסיוס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1798",
+      "death_year": "1857"
+    },
+    "bio_snippet": "משורר יווני. מחבר ההמנון של יוון.",
+    "languages": [
+      "el"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 609
+  },
+  "texts": {
+    "author": [
+      13625
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

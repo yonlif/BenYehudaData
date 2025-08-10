@@ -1,0 +1,43 @@
+{
+  "id": 2335,
+  "url": "https://benyehuda.org/author/2335",
+  "metadata": {
+    "name": "יוסף רביקוב",
+    "sort_name": "רביקוב, יוסף",
+    "other_designations": "רב אשי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1903",
+      "death_year": "1981"
+    },
+    "bio_snippet": "סופר ומתרגם ישראלי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 197
+  },
+  "texts": {
+    "author": [
+      42647
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      58639,
+      58640,
+      58641
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

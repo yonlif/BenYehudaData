@@ -1,0 +1,41 @@
+{
+  "id": 1441,
+  "url": "https://benyehuda.org/author/1441",
+  "metadata": {
+    "name": "יהודה ליב אבן־ספיר",
+    "sort_name": "אבן־ספיר, יהודה ליב ",
+    "other_designations": "יהודה ליב אבן-ספיר, יהודה ליב אבן ספיר, יהודה ספירשטיין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1134
+  },
+  "texts": {
+    "author": [
+      33184,
+      33185,
+      33186
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

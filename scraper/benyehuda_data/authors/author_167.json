@@ -1,0 +1,78 @@
+{
+  "id": 167,
+  "url": "https://benyehuda.org/author/167",
+  "metadata": {
+    "name": "משה חיים לוצטו",
+    "sort_name": "לוצטו, משה חיים",
+    "other_designations": "רמח\"ל; רבי משה חיים לוצטו; רבי משה חיים לוצאטו; רמחל; משה חיים לוצאטו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1707",
+      "death_year": "1746"
+    },
+    "bio_snippet": "רב, משורר, מקובל, איש מוסר ומחשבה, מחזאי, סופר, וחוקר יהודי־איטלקי. מחבר הספר מסילת ישרים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama",
+      "poetry",
+      "reference"
+    ],
+    "impressions_count": 40506
+  },
+  "texts": {
+    "author": [
+      167,
+      286,
+      769,
+      4189,
+      4516,
+      4847,
+      5214,
+      5531,
+      5596,
+      5921,
+      6242,
+      6298,
+      6620,
+      6901,
+      6954,
+      7226,
+      7280,
+      7604,
+      7800,
+      7919,
+      8121,
+      8246,
+      8443,
+      8569,
+      17282,
+      20029,
+      42182,
+      42183,
+      53742
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      6566
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      303,
+      7756,
+      31310,
+      50084,
+      53293,
+      53294
+    ]
+  }
+}

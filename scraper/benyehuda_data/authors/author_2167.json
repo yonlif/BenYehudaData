@@ -1,0 +1,42 @@
+{
+  "id": 2167,
+  "url": "https://benyehuda.org/author/2167",
+  "metadata": {
+    "name": "אריאל בן ציון",
+    "sort_name": "בן ציון, אריאל ",
+    "other_designations": "אריאל בן-ציון; אריאל בן־ציון; אריאל בן-ציון (לוי); אריאל בן־ציון (לוי); אריאל בנציון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1880",
+      "death_year": "1932"
+    },
+    "bio_snippet": "פילוסוף, היסטוריון, רב ומשורר בן היישוב הספרדי בירושלים. נודע כפעיל ציוני כריזמטי ובעל תרומה משמעותית להפצת הציונות בתפוצה הספרדית־מזרחית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 196
+  },
+  "texts": {
+    "author": [
+      47973
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      47974
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

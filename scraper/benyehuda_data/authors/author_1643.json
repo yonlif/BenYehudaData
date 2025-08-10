@@ -1,0 +1,41 @@
+{
+  "id": 1643,
+  "url": "https://benyehuda.org/author/1643",
+  "metadata": {
+    "name": "קונסטנטין בַּלמוֹנט",
+    "sort_name": "בלמונט, קונסטנטין",
+    "other_designations": "קונסטנטין בלמונט; קונסטנטין דמיטרייביץ' בלמונט",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1867",
+      "death_year": "1942"
+    },
+    "bio_snippet": "משורר ומתרגם סימבוליסטי רוסי, מגדולי תקופת הכסף בשירה הרוסית",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 491
+  },
+  "texts": {
+    "author": [
+      35068,
+      35069,
+      35070
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

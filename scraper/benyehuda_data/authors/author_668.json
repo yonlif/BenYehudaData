@@ -1,0 +1,42 @@
+{
+  "id": 668,
+  "url": "https://benyehuda.org/author/668",
+  "metadata": {
+    "name": "לודוויג היינריך פון ניקולאי",
+    "sort_name": "ניקולאי, לודוויג היינריך פון",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1737",
+      "death_year": "1820"
+    },
+    "bio_snippet": "משורר גרמני איש עידן ההשכלה.",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "fables"
+    ],
+    "impressions_count": 97
+  },
+  "texts": {
+    "author": [
+      19188,
+      19189,
+      19190,
+      19191
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

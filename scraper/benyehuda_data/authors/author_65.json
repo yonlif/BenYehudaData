@@ -1,0 +1,61 @@
+{
+  "id": 65,
+  "url": "https://benyehuda.org/author/65",
+  "metadata": {
+    "name": "יחיאל יוסף לבונטין",
+    "sort_name": "לבונטין, יחיאל יוסף",
+    "other_designations": "חושי הארכי; יחיאל יוסף ליבונטין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1861",
+      "death_year": "1936"
+    },
+    "bio_snippet": "סופר עברי, מהנדס בהכשרתו וכלכלן, חובב ציון וחבר במסדר 'בני משה'.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 5611
+  },
+  "texts": {
+    "author": [
+      2125,
+      2437,
+      2752,
+      3070,
+      3389,
+      3707,
+      3950,
+      4039,
+      4355,
+      4673,
+      5075,
+      5370,
+      6876,
+      9595,
+      9596,
+      9597,
+      9598,
+      9599,
+      9600,
+      9601,
+      9602
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

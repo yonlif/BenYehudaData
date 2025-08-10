@@ -1,0 +1,41 @@
+{
+  "id": 2975,
+  "url": "https://benyehuda.org/author/2975",
+  "metadata": {
+    "name": "אביגדור אריכא",
+    "sort_name": "אריכא, אביגדור ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1929",
+      "death_year": "2010"
+    },
+    "bio_snippet": "צייר ומאייר ישראלי־צרפתי, יהודי יליד רומניה. יצירותיו הריאליסטיות זכו להצלחה גדולה ברחבי העולם ונמצאות באוספי מוזיאונים רבים בעולם. בנוסף, שימש אריכא גם כחוקר תולדות האמנות",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 128
+  },
+  "texts": {
+    "author": [
+      57221
+    ],
+    "editor": [],
+    "illustrator": [
+      54680
+    ],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

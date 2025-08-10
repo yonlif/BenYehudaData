@@ -1,0 +1,39 @@
+{
+  "id": 2576,
+  "url": "https://benyehuda.org/author/2576",
+  "metadata": {
+    "name": "ארתור קונאן דויל",
+    "sort_name": "קונאן דויל, ארתור ",
+    "other_designations": "ארתור קונן דויל",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1859",
+      "death_year": "1930"
+    },
+    "bio_snippet": "סופר סקוטי, ידוע בעיקר בשל סיפורי הבלש הבדיוני שרלוק הולמס, אשר נחשבו לחידוש משמעותי בתחום הספרות הבלשית. הוא היה סופר פורה, שעבודותיו האחרות כללו סיפורי מדע בדיוני, רומנים היסטוריים, מחזות ושירה. קונאן דויל היה רופא בהכשרתו",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 314
+  },
+  "texts": {
+    "author": [
+      46764
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

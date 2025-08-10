@@ -1,0 +1,39 @@
+{
+  "id": 817,
+  "url": "https://benyehuda.org/author/817",
+  "metadata": {
+    "name": "אדואר רנה דה לבּולה",
+    "sort_name": "לבולה, אדואר רנה דה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1811",
+      "death_year": "1883"
+    },
+    "bio_snippet": "משפטן ,משורר, סופר ופעיל נגד העבדות. הגה רעיון הענקת אנדרטה מהעם הצרפתי לעם האמריקאי, שהתגשם בפסל העצמאות שבנמל ניו יורק.",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 561
+  },
+  "texts": {
+    "author": [
+      24245
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

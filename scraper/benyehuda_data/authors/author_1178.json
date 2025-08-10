@@ -1,0 +1,51 @@
+{
+  "id": 1178,
+  "url": "https://benyehuda.org/author/1178",
+  "metadata": {
+    "name": "יהודה ליב לוין (יהל״ל)",
+    "sort_name": "לוין, יהודה ליב ",
+    "other_designations": "לעווין, יהלל, יְהַלֵּ״ל, יְהָלַ״ל; יהודה לייב לוין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1844",
+      "death_year": "1925"
+    },
+    "bio_snippet": "פובליציסט, מסאי, מתרגם, משורר וסופר משכיל עברי, מראשוני חיבת ציון",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir",
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 1719
+  },
+  "texts": {
+    "author": [
+      33427,
+      51523,
+      51524,
+      51525,
+      51526,
+      51527,
+      51528,
+      51529,
+      51984
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      30349
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 88,
+  "url": "https://benyehuda.org/author/88",
+  "metadata": {
+    "name": "יוסף  ויתקין",
+    "sort_name": "ויתקין, יוסף ",
+    "other_designations": "יוסף בן שמעון ויתקין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1876",
+      "death_year": "1912"
+    },
+    "bio_snippet": "איש חינוך, מראשוני תנועת העבודה, חבר במפלגת הפועל הצעיר ודמות מפתח במעבר מהעלייה הראשונה לעלייה השנייה.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "letters",
+      "reference"
+    ],
+    "impressions_count": 14869
+  },
+  "texts": {
+    "author": [
+      497,
+      917,
+      6403,
+      6727,
+      7055,
+      7385,
+      7705,
+      8023,
+      8348,
+      8673,
+      17992
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      5721,
+      52997
+    ]
+  }
+}

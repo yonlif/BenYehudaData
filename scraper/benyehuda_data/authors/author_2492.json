@@ -1,0 +1,39 @@
+{
+  "id": 2492,
+  "url": "https://benyehuda.org/author/2492",
+  "metadata": {
+    "name": "סמואל טיילור קולרידג'",
+    "sort_name": "קולרידג', סמואל טיילור ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1772",
+      "death_year": "1834"
+    },
+    "bio_snippet": "משורר, מבקר ופילוסוף אנגלי, שהיה, יחד עם ידידו ויליאם וורדסוורת', מהדור הראשון של המשוררים הרומנטיים באנגליה",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 173
+  },
+  "texts": {
+    "author": [
+      55236
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

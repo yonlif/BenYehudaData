@@ -1,0 +1,39 @@
+{
+  "id": 3020,
+  "url": "https://benyehuda.org/author/3020",
+  "metadata": {
+    "name": "יהודה ביטנסקי",
+    "sort_name": "ביטנסקי, יהודה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1924",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד וילנה. למד היסטוריה, פילוסופיה ופסיכולוגיה באוניברסיטה העברית בירושלים. נפל עם שיירת הל\"ה בדרכה לגוש עציון הנצור. השאיר עבודות ומחקרים [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 132
+  },
+  "texts": {
+    "author": [
+      54646
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

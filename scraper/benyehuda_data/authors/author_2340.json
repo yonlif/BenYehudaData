@@ -1,0 +1,39 @@
+{
+  "id": 2340,
+  "url": "https://benyehuda.org/author/2340",
+  "metadata": {
+    "name": "עזרא בן יחזקאל הבבלי",
+    "sort_name": "הבבלי, עזרא בן יחזקאל ",
+    "other_designations": "עזרא הבבלי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1660",
+      "death_year": "1742"
+    },
+    "bio_snippet": "משורר בבלי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 129
+  },
+  "texts": {
+    "author": [
+      42988
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

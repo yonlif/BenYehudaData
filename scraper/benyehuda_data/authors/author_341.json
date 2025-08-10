@@ -1,0 +1,45 @@
+{
+  "id": 341,
+  "url": "https://benyehuda.org/author/341",
+  "metadata": {
+    "name": "ולדימיר קורולנקו",
+    "sort_name": "קורולנקו, ולדימיר",
+    "other_designations": "ולדימיר גלקטיונוביץ' קורולנקו; ולדימיר קורלנקו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1853",
+      "death_year": "1921"
+    },
+    "bio_snippet": "סופר רוסי ממוצא אוקראיני, עיתונאי, מהפכן ופעיל ציבור בתחום זכויות האזרח במשטר הצאר, בעת מלחמת האזרחים ברוסיה ובשנות השלטון הסובייטי",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2517
+  },
+  "texts": {
+    "author": [
+      7058,
+      9424,
+      44081,
+      44085
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      32786,
+      32787
+    ]
+  }
+}

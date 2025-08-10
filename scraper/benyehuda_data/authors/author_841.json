@@ -1,0 +1,41 @@
+{
+  "id": 841,
+  "url": "https://benyehuda.org/author/841",
+  "metadata": {
+    "name": "קורנל אוייסקי",
+    "sort_name": "אוייסקי, קורנל",
+    "other_designations": "קורנליוס אוייסקי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1823",
+      "death_year": "1897"
+    },
+    "bio_snippet": "פטריוט פולני, משורר וסופר שכתב בנושאים פוליטיים. כונה \"האחרון מגדולי משוררי הרומנטיציזם הפולני\"",
+    "languages": [
+      "pl"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1182
+  },
+  "texts": {
+    "author": [
+      24466,
+      24467,
+      24468
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

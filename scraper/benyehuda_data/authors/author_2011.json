@@ -1,0 +1,39 @@
+{
+  "id": 2011,
+  "url": "https://benyehuda.org/author/2011",
+  "metadata": {
+    "name": "מרג'רי בנטואיץ",
+    "sort_name": "בנטואיץ, מרג'רי ",
+    "other_designations": "מרג'רי בנטוויץ;  מרג'רי בנטוויץ'; מרג'רי בנטויץ'; מרג'ורי בנטוויץ'",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1887",
+      "death_year": "1976"
+    },
+    "bio_snippet": "כנרת בעלת שם, בת למשפחת בנטוויץ' ואחותה של הצ'לנית תלמה ילין",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 656
+  },
+  "texts": {
+    "author": [
+      38386
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

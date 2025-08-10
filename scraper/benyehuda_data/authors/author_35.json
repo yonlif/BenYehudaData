@@ -1,0 +1,51 @@
+{
+  "id": 35,
+  "url": "https://benyehuda.org/author/35",
+  "metadata": {
+    "name": "אליהו מידניק",
+    "sort_name": "מידניק, אליהו",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1882",
+      "death_year": "1904"
+    },
+    "bio_snippet": "סופר עברי ויידי ברוסיה.",
+    "languages": [
+      "he",
+      "yi"
+    ],
+    "genres": [
+      "letters",
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 4260
+  },
+  "texts": {
+    "author": [
+      3826,
+      4145,
+      4449,
+      4469,
+      4793,
+      5169,
+      5489,
+      5811,
+      6133,
+      9370
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

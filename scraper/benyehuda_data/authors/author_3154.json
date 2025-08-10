@@ -1,0 +1,43 @@
+{
+  "id": 3154,
+  "url": "https://benyehuda.org/author/3154",
+  "metadata": {
+    "name": "שלום קרניאל",
+    "sort_name": "קרניאל, שלום ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1912",
+      "death_year": "1947"
+    },
+    "bio_snippet": "יליד קרקוב. היה מעמודי התווך של כפר עציון, עורך בטאוני \"בני עקיבא\" והקיבוץ הדתי (זרעים ועלונים בהתאמה). נפל במלחמת העצמאות בשיירה לגוש עציון (\"שיירת העשרה\"). הניח אישה ותינוק [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 418
+  },
+  "texts": {
+    "author": [
+      54590,
+      54856,
+      54857,
+      54858
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

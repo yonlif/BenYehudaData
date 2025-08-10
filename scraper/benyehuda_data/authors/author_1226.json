@@ -1,0 +1,41 @@
+{
+  "id": 1226,
+  "url": "https://benyehuda.org/author/1226",
+  "metadata": {
+    "name": "איתמר ורהפטיג",
+    "sort_name": "ורהפטיג, איתמר ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1943",
+      "death_year": ""
+    },
+    "bio_snippet": "רב, מרצה למשפט עברי באוניברסיטת בר-אילן, ומעורכי כתב העת \"תחומין\"",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 4385
+  },
+  "texts": {
+    "author": [
+      30684,
+      30685,
+      30686
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

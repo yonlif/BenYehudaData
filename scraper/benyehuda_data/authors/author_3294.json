@@ -1,0 +1,40 @@
+{
+  "id": 3294,
+  "url": "https://benyehuda.org/author/3294",
+  "metadata": {
+    "name": "דן פגיס",
+    "sort_name": "פגיס, דן ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1930",
+      "death_year": "1986"
+    },
+    "bio_snippet": " משורר ומתרגם עברי, חוקר שירת ימי הביניים של יהדות ספרד, חתן פרס ראש הממשלה לסופרים עבריים לשנת 1973, הנחשב לאחד מחשובי המשוררים בשירה העברית המודרנית. שירו \"כתוב בעיפרון בקרון החתום\", שפורסם ב־1970 בספרו השלישי \"גלגול\", הוא אחד משירי השואה המוערכים והחשובים בישראל ובעולם. הוא זכה להכרה בזכות יצירותיו הספרותיות המגוונות, כולל ספר הילדים המפורסם שכתב \"הביצה שהתחפשה\"",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 409
+  },
+  "texts": {
+    "author": [
+      56064,
+      56125
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

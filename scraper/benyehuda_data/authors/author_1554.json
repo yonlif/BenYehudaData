@@ -1,0 +1,40 @@
+{
+  "id": 1554,
+  "url": "https://benyehuda.org/author/1554",
+  "metadata": {
+    "name": "ידעיה הפניני",
+    "sort_name": "הפניני, ידעיה  ",
+    "other_designations": "ידעיה הפניני הבדרשי; ידעיה בן אברהם הפניני;  ידעיה בן אברהם הבדרשי; אן בונט; אנבוניט",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1270",
+      "death_year": "1340"
+    },
+    "bio_snippet": "פילוסוף ומשורר יהודי יליד פרובאנס, חי בברצלונה שבספרד",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 723
+  },
+  "texts": {
+    "author": [
+      33984,
+      33985
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

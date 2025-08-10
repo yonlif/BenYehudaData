@@ -1,0 +1,55 @@
+{
+  "id": 134,
+  "url": "https://benyehuda.org/author/134",
+  "metadata": {
+    "name": "נתן אליהשווילי",
+    "sort_name": "אליהשווילי, נתן",
+    "other_designations": "נתן אליהשוילי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1893",
+      "death_year": "1929"
+    },
+    "bio_snippet": "מורה עברי ומחנך יהודי גאורגי, מראשי התנועה הציונית בגאורגיה, שייסד בית ספר עברי בטביליסי. ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 6464
+  },
+  "texts": {
+    "author": [
+      3131,
+      3445,
+      3768,
+      4084,
+      4412,
+      4737,
+      5109,
+      5430,
+      5763,
+      6072,
+      6398,
+      6721,
+      7049,
+      7050,
+      7379,
+      7700
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

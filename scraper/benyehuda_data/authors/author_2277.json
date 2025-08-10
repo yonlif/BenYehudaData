@@ -1,0 +1,39 @@
+{
+  "id": 2277,
+  "url": "https://benyehuda.org/author/2277",
+  "metadata": {
+    "name": "שמואל בן משה קסטיליוני",
+    "sort_name": "קסטיליוני, שמואל בן משה ",
+    "other_designations": "שמואל בן משה מקסטיליוני; שמואל בן משה הרופא מקסטיליוני; Samuel da Castiglione",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "חי במנטובה באמצע המאה ה־16",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 74
+  },
+  "texts": {
+    "author": [
+      40748
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

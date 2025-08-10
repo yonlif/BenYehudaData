@@ -1,0 +1,47 @@
+{
+  "id": 389,
+  "url": "https://benyehuda.org/author/389",
+  "metadata": {
+    "name": "יעקב וסרמן",
+    "sort_name": "וסרמן, יעקב",
+    "other_designations": "יעקב ואסרמן; יעקב וסרמאן; יעקב ואסרמאן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1873",
+      "death_year": "1934"
+    },
+    "bio_snippet": "סופר יהודי-גרמני.",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2634
+  },
+  "texts": {
+    "author": [
+      9206,
+      39019,
+      39039,
+      39045,
+      39050,
+      39053,
+      39054
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      30928
+    ]
+  }
+}

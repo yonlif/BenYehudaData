@@ -1,0 +1,39 @@
+{
+  "id": 619,
+  "url": "https://benyehuda.org/author/619",
+  "metadata": {
+    "name": "מור יוקאי",
+    "sort_name": "יוקאי, מור",
+    "other_designations": "מוריץ יוקאי; אשוואי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1825",
+      "death_year": "1904"
+    },
+    "bio_snippet": "סופר, עיתונאי ומחזאי הונגרי. הוא מכונה \"מספר הסיפורים ההונגרי הגדול\", ה\"אונורה דה בלזק\" ההונגרי. הוא גם הסופר ההונגרי הנקרא ביותר. מתוך כמאה יצירותיו, הומחזו והוסרטו רבות ויצירתו כולה מהווה נכס צאן ברזל של התרבות ההונגרית והאוניברסלית. שימש גם חבר בפרלמנט ההונגרי וחבר בבית העליון שלו וכן חבר במועצה המנהלת של האקדמיה ההונגרית למדעים.",
+    "languages": [
+      "hu"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 666
+  },
+  "texts": {
+    "author": [
+      16506
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

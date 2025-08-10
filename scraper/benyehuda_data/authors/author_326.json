@@ -1,0 +1,39 @@
+{
+  "id": 326,
+  "url": "https://benyehuda.org/author/326",
+  "metadata": {
+    "name": "לואיס קמואנס",
+    "sort_name": "קמואנס, לואיס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1524",
+      "death_year": "1580"
+    },
+    "bio_snippet": "בן המאה ה-16, שנודע ביצירתו האפית \"הלוזיאדים\" המושווית לאודיסיאה, ומספרת את תולדות מסעות הגילויים של הפורטוגלים במאות ה-15 וה-16.",
+    "languages": [
+      "pt"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 645
+  },
+  "texts": {
+    "author": [
+      6566
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

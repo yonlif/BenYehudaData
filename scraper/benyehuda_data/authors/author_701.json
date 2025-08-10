@@ -1,0 +1,42 @@
+{
+  "id": 701,
+  "url": "https://benyehuda.org/author/701",
+  "metadata": {
+    "name": "יו לופטינג",
+    "sort_name": "לופטינג, יו",
+    "other_designations": "היו לופטינג; יוּ לופטינג",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1886",
+      "death_year": "1947"
+    },
+    "bio_snippet": "סופר בריטי ויוצר סדרת הספרים דוקטור דוליטל.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2425
+  },
+  "texts": {
+    "author": [
+      19328,
+      44824
+    ],
+    "editor": [],
+    "illustrator": [
+      44824
+    ],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

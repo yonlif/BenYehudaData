@@ -1,0 +1,66 @@
+{
+  "id": 2654,
+  "url": "https://benyehuda.org/author/2654",
+  "metadata": {
+    "name": "משה כרמון ",
+    "sort_name": "כרמון, משה ",
+    "other_designations": "משה כרמון (סלושץ)",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1891",
+      "death_year": "1954"
+    },
+    "bio_snippet": "מחבר מאמרים פובליציסטיים, ומאמרים ומסות בענייני ספרות",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 6312
+  },
+  "texts": {
+    "author": [
+      50346,
+      50347,
+      50349,
+      50350,
+      50351,
+      50352,
+      50353,
+      50354,
+      50355,
+      50356,
+      50357,
+      50358,
+      50359,
+      50360,
+      50361,
+      50362,
+      50363,
+      51970,
+      51971,
+      51972,
+      52221,
+      52222,
+      52223,
+      52224,
+      52225,
+      52226,
+      52227,
+      52228
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 363,
+  "url": "https://benyehuda.org/author/363",
+  "metadata": {
+    "name": "אלפרד לורד טניסון",
+    "sort_name": "טניסון, אלפרד לורד",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1809",
+      "death_year": "1892"
+    },
+    "bio_snippet": "משורר אנגלי, הנחשב לאחד מגדולי המשוררים האנגלים ולמייצג את התקופה הוויקטוריאנית.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1735
+  },
+  "texts": {
+    "author": [
+      7663,
+      18671,
+      49770
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

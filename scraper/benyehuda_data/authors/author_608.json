@@ -1,0 +1,66 @@
+{
+  "id": 608,
+  "url": "https://benyehuda.org/author/608",
+  "metadata": {
+    "name": "אהרן קמינקא",
+    "sort_name": "קמינקא, אהרן",
+    "other_designations": "אהרון קמינקא; ארמנד קמינקא; אהרן קאמינקא; ארמנד קאמינקא; אהרן קמינקה; קאמינקא",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1866",
+      "death_year": "1950"
+    },
+    "bio_snippet": "רב, מלומד, משורר ומתרגם עברי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 4849
+  },
+  "texts": {
+    "author": [
+      24292,
+      24399,
+      24401,
+      24402,
+      24403,
+      24404,
+      24410,
+      24411
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      24293,
+      24294,
+      24295,
+      24296,
+      24297,
+      24298,
+      24299,
+      24320,
+      24321,
+      24322,
+      24323,
+      24324,
+      24370,
+      24373,
+      24398,
+      24400,
+      26170,
+      26674
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

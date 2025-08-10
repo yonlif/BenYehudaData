@@ -1,0 +1,39 @@
+{
+  "id": 3021,
+  "url": "https://benyehuda.org/author/3021",
+  "metadata": {
+    "name": "יונתן בלטר",
+    "sort_name": "בלטר, יונתן ",
+    "other_designations": "יונתן ג'ון בלטר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1928",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד לונדון. נפל במלחמת העצמאות בשדה מוקשים ליד ראש פינה. השאיר חיבורים ושירים באנגלית [על פי \"גווילי אש\"]",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 94
+  },
+  "texts": {
+    "author": [
+      54929
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

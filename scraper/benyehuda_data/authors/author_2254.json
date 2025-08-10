@@ -1,0 +1,39 @@
+{
+  "id": 2254,
+  "url": "https://benyehuda.org/author/2254",
+  "metadata": {
+    "name": "משה בן שבתי",
+    "sort_name": "בן שבתי, משה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "פייטן, חי ברומא במחצית המאה ה־14",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 96
+  },
+  "texts": {
+    "author": [
+      40731
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 3357,
+  "url": "https://benyehuda.org/author/3357",
+  "metadata": {
+    "name": "דן דאור",
+    "sort_name": "דאור, דן",
+    "other_designations": "",
+    "intellectual_property": "copyrighted",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1937",
+      "death_year": "2009"
+    },
+    "bio_snippet": "חוקר של הפילוסופיה והתרבות של סין ושל מזרח אסיה, מתרגם, סופר ועורך ישראלי. ",
+    "languages": [],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 40
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      56688,
+      56689,
+      56690,
+      56691
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 1573,
+  "url": "https://benyehuda.org/author/1573",
+  "metadata": {
+    "name": "שמואל שבח קנטורוביץ",
+    "sort_name": "קנטורוביץ, שמואל שבח ",
+    "other_designations": "קנטרוביץ, שמואל שבח בן זאב קנטורוביץ, בן זאב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1869",
+      "death_year": "1931"
+    },
+    "bio_snippet": " מורה, מדקדק עברי ומחבר ספרי דקדוק",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "fables",
+      "reference"
+    ],
+    "impressions_count": 1385
+  },
+  "texts": {
+    "author": [
+      34147,
+      35342
+    ],
+    "editor": [
+      38475
+    ],
+    "illustrator": [],
+    "translator": [
+      57357,
+      57358
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

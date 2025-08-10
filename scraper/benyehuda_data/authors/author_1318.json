@@ -1,0 +1,41 @@
+{
+  "id": 1318,
+  "url": "https://benyehuda.org/author/1318",
+  "metadata": {
+    "name": "זרח ברנט",
+    "sort_name": "ברנט, זרח ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1843",
+      "death_year": "1935"
+    },
+    "bio_snippet": "פעיל ציוני, ממקימי שכונת מאה שערים בירושלים, וממקימי העיר פתח תקווה. יוזם ומקים את שכונת נווה שלום בתל אביב.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 4080
+  },
+  "texts": {
+    "author": [
+      31619
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      33182
+    ]
+  }
+}

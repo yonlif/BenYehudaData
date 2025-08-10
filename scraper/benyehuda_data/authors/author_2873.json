@@ -1,0 +1,39 @@
+{
+  "id": 2873,
+  "url": "https://benyehuda.org/author/2873",
+  "metadata": {
+    "name": "שרל קרו",
+    "sort_name": "קרו, שרל ",
+    "other_designations": "אמיל הורטנסיוס שרל קרו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1842",
+      "death_year": "1888"
+    },
+    "bio_snippet": "משורר וממציא צרפתי",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 97
+  },
+  "texts": {
+    "author": [
+      51781
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

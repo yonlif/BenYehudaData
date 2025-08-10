@@ -1,0 +1,39 @@
+{
+  "id": 3466,
+  "url": "https://benyehuda.org/author/3466",
+  "metadata": {
+    "name": "שארל מארל",
+    "sort_name": "מארל, שארל ",
+    "other_designations": "שרל מרל; שארל מארי מארל",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1827",
+      "death_year": "1903"
+    },
+    "bio_snippet": "סופר צרפתי ומרצה לשפה וספרות צרפתית בברלין",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "fables"
+    ],
+    "impressions_count": 5
+  },
+  "texts": {
+    "author": [
+      19185
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

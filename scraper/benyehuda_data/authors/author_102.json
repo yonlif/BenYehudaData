@@ -1,0 +1,42 @@
+{
+  "id": 102,
+  "url": "https://benyehuda.org/author/102",
+  "metadata": {
+    "name": "נפתלי הרץ ניימנוביץ'",
+    "sort_name": "ניימנוביץ', נפתלי הרץ",
+    "other_designations": "הנ\"ץ; הנץ; נפתלי הרץ ניימנוביץ; נפתלי הרץ נימנוביץ; נפתלי הרץ נימנוביץ'; נפתלי הרץ יהודה הכהן ניימנוביץ'; נפתלי הירץ ניימנוביץ'",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1843",
+      "death_year": "1898"
+    },
+    "bio_snippet": "סופר עברי, פיליטוניסט, מחבר ספרי לימוד ומתרגם יהודי־פולני",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 2004
+  },
+  "texts": {
+    "author": [
+      5481,
+      5542,
+      5572
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

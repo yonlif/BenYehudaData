@@ -1,0 +1,68 @@
+{
+  "id": 732,
+  "url": "https://benyehuda.org/author/732",
+  "metadata": {
+    "name": "אריה ליב יגולניצר",
+    "sort_name": "יגולניצר, אריה ליב",
+    "other_designations": "אריה לייב יגולניצר; א\"ל יגולניצר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1882",
+      "death_year": "1945"
+    },
+    "bio_snippet": "יליד אוקראינה, עלה ארצה בשנות החמישים לחייו. מורה, משורר וכותב משלים לילדים, מתרגם ועורך",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama",
+      "fables"
+    ],
+    "impressions_count": 4982
+  },
+  "texts": {
+    "author": [
+      21210,
+      21211,
+      21212,
+      21213,
+      21214,
+      21215,
+      21216,
+      21217,
+      21218,
+      21219,
+      21220,
+      21221,
+      21222,
+      21223,
+      21224,
+      21225,
+      21226,
+      21227,
+      21228,
+      21229,
+      21230,
+      21231,
+      21232,
+      21233,
+      21234,
+      21235,
+      21236,
+      21237,
+      37582
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

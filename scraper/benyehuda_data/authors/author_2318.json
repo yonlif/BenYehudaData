@@ -1,0 +1,42 @@
+{
+  "id": 2318,
+  "url": "https://benyehuda.org/author/2318",
+  "metadata": {
+    "name": "בנימין מזר",
+    "sort_name": "מזר, בנימין ",
+    "other_designations": "בנימין מזר (מיזלר)",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1906",
+      "death_year": "1995"
+    },
+    "bio_snippet": "ארכאולוג וחוקר יהדות, הנחשב לאבי הענף הישראלי של הארכאולוגיה המקראית. חתן פרס ישראל במדעי היהדות לשנת 1968. כיהן כנשיאה ה־4 של האוניברסיטה העברית בירושלים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 165
+  },
+  "texts": {
+    "author": [
+      52384,
+      57986,
+      58004
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2325,
+  "url": "https://benyehuda.org/author/2325",
+  "metadata": {
+    "name": "מתתיה נסים טירני",
+    "sort_name": "טירני, מתתיה נסים ",
+    "other_designations": "Donato Terni",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1745",
+      "death_year": "1815"
+    },
+    "bio_snippet": "רב ומשורר מחכמי איטליה. שימש כרב בקהילות פירנצה, אורבינו, טיניגליה ופזארו בה גם לימד כמה שנים בבית המדרש",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 112
+  },
+  "texts": {
+    "author": [
+      40797
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

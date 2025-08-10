@@ -1,0 +1,40 @@
+{
+  "id": 1789,
+  "url": "https://benyehuda.org/author/1789",
+  "metadata": {
+    "name": "משה יונגמן",
+    "sort_name": "יונגמן, משה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1922",
+      "death_year": "1982"
+    },
+    "bio_snippet": "משורר יידי, מתרגם מיידיש לעברית ולהפך",
+    "languages": [],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 205
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      35385,
+      35386,
+      35387,
+      35388
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

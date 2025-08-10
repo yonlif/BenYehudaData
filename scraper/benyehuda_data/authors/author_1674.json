@@ -1,0 +1,44 @@
+{
+  "id": 1674,
+  "url": "https://benyehuda.org/author/1674",
+  "metadata": {
+    "name": "יצחק בן אברהם הגרני",
+    "sort_name": "הגרני, יצחק בן אברהם ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "מחצית שנייה של המאה ה־13",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר מפרובאנס",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 530
+  },
+  "texts": {
+    "author": [
+      34455,
+      34456,
+      34457,
+      34458,
+      34459,
+      34460
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": 589,
+  "url": "https://benyehuda.org/author/589",
+  "metadata": {
+    "name": "נחמיה דב הופמן",
+    "sort_name": "הופמן, נחמיה דב",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1860",
+      "death_year": "1928"
+    },
+    "bio_snippet": "סופר עברי איש תנועת ההשכלה, מחברם של מספר רב של מאמרים וספרי מדע פופולרי, שהתפרסמו בעברית במזרח אירופה במחצית השנייה של המאה ה־19. ב־1889 היגר לדרום אפריקה, והיה חלוץ העיתונות היהודית בארץ זו",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 2169
+  },
+  "texts": {
+    "author": [
+      15102,
+      15696,
+      22376
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

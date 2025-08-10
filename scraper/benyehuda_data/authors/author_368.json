@@ -1,0 +1,39 @@
+{
+  "id": 368,
+  "url": "https://benyehuda.org/author/368",
+  "metadata": {
+    "name": "בלה סנש",
+    "sort_name": "סנש, בלה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1894",
+      "death_year": "1927"
+    },
+    "bio_snippet": "היה סופר, עיתונאי ומחזאי יהודי הונגרי. אביה של חנה סנש.",
+    "languages": [
+      "hu"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1965
+  },
+  "texts": {
+    "author": [
+      8256
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

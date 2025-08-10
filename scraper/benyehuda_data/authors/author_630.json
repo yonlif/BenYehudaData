@@ -1,0 +1,39 @@
+{
+  "id": 630,
+  "url": "https://benyehuda.org/author/630",
+  "metadata": {
+    "name": "דב אריאל (ליבוביץ')",
+    "sort_name": "אריאל, דב (ליבוביץ')",
+    "other_designations": "אריאל דב ליבוביץ'",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1860",
+      "death_year": "1943"
+    },
+    "bio_snippet": "ביל\"ויי, מזכיר וי\"ר גדרה. פרסם רשימות ומאמרים בענייני יישובו וכן מונוגרפיה על גדרה [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 2015
+  },
+  "texts": {
+    "author": [
+      17458
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

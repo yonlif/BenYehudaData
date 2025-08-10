@@ -1,0 +1,55 @@
+{
+  "id": 919,
+  "url": "https://benyehuda.org/author/919",
+  "metadata": {
+    "name": "ראובן פאהן",
+    "sort_name": "פאהן ראובן ",
+    "other_designations": "ראובן פהן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1878",
+      "death_year": "1939"
+    },
+    "bio_snippet": "חוקר יהודי פולני, סופר, היסטוריון, אתנוגרף ואפיגרף",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 3348
+  },
+  "texts": {
+    "author": [
+      26653,
+      26654,
+      26655,
+      26656,
+      26657,
+      26658,
+      26659,
+      26660,
+      26661,
+      26662,
+      26663,
+      26664,
+      26665,
+      26666,
+      26667,
+      26668,
+      26669
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

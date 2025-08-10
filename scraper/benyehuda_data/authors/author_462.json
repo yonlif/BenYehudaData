@@ -1,0 +1,50 @@
+{
+  "id": 462,
+  "url": "https://benyehuda.org/author/462",
+  "metadata": {
+    "name": "רות צרפתי",
+    "sort_name": "צרפתי, רות",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1928",
+      "death_year": "2010"
+    },
+    "bio_snippet": "ציירת, פסלת, מאיירת וסופרת ישראלית, חברת קבוצת \"אופקים חדשים\".",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 4978
+  },
+  "texts": {
+    "author": [
+      14007,
+      18102,
+      18108,
+      18110,
+      18111,
+      18140
+    ],
+    "editor": [],
+    "illustrator": [
+      14007,
+      18108,
+      30846,
+      47624
+    ],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

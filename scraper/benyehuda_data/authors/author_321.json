@@ -1,0 +1,39 @@
+{
+  "id": 321,
+  "url": "https://benyehuda.org/author/321",
+  "metadata": {
+    "name": "קרל סנדברג",
+    "sort_name": "סנדברג, קרל",
+    "other_designations": "קרל אוגוסט סנדברג ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1878",
+      "death_year": "1967"
+    },
+    "bio_snippet": "היה משורר אמריקאי.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 557
+  },
+  "texts": {
+    "author": [
+      6100
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

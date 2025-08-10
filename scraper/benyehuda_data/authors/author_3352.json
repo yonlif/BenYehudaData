@@ -1,0 +1,39 @@
+{
+  "id": 3352,
+  "url": "https://benyehuda.org/author/3352",
+  "metadata": {
+    "name": "אורי מרגלית",
+    "sort_name": "מרגלית, אורי ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "2001",
+      "death_year": ""
+    },
+    "bio_snippet": "סטודנטית לספרות",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 189
+  },
+  "texts": {
+    "author": [
+      56489
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 971,
+  "url": "https://benyehuda.org/author/971",
+  "metadata": {
+    "name": "מרקוס אורליוס",
+    "sort_name": "אורליוס, מרקוס ",
+    "other_designations": "מרקוס אורליוס אנטונינוס אוגוסטוס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "ancient",
+      "birth_year": "121",
+      "death_year": "180"
+    },
+    "bio_snippet": "קיסר רומא ופילוסוף. שלט יחד עם לוקיוס ורוס משנת 161 ועד מותו של ורוס בשנת 169, והמשיך לשלוט עד מותו בשנת 180. האחרון מבין \"חמשת הקיסרים הטובים\", ונחשב לאחד הפילוסופים הסטואים החשובים ביותר. את רוב ימי שלטונו הקדיש להרחבת גבולותיה המזרחיים והצפוניים של האימפריה הרומית",
+    "languages": [
+      "grc"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 18995
+  },
+  "texts": {
+    "author": [
+      26674
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

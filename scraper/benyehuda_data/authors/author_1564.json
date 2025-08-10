@@ -1,0 +1,47 @@
+{
+  "id": 1564,
+  "url": "https://benyehuda.org/author/1564",
+  "metadata": {
+    "name": "יהושע השל לוין",
+    "sort_name": "לוין, יהושע השל ",
+    "other_designations": "יהושע השל הלוי לוין, יהושע השל בן אליהו זאב לוין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1818",
+      "death_year": "1883"
+    },
+    "bio_snippet": "רב ודרשן",
+    "languages": [],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 529
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      42413,
+      42414,
+      42415,
+      42416,
+      42418,
+      42419,
+      42463,
+      42464,
+      42465,
+      42468,
+      42470
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3349,
+  "url": "https://benyehuda.org/author/3349",
+  "metadata": {
+    "name": "מנג האו ראן",
+    "sort_name": "מנג האו ראן",
+    "other_designations": "מנג האוראן; מנג האורן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "689",
+      "death_year": "740"
+    },
+    "bio_snippet": "משורר סיני מתקופת שושלת טאנג",
+    "languages": [
+      "zh"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 66
+  },
+  "texts": {
+    "author": [
+      56688
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

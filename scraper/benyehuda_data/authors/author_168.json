@@ -1,0 +1,39 @@
+{
+  "id": 168,
+  "url": "https://benyehuda.org/author/168",
+  "metadata": {
+    "name": "יצחק רילף",
+    "sort_name": "רילף, יצחק",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1831",
+      "death_year": "1902"
+    },
+    "bio_snippet": "רב, עיתונאי ופילוסוף יהודי גרמני ופעיל ציוני בולט.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 874
+  },
+  "texts": {
+    "author": [
+      2380
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

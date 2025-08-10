@@ -1,0 +1,40 @@
+{
+  "id": 995,
+  "url": "https://benyehuda.org/author/995",
+  "metadata": {
+    "name": "פטר עמנואל גרדנויץ",
+    "sort_name": "גרדנויץ, פטר עמנואל ",
+    "other_designations": "פטר ורנר עמנואל גרדנויץ, גרדנוויץ",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1910",
+      "death_year": "2001"
+    },
+    "bio_snippet": "מוזיקולוג, מלחין, מבקר מוזיקה ומו\"ל, מחברם של ספרי עיון רבים בנושאי מוזיקה. מייסדו של \"בית הוצאת המוזיקה הישראלית\" ומנהלו במשך שנים רבות. מרצה באוניברסיטת תל אביב ופרופסור של כבוד באוניברסיטת פרייבורג. התמחה בחקר הסגנון הסימפוני המוקדם, מוזיקה יהודית, מוזיקה בישראל, יצירתו של ארנולד שנברג וקשרים מוזיקליים בין מזרח ומערב",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 6332
+  },
+  "texts": {
+    "author": [
+      33346,
+      36229
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

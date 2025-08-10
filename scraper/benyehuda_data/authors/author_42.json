@@ -1,0 +1,48 @@
+{
+  "id": 42,
+  "url": "https://benyehuda.org/author/42",
+  "metadata": {
+    "name": "מרדכי זאב פיארברג",
+    "sort_name": "פיארברג, מרדכי זאב",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1874",
+      "death_year": "1899"
+    },
+    "bio_snippet": "סופר עברי, חובב ציון ומשכיל",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 15895
+  },
+  "texts": {
+    "author": [
+      5144,
+      5450,
+      5788,
+      6108,
+      6432,
+      6760,
+      7084
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      25070,
+      40867
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2243,
+  "url": "https://benyehuda.org/author/2243",
+  "metadata": {
+    "name": "יואב בן בנימין",
+    "sort_name": "יואב בן בנימין",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "חי ברוֹמָא בסוף המאה ה־13 ובראשית המאה ה־14",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 108
+  },
+  "texts": {
+    "author": [
+      40721
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

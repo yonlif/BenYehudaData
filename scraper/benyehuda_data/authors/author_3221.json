@@ -1,0 +1,53 @@
+{
+  "id": 3221,
+  "url": "https://benyehuda.org/author/3221",
+  "metadata": {
+    "name": "יוסף שרון",
+    "sort_name": "שרון, יוסף ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1952",
+      "death_year": ""
+    },
+    "bio_snippet": " משורר ישראלי, מבקר שירה, עורך, מתרגם ומאייר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 685
+  },
+  "texts": {
+    "author": [
+      56092,
+      56093,
+      56094,
+      56095,
+      56396,
+      56397,
+      56398,
+      56400
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      56302,
+      56303,
+      56304,
+      56305,
+      56399
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

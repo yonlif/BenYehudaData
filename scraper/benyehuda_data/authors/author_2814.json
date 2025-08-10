@@ -1,0 +1,47 @@
+{
+  "id": 2814,
+  "url": "https://benyehuda.org/author/2814",
+  "metadata": {
+    "name": "שלדון הרניק",
+    "sort_name": "הרניק, שלדון ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1924",
+      "death_year": "2023"
+    },
+    "bio_snippet": "פזמונאי אמריקאי,הידוע בעיקר בזכות שיתוף פעולה עם המלחין ג'רי בוק במחזות זמר, כמו כנר על הגג, פיורלו!, והיא אוהבת אותי",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 4446
+  },
+  "texts": {
+    "author": [
+      12577,
+      12578,
+      12579,
+      12580,
+      12581,
+      12582,
+      12583,
+      12584,
+      12585
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 3429,
+  "url": "https://benyehuda.org/author/3429",
+  "metadata": {
+    "name": "יעקב קרנץ",
+    "sort_name": "קרנץ, יעקב ",
+    "other_designations": "יעקב קראנץ; יעקב קרנץ בן זאב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1741",
+      "death_year": "1804"
+    },
+    "bio_snippet": "דרשן יהודי נודע בן המאה ה־18",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "fables"
+    ],
+    "impressions_count": 136
+  },
+  "texts": {
+    "author": [
+      57357,
+      57358
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

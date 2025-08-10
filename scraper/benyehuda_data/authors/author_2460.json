@@ -1,0 +1,40 @@
+{
+  "id": 2460,
+  "url": "https://benyehuda.org/author/2460",
+  "metadata": {
+    "name": "יהודה פרידלנדר",
+    "sort_name": "פרידלנדר, יהודה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1939",
+      "death_year": ""
+    },
+    "bio_snippet": "פרופסור אמריטוס במחלקה לספרות עם ישראל ולספרות משווה באוניברסיטת בר־אילן",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 81
+  },
+  "texts": {
+    "author": [
+      44821,
+      44822
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

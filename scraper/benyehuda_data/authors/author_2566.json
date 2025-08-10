@@ -1,0 +1,39 @@
+{
+  "id": 2566,
+  "url": "https://benyehuda.org/author/2566",
+  "metadata": {
+    "name": "אוסיפ מנדלשטם",
+    "sort_name": "מנדלשטם, אוסיפ ",
+    "other_designations": "אוסיפ אמילייביץ' מנדלשטם; אוסיפ מנדלשטאם",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1891",
+      "death_year": "1938"
+    },
+    "bio_snippet": " משורר, מסאי, ומבקר יהודי־רוסי, מן המשוררים הגדולים ביותר בספרות הרוסית של המאה ה־20",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 358
+  },
+  "texts": {
+    "author": [
+      46273
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

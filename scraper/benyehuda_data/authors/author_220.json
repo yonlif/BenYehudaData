@@ -1,0 +1,48 @@
+{
+  "id": 220,
+  "url": "https://benyehuda.org/author/220",
+  "metadata": {
+    "name": "תומאס קרלייל",
+    "sort_name": "קרלייל, תומאס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1795",
+      "death_year": "1881"
+    },
+    "bio_snippet": "הוגה דעות סקוטי.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry",
+      "reference"
+    ],
+    "impressions_count": 3845
+  },
+  "texts": {
+    "author": [
+      513,
+      936,
+      1391,
+      1687,
+      8351,
+      8676,
+      58852
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      30935
+    ]
+  }
+}

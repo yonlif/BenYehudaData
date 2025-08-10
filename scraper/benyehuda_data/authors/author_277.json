@@ -1,0 +1,39 @@
+{
+  "id": 277,
+  "url": "https://benyehuda.org/author/277",
+  "metadata": {
+    "name": "יחזקאל הטרגיקן",
+    "sort_name": "יחזקאל הטרגיקן",
+    "other_designations": "אזקיאלוס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "ה",
+      "death_year": ""
+    },
+    "bio_snippet": "היה מחזאי יהודי שחי באלכסנדריה.",
+    "languages": [
+      "grc"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 2945
+  },
+  "texts": {
+    "author": [
+      2555
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

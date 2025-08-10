@@ -1,0 +1,69 @@
+{
+  "id": 101,
+  "url": "https://benyehuda.org/author/101",
+  "metadata": {
+    "name": "יוסף שריג",
+    "sort_name": "שריג, יוסף",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1944",
+      "death_year": "1973"
+    },
+    "bio_snippet": "משורר ומלחין ישראלי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "letters",
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 24490
+  },
+  "texts": {
+    "author": [
+      3626,
+      3657,
+      3694,
+      3742,
+      3760,
+      3787,
+      3833,
+      3854,
+      3878,
+      3915,
+      3941,
+      3982,
+      4001,
+      4038,
+      4073,
+      4101,
+      4118,
+      4165,
+      4214,
+      4252,
+      4263,
+      4293,
+      4333,
+      5355,
+      7435,
+      14282,
+      28150,
+      56032
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

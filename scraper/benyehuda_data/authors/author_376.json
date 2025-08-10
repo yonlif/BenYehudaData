@@ -1,0 +1,39 @@
+{
+  "id": 376,
+  "url": "https://benyehuda.org/author/376",
+  "metadata": {
+    "name": "ג'פרי צ'וסר",
+    "sort_name": "צ'וסר, ג'פרי",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1343",
+      "death_year": "1400"
+    },
+    "bio_snippet": "היה סופר ומשורר אנגלי, פילוסוף, איש חצר, פקיד מלכותי ודיפלומט.\r\nצ'וסר נחשב לאחד מאבות הספרות האנגלית, וזכור בעיקר בזכות ספרו \"סיפורי קנטרברי\".",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 575
+  },
+  "texts": {
+    "author": [
+      8839
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

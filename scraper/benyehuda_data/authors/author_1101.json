@@ -1,0 +1,44 @@
+{
+  "id": 1101,
+  "url": "https://benyehuda.org/author/1101",
+  "metadata": {
+    "name": "בנימין ברנר",
+    "sort_name": "ברנר, בנימין ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1898",
+      "death_year": "1982"
+    },
+    "bio_snippet": "פסיכולוג, מחנך, מרצה וסופר עברי, חבר המועצה הפדגוגית הראשונה בישראל ומראשוני הפסיכולוגים בישראל. אחיו הצעיר של יוסף חיים ברנר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir",
+      "reference"
+    ],
+    "impressions_count": 4199
+  },
+  "texts": {
+    "author": [
+      33168,
+      34544,
+      49341,
+      49810
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

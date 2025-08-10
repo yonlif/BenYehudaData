@@ -1,0 +1,39 @@
+{
+  "id": 700,
+  "url": "https://benyehuda.org/author/700",
+  "metadata": {
+    "name": "מרטין רוסט",
+    "sort_name": "רוסט, מרטין",
+    "other_designations": "מכס-מיליאן רוזנקרנץ; מכסימיליאן מאיר רוזנקרנץ; מכסימיליאן מאיר רוזנקרנץ; מקסימיליאן מאיר רוזנקרנץ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1911",
+      "death_year": "1948"
+    },
+    "bio_snippet": "מחזאי ופסל יהודי יליד בוקובינה. כתב בגרמנית בשם העט \"מרטין רוסט\".",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 1325
+  },
+  "texts": {
+    "author": [
+      19308
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 295,
+  "url": "https://benyehuda.org/author/295",
+  "metadata": {
+    "name": "אנטואן דה סנט-אכזופרי",
+    "sort_name": "סנט-אכזופרי, אנטואן דה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1900",
+      "death_year": "1944"
+    },
+    "bio_snippet": "היה טייס, סופר, משורר ועיתונאי צרפתי, שנודע בעיקר בזכות ספר הילדים שכתב \"הנסיך הקטן\".",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 255565
+  },
+  "texts": {
+    "author": [
+      4041
+    ],
+    "editor": [],
+    "illustrator": [
+      4041
+    ],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

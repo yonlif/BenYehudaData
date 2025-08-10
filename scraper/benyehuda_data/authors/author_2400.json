@@ -1,0 +1,59 @@
+{
+  "id": 2400,
+  "url": "https://benyehuda.org/author/2400",
+  "metadata": {
+    "name": "יוסף חיים מבגדאד",
+    "sort_name": "מבגדאד, יוסף חיים ",
+    "other_designations": "יוסף חיים מבגדד; יוסף חיים; הרי\"ח הטוב; הבן איש חי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1835",
+      "death_year": "1909"
+    },
+    "bio_snippet": "מקובל, דרשן, מנהיג קהילה, מחבר ספרים ואחד הפוסקים הבולטים בקרב יהדות ארצות האסלאם",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 2601
+  },
+  "texts": {
+    "author": [
+      43778,
+      43779,
+      43780,
+      43781,
+      43782,
+      43783,
+      43784,
+      43785,
+      43786,
+      43787,
+      43788,
+      43789,
+      43790,
+      43791,
+      43792,
+      43793,
+      43794,
+      43795,
+      43796,
+      43797,
+      43798
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

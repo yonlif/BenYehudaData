@@ -1,0 +1,39 @@
+{
+  "id": 675,
+  "url": "https://benyehuda.org/author/675",
+  "metadata": {
+    "name": "איוואן חמניצר",
+    "sort_name": "חמניצר, איוואן",
+    "other_designations": "איון חמניצר; איוון חמניצר; איבאן חמניצר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1745",
+      "death_year": "1784"
+    },
+    "bio_snippet": "משורר רוסי ממוצא גרמני.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "fables"
+    ],
+    "impressions_count": 79
+  },
+  "texts": {
+    "author": [
+      19198
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

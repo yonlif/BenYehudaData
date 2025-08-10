@@ -1,0 +1,59 @@
+{
+  "id": 1959,
+  "url": "https://benyehuda.org/author/1959",
+  "metadata": {
+    "name": "שלמה הלל'ס ",
+    "sort_name": "הלל'ס, שלמה ",
+    "other_designations": "שלמה הללס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1873",
+      "death_year": "1953"
+    },
+    "bio_snippet": "סופר עברי, מורה, עורך ומחזאי, מחנך ומנהל בתי ספר; מנהלו הראשון של בית ביאליק",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 2877
+  },
+  "texts": {
+    "author": [
+      40252,
+      40253,
+      40254,
+      40262,
+      40276,
+      40277,
+      40278,
+      40279,
+      40298,
+      40299,
+      40300,
+      40301,
+      40666,
+      41423,
+      41666,
+      43957,
+      44443,
+      47257
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      39255
+    ]
+  }
+}

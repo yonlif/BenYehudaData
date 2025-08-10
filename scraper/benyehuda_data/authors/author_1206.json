@@ -1,0 +1,39 @@
+{
+  "id": 1206,
+  "url": "https://benyehuda.org/author/1206",
+  "metadata": {
+    "name": "זאב וולף בוכנר",
+    "sort_name": "בוכנר, זאב וולף ",
+    "other_designations": "זאב וולף בן דוד הכהן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1750",
+      "death_year": "1820"
+    },
+    "bio_snippet": "מדקדק ומשורר עברי, נחשב לאחד ממבשרי ההשכלה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 206
+  },
+  "texts": {
+    "author": [
+      37904
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

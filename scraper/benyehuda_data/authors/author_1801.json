@@ -1,0 +1,52 @@
+{
+  "id": 1801,
+  "url": "https://benyehuda.org/author/1801",
+  "metadata": {
+    "name": "שאול עבדאללה יוסף",
+    "sort_name": "יוסף, שאול עבדאללה ",
+    "other_designations": "שאול בן עבדאללה יוסף",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1849",
+      "death_year": "1906"
+    },
+    "bio_snippet": "משכיל עברי, משורר וחוקר שירה יהודי־בגדאדי שחי ועסק במסחר בהונג קונג. חיבוריו בחקר השירה העברית בימי הביניים זיכו אותו בפרסום רב בקרב מלומדים בזמנו",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 731
+  },
+  "texts": {
+    "author": [
+      43727,
+      43728,
+      43729,
+      43730,
+      43731,
+      43732,
+      43733,
+      43734,
+      43735,
+      43736,
+      43737,
+      43738,
+      43739,
+      43740
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

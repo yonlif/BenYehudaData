@@ -1,0 +1,37 @@
+{
+  "id": 2046,
+  "url": "https://benyehuda.org/author/2046",
+  "metadata": {
+    "name": "מרים מארקל־מוזסזון",
+    "sort_name": "מארקל־מוזסזון, מרים ",
+    "other_designations": "מרים מארקל-מוזסזון; מרים מארקל מוזסזון; מרים מרקל־מוזסזון; מרים מרקל-מוזסזון־ויירז'בולובסקה; מרים מרקל מוזסזון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": "enlightenment",
+      "birth_year": "1841",
+      "death_year": "1920"
+    },
+    "bio_snippet": " סופרת, מתרגמת ועיתונאית יהודיה ילידת רוסיה. תרגמה וכתבה בשפה העברית, ונחשבת לאחת הסופרות העבריות הראשונות ולראשונה שפרסמה פרוזה עברית.",
+    "languages": [],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 124
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      39281
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 441,
+  "url": "https://benyehuda.org/author/441",
+  "metadata": {
+    "name": "מיכאל אשבל",
+    "sort_name": "אשבל, מיכאל",
+    "other_designations": "מייק",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1922",
+      "death_year": "1947"
+    },
+    "bio_snippet": "מלוחמי האצ\"ל\r\n",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 1644
+  },
+  "texts": {
+    "author": [
+      10927
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

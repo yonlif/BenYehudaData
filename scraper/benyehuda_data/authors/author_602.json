@@ -1,0 +1,41 @@
+{
+  "id": 602,
+  "url": "https://benyehuda.org/author/602",
+  "metadata": {
+    "name": "יהושע אטלס",
+    "sort_name": "אטלס, יהושע",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1859",
+      "death_year": "1928"
+    },
+    "bio_snippet": "סוחר, משורר, מחזאי ומתרגם [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama",
+      "poetry"
+    ],
+    "impressions_count": 1725
+  },
+  "texts": {
+    "author": [
+      17987,
+      17993
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

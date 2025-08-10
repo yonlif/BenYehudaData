@@ -1,0 +1,40 @@
+{
+  "id": 2281,
+  "url": "https://benyehuda.org/author/2281",
+  "metadata": {
+    "name": "מרדכי דאטו",
+    "sort_name": "דאטו, מרדכי ",
+    "other_designations": "מרדכי בן יהודה דאטו; Angelo Dato; Angelo d'Ato",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1527",
+      "death_year": "1585"
+    },
+    "bio_snippet": "רב, משורר ומקובל איטלקי אשר עסק בחישוב הקץ, תלמידו של המקובל משה קורדובירו ושל דודו הרב משה באסולה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 336
+  },
+  "texts": {
+    "author": [
+      40752,
+      41964
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

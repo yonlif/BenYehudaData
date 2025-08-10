@@ -1,0 +1,37 @@
+{
+  "id": 2502,
+  "url": "https://benyehuda.org/author/2502",
+  "metadata": {
+    "name": "חיים אורלן",
+    "sort_name": "אורלן, חיים ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1911",
+      "death_year": "1997"
+    },
+    "bio_snippet": "סופר, משורר, חוקר ספרות, מתרגמו של הפרוטוקול של הקונגרס הציוני הראשון לעברית",
+    "languages": [],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 1
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      45254
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

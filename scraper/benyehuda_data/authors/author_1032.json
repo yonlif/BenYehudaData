@@ -1,0 +1,70 @@
+{
+  "id": 1032,
+  "url": "https://benyehuda.org/author/1032",
+  "metadata": {
+    "name": "שמאי גולן",
+    "sort_name": "גולן, שמאי ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1933",
+      "death_year": "2017"
+    },
+    "bio_snippet": "סופר ועורך ישראלי; ספריו עסקו בעיקר בשואה, בניסיונות ניצולי השואה להיאחז בארץ, ובחייהם של בני הדור השני לשואה שנולדו בארץ ישראל.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 4316
+  },
+  "texts": {
+    "author": [
+      28996,
+      31289,
+      33584,
+      33585,
+      33587,
+      33588,
+      33721,
+      41068,
+      41069,
+      41070,
+      41071,
+      41072,
+      41073,
+      41074,
+      41075,
+      41076,
+      41077,
+      41078,
+      48842,
+      48843,
+      48844,
+      48845,
+      48846,
+      48847,
+      48848,
+      49523,
+      49524,
+      49525,
+      49526,
+      49527,
+      49528
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

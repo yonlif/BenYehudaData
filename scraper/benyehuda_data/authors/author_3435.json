@@ -1,0 +1,39 @@
+{
+  "id": 3435,
+  "url": "https://benyehuda.org/author/3435",
+  "metadata": {
+    "name": "לשכת המרכז של \"עבריה\" בבֶרן",
+    "sort_name": "לשכת המרכז של עבריה בברן",
+    "other_designations": "לשכת המרכז של \"עברייה\" בבֶרן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": null,
+      "period": "enlightenment",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 107
+  },
+  "texts": {
+    "author": [
+      57447
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

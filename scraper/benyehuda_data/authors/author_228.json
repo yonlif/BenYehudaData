@@ -1,0 +1,44 @@
+{
+  "id": 228,
+  "url": "https://benyehuda.org/author/228",
+  "metadata": {
+    "name": "הומרוס",
+    "sort_name": "הומרוס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "ה",
+      "death_year": "ה"
+    },
+    "bio_snippet": "הוֹמֵרוֹס (ביוונית: Ὅμηρος) גדול משורריה של יוון העתיקה, שלו מייחסת המסורת את האיליאדה ואת האודיסיאה. אגדות יווניות מספרות שהיה עיוור. על שמו נקראים ההימנונים ההומריים.",
+    "languages": [
+      "grc"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 79199
+  },
+  "texts": {
+    "author": [
+      4860,
+      5526,
+      5592
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      2090,
+      6289
+    ]
+  }
+}

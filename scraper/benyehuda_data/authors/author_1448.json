@@ -1,0 +1,40 @@
+{
+  "id": 1448,
+  "url": "https://benyehuda.org/author/1448",
+  "metadata": {
+    "name": "משה בן נחמן",
+    "sort_name": "משה בן נחמן",
+    "other_designations": "רמב\"ן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1194",
+      "death_year": "1270"
+    },
+    "bio_snippet": "מגדולי חכמי ספרד, פוסק, פרשן, משורר, הוגה, מקובל ורופא",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 551
+  },
+  "texts": {
+    "author": [
+      33284,
+      33285
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

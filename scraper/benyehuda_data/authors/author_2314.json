@@ -1,0 +1,39 @@
+{
+  "id": 2314,
+  "url": "https://benyehuda.org/author/2314",
+  "metadata": {
+    "name": "יעקב חי ישראל",
+    "sort_name": "ישראל, יעקב חי ",
+    "other_designations": "Jacob Vita Israel",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "נולד באיטליה וחי באמצע המאה ה־18 באמסטרדם",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 119
+  },
+  "texts": {
+    "author": [
+      42194
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

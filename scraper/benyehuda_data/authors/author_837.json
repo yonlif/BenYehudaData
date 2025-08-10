@@ -1,0 +1,39 @@
+{
+  "id": 837,
+  "url": "https://benyehuda.org/author/837",
+  "metadata": {
+    "name": "יצחק יחזקאל יהודה",
+    "sort_name": "יהודה, יצחק יחזקאל",
+    "other_designations": "יצחק בן בנימין יהודה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1863",
+      "death_year": "1941"
+    },
+    "bio_snippet": "מחנך, מתרגם, מוכר ספרים ומזרחן. עסק בחקר תולדות עם ישראל והתרבות הערבית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 1147
+  },
+  "texts": {
+    "author": [
+      24415
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

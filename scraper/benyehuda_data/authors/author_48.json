@@ -1,0 +1,92 @@
+{
+  "id": 48,
+  "url": "https://benyehuda.org/author/48",
+  "metadata": {
+    "name": "טוביה בן משה כץ",
+    "sort_name": "כץ, טוביה בן משה",
+    "other_designations": "טוביה הרופא; טוביה בן משה הכהן;   טוביה כץ;  טוביה הכהן  ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1652",
+      "death_year": "1729"
+    },
+    "bio_snippet": "רופא יהודי, בעל החיבור האנציקלופדי \"מעשה טוביה\".",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama",
+      "fables",
+      "memoir",
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 9458
+  },
+  "texts": {
+    "author": [
+      214,
+      459,
+      700,
+      898,
+      1235,
+      1354,
+      1549,
+      1665,
+      1849,
+      2168,
+      2478,
+      2796,
+      3115,
+      3450,
+      3758,
+      4070,
+      4391,
+      4722,
+      5094,
+      5414,
+      5747,
+      6058,
+      6247,
+      6382,
+      6571,
+      6706,
+      6906,
+      7035,
+      7230,
+      7364,
+      7428,
+      7566,
+      7685,
+      7875,
+      8002,
+      8197,
+      8328,
+      8520,
+      8652,
+      28451,
+      28452,
+      28453,
+      28454,
+      28455,
+      28456,
+      28457,
+      28458,
+      28459
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      28484
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

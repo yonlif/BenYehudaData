@@ -1,0 +1,40 @@
+{
+  "id": 1597,
+  "url": "https://benyehuda.org/author/1597",
+  "metadata": {
+    "name": "שלמה צוקר",
+    "sort_name": "צוקר, שלמה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1936",
+      "death_year": ""
+    },
+    "bio_snippet": "מתרגם, עוסק בכתבי יד עבריים ",
+    "languages": [],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 296
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      35283,
+      35284,
+      35285,
+      35286
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

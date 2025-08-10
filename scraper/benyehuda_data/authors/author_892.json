@@ -1,0 +1,39 @@
+{
+  "id": 892,
+  "url": "https://benyehuda.org/author/892",
+  "metadata": {
+    "name": "משה ברנר",
+    "sort_name": "ברנר, משה ",
+    "other_designations": "משה בֶּרְנֶר",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1902",
+      "death_year": "1976"
+    },
+    "bio_snippet": "יליד רומניה, רופא, פעיל ציוני. שכל את אשתו ושלוש בנותיו באושוויץ (בת נוספת נפטרה קודם לכן), כמו גם בני משפחה אחרים. נישא בשנית לאחר שחרורו מהמחנות ועלה ארצה בראשית שנות השישים של המאה העשרים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 3077
+  },
+  "texts": {
+    "author": [
+      25535
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

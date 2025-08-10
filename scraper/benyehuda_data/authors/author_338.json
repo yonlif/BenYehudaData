@@ -1,0 +1,39 @@
+{
+  "id": 338,
+  "url": "https://benyehuda.org/author/338",
+  "metadata": {
+    "name": "הנס פטר ריכטר",
+    "sort_name": "ריכטר, הנס פטר",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1925",
+      "death_year": "1993"
+    },
+    "bio_snippet": "סופר גרמני.",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2386
+  },
+  "texts": {
+    "author": [
+      7044
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": 809,
+  "url": "https://benyehuda.org/author/809",
+  "metadata": {
+    "name": "שלום אש",
+    "sort_name": "אש, שלום",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1880",
+      "death_year": "1957"
+    },
+    "bio_snippet": " סופר בשפת יידיש. יליד פולין, חי ופעל בעיקר בארץ זו ובארצות הברית. בסוף ימיו השתקע בישראל.",
+    "languages": [
+      "yi",
+      "he"
+    ],
+    "genres": [
+      "drama",
+      "prose"
+    ],
+    "impressions_count": 15211
+  },
+  "texts": {
+    "author": [
+      23787,
+      25394,
+      34117,
+      34130,
+      34954,
+      34964,
+      34965,
+      35173,
+      35222,
+      37574,
+      37575,
+      37576,
+      37579,
+      37580,
+      37581,
+      37583,
+      37584,
+      37649,
+      37651,
+      37652,
+      37653,
+      37654,
+      37655,
+      37656,
+      37657,
+      37658,
+      37659,
+      37660,
+      37661,
+      37662,
+      37663,
+      38384,
+      39146,
+      39252,
+      40058,
+      43196,
+      44156,
+      45056
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      7091,
+      30968
+    ]
+  }
+}

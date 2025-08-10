@@ -1,0 +1,43 @@
+{
+  "id": 1978,
+  "url": "https://benyehuda.org/author/1978",
+  "metadata": {
+    "name": "יוסף פטאי ",
+    "sort_name": "פטאי, יוסף ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1882",
+      "death_year": "1953"
+    },
+    "bio_snippet": " משורר, ביוגרף, עורך, מתרגם ומנהיג ציוני הונגרי־יהודי",
+    "languages": [
+      "he",
+      "de"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 1129
+  },
+  "texts": {
+    "author": [
+      45871,
+      47132
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      42873
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 676,
+  "url": "https://benyehuda.org/author/676",
+  "metadata": {
+    "name": "איפוליט בוגדנוביץ'",
+    "sort_name": "בוגדנוביץ', איפוליט",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1744",
+      "death_year": "1803"
+    },
+    "bio_snippet": "משורר רוסי.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "fables"
+    ],
+    "impressions_count": 124
+  },
+  "texts": {
+    "author": [
+      19199
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

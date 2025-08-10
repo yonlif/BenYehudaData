@@ -1,0 +1,40 @@
+{
+  "id": 369,
+  "url": "https://benyehuda.org/author/369",
+  "metadata": {
+    "name": "ג'ונתן סוויפט",
+    "sort_name": "סוויפט, ג'ונתן",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1667",
+      "death_year": "1745"
+    },
+    "bio_snippet": "ג'ונתן סוויפט, סאטיריקן, מסאי, משורר ואיש דת אנגליקני. חיבורו המפורסם ביותר הוא הסאטירה \"מסעות גוליבר\". למרות שפרסם יצירות רבות, אף לא אחת מהן התפרסמה בשמו האמיתי.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 10042
+  },
+  "texts": {
+    "author": [
+      8396,
+      19901
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

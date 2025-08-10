@@ -1,0 +1,40 @@
+{
+  "id": 677,
+  "url": "https://benyehuda.org/author/677",
+  "metadata": {
+    "name": "איוואן דמיטרייב",
+    "sort_name": "דמיטרייב, איוואן",
+    "other_designations": "איוון דמיטרייב; איון דמיטרייב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1760",
+      "death_year": "1837"
+    },
+    "bio_snippet": "משורר רוסי מהזרם הסנטימנטליסטי.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "fables"
+    ],
+    "impressions_count": 94
+  },
+  "texts": {
+    "author": [
+      19234,
+      19235
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

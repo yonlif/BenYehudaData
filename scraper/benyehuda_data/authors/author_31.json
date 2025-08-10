@@ -1,0 +1,47 @@
+{
+  "id": 31,
+  "url": "https://benyehuda.org/author/31",
+  "metadata": {
+    "name": "אירה יאן",
+    "sort_name": "יאן, אירה",
+    "other_designations": "אסתר סלפיאן; אירא יאן; אירה ין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": "revival",
+      "birth_year": "1869",
+      "death_year": "1919"
+    },
+    "bio_snippet": "ציירת וסופרת שנודעה כאהובתו של חיים נחמן ביאליק וכחברה בקומונת האמנים \"בצלאל\".",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 3279
+  },
+  "texts": {
+    "author": [
+      11,
+      7551,
+      8192,
+      44218
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      47628,
+      47629
+    ]
+  }
+}

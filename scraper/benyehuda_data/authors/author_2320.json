@@ -1,0 +1,40 @@
+{
+  "id": 2320,
+  "url": "https://benyehuda.org/author/2320",
+  "metadata": {
+    "name": "יהושע סגרי",
+    "sort_name": "סגרי, יהושע ",
+    "other_designations": "יהושע בנציון סגרי; יהושע בן ציון סגרי;  יהושע בנציון בן אלישע סגרי; יהושע בן ציון בן אלישע סגרי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1705",
+      "death_year": "1797"
+    },
+    "bio_snippet": "רב ודיין איטלקי, פרסם כתבי פולמוס נגד הנצרות ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 195
+  },
+  "texts": {
+    "author": [
+      40792,
+      42214
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

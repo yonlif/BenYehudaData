@@ -1,0 +1,37 @@
+{
+  "id": 711,
+  "url": "https://benyehuda.org/author/711",
+  "metadata": {
+    "name": "מירי דור",
+    "sort_name": "דור, מירי",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": "revival",
+      "birth_year": "1910",
+      "death_year": "1945"
+    },
+    "bio_snippet": "משוררת וסופרת ילדים עברייה.",
+    "languages": [],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 447
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      20107
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

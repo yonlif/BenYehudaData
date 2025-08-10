@@ -1,0 +1,39 @@
+{
+  "id": 910,
+  "url": "https://benyehuda.org/author/910",
+  "metadata": {
+    "name": "תוקידידס",
+    "sort_name": "תוקידידס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "שנות ה־60 של המאה ה־5 לפנה״ס",
+      "death_year": "שנות ה־90 של המאה ה־4 לפנה״ס"
+    },
+    "bio_snippet": "היסטוריון יווני איש אתונה, אשר ספרו \"תולדות המלחמה הפלופונסית\" מתאר את קורות המלחמה שניטשה בין אתונה לספרטה במחצית השנייה של המאה ה-5 לפנה\"ס",
+    "languages": [
+      "grc"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 1380
+  },
+  "texts": {
+    "author": [
+      26170
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

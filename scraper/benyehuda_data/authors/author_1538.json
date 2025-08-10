@@ -1,0 +1,44 @@
+{
+  "id": 1538,
+  "url": "https://benyehuda.org/author/1538",
+  "metadata": {
+    "name": "אברהם בדרשי",
+    "sort_name": "בדרשי, אברהם ",
+    "other_designations": "אברהם בן יצחק בדרשי,  אברהם פרופיאט",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1230",
+      "death_year": "1300"
+    },
+    "bio_snippet": "רב ומדקדק עברי, משורר ופייטן מחכמי יהדות פרובנס במאה ה־13",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 630
+  },
+  "texts": {
+    "author": [
+      33743,
+      33744,
+      33745,
+      33746,
+      33747,
+      33748
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

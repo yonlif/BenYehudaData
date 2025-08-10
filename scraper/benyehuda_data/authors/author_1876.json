@@ -1,0 +1,39 @@
+{
+  "id": 1876,
+  "url": "https://benyehuda.org/author/1876",
+  "metadata": {
+    "name": "אלעזר אזכרי",
+    "sort_name": "אזכרי, אלעזר ",
+    "other_designations": "אלעזר בן משה אזכרי; אזקרי;  אזיקרי; אזיכרי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1533",
+      "death_year": "1600"
+    },
+    "bio_snippet": "מקובל, דרשן ומשורר יליד צפת. מפורסם בעיקר בשל הפיוט 'ידיד נפש' ובשל חיבורו 'ספר חרדים'",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 736
+  },
+  "texts": {
+    "author": [
+      38137
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 876,
+  "url": "https://benyehuda.org/author/876",
+  "metadata": {
+    "name": "צפורה אהרנוביץ",
+    "sort_name": "אהרנוביץ, צפורה",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "other",
+      "period": "modern",
+      "birth_year": "1914",
+      "death_year": "1971"
+    },
+    "bio_snippet": "בתם של הסופרת דבורה בארון והעיתונאי ומנהיג הפועלים יוסף אהרונוביץ ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 1118
+  },
+  "texts": {
+    "author": [
+      24718
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

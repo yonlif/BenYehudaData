@@ -1,0 +1,42 @@
+{
+  "id": 3436,
+  "url": "https://benyehuda.org/author/3436",
+  "metadata": {
+    "name": "ז'אן־פייר קלארי דה פלוריאן",
+    "sort_name": "פלוריאן, ז'אן־פייר קלארי דה ",
+    "other_designations": "ז'אן-פייר קלארי דה פלוריאן; ז'אן פייר קלארי דה פלוריאן; ז'ן־פייר קלרי דה פלוריין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1755",
+      "death_year": "1794"
+    },
+    "bio_snippet": " משורר, סופר ומחזאי צרפתי. נודע בעיקר בשל משליו",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "fables"
+    ],
+    "impressions_count": 54
+  },
+  "texts": {
+    "author": [
+      18961,
+      18962,
+      18963,
+      19183
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1487,
+  "url": "https://benyehuda.org/author/1487",
+  "metadata": {
+    "name": "דוד פילפזון",
+    "sort_name": "פילפזון, דוד ",
+    "other_designations": "דוד פיליפזון, דוד פיליפסון, דוד בן יוסף פיליפסון, דוד פלפזון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1862",
+      "death_year": "1949"
+    },
+    "bio_snippet": "רב רפורמי, נואם וסופר בארצות הברית",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 364
+  },
+  "texts": {
+    "author": [
+      33348
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": 149,
+  "url": "https://benyehuda.org/author/149",
+  "metadata": {
+    "name": "צבי שץ",
+    "sort_name": "שץ, צבי",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1890",
+      "death_year": "1921"
+    },
+    "bio_snippet": "סופר עברי, נרצח ביפו בכ\"ד בניסן תרפ\"א עם הסופר י\"ח ברנר וחבורתו. ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "letters",
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 7343
+  },
+  "texts": {
+    "author": [
+      4439,
+      4784,
+      5141,
+      5441,
+      5782,
+      6054,
+      6105,
+      6378,
+      6428,
+      6703,
+      6755,
+      7031,
+      7360,
+      7681,
+      7998
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

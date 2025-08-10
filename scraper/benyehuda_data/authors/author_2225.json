@@ -1,0 +1,39 @@
+{
+  "id": 2225,
+  "url": "https://benyehuda.org/author/2225",
+  "metadata": {
+    "name": "ישעיה די טראני",
+    "sort_name": "די טראני, ישעיה ",
+    "other_designations": "ישעיה ב\"ר מאלי די טראני; ישעיה בר מאלי די טראני; ישעיה בן מאלי די טראני; ישעיה בר מאלי מטראני; ישעיה בן מאלי מטראני; רי\"ד; רבנו ישעיה הראשון; ישעיה הזקן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1165",
+      "death_year": "1240"
+    },
+    "bio_snippet": "מגדולי ראשוני איטליה, פרשן מקרא, המשנה ומדרשי ההלכה, פרשן התלמוד ופוסק. נודע בעיקר בזכות פירושו המקורי והמקיף לתלמוד",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 208
+  },
+  "texts": {
+    "author": [
+      38424
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

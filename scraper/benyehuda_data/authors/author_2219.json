@@ -1,0 +1,39 @@
+{
+  "id": 2219,
+  "url": "https://benyehuda.org/author/2219",
+  "metadata": {
+    "name": "משה בר בנימין הסופר",
+    "sort_name": "הסופר, משה בר בנימין ",
+    "other_designations": "משה בן בנימין הסופר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "[מרוֹמָא, חי לכל המאוחר במחצית הראשונה של המאה הי\"ב",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 101
+  },
+  "texts": {
+    "author": [
+      38419
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

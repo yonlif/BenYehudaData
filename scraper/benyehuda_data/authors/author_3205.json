@@ -1,0 +1,53 @@
+{
+  "id": 3205,
+  "url": "https://benyehuda.org/author/3205",
+  "metadata": {
+    "name": "סמואיל מרשק",
+    "sort_name": "מרשק, סמואיל ",
+    "other_designations": "סמואיל יקובלביץ' מרשק; סמויל מרשק; שמואל מרשק; שמואל מהרש\"ק",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1887",
+      "death_year": "1964"
+    },
+    "bio_snippet": "משורר, מחזאי, סופר ואיש חינוך רוסי יהודי. נודע בעיקר כמשורר ילדים וכמתרגם, אך כתב גם למבוגרים. ספר הילדים הידוע \"המפוזר מכפר אז\"ר\" הוא עיבוד עברי לספר של מרשק \"המפוזר\"",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "fables",
+      "poetry"
+    ],
+    "impressions_count": 194
+  },
+  "texts": {
+    "author": [
+      18979,
+      18980,
+      18981,
+      18982,
+      18983,
+      18984,
+      18985,
+      18986,
+      18987,
+      19213,
+      19265,
+      39419,
+      58823,
+      58824
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

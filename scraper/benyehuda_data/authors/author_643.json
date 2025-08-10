@@ -1,0 +1,42 @@
+{
+  "id": 643,
+  "url": "https://benyehuda.org/author/643",
+  "metadata": {
+    "name": "יחיא קאפח",
+    "sort_name": "קאפח, יחיא",
+    "other_designations": "מארי הישיש; יחיא קפאח",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1850",
+      "death_year": "1931"
+    },
+    "bio_snippet": "מגדולי חכמי תימן בדורו. דיין, פוסק מפורסם וראש ישיבה. ידוע במלחמתו כנגד ספר הזוהר והקבלה למען חזרתה של יהדות תימן לפסיקת ההלכה לפי הרמב\"ם והרס\"ג, ודחיית מנהגים שנהגו אחרי חתימת התלמוד כמעט לחלוטין. ידוע בגישתו השכלתנית ובמאמרו: ”למד היטב, חקור והשכלת”. היה סבו, מחנכו ורבו של הרב יוסף קאפח",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 4379
+  },
+  "texts": {
+    "author": [
+      18082,
+      24499,
+      26449
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

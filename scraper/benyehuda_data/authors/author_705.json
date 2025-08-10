@@ -1,0 +1,39 @@
+{
+  "id": 705,
+  "url": "https://benyehuda.org/author/705",
+  "metadata": {
+    "name": "אריסטו",
+    "sort_name": "אריסטו",
+    "other_designations": "אריסטוטלס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "ancient",
+      "birth_year": "384",
+      "death_year": "322"
+    },
+    "bio_snippet": "פילוסוף יווני, מבכירי הפילוסופים של העת העתיקה, ומאבות הפילוסופיה המערבית.",
+    "languages": [
+      "grc"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 11360
+  },
+  "texts": {
+    "author": [
+      20030
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

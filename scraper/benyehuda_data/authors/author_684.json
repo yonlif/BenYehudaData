@@ -1,0 +1,39 @@
+{
+  "id": 684,
+  "url": "https://benyehuda.org/author/684",
+  "metadata": {
+    "name": "טרוט ריבלי גלובר",
+    "sort_name": "גלובר, טרוט ריבלי",
+    "other_designations": "ט\"ר גלובר; טרו ריבלי גלובר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1869",
+      "death_year": "1943"
+    },
+    "bio_snippet": "מרצה בריטי ללימודים קלאסיים.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 1921
+  },
+  "texts": {
+    "author": [
+      18836
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": 1048,
+  "url": "https://benyehuda.org/author/1048",
+  "metadata": {
+    "name": "מאיר בראלי",
+    "sort_name": "בראלי, מאיר ",
+    "other_designations": "מוריק ברודני",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1922",
+      "death_year": "2004"
+    },
+    "bio_snippet": "עיתונאי וסופר ישראלי, חבר מערכת דבר ומעורכי \"אשנב\", \"אשמורת\" ו\"אֹמֶר\", מראשי המשמרת הצעירה של מפא\"י",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 3473
+  },
+  "texts": {
+    "author": [
+      28902,
+      30648,
+      33289
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

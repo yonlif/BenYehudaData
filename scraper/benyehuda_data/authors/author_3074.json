@@ -1,0 +1,43 @@
+{
+  "id": 3074,
+  "url": "https://benyehuda.org/author/3074",
+  "metadata": {
+    "name": "דוד חיים",
+    "sort_name": "חיים, דוד ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1930",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד המבורג, כתב שירה מילדותו. נפצע במלחמת העצמאות מפגז במגרש הרוסים בירושלים, ומת בבית החולים. אחיו הבכור יוסף נהרג גם הוא [על פי \"גווילי אש\"]",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 282
+  },
+  "texts": {
+    "author": [
+      54259,
+      54260,
+      54261,
+      54262,
+      54263
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 267,
+  "url": "https://benyehuda.org/author/267",
+  "metadata": {
+    "name": "לואי פנדלטון",
+    "sort_name": "פנדלטון, לואי",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1861",
+      "death_year": "1939"
+    },
+    "bio_snippet": "",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1182
+  },
+  "texts": {
+    "author": [
+      2107
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

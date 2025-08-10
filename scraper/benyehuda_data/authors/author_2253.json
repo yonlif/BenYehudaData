@@ -1,0 +1,39 @@
+{
+  "id": 2253,
+  "url": "https://benyehuda.org/author/2253",
+  "metadata": {
+    "name": "משולם הסופר מפרוג'ה",
+    "sort_name": "מפרוג'ה, משולם הסופר ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "פייטן מפרוג'ה שבחבל טוסקנה, חי כנראה במחצית הראשונה של המאה ה־14",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 94
+  },
+  "texts": {
+    "author": [
+      40730
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

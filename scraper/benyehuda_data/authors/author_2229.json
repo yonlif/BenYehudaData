@@ -1,0 +1,39 @@
+{
+  "id": 2229,
+  "url": "https://benyehuda.org/author/2229",
+  "metadata": {
+    "name": "צדקיה בן בנימין מהענווים",
+    "sort_name": "מהענווים, צדקיה בן בנימין ",
+    "other_designations": "צדקיה בן בנימין הרופא מהענווים; צדקיה בן בנימין מן הענווים",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "מרומא, מת אחרי 1290",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 97
+  },
+  "texts": {
+    "author": [
+      38427
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

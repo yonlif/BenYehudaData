@@ -1,0 +1,42 @@
+{
+  "id": 274,
+  "url": "https://benyehuda.org/author/274",
+  "metadata": {
+    "name": "לאון טרוצקי",
+    "sort_name": "טרוצקי, לאון",
+    "other_designations": "לב (לייב) דוידוביץ' בְּרוֹנשטיין; לב טרוצקי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1879",
+      "death_year": "1940"
+    },
+    "bio_snippet": "מהפכן רוסי־יהודי, הוגה דעות קומוניסטי, מנהיג סובייטי ומייסד הצבא האדום",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 6950
+  },
+  "texts": {
+    "author": [
+      15031,
+      15055
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      2439
+    ]
+  }
+}

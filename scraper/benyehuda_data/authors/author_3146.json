@@ -1,0 +1,39 @@
+{
+  "id": 3146,
+  "url": "https://benyehuda.org/author/3146",
+  "metadata": {
+    "name": "יוסף קבקר",
+    "sort_name": "קבקר, יוסף ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1926",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד קנדה, למד באוניברסיטה העברית בירושלים וכתב ספר בחקר המקרא. נפל במלחמת העצמאות בכיבוש הכפר־משלט בית טול ומשלט אבו טול ששלטו על הכביש שבין ירושלים לשפלה. לאחר נפילתו שינתה משפחתו את שמה ל\"אל־יוסף\" [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 125
+  },
+  "texts": {
+    "author": [
+      54642
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

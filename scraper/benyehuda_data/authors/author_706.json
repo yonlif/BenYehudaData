@@ -1,0 +1,39 @@
+{
+  "id": 706,
+  "url": "https://benyehuda.org/author/706",
+  "metadata": {
+    "name": "פרידריך שפילהאגן",
+    "sort_name": "שפילהאגן, פרידריך",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1829",
+      "death_year": "1911"
+    },
+    "bio_snippet": "סופר, חוקר ספרות ומתרגם גרמני.",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 805
+  },
+  "texts": {
+    "author": [
+      19719
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

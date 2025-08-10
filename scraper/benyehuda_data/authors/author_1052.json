@@ -1,0 +1,41 @@
+{
+  "id": 1052,
+  "url": "https://benyehuda.org/author/1052",
+  "metadata": {
+    "name": "יואכים היינריך קאמפה",
+    "sort_name": "קאמפה, יואכים היינריך ",
+    "other_designations": "יואכים היינריך קמפה; יואכים הינריך קמפה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1746",
+      "death_year": "1818"
+    },
+    "bio_snippet": "מחנך גרמני, סופר ילדים, מוציא לאור ובלשן. מראשי תנועת הפילנתרופיניסטים ומהדמויות הבולטות של תקופת הנאורות בגרמניה.",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "memoir",
+      "reference"
+    ],
+    "impressions_count": 654
+  },
+  "texts": {
+    "author": [
+      28921,
+      57858
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3289,
+  "url": "https://benyehuda.org/author/3289",
+  "metadata": {
+    "name": "נויה שגיב",
+    "sort_name": "שגיב, נויה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "מרצה ומורה למקרא, סופרת ספרי ילדים, אשת פיתוח תוכן, מפתחת תכניות לימודים, מדריכת טיולי ג’יפים ומובילת להקת רוק [על־פי הרצאות מהכורסה]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 207
+  },
+  "texts": {
+    "author": [
+      56598
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

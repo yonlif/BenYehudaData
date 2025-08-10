@@ -1,0 +1,41 @@
+{
+  "id": 1581,
+  "url": "https://benyehuda.org/author/1581",
+  "metadata": {
+    "name": "שמואל חיים זלמן",
+    "sort_name": "זלמן, שמואל חיים ",
+    "other_designations": "סמואלה ויטה זלמן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1807",
+      "death_year": "1885"
+    },
+    "bio_snippet": "סופר ומשורר עברי־איטלקי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 273
+  },
+  "texts": {
+    "author": [
+      40808,
+      42255,
+      42256
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

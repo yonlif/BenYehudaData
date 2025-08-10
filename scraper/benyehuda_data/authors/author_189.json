@@ -1,0 +1,39 @@
+{
+  "id": 189,
+  "url": "https://benyehuda.org/author/189",
+  "metadata": {
+    "name": "דוד מאירובסקי",
+    "sort_name": "מאירובסקי, דוד",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 783
+  },
+  "texts": {
+    "author": [
+      179
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

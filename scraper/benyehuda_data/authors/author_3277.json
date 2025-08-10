@@ -1,0 +1,39 @@
+{
+  "id": 3277,
+  "url": "https://benyehuda.org/author/3277",
+  "metadata": {
+    "name": "נתי קורן",
+    "sort_name": "קורן, נתי ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "סופר, עסק בתחום המחשבים ובתעשיית היהלומים [על־פי פרויקט הסיפור הקצר]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 225
+  },
+  "texts": {
+    "author": [
+      56594
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

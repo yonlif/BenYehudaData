@@ -1,0 +1,39 @@
+{
+  "id": 2527,
+  "url": "https://benyehuda.org/author/2527",
+  "metadata": {
+    "name": "אברהם משה שמואל",
+    "sort_name": "שמואל, אברהם משה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "מיהודי בבל בהודו",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 62
+  },
+  "texts": {
+    "author": [
+      45724
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

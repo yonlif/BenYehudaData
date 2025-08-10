@@ -1,0 +1,39 @@
+{
+  "id": 3081,
+  "url": "https://benyehuda.org/author/3081",
+  "metadata": {
+    "name": "יעקב יוסט",
+    "sort_name": "יוסט, יעקב ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1930",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד פולין. השתתף במלחמת העצמאות בהגנת דרום תל אביב ונפל בהתקפה על אבו כביר [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 120
+  },
+  "texts": {
+    "author": [
+      54887
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

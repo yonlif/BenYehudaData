@@ -1,0 +1,41 @@
+{
+  "id": 3522,
+  "url": "https://benyehuda.org/author/3522",
+  "metadata": {
+    "name": "יבגני ברטינסקי",
+    "sort_name": "ברטינסקי, יבגני ",
+    "other_designations": "יבגני באראטינסקי` hcd",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1800",
+      "death_year": "1844"
+    },
+    "bio_snippet": "אלכסנדר פושקין החשיב אותו למשורר האלגי הרוסי הטוב ביותר. לאחר שקרנו ירדה, התגלה מחדש על ידי משוררי הסימבוליזם הרוסי",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 45
+  },
+  "texts": {
+    "author": [
+      58725,
+      58726,
+      58727
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

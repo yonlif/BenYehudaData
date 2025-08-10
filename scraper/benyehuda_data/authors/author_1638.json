@@ -1,0 +1,39 @@
+{
+  "id": 1638,
+  "url": "https://benyehuda.org/author/1638",
+  "metadata": {
+    "name": "איבן ניקיטין",
+    "sort_name": "ניקיטין, איבן ",
+    "other_designations": "איבן סאביץ' ניקיטין; איוון ניקיטין; איבן סביץ' ניקיטין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1824",
+      "death_year": "1861"
+    },
+    "bio_snippet": "משורר רוסי",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 259
+  },
+  "texts": {
+    "author": [
+      35050
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

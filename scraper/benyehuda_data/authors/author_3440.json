@@ -1,0 +1,39 @@
+{
+  "id": 3440,
+  "url": "https://benyehuda.org/author/3440",
+  "metadata": {
+    "name": "אלה וילר וילקוקס",
+    "sort_name": "וילקוקס, אלה וילר ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1850",
+      "death_year": "1919"
+    },
+    "bio_snippet": "סופרת ומשוררת אמריקאית",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 18
+  },
+  "texts": {
+    "author": [
+      19299
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

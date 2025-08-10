@@ -1,0 +1,41 @@
+{
+  "id": 3048,
+  "url": "https://benyehuda.org/author/3048",
+  "metadata": {
+    "name": "יצחק דובנו",
+    "sort_name": "דובנו, יצחק ",
+    "other_designations": "יצחק (איציק) דובנו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1913",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד פולין. הניח את היסודות לקיבוץ נגבה. הקדיש את חייו ל\"הגנה\" - מדריך, חוקר, כותב מאמרים ב\"מערכות\" ומפקד נגבה. נפל במלחמת העצמאות בהתקפה מצרית על נגבה. שם המחתרת שלו היה \"יואב\" ועל שמו נקרא \"מבצע יואב\" לשחרור הדרום; גם משטרת עירק אל סואידן נקראת על שמו \"מגדל יואב\"  [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 195
+  },
+  "texts": {
+    "author": [
+      54584,
+      54855
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 3177,
+  "url": "https://benyehuda.org/author/3177",
+  "metadata": {
+    "name": "מואיז בן הראש",
+    "sort_name": "הראש, מואיז בן ",
+    "other_designations": "משה בן הראש; משה בן־הרוש ",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1959",
+      "death_year": ""
+    },
+    "bio_snippet": "סופר, מתרגם ומשורר ישראלי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 287
+  },
+  "texts": {
+    "author": [
+      54723,
+      54724
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 792,
+  "url": "https://benyehuda.org/author/792",
+  "metadata": {
+    "name": "מנחם בורישו",
+    "sort_name": "בורישו, מנחם",
+    "other_designations": "מנחם באריישא; מנחם גולדברג",
+    "intellectual_property": "unknown",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1888",
+      "death_year": "1949"
+    },
+    "bio_snippet": "משורר יידיש, מחזאי ועיתונאי",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 760
+  },
+  "texts": {
+    "author": [
+      23494,
+      23495,
+      52130,
+      52131,
+      52132,
+      52133
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

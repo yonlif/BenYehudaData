@@ -1,0 +1,39 @@
+{
+  "id": 929,
+  "url": "https://benyehuda.org/author/929",
+  "metadata": {
+    "name": "פסח בן־דוד לשצ'ינסקי ",
+    "sort_name": "לשצ'ינסקי פסח בן־דוד ",
+    "other_designations": "בן דוד, לצ'ינסקי, לשינסקי, דוידזון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 298
+  },
+  "texts": {
+    "author": [
+      26142
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

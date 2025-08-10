@@ -1,0 +1,39 @@
+{
+  "id": 2580,
+  "url": "https://benyehuda.org/author/2580",
+  "metadata": {
+    "name": "יוחנן כהן־ישר",
+    "sort_name": "כהן־ישר, יוחנן ",
+    "other_designations": "יוחנן כהן-ישר; יוחנן כהן ישר",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1934",
+      "death_year": "2016"
+    },
+    "bio_snippet": "סופר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1245
+  },
+  "texts": {
+    "author": [
+      46827
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

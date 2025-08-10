@@ -1,0 +1,39 @@
+{
+  "id": 2921,
+  "url": "https://benyehuda.org/author/2921",
+  "metadata": {
+    "name": "יוזף רות",
+    "sort_name": "רות, יוזף ",
+    "other_designations": "יוזף רוט",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1894",
+      "death_year": "1939"
+    },
+    "bio_snippet": " סופר ועיתונאי יהודי-אוסטרי ממוצא גליציאני",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 482
+  },
+  "texts": {
+    "author": [
+      52869
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

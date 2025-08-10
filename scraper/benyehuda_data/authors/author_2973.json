@@ -1,0 +1,40 @@
+{
+  "id": 2973,
+  "url": "https://benyehuda.org/author/2973",
+  "metadata": {
+    "name": "שמעון צמרת",
+    "sort_name": "צמרת, שמעון ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1943",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 204
+  },
+  "texts": {
+    "author": [
+      54149,
+      56452
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

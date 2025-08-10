@@ -1,0 +1,39 @@
+{
+  "id": 247,
+  "url": "https://benyehuda.org/author/247",
+  "metadata": {
+    "name": "אלפרד אדוארד האוסמן",
+    "sort_name": "האוסמן, אלפרד אדוארד",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1859",
+      "death_year": "1936"
+    },
+    "bio_snippet": "היה משורר אנגלי ומחוקרי השפה הלטינית.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 553
+  },
+  "texts": {
+    "author": [
+      1586
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

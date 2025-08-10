@@ -1,0 +1,51 @@
+{
+  "id": 125,
+  "url": "https://benyehuda.org/author/125",
+  "metadata": {
+    "name": "חיים יעקב אונגר",
+    "sort_name": "אונגר, חיים יעקב ",
+    "other_designations": "חיים יעקב בן ברוך אונגר; יואכים יעקב אונגר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1826",
+      "death_year": "1912"
+    },
+    "bio_snippet": "רב אוסטרי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 4298
+  },
+  "texts": {
+    "author": [
+      7134,
+      7175,
+      7204,
+      7235,
+      7266,
+      7303,
+      7332,
+      7369,
+      7398,
+      7436,
+      7464,
+      7501,
+      7530
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

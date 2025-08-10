@@ -1,0 +1,41 @@
+{
+  "id": 374,
+  "url": "https://benyehuda.org/author/374",
+  "metadata": {
+    "name": "שלום הכהן",
+    "sort_name": "הכהן, שלום ",
+    "other_designations": "שלום בן יעקב הכהן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1771",
+      "death_year": "1845"
+    },
+    "bio_snippet": "משורר עברי, איש תנועת ההשכלה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama",
+      "poetry"
+    ],
+    "impressions_count": 1009
+  },
+  "texts": {
+    "author": [
+      31893,
+      56223
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

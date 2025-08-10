@@ -1,0 +1,41 @@
+{
+  "id": 896,
+  "url": "https://benyehuda.org/author/896",
+  "metadata": {
+    "name": "משה קולבק",
+    "sort_name": "קולבק, משה ",
+    "other_designations": "משה קולבאק",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1896",
+      "death_year": "1937"
+    },
+    "bio_snippet": " משורר, במאי ומחזאי, מתרגם וסופר יידיש, מאבות ספרות היידיש החדשה. נעצר בידי המשטרה הסובייטית בשנת 1937, במסגרת הטיהורים של יוצרי היידיש, ותאריך מותו ונסיבותיו אינם ידועים",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 721
+  },
+  "texts": {
+    "author": [
+      25616,
+      25617,
+      52490
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 579,
+  "url": "https://benyehuda.org/author/579",
+  "metadata": {
+    "name": "יהושע בר־יוסף",
+    "sort_name": "בר־יוסף, יהושע",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1912",
+      "death_year": "1992"
+    },
+    "bio_snippet": " סופר עברי, מחזאי, מבקר ועיתונאי ישראלי. חתן פרס ביאליק לספרות יפה (1984).",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 2967
+  },
+  "texts": {
+    "author": [
+      14433
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      53327
+    ]
+  }
+}

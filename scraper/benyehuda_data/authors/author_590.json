@@ -1,0 +1,71 @@
+{
+  "id": 590,
+  "url": "https://benyehuda.org/author/590",
+  "metadata": {
+    "name": "מוקי צור",
+    "sort_name": "צור, מוקי",
+    "other_designations": "שמואל צור",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1938",
+      "death_year": ""
+    },
+    "bio_snippet": "היסטוריון, סופר, עורך ומורה ישראלי.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir",
+      "reference"
+    ],
+    "impressions_count": 26992
+  },
+  "texts": {
+    "author": [
+      15368,
+      16396,
+      16420,
+      17867,
+      37247,
+      37253,
+      37254,
+      37255,
+      37256,
+      37257,
+      37258,
+      37259,
+      37260,
+      37261,
+      37262,
+      37263,
+      37264,
+      37265,
+      37266,
+      37267,
+      37268,
+      37269,
+      37270,
+      37271,
+      37272,
+      37273,
+      37274,
+      37275,
+      37276
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      16421
+    ]
+  }
+}

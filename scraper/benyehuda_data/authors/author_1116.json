@@ -1,0 +1,39 @@
+{
+  "id": 1116,
+  "url": "https://benyehuda.org/author/1116",
+  "metadata": {
+    "name": "אליעזר מאיר ליפשיץ",
+    "sort_name": "ליפשיץ, אליעזר מאיר ",
+    "other_designations": "רא\"ם",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1879",
+      "death_year": "1946"
+    },
+    "bio_snippet": "רב, מחנך, חוקר יהדות, ומראשי תנועת המזרחי בארץ ישראל. נחשב אחד ממייסדי ומעצבי החינוך בזרם האורתודוקסיה המודרנית\r\n\r\n",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 432
+  },
+  "texts": {
+    "author": [
+      29210
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": 3,
+  "url": "https://benyehuda.org/author/3",
+  "metadata": {
+    "name": "שלמה שפאן",
+    "sort_name": "שפאן, שלמה",
+    "other_designations": "שלמה שְׁפַּאן",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1898",
+      "death_year": "1962"
+    },
+    "bio_snippet": "מורה ומפקח, סופר, משורר ומתרגם ישראלי. היה חבר האקדמיה ללשון העברית. חתן פרס טשרניחובסקי לתרגומי מופת פעמיים.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "drama",
+      "memoir",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 28304
+  },
+  "texts": {
+    "author": [
+      26,
+      100,
+      520,
+      560,
+      839,
+      944,
+      958,
+      1330,
+      1407,
+      1414,
+      1641,
+      1703,
+      1711,
+      1952,
+      2016,
+      2268,
+      2582,
+      5323,
+      5644,
+      5967,
+      6107,
+      6289,
+      6431,
+      6611,
+      6759,
+      6946,
+      7083,
+      7271,
+      7414,
+      7596,
+      7725,
+      7734,
+      8044,
+      8053,
+      8369,
+      8377,
+      23901,
+      23902,
+      23903,
+      23904,
+      23906,
+      23907,
+      23908,
+      23909,
+      23910,
+      23911,
+      23912,
+      23913,
+      23914,
+      23915
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      2555
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      10102
+    ]
+  }
+}

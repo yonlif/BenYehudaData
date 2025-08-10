@@ -1,0 +1,48 @@
+{
+  "id": 2149,
+  "url": "https://benyehuda.org/author/2149",
+  "metadata": {
+    "name": "זישה לנדוי",
+    "sort_name": "לנדוי, זישה ",
+    "other_designations": "זישו לנדוי; זישו לאנדוי;; זישה לנדאו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1889",
+      "death_year": "1937"
+    },
+    "bio_snippet": "סופר, מחזאי, מתרגם ומשורר יידיש אמריקאי יליד פולין",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 641
+  },
+  "texts": {
+    "author": [
+      40882,
+      52134,
+      52135,
+      52136,
+      52137,
+      57547,
+      57549,
+      57551,
+      57784,
+      57793
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

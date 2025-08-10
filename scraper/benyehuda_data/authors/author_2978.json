@@ -1,0 +1,40 @@
+{
+  "id": 2978,
+  "url": "https://benyehuda.org/author/2978",
+  "metadata": {
+    "name": "מישל חדאד",
+    "sort_name": "חדאד, מישל ",
+    "other_designations": "מישל אסקנדר חדאד",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1919",
+      "death_year": "1996"
+    },
+    "bio_snippet": "משורר, סופר, עורך ועיתונאי ערבי־ישראלי, מהבולטים שבמשוררים הערביים בישראל",
+    "languages": [
+      "ar"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 130
+  },
+  "texts": {
+    "author": [
+      54154,
+      54156
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2034,
+  "url": "https://benyehuda.org/author/2034",
+  "metadata": {
+    "name": "ענן בר מרינוס הכהן",
+    "sort_name": "בר מרינוס הכהן, ענן ",
+    "other_designations": "ענן בר־מרינוס הכהן; ענן בר-מרינוס הכהן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "המחצית השנייה של המאה ה־11",
+      "death_year": ""
+    },
+    "bio_snippet": "פייטן מספּוֹנְטוֹ באיטליה הדרומית, חי במחצית השניה של המאה ה־11\r\n\r\n",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 123
+  },
+  "texts": {
+    "author": [
+      38417
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

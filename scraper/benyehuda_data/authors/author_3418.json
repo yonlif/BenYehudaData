@@ -1,0 +1,39 @@
+{
+  "id": 3418,
+  "url": "https://benyehuda.org/author/3418",
+  "metadata": {
+    "name": "דניס סילק",
+    "sort_name": "סילק, דניס ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1928",
+      "death_year": "1998"
+    },
+    "bio_snippet": "משורר, מחזאי, עיתונאי ומתרגם ישראלי שכתב בשפה האנגלית",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 102
+  },
+  "texts": {
+    "author": [
+      57238
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

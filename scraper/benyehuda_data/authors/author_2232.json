@@ -1,0 +1,39 @@
+{
+  "id": 2232,
+  "url": "https://benyehuda.org/author/2232",
+  "metadata": {
+    "name": "שלמה בן משה מן האדומים",
+    "sort_name": "מן האדומים, שלמה בן משה ",
+    "other_designations": "(dei rossi)",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "מרומא, מאת אחרי 1284",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 139
+  },
+  "texts": {
+    "author": [
+      38429
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

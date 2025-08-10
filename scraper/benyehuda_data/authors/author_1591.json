@@ -1,0 +1,39 @@
+{
+  "id": 1591,
+  "url": "https://benyehuda.org/author/1591",
+  "metadata": {
+    "name": "שלמה הלוי מבורגוס",
+    "sort_name": "הלוי מבורגוס, שלמה  ",
+    "other_designations": "שלמה הלוי; פבלו דה סנטה מריה; פאולוס איש בורגוס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1350",
+      "death_year": "1435"
+    },
+    "bio_snippet": "תאולוג ואיש דת קתולי, בישוף העיר בורגוס, פרשן מקרא והשר שומר־החותם במועצת קסטיליה; יהודי מומר שטרם טבילתו כיהן כרבה של בורגוס",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 733
+  },
+  "texts": {
+    "author": [
+      34198
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

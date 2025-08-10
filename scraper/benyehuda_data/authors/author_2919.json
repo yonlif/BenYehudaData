@@ -1,0 +1,40 @@
+{
+  "id": 2919,
+  "url": "https://benyehuda.org/author/2919",
+  "metadata": {
+    "name": "כריסטיאן מורגנשטרן",
+    "sort_name": "מורגנשטרן, כריסטיאן ",
+    "other_designations": "כריסטיאן אוטו יוזף וולפגנג מורגנשטרן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1871",
+      "death_year": "1914"
+    },
+    "bio_snippet": " משורר, סופר ומתרגם גרמני",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 141
+  },
+  "texts": {
+    "author": [
+      52830,
+      52831
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

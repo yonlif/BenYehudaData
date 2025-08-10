@@ -1,0 +1,58 @@
+{
+  "id": 688,
+  "url": "https://benyehuda.org/author/688",
+  "metadata": {
+    "name": "הלל צייטלין",
+    "sort_name": "צייטלין, הלל",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1871",
+      "death_year": "1942"
+    },
+    "bio_snippet": "הוגה דעות, סופר ופובליציסט יהודי, שכתב בעברית וביידיש. נרצח בשואה.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 38591
+  },
+  "texts": {
+    "author": [
+      18886,
+      21024,
+      21025,
+      21047,
+      21048,
+      34579,
+      34580,
+      34581,
+      34733,
+      34734,
+      34748,
+      34786,
+      34968
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      8352,
+      10118,
+      20940,
+      30216,
+      46109
+    ]
+  }
+}

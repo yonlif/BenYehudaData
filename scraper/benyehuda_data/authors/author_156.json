@@ -1,0 +1,77 @@
+{
+  "id": 156,
+  "url": "https://benyehuda.org/author/156",
+  "metadata": {
+    "name": "עמנואל הרומי",
+    "sort_name": "הרומי, עמנואל",
+    "other_designations": "עמנואל בן שלמה הרומי; עמנואל בן שלמה הצפרוני;  Manoello Giudeo; Immanuelle Romano",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1265",
+      "death_year": "1330"
+    },
+    "bio_snippet": "משורר, סופר ובלשן יהודי־איטלקי, ונודע בעיסוקיו המגוונים. ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 18868
+  },
+  "texts": {
+    "author": [
+      466,
+      36679,
+      36680,
+      36681,
+      36715,
+      36886,
+      37845,
+      40722,
+      41674,
+      41675,
+      41676,
+      41677,
+      41678,
+      41679,
+      41680,
+      41681,
+      41682,
+      41683,
+      41684,
+      41685,
+      41686,
+      41687,
+      41688,
+      41689,
+      41690,
+      41691,
+      41692,
+      41693,
+      41694,
+      41695,
+      41696,
+      41697,
+      41698,
+      41699,
+      41700,
+      41701
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      6829
+    ]
+  }
+}

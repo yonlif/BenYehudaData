@@ -1,0 +1,39 @@
+{
+  "id": 640,
+  "url": "https://benyehuda.org/author/640",
+  "metadata": {
+    "name": "משה פלינקר",
+    "sort_name": "פלינקר, משה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1926",
+      "death_year": "1944"
+    },
+    "bio_snippet": "נער יהודי הולנדי שחיבר בימי השואה יומן אישי בעברית וחשף בפני קוראים רבים בעשורים שלאחר מכן את התמודדויות נער דתי עם שאלות אמוניות בתקופת השואה. היומן שחיבר, שבו תיעד בין השאר את התקופה בה הסתתרה משפחתו מאימת רדיפות הנאצים בבלגיה, יצא לאור כספר.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 3781
+  },
+  "texts": {
+    "author": [
+      17966
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

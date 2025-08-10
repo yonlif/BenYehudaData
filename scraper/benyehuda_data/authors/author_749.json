@@ -1,0 +1,44 @@
+{
+  "id": 749,
+  "url": "https://benyehuda.org/author/749",
+  "metadata": {
+    "name": "קלונימוס בן קלונימוס",
+    "sort_name": "קלונימוס, קלונימוס בן",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1286",
+      "death_year": "1328"
+    },
+    "bio_snippet": "חכם צרפתי-איטלקי נודד בן למשפחת קלונימוס.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 5187
+  },
+  "texts": {
+    "author": [
+      21478,
+      21479,
+      21480,
+      21481,
+      21482,
+      21483
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

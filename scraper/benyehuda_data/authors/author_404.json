@@ -1,0 +1,73 @@
+{
+  "id": 404,
+  "url": "https://benyehuda.org/author/404",
+  "metadata": {
+    "name": "פסח גינזבורג",
+    "sort_name": "גינזבורג, פסח",
+    "other_designations": "ב.פ. ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1894",
+      "death_year": "1947"
+    },
+    "bio_snippet": "מתרגם עברי, עורך ומו\"ל. ראשון המתרגמים מלשונות סקנדינביה.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "drama",
+      "poetry",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 3569
+  },
+  "texts": {
+    "author": [
+      10773,
+      10774,
+      10775,
+      10777,
+      35243,
+      35244,
+      35245,
+      49169
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      10244,
+      10289,
+      10584,
+      10776,
+      13333,
+      25621,
+      35160,
+      35738,
+      45890,
+      47682,
+      47683,
+      47684,
+      47685,
+      47686,
+      47687,
+      47688,
+      55658,
+      56545,
+      57050,
+      57093,
+      57094,
+      57104
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

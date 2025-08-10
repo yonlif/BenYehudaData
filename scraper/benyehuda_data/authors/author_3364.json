@@ -1,0 +1,39 @@
+{
+  "id": 3364,
+  "url": "https://benyehuda.org/author/3364",
+  "metadata": {
+    "name": "יוסף יזרעאלי",
+    "sort_name": "יזרעאלי, יוסף ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1906",
+      "death_year": "1973"
+    },
+    "bio_snippet": "סגן ציר ואחר כך ציר בשלושה קונגרסים ציוניים בשנות השלושים. חבר המזכירות והלשכה של מפא\"י, חבר הוועד הפועל של ההסתדרות והוועד הפועל הציוני והמזכיר הראשון של איחוד הקבוצות והקיבוצים. חבר וממלא מקום ראש המפקדה הארצית של ה\"הגנה\". איש תעשיית הביטחון בישראל ומנהל התע\"ש בשנים 1946–1947. עם הקמת משרד הביטחון ב-1948 היה למזכיר הכללי הראשון שלו",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 22
+  },
+  "texts": {
+    "author": [
+      56060
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

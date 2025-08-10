@@ -1,0 +1,45 @@
+{
+  "id": 2334,
+  "url": "https://benyehuda.org/author/2334",
+  "metadata": {
+    "name": "רונית מטלון",
+    "sort_name": "מטלון, רונית ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1959",
+      "death_year": "2017"
+    },
+    "bio_snippet": "סופרת, מחזאית ועיתונאית ישראלית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 1777
+  },
+  "texts": {
+    "author": [
+      42669,
+      42670,
+      47859,
+      57144
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      49372
+    ]
+  }
+}

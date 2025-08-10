@@ -1,0 +1,42 @@
+{
+  "id": 11,
+  "url": "https://benyehuda.org/author/11",
+  "metadata": {
+    "name": "איסר יוסף איינהורן",
+    "sort_name": "איינהורן, איסר יוסף",
+    "other_designations": "איסר יוסף אינהורן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1865",
+      "death_year": "1925"
+    },
+    "bio_snippet": "אגרונום בארץ ישראל ובווארשה, חיבר ספרי לימוד עבריים למדעי הטבע והחקלאות. מתרגם, עורך כתבי עת [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 1405
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      513,
+      936,
+      1391,
+      1687,
+      8351,
+      8676
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

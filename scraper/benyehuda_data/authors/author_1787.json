@@ -1,0 +1,40 @@
+{
+  "id": 1787,
+  "url": "https://benyehuda.org/author/1787",
+  "metadata": {
+    "name": "יצחק גולדמן (1839)",
+    "sort_name": "גולדמן, יצחק ",
+    "other_designations": "יצחק בן מאיר גולדמן; גאלדמאן; גאלדמאנן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1839",
+      "death_year": "1905"
+    },
+    "bio_snippet": "משורר, סופר ועיתונאי עברי איש וילנה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 141
+  },
+  "texts": {
+    "author": [
+      55227,
+      55228
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

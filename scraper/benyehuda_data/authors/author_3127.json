@@ -1,0 +1,45 @@
+{
+  "id": 3127,
+  "url": "https://benyehuda.org/author/3127",
+  "metadata": {
+    "name": "מאיר פוני",
+    "sort_name": "פוני, מאיר ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1926",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד תל אביב. התגייס במלחמת העצמאות לחיל הים, ופלוגתו נשלחה לעזרת חטיבת גולני. נפל בהסתערות מצרית על הכפר בית עפא [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 426
+  },
+  "texts": {
+    "author": [
+      54549,
+      54550,
+      54551,
+      54552,
+      54635,
+      54636
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

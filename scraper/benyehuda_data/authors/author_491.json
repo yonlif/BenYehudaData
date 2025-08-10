@@ -1,0 +1,95 @@
+{
+  "id": 491,
+  "url": "https://benyehuda.org/author/491",
+  "metadata": {
+    "name": "ישראל דושמן",
+    "sort_name": "דושמן, ישראל",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1884",
+      "death_year": "1947"
+    },
+    "bio_snippet": "משורר עברי, פזמונאי, סופר, מתרגם ומורה.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama",
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 8317
+  },
+  "texts": {
+    "author": [
+      11470,
+      11471,
+      11472,
+      11473,
+      11474,
+      11475,
+      11476,
+      11477,
+      11478,
+      11479,
+      11480,
+      11481,
+      11482,
+      11483,
+      11484,
+      11485,
+      11486,
+      11487,
+      11488,
+      11489,
+      11490,
+      11491,
+      11492,
+      11493,
+      11494,
+      11495,
+      11496,
+      11497,
+      11498,
+      11499,
+      11500,
+      11501,
+      11502,
+      11503,
+      11504,
+      11505,
+      11506,
+      11507,
+      11508,
+      11509,
+      11510,
+      11511,
+      11512,
+      11513,
+      11514,
+      11515,
+      11516,
+      11517,
+      11518,
+      11519,
+      13332
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      11440
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      43083
+    ]
+  }
+}

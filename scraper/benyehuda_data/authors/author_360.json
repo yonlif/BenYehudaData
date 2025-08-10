@@ -1,0 +1,39 @@
+{
+  "id": 360,
+  "url": "https://benyehuda.org/author/360",
+  "metadata": {
+    "name": "מרגלית שילה",
+    "sort_name": "שילה, מרגלית",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1942",
+      "death_year": ""
+    },
+    "bio_snippet": "מרגלית שילה היא היסטוריונית ישראלית, פרופסור במחלקה ללימודי ארץ ישראל וארכאולוגיה ע\"ש מרטין זוס באוניברסיטת בר-אילן.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 2235
+  },
+  "texts": {
+    "author": [
+      7568
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

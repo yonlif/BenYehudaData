@@ -1,0 +1,39 @@
+{
+  "id": 2820,
+  "url": "https://benyehuda.org/author/2820",
+  "metadata": {
+    "name": "ג'ו דריון",
+    "sort_name": "דריון, ג'ו ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1917",
+      "death_year": "2001"
+    },
+    "bio_snippet": "פזמונאי מחזות זמר אמריקאי, הידוע ביותר בשל \"איש לה־מנשה\", שנחשב בעיני חלק מהמבקרים כמבשר למחזות זמר משנות ה־80",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 64
+  },
+  "texts": {
+    "author": [
+      12591
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

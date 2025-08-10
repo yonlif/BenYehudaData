@@ -1,0 +1,39 @@
+{
+  "id": 3340,
+  "url": "https://benyehuda.org/author/3340",
+  "metadata": {
+    "name": "פרידריך הלדרלין",
+    "sort_name": "הלדרלין, פרידריך",
+    "other_designations": "יוהאן כריסטיאן פרידריך הלדרלין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1770",
+      "death_year": "1843"
+    },
+    "bio_snippet": "מגדולי המשוררים בשפה הגרמנית. יצירתו, שהגיעה לשיאה בסביבות שנת 1800 ובה אימץ סגנון עצמאי, שגישר בין הקלאסיקה הוויימארית והרומנטיקה, הרבתה לעסוק בנושאים הלקוחים מן המיתולוגיה היוונית. במשך שלושים ושש השנים האחרונות של חייו שקע בדמדומיה של מחלת נפש, שבמהלכה כתב אך מעט. ",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 95
+  },
+  "texts": {
+    "author": [
+      56399
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

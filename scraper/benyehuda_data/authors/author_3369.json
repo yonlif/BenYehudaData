@@ -1,0 +1,39 @@
+{
+  "id": 3369,
+  "url": "https://benyehuda.org/author/3369",
+  "metadata": {
+    "name": "נועה שטרן אחיפז",
+    "sort_name": "שטרן אחיפז, נועה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1997",
+      "death_year": ""
+    },
+    "bio_snippet": "בעלת תואר ראשון במשפטים וספרות כללית והשוואתית, מתמחה במערך ייעוץ וחקיקה במשרד המשפטים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 267
+  },
+  "texts": {
+    "author": [
+      57150
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

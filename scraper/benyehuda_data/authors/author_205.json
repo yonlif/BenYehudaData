@@ -1,0 +1,39 @@
+{
+  "id": 205,
+  "url": "https://benyehuda.org/author/205",
+  "metadata": {
+    "name": "אבון",
+    "sort_name": "אבון",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "ה",
+      "death_year": "ה"
+    },
+    "bio_snippet": "אַבּוּן היה משורר ופייטן עברי, שחי ופעל בקרב יהדות ספרד במאה ה-11.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1329
+  },
+  "texts": {
+    "author": [
+      364
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

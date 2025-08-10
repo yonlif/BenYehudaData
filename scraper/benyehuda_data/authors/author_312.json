@@ -1,0 +1,39 @@
+{
+  "id": 312,
+  "url": "https://benyehuda.org/author/312",
+  "metadata": {
+    "name": "רוברט טריסטרם קופין",
+    "sort_name": "קופין, רוברט טריסטרם",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1892",
+      "death_year": "1955"
+    },
+    "bio_snippet": "היה סופר, משורר ופרופסור אמריקאי.\r\n",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 293
+  },
+  "texts": {
+    "author": [
+      5004
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

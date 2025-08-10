@@ -1,0 +1,42 @@
+{
+  "id": 1247,
+  "url": "https://benyehuda.org/author/1247",
+  "metadata": {
+    "name": "מנחם בן סרוק",
+    "sort_name": "בן סרוק, מנחם ",
+    "other_designations": "אבן סרוק, מנחם בן יעקב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "920",
+      "death_year": "970"
+    },
+    "bio_snippet": "בלשן ופילולוג יהודי בספרד של תור הזהב",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1064
+  },
+  "texts": {
+    "author": [
+      30834,
+      30835,
+      30836,
+      30837
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

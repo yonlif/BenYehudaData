@@ -1,0 +1,40 @@
+{
+  "id": 576,
+  "url": "https://benyehuda.org/author/576",
+  "metadata": {
+    "name": "ארי בן־מנחם",
+    "sort_name": "בן־מנחם, ארי",
+    "other_designations": "ארי בן-מנחם",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1928",
+      "death_year": ""
+    },
+    "bio_snippet": "פיזיקאי, מתמטיקאי והיסטוריון של המדע ישראלי, פרופסור אמריטוס לגאופיזיקה ולמתמטיקה שימושית במחלקה למדעי המחשב ומתמטיקה שימושית במכון ויצמן, מחלוצי הסייסמולוגיה בישראל.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 532
+  },
+  "texts": {
+    "author": [
+      14097,
+      45699
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

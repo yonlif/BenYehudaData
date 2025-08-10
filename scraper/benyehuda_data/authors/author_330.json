@@ -1,0 +1,41 @@
+{
+  "id": 330,
+  "url": "https://benyehuda.org/author/330",
+  "metadata": {
+    "name": "אובידיוס",
+    "sort_name": "אובידיוס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": " 20 במרץ 43 לפנה״ס",
+      "death_year": "17 לספירה"
+    },
+    "bio_snippet": "פּוּבְּלִיוּס אוֹבִידִיוּס נָאסוֹ היה משורר רומאי ידוע, שכתב על אהבה ועל נשים מופקרות, וסיפורי מיתולוגיה.",
+    "languages": [
+      "la",
+      "it"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 7388
+  },
+  "texts": {
+    "author": [
+      6722,
+      42185
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

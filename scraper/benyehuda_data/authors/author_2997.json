@@ -1,0 +1,39 @@
+{
+  "id": 2997,
+  "url": "https://benyehuda.org/author/2997",
+  "metadata": {
+    "name": "נחמן אילבינג",
+    "sort_name": "אילבינג, נחמן ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1921",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד אוסטרייה. במלחמת העצמאות השתתף בשחרור חיפה. נפל במשמר הירדן [על פי גווילי אש]",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 83
+  },
+  "texts": {
+    "author": [
+      54840
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

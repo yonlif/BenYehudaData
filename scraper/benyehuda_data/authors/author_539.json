@@ -1,0 +1,39 @@
+{
+  "id": 539,
+  "url": "https://benyehuda.org/author/539",
+  "metadata": {
+    "name": "פטרוניוס (טיטוס פטרוניוס ארביטר)",
+    "sort_name": "פטרוניוס (טיטוס פטרוניוס ארביטר)",
+    "other_designations": "גאיוס פטרוניוס ארביטר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "27",
+      "death_year": "66"
+    },
+    "bio_snippet": "היה סאטיריקן רומאי.",
+    "languages": [
+      "la"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 267
+  },
+  "texts": {
+    "author": [
+      18053
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

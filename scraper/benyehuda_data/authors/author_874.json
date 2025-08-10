@@ -1,0 +1,40 @@
+{
+  "id": 874,
+  "url": "https://benyehuda.org/author/874",
+  "metadata": {
+    "name": "מרק ורשבסקי",
+    "sort_name": "ורשבסקי, מרק",
+    "other_designations": "מרק מרקוביץ ורשבסקי, מאַרק וואַרשאַווסקי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1848",
+      "death_year": "1907"
+    },
+    "bio_snippet": "משורר, מלחין וזמר יידיש עממי רוסי־יהודי",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 541
+  },
+  "texts": {
+    "author": [
+      25255,
+      25256
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

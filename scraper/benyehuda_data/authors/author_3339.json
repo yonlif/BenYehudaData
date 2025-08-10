@@ -1,0 +1,39 @@
+{
+  "id": 3339,
+  "url": "https://benyehuda.org/author/3339",
+  "metadata": {
+    "name": "סימונידס",
+    "sort_name": "סימונידס",
+    "other_designations": "סימונידס איש קיוס; סימונידס איש קיאוס; סימונידס מקיוס; סימונידס מקיאוס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "556",
+      "death_year": "468"
+    },
+    "bio_snippet": " משורר יווני לירי מפורסם שזכה להימנות ברשימה המכובדת של יוצרים בדמות הקאנון האלכסנדרוני ההלניסטי, שרק מעטים התכבדו בו. סימונידס נהג להסתופף בצל קורתם של שליטים גדולים, מצנטים תרבותיים. ",
+    "languages": [
+      "grc"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 70
+  },
+  "texts": {
+    "author": [
+      56406
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

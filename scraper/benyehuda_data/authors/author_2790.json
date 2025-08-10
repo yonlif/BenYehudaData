@@ -1,0 +1,82 @@
+{
+  "id": 2790,
+  "url": "https://benyehuda.org/author/2790",
+  "metadata": {
+    "name": "אפרים צורף",
+    "sort_name": "צורף, אפרים ",
+    "other_designations": "אפרים צורף (זלוטניק)",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1903",
+      "death_year": "1990"
+    },
+    "bio_snippet": "סופר ומשורר עברי, שעסק בעיקר בספרות ילדים תנ\"כית, יהודית וארץ־ישראלית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 2174
+  },
+  "texts": {
+    "author": [
+      56794,
+      56795,
+      56796,
+      56797,
+      56798,
+      56799,
+      56800,
+      56801,
+      56802,
+      56803,
+      56804,
+      56805,
+      56806,
+      56807,
+      56808,
+      56809,
+      56810,
+      56811,
+      56812,
+      56813,
+      56814,
+      56815,
+      56816,
+      56817,
+      56818,
+      56819,
+      56820,
+      56821,
+      56822,
+      56823,
+      56824,
+      56825,
+      56826,
+      56827,
+      56828,
+      56829,
+      56830,
+      56831,
+      56832,
+      56833,
+      56834,
+      56835,
+      56836
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

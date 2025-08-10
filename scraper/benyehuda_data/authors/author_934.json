@@ -1,0 +1,39 @@
+{
+  "id": 934,
+  "url": "https://benyehuda.org/author/934",
+  "metadata": {
+    "name": "ישראל מזמושץ'",
+    "sort_name": "זמושץ', ישראל ",
+    "other_designations": "ישראל בן משה הלוי; ישראל זמושץ'; ישראל זמושץ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1700",
+      "death_year": "1772"
+    },
+    "bio_snippet": "רב ומלומד גליצאי, מן החשובים שבמשכילים המוקדמים. דמותו מייצגת את ההתעוררות לרציונליזם ולמדעים שהתרחשה אצל יחידים ביהדות מרכז אירופה במהלך המאה ה־18. בין מחיי העיסוק בפילוסופיה הרציונליסטית היהודית של ימי הביניים, ומראשוני המתנגדים לתנועת החסידות",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 259
+  },
+  "texts": {
+    "author": [
+      37900
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": 495,
+  "url": "https://benyehuda.org/author/495",
+  "metadata": {
+    "name": "יעקב גרים",
+    "sort_name": "גרים, יעקב",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1785",
+      "death_year": "1863"
+    },
+    "bio_snippet": "פילולוג, משפטן ומיתולוגיקן. כותב מעשיות האחים גרים - יחד עם אחיו, וילהלם. ",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 784
+  },
+  "texts": {
+    "author": [
+      11451,
+      18927,
+      28869,
+      28870
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

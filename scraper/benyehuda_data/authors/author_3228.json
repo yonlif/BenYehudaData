@@ -1,0 +1,39 @@
+{
+  "id": 3228,
+  "url": "https://benyehuda.org/author/3228",
+  "metadata": {
+    "name": "יהושע קנז",
+    "sort_name": "קנז, יהושע ",
+    "other_designations": "יהושע גלס",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1937",
+      "death_year": "2020"
+    },
+    "bio_snippet": " סופר, עורך ומתרגם ישראלי. זוכה פרס ביאליק לשנת 1997",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 160
+  },
+  "texts": {
+    "author": [
+      58704
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

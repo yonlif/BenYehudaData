@@ -1,0 +1,47 @@
+{
+  "id": 1053,
+  "url": "https://benyehuda.org/author/1053",
+  "metadata": {
+    "name": "אברהם גייגר",
+    "sort_name": "גייגר, אברהם ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1810",
+      "death_year": "1874"
+    },
+    "bio_snippet": "מגדולי \"חכמת ישראל\" ותורם חשוב לביקורת המקרא והתלמוד, אביה הרוחני של היהדות הרפורמית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 2822
+  },
+  "texts": {
+    "author": [
+      28901,
+      29158,
+      52399,
+      57717,
+      57759,
+      57882,
+      57883,
+      58059
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

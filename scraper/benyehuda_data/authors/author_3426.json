@@ -1,0 +1,39 @@
+{
+  "id": 3426,
+  "url": "https://benyehuda.org/author/3426",
+  "metadata": {
+    "name": "יעל אזולאי",
+    "sort_name": "אזולאי, יעל ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1978",
+      "death_year": ""
+    },
+    "bio_snippet": "משוררת",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 160
+  },
+  "texts": {
+    "author": [
+      57259
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

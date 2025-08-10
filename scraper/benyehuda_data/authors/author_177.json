@@ -1,0 +1,39 @@
+{
+  "id": 177,
+  "url": "https://benyehuda.org/author/177",
+  "metadata": {
+    "name": "זאב כרמי",
+    "sort_name": "כרמי, זאב",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1884",
+      "death_year": "1964"
+    },
+    "bio_snippet": "מחנך, ומנהלה הראשון של מחלקת החינוך בחיפה.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 3111
+  },
+  "texts": {
+    "author": [
+      3036
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2833,
+  "url": "https://benyehuda.org/author/2833",
+  "metadata": {
+    "name": "ז'אן ז'ירודו",
+    "sort_name": "ז'ירודו, ז'אן ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1882",
+      "death_year": "1944"
+    },
+    "bio_snippet": " סופר, מחזאי ודיפלומט צרפתי",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 375
+  },
+  "texts": {
+    "author": [
+      50513
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

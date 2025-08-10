@@ -1,0 +1,39 @@
+{
+  "id": 1112,
+  "url": "https://benyehuda.org/author/1112",
+  "metadata": {
+    "name": "בנימין ריבלין",
+    "sort_name": "ריבלין, בנימין ",
+    "other_designations": "בנימין בן אליעזר",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1915",
+      "death_year": "2004"
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "letters"
+    ],
+    "impressions_count": 112
+  },
+  "texts": {
+    "author": [
+      29193
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

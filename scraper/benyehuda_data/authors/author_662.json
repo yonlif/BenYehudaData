@@ -1,0 +1,39 @@
+{
+  "id": 662,
+  "url": "https://benyehuda.org/author/662",
+  "metadata": {
+    "name": "מיכאיל לומונוסוב",
+    "sort_name": "לומונוסוב, מיכאיל",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1711",
+      "death_year": "1765"
+    },
+    "bio_snippet": "איש אשכולות רוסי שתרם רבות לספרות, לחינוך ולמדע ברוסיה.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "fables"
+    ],
+    "impressions_count": 129
+  },
+  "texts": {
+    "author": [
+      19194
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

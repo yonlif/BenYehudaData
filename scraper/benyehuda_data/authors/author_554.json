@@ -1,0 +1,46 @@
+{
+  "id": 554,
+  "url": "https://benyehuda.org/author/554",
+  "metadata": {
+    "name": "איוואן בונין",
+    "sort_name": "בונין, איוואן",
+    "other_designations": "איוון בונין",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1870",
+      "death_year": "1953"
+    },
+    "bio_snippet": "סופר ומשורר רוסי, זוכה פרס נובל לספרות",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 2663
+  },
+  "texts": {
+    "author": [
+      13626,
+      13627,
+      13628,
+      13629,
+      13630,
+      13631,
+      13632,
+      35074
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

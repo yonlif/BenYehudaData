@@ -1,0 +1,55 @@
+{
+  "id": 714,
+  "url": "https://benyehuda.org/author/714",
+  "metadata": {
+    "name": "אלכסנדר צדרבוים",
+    "sort_name": "צדרבוים, אלכסנדר ",
+    "other_designations": "אלכסנדר הלוי צדרבוים; אלכסנדר צדרבאום; ארז; אר\"ז; צעדערבוים",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1816",
+      "death_year": "1893"
+    },
+    "bio_snippet": "סופר ועיתונאי יהודי, המייסד, המו\"ל והעורך של \"המליץ\", הביטאון הראשון בתולדות העיתונות העברית שיצא לאור ברוסיה מאמצע המאה ה־19 ועד ראשית המאה ה־20",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "letters"
+    ],
+    "impressions_count": 1943
+  },
+  "texts": {
+    "author": [
+      19631,
+      31971,
+      32896,
+      55940,
+      55941,
+      55942,
+      55943,
+      55944,
+      55945,
+      55946,
+      55947,
+      55948,
+      55949,
+      55950,
+      55951,
+      55952
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

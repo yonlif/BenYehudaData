@@ -1,0 +1,39 @@
+{
+  "id": 427,
+  "url": "https://benyehuda.org/author/427",
+  "metadata": {
+    "name": "ליטון סטרייצ'י",
+    "sort_name": "סטרייצ'י, ליטון",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1880",
+      "death_year": "1932"
+    },
+    "bio_snippet": "היה סופר ומבקר אנגלי.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 3170
+  },
+  "texts": {
+    "author": [
+      10584
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

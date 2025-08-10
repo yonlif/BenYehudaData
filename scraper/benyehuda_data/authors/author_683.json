@@ -1,0 +1,41 @@
+{
+  "id": 683,
+  "url": "https://benyehuda.org/author/683",
+  "metadata": {
+    "name": "זיגמונד פרויד",
+    "sort_name": "פרויד, זיגמונד",
+    "other_designations": "זיגיסמונד שלמה פרויד; סיגמונד פרויד",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1856",
+      "death_year": "1939"
+    },
+    "bio_snippet": "פסיכולוג ונוירולוג אוסטרי-יהודי, אבי הפסיכואנליזה, אחד ההוגים החשובים ביותר בתחום תורת האישיות ומהמדענים ואנשי הרוח הבולטים והמשפיעים ביותר במאה העשרים.",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 6107
+  },
+  "texts": {
+    "author": [
+      18746
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      32377
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 1134,
+  "url": "https://benyehuda.org/author/1134",
+  "metadata": {
+    "name": "שאול שקד ",
+    "sort_name": "שקד, שאול ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1933",
+      "death_year": "2021"
+    },
+    "bio_snippet": "חוקר בלימודי הודו, איראן וארמניה ובמדע הדתות באוניברסיטה העברית, חתן פרס ישראל לבלשנות לשנת 2000, ונשיא של כבוד של איגוד האקדמיות למדעים הבינלאומי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 1623
+  },
+  "texts": {
+    "author": [
+      34550,
+      34556
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

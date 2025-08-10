@@ -1,0 +1,40 @@
+{
+  "id": 3212,
+  "url": "https://benyehuda.org/author/3212",
+  "metadata": {
+    "name": "דני טרץ'",
+    "sort_name": "טרץ', דני",
+    "other_designations": "דני טראץ'",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1943",
+      "death_year": ""
+    },
+    "bio_snippet": "מוציא לאור. בעבר איש ניהול והפקה בתחום התיאטרון",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 2698
+  },
+  "texts": {
+    "author": [
+      55085,
+      55437
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

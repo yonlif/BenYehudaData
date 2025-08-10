@@ -1,0 +1,39 @@
+{
+  "id": 878,
+  "url": "https://benyehuda.org/author/878",
+  "metadata": {
+    "name": "חיים ז'יטלובסקי",
+    "sort_name": "ז'יטלובסקי חיים",
+    "other_designations": "חײם זשיטלאָווסקי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1865",
+      "death_year": "1943"
+    },
+    "bio_snippet": "סופר, עיתונאי, מהפכן ופוליטיקאי סוציאליסטי יהודי יליד רוסיה, ההוגה המרכזי של היידישיזם הרדיקלי. מנהיג תרבותי ומאמין גדול בעצמאותה של תרבות היידיש",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 398
+  },
+  "texts": {
+    "author": [
+      25395
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

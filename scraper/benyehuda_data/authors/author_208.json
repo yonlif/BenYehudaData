@@ -1,0 +1,39 @@
+{
+  "id": 208,
+  "url": "https://benyehuda.org/author/208",
+  "metadata": {
+    "name": "יצחק אבן מר שאול",
+    "sort_name": "שאול, יצחק אבן מר",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "980",
+      "death_year": "1010"
+    },
+    "bio_snippet": "משורר ומדקדק, מראשוני פייטני ספרד.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 841
+  },
+  "texts": {
+    "author": [
+      331
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

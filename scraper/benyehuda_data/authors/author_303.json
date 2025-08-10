@@ -1,0 +1,39 @@
+{
+  "id": 303,
+  "url": "https://benyehuda.org/author/303",
+  "metadata": {
+    "name": "מריה מורבסקיה",
+    "sort_name": "מורבסקיה, מריה",
+    "other_designations": "",
+    "intellectual_property": "unknown",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1890",
+      "death_year": "1947"
+    },
+    "bio_snippet": "משוררת, סופרת, מתרגמת ומבקרת ספרות רוסיה. ",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 541
+  },
+  "texts": {
+    "author": [
+      4541
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

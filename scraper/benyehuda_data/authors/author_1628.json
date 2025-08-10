@@ -1,0 +1,40 @@
+{
+  "id": 1628,
+  "url": "https://benyehuda.org/author/1628",
+  "metadata": {
+    "name": "משה ליפשיץ",
+    "sort_name": "ליפשיץ, משה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1894",
+      "death_year": "1940"
+    },
+    "bio_snippet": " משורר ומחזאי יידי, וכן מחזאי ופובליציסט עברי ועורך",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 370
+  },
+  "texts": {
+    "author": [
+      34349,
+      34350
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

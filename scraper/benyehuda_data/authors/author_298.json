@@ -1,0 +1,52 @@
+{
+  "id": 298,
+  "url": "https://benyehuda.org/author/298",
+  "metadata": {
+    "name": "לב שסטוב",
+    "sort_name": "שסטוב, לב",
+    "other_designations": "יהודה לייב שוורצמן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1866",
+      "death_year": "1938"
+    },
+    "bio_snippet": "היה פילוסוף, סופר ומבקר יהודי-רוסי.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 2548
+  },
+  "texts": {
+    "author": [
+      4370,
+      56042,
+      56043,
+      56044,
+      56045,
+      56046,
+      56047,
+      56048,
+      56049,
+      56748,
+      56749
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      34580,
+      43811
+    ]
+  }
+}

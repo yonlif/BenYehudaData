@@ -1,0 +1,37 @@
+{
+  "id": 477,
+  "url": "https://benyehuda.org/author/477",
+  "metadata": {
+    "name": "דוד שטרן",
+    "sort_name": "שטרן, דוד",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1910",
+      "death_year": "2013"
+    },
+    "bio_snippet": "ניהל חברת בנייה ישראלית, היה נשיא התאחדות הקבלנים וחבר הכנסת מטעם הליכוד במהלך חלק מהכנסת התשיעית. ",
+    "languages": [],
+    "genres": [
+      "letters"
+    ],
+    "impressions_count": 676
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      2905
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

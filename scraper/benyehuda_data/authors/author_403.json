@@ -1,0 +1,66 @@
+{
+  "id": 403,
+  "url": "https://benyehuda.org/author/403",
+  "metadata": {
+    "name": "ישראל זרחי",
+    "sort_name": "זרחי, ישראל",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1909",
+      "death_year": "1947"
+    },
+    "bio_snippet": "סופר עברי, מתרגם ועורך. ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 58963
+  },
+  "texts": {
+    "author": [
+      10125,
+      10126,
+      10127,
+      10128,
+      10129,
+      10290,
+      10291,
+      10572,
+      10749,
+      10750,
+      10751,
+      10752,
+      10753,
+      10754,
+      10770,
+      10771,
+      14112,
+      26501,
+      27804,
+      29108,
+      34231,
+      49322,
+      49323,
+      49324,
+      49325,
+      49326
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      22505
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

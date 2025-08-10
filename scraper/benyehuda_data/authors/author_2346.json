@@ -1,0 +1,41 @@
+{
+  "id": 2346,
+  "url": "https://benyehuda.org/author/2346",
+  "metadata": {
+    "name": "משה זבלוצקי",
+    "sort_name": "זבלוצקי, משה",
+    "other_designations": "משה בן צבי זבלוצקי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1871",
+      "death_year": "1932"
+    },
+    "bio_snippet": "פרסם כתבות, סיפורים, פיליטונים, מחקרי יהדות ועוד בעתונות העברית וגם בעיתונות ביידיש; מעורב בצרכי ציבור בעירו (סלונים)",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 158
+  },
+  "texts": {
+    "author": [
+      52491
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      57481
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

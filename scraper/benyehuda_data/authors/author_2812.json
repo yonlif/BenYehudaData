@@ -1,0 +1,47 @@
+{
+  "id": 2812,
+  "url": "https://benyehuda.org/author/2812",
+  "metadata": {
+    "name": "שרגא פרידמן",
+    "sort_name": "פרידמן, שרגא ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1924",
+      "death_year": "1970"
+    },
+    "bio_snippet": "יוצר מגוון בעולם התיאטרון, הקולנוע והרדיו הישראלי: שחקן אופי, מנחה, מחבר של יצירות רבות לבמה הזעירה, כוכבם של מאות תסכיתי רדיו, במאי תיאטרון וקולנוע ומתרגם",
+    "languages": [],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      12558,
+      12559,
+      12560,
+      12561,
+      12562,
+      12563,
+      12564,
+      12565,
+      12566,
+      12567,
+      12568
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1281,
+  "url": "https://benyehuda.org/author/1281",
+  "metadata": {
+    "name": "ויליאם רוברט פיל",
+    "sort_name": "פיל, ויליאם רוברט ",
+    "other_designations": "ויליאם רוברט ולסלי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1867",
+      "death_year": "1937"
+    },
+    "bio_snippet": " אציל ומדינאי בריטי שעמד בראש ועדת פיל שהעלתה לראשונה את רעיון חלוקת ארץ ישראל בין שני העמים השוכנים בה כפתרון לבעיית הסכסוך היהודי-ערבי",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 787
+  },
+  "texts": {
+    "author": [
+      31291
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

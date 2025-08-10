@@ -1,0 +1,39 @@
+{
+  "id": 2932,
+  "url": "https://benyehuda.org/author/2932",
+  "metadata": {
+    "name": "יהודה קורן",
+    "sort_name": "קורן, יהודה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1946",
+      "death_year": ""
+    },
+    "bio_snippet": " שדרן, עיתונאי וסופר [עפ\"י המשפחה]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 258
+  },
+  "texts": {
+    "author": [
+      53857
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

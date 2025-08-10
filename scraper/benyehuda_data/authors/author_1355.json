@@ -1,0 +1,37 @@
+{
+  "id": 1355,
+  "url": "https://benyehuda.org/author/1355",
+  "metadata": {
+    "name": "מנחם אייכלברג",
+    "sort_name": "אייכלברג, מנחם ",
+    "other_designations": "ולטר לאופולד",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1911",
+      "death_year": "1991"
+    },
+    "bio_snippet": "מתרגם, עובד מדינה",
+    "languages": [],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 360
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      32097
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

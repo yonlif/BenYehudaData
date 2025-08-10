@@ -1,0 +1,39 @@
+{
+  "id": 1353,
+  "url": "https://benyehuda.org/author/1353",
+  "metadata": {
+    "name": "חנה הלנה טהון",
+    "sort_name": "טהון, חנה הלנה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "revival",
+      "birth_year": "1886",
+      "death_year": "1954"
+    },
+    "bio_snippet": "עובדת סוציאלית, עיתונאית, פובליציסטית, עורכת וחוקרת ישראלית ילידת גרמניה. המייסדת והעורכת הראשית הראשונה של \"האשה\", הירחון הראשון לנשים בארץ ישראל, ב־1926",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 3404
+  },
+  "texts": {
+    "author": [
+      32097
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

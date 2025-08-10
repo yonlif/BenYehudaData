@@ -1,0 +1,57 @@
+{
+  "id": 627,
+  "url": "https://benyehuda.org/author/627",
+  "metadata": {
+    "name": "משה נדיר",
+    "sort_name": "נדיר, משה",
+    "other_designations": "משה נאדיר; יצחק רייז",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1885",
+      "death_year": "1943"
+    },
+    "bio_snippet": "סופר יידיש, ומתרגם, הומוריסטן וסאטיריקן יהודי אמריקאי ממוצא גליציאני.",
+    "languages": [
+      "yi",
+      "he"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 1912
+  },
+  "texts": {
+    "author": [
+      17372,
+      23446,
+      23447,
+      23448,
+      51893,
+      51894,
+      51895,
+      51896,
+      51897,
+      51898,
+      51899,
+      51900,
+      51901,
+      51902,
+      51903,
+      51904,
+      51905
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

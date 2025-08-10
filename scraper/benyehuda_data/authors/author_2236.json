@@ -1,0 +1,40 @@
+{
+  "id": 2236,
+  "url": "https://benyehuda.org/author/2236",
+  "metadata": {
+    "name": "יחיאל בן יקותיאל מהענווים",
+    "sort_name": "מהענווים, יחיאל בן יקותיאל ",
+    "other_designations": "יחיאל בן יקותיאל מהענוים",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "מחצית ראשונה של המאה ה־13",
+      "death_year": "סוף המאה ה־13"
+    },
+    "bio_snippet": "מרוֹמָא, נולד במחצית הראשונה של המאה הי\"ג, מת אחרי שנת 1289\r\n\r\n",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 185
+  },
+  "texts": {
+    "author": [
+      38433,
+      41658
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

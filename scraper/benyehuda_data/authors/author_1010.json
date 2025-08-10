@@ -1,0 +1,60 @@
+{
+  "id": 1010,
+  "url": "https://benyehuda.org/author/1010",
+  "metadata": {
+    "name": "עמנואל הרוסי",
+    "sort_name": "הרוסי, עמנואל ",
+    "other_designations": "עמנואל (ינון),  נוֹבוֹגְרֵבֶּלְסְקִי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1903",
+      "death_year": "1979"
+    },
+    "bio_snippet": "סופר, משורר, פרסומאי, מתרגם ופעיל ציוני",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 2685
+  },
+  "texts": {
+    "author": [
+      28162,
+      28163,
+      28164,
+      28165,
+      28166,
+      28388,
+      28389,
+      28390,
+      28391,
+      28392,
+      28393,
+      28394,
+      28395,
+      28396,
+      28397,
+      28398,
+      28399,
+      28400,
+      57140,
+      57141,
+      57142,
+      57143
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

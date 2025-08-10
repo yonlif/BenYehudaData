@@ -1,0 +1,39 @@
+{
+  "id": 2804,
+  "url": "https://benyehuda.org/author/2804",
+  "metadata": {
+    "name": "כריטס בישוף",
+    "sort_name": "בישוף, כריטס",
+    "other_designations": "כאריטס בישוף; כריטאס בישוף",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1848",
+      "death_year": "1925"
+    },
+    "bio_snippet": "סופרת גרמנייה",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 303
+  },
+  "texts": {
+    "author": [
+      50065
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": 2607,
+  "url": "https://benyehuda.org/author/2607",
+  "metadata": {
+    "name": "שולמית איתן",
+    "sort_name": "איתן, שולמית ",
+    "other_designations": "שולה איתן",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1927",
+      "death_year": "2014"
+    },
+    "bio_snippet": "מחנכת, סופרת ומשוררת ילדים ומבוגרים ישראלית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1751
+  },
+  "texts": {
+    "author": [
+      53344,
+      53345,
+      53346,
+      54021,
+      54022,
+      57314,
+      57315,
+      57316,
+      57317,
+      57318,
+      57319,
+      57320,
+      57321,
+      57322,
+      57323,
+      57324,
+      57325,
+      57326,
+      57327,
+      57328,
+      57329,
+      57330,
+      57331,
+      57332,
+      57333,
+      57334,
+      57335
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

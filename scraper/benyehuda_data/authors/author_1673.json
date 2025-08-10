@@ -1,0 +1,41 @@
+{
+  "id": 1673,
+  "url": "https://benyehuda.org/author/1673",
+  "metadata": {
+    "name": "אנדרו מארוול",
+    "sort_name": "מארוול, אנדרו ",
+    "other_designations": "אנדרו מרול, אנדרו מרוול",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1621",
+      "death_year": "1678"
+    },
+    "bio_snippet": "משורר בתנועה המטאפיזית האנגלית, סטיריקן ופוליטיקאי",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 521
+  },
+  "texts": {
+    "author": [
+      34409,
+      34410,
+      58841
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 19,
+  "url": "https://benyehuda.org/author/19",
+  "metadata": {
+    "name": "אברהם משה לונץ",
+    "sort_name": "לונץ, אברהם משה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1854",
+      "death_year": "1918"
+    },
+    "bio_snippet": "סופר, מו\"ל, עיתונאי חוקר ארץ ישראל וגאוגרף ארצישראלי.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 6493
+  },
+  "texts": {
+    "author": [
+      502,
+      937,
+      1392,
+      1688,
+      2000,
+      2325,
+      2630
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

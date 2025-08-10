@@ -1,0 +1,42 @@
+{
+  "id": 1039,
+  "url": "https://benyehuda.org/author/1039",
+  "metadata": {
+    "name": "מאיר וילקנסקי",
+    "sort_name": "וילקנסקי, מאיר ",
+    "other_designations": "מאיר אלעזרי-וולקני, אלעזרי־וולקני, אלעזרי וולקני",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1882",
+      "death_year": "1949"
+    },
+    "bio_snippet": "חלוץ, איש העלייה השנייה וסופר עברי בתקופת היישוב",
+    "languages": [],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 348
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      30173,
+      30174,
+      57771
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      16421
+    ]
+  }
+}

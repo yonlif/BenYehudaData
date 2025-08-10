@@ -1,0 +1,40 @@
+{
+  "id": 594,
+  "url": "https://benyehuda.org/author/594",
+  "metadata": {
+    "name": "יוסף טבנקין",
+    "sort_name": "טבנקין, יוסף",
+    "other_designations": "יוספל'ה טבנקין",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1921",
+      "death_year": "1987"
+    },
+    "bio_snippet": "היה ממפקדי הפלמ\"ח במלחמת העצמאות.\r\n",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 4816
+  },
+  "texts": {
+    "author": [
+      19233,
+      19504
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

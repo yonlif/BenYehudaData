@@ -1,0 +1,39 @@
+{
+  "id": 1634,
+  "url": "https://benyehuda.org/author/1634",
+  "metadata": {
+    "name": "סעדיה אבן דנאן",
+    "sort_name": "אבן דנאן, סעדיה ",
+    "other_designations": "סעדיה בן מימון אבן דנאן; רס\"ד",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "המאה ה־15",
+      "death_year": "1493"
+    },
+    "bio_snippet": "משורר, בלשן, פרשן מקרא, דיין וכרוניקאי בן המאה ה-15. מחשובי החכמים בספרד וצפון אפריקה בתקופה שלאחר פרעות קנ\"א",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "fables"
+    ],
+    "impressions_count": 786
+  },
+  "texts": {
+    "author": [
+      34352
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

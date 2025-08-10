@@ -1,0 +1,45 @@
+{
+  "id": 366,
+  "url": "https://benyehuda.org/author/366",
+  "metadata": {
+    "name": "איוון טורגנייב",
+    "sort_name": "טורגנייב, איוון",
+    "other_designations": "איון סרגיביץ’ טורגניב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1818",
+      "death_year": "1883"
+    },
+    "bio_snippet": "איוון סרגייביץ' טורגנייב היה מחזאי וסופר רוסי חשוב. אמנם המוניטין שלו ירד במאה ה-20, אך הרומן שלו \"אבות ובנים\" עדיין נחשב כאחת היצירות המעצבות של הספרות במאה ה-19.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 2317
+  },
+  "texts": {
+    "author": [
+      8006,
+      50048,
+      51792
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      32338,
+      32391
+    ]
+  }
+}

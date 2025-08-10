@@ -1,0 +1,40 @@
+{
+  "id": 377,
+  "url": "https://benyehuda.org/author/377",
+  "metadata": {
+    "name": "רוברט בראונינג",
+    "sort_name": "בראונינג, רוברט",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1812",
+      "death_year": "1889"
+    },
+    "bio_snippet": "היה משורר ומחזאי בריטי.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1464
+  },
+  "texts": {
+    "author": [
+      8839,
+      56409
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

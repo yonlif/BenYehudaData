@@ -1,0 +1,45 @@
+{
+  "id": 799,
+  "url": "https://benyehuda.org/author/799",
+  "metadata": {
+    "name": "אייזיק רמבה",
+    "sort_name": "רמבה, אייזיק",
+    "other_designations": "אייזיק רעמבאַ; נחום המאיר; מ. בהיר; י. נאה; א. אקרא; א. תג; א. רם",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1907",
+      "death_year": "1969"
+    },
+    "bio_snippet": "עיתונאי ופובליציסט בעברית וביידיש בתקופות היישוב והמדינה, עורך העיתונים \"המשקיף\" ו\"חרות\". זוכה פרס ז'בוטינסקי לספרות ולמחקר ופרס סוקולוב על מפעל חיים.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 3294
+  },
+  "texts": {
+    "author": [
+      23572,
+      23573,
+      23574,
+      55716,
+      55717,
+      55718,
+      55719
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

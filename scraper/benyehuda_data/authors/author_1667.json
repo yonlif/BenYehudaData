@@ -1,0 +1,40 @@
+{
+  "id": 1667,
+  "url": "https://benyehuda.org/author/1667",
+  "metadata": {
+    "name": "ג'ורג' צ'פמן",
+    "sort_name": "צ'פמן, ג'ורג' ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1559",
+      "death_year": "1634"
+    },
+    "bio_snippet": "מחזאי, מתרגם ומשורר אנגלי",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 243
+  },
+  "texts": {
+    "author": [
+      34413,
+      34452
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 3366,
+  "url": "https://benyehuda.org/author/3366",
+  "metadata": {
+    "name": "גרטה דוד",
+    "sort_name": "דוד, גרטה ",
+    "other_designations": "מרגלית דוד; גרטה דויד",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1898",
+      "death_year": "1965"
+    },
+    "bio_snippet": "סופרת ומשוררת",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 664
+  },
+  "texts": {
+    "author": [
+      57307,
+      57308,
+      57309,
+      57310,
+      57311
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

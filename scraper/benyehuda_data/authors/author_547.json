@@ -1,0 +1,39 @@
+{
+  "id": 547,
+  "url": "https://benyehuda.org/author/547",
+  "metadata": {
+    "name": "מרקוס יוניאניוס יוסטינוס",
+    "sort_name": "יוסטינוס, מרקוס יוניאניוס",
+    "other_designations": "יוסטינוס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "ה",
+      "death_year": "ה"
+    },
+    "bio_snippet": "היה היסטוריון רומאי.",
+    "languages": [
+      "la"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 235
+  },
+  "texts": {
+    "author": [
+      18053
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

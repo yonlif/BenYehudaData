@@ -1,0 +1,42 @@
+{
+  "id": 1261,
+  "url": "https://benyehuda.org/author/1261",
+  "metadata": {
+    "name": "מנחם הרטום",
+    "sort_name": "הרטום, מנחם ",
+    "other_designations": "מנחם עמנואל בן אליה שמואל",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1916",
+      "death_year": "1992"
+    },
+    "bio_snippet": "רב, מחנך, עורך ומתרגם",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 584
+  },
+  "texts": {
+    "author": [
+      50050
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      31012
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

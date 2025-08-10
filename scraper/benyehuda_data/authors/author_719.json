@@ -1,0 +1,82 @@
+{
+  "id": 719,
+  "url": "https://benyehuda.org/author/719",
+  "metadata": {
+    "name": "משה אליהו ז'רננסקי",
+    "sort_name": "ז'רננסקי, משה אליהו",
+    "other_designations": "משה אליהו זק; משה אליהו ז'ק; מ\"א ז'ק, מ. א. ז'ק",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1887",
+      "death_year": "1948"
+    },
+    "bio_snippet": "פרסם דברי פובליציסטיקה ומסות בענייני ספרות, ומתרגם [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 5541
+  },
+  "texts": {
+    "author": [
+      20730,
+      20731,
+      20732,
+      20733,
+      20734,
+      29482,
+      29483,
+      29887,
+      29888,
+      29889,
+      29925,
+      29926,
+      29927,
+      29928,
+      29929,
+      29964,
+      29965,
+      29966,
+      29967,
+      29987,
+      30128,
+      30129,
+      30130,
+      30131,
+      34726,
+      34727,
+      34728,
+      34729
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      20271,
+      20272,
+      20273,
+      20274,
+      20275,
+      25902,
+      25903,
+      25904,
+      34545,
+      34566,
+      34680,
+      34994,
+      50065
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

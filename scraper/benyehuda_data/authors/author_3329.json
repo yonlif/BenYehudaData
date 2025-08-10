@@ -1,0 +1,39 @@
+{
+  "id": 3329,
+  "url": "https://benyehuda.org/author/3329",
+  "metadata": {
+    "name": "עדי פלד־שריג",
+    "sort_name": "פלד־שריג, עדי",
+    "other_designations": "עדי פלד שריג; עדי פלד-שריג",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "משוררת, חיברה ספר ילדים [על־פי משיב הרוח]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 108
+  },
+  "texts": {
+    "author": [
+      56595
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

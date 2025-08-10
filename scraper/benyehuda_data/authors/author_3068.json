@@ -1,0 +1,39 @@
+{
+  "id": 3068,
+  "url": "https://benyehuda.org/author/3068",
+  "metadata": {
+    "name": "אמנון ונטיק",
+    "sort_name": "ונטיק, אמנון ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1925",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד ירושלים, גר בין ערבים כדי ללמוד את אורחות חייהם; למד זואולוגיה ובוטניקה באוניברסיטה העברית בירושלים. במלחמת העצמאות שירת בסביבות ירושלים ונרצח בעת נחיתת אונס ליד יבנה [על פי \"גווילי אש\"] ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 121
+  },
+  "texts": {
+    "author": [
+      54400
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

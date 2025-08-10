@@ -1,0 +1,39 @@
+{
+  "id": 3215,
+  "url": "https://benyehuda.org/author/3215",
+  "metadata": {
+    "name": "עזריאל הירש",
+    "sort_name": "הירש, עזריאל ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1920",
+      "death_year": ""
+    },
+    "bio_snippet": "סופר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 506
+  },
+  "texts": {
+    "author": [
+      55108
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

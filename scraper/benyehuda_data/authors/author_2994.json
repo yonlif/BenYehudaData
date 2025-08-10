@@ -1,0 +1,39 @@
+{
+  "id": 2994,
+  "url": "https://benyehuda.org/author/2994",
+  "metadata": {
+    "name": "שמעון אושדי",
+    "sort_name": "אושדי, שמעון ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1930",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד תימן. השתתף בקרבות שונים, נהרג בפריצת הדרך לנגב [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 283
+  },
+  "texts": {
+    "author": [
+      54886
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3181,
+  "url": "https://benyehuda.org/author/3181",
+  "metadata": {
+    "name": "אברהם דב ורבנר",
+    "sort_name": "ורבנר, אברהם דב ",
+    "other_designations": "א\"ד ורבנר; א.ד. ורבנר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1910",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר עברי, נספה בשואה [על פי VIAF]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 121
+  },
+  "texts": {
+    "author": [
+      54733
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

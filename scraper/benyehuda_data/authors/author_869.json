@@ -1,0 +1,43 @@
+{
+  "id": 869,
+  "url": "https://benyehuda.org/author/869",
+  "metadata": {
+    "name": "יהושע בן אריה",
+    "sort_name": "בן אריה, יהושע",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1928",
+      "death_year": ""
+    },
+    "bio_snippet": "גאוגרף ישראלי, פרופסור אמריטוס לגאוגרפיה באוניברסיטה העברית ורקטור האוניברסיטה לשעבר. בן אריה הוא מגדולי חוקריה של ירושלים וארץ ישראל, חתן פרס ביאליק ופרס ישראל בתחום חקר ארץ ישראל לשנת תשנ\"ט.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 12464
+  },
+  "texts": {
+    "author": [
+      25933,
+      28957,
+      57995,
+      58013
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

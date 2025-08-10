@@ -1,0 +1,65 @@
+{
+  "id": 2769,
+  "url": "https://benyehuda.org/author/2769",
+  "metadata": {
+    "name": "אליהו דוד שפיר",
+    "sort_name": "שפיר, אליהו דוד ",
+    "other_designations": "א. ד. שפיר; אד\"ש; דוד דר; אליהו דוד שפירא; א\"ד שפירא",
+    "intellectual_property": "orphan",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1911",
+      "death_year": "1974"
+    },
+    "bio_snippet": "סופר, משורר עברי, עורך ומתרגם ישראלי. היה נשוי למתרגמת ורה ישראלית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 2599
+  },
+  "texts": {
+    "author": [
+      49639,
+      49640,
+      49641,
+      49642,
+      49643,
+      49644,
+      49645,
+      49646,
+      49647,
+      49648,
+      49649,
+      49650,
+      49651,
+      49652,
+      49653,
+      49654,
+      49655,
+      49656,
+      49657,
+      49658,
+      49659,
+      49660,
+      49661,
+      49662,
+      49663,
+      58996
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

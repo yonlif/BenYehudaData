@@ -1,0 +1,87 @@
+{
+  "id": 60,
+  "url": "https://benyehuda.org/author/60",
+  "metadata": {
+    "name": "חנה סנש",
+    "sort_name": "סנש, חנה",
+    "other_designations": " Szenes Anikó",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1921",
+      "death_year": "1944"
+    },
+    "bio_snippet": "לוחמת ומשוררת יהודייה, מצנחני היישוב.",
+    "languages": [
+      "he",
+      "hu"
+    ],
+    "genres": [
+      "drama",
+      "letters",
+      "memoir",
+      "poetry"
+    ],
+    "impressions_count": 92767
+  },
+  "texts": {
+    "author": [
+      457,
+      896,
+      1352,
+      1663,
+      1975,
+      2291,
+      2604,
+      2921,
+      3234,
+      3557,
+      3873,
+      4200,
+      4520,
+      4855,
+      5220,
+      6704,
+      7033,
+      7362,
+      7683,
+      8000,
+      8326,
+      8650,
+      24763,
+      24764,
+      24765,
+      24766,
+      24767,
+      24768,
+      24769,
+      24770,
+      24771,
+      24772,
+      24773,
+      24774,
+      24775,
+      28023,
+      28024,
+      28025,
+      28026,
+      28027,
+      38005,
+      38006,
+      38007
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      10895
+    ]
+  }
+}

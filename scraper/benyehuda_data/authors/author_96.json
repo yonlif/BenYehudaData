@@ -1,0 +1,56 @@
+{
+  "id": 96,
+  "url": "https://benyehuda.org/author/96",
+  "metadata": {
+    "name": "משה שרת",
+    "sort_name": "שרת, משה",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1894",
+      "death_year": "1965"
+    },
+    "bio_snippet": "שר החוץ הראשון של מדינת ישראל וכיהן כראש הממשלה השני של מדינת ישראל. מראשי הנהגת היישוב. ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "letters"
+    ],
+    "impressions_count": 6836
+  },
+  "texts": {
+    "author": [
+      3086,
+      28959,
+      28960,
+      28961,
+      28962,
+      28963,
+      28964,
+      28965,
+      28966,
+      28967,
+      28968,
+      28969,
+      28970,
+      28971,
+      34245,
+      37757,
+      53473
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

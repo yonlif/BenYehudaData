@@ -1,0 +1,40 @@
+{
+  "id": 1566,
+  "url": "https://benyehuda.org/author/1566",
+  "metadata": {
+    "name": "זרק ברפת",
+    "sort_name": "ברפת, זרק ",
+    "other_designations": "זארק ברפת",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "פעל באמצע המאה ה־14",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 285
+  },
+  "texts": {
+    "author": [
+      34132,
+      34145
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3341,
+  "url": "https://benyehuda.org/author/3341",
+  "metadata": {
+    "name": "מנחם בן",
+    "sort_name": "בן, מנחם",
+    "other_designations": "מנחם בראון",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1948",
+      "death_year": "2020"
+    },
+    "bio_snippet": "מבקר ספרות, משורר ופובליציסט ישראלי.\r\n\r\nחיבר 17 ספרים, בהם שישה ספרי שירה, שני ספרי ילדים, שישה ספרי ביקורת שירה ומבחרי שירה (כולל רב המכר \"השירים הכי יפים בעברית\"), ספר הגות בענייני אלוהים, וכן את רב המכר \"פלונטר\" ואת הספר התיעודי על התאבדות בתו, \"הוי, כנרת שלנו\". בן זכה בפרס ראש הממשלה לסופרים עבריים פעמיים (בשנת 1989 וכן בשנת 2016) ובפרס ברנשטיין לביקורת ספרותית (1999).",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 87
+  },
+  "texts": {
+    "author": [
+      56401
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

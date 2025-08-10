@@ -1,0 +1,39 @@
+{
+  "id": 410,
+  "url": "https://benyehuda.org/author/410",
+  "metadata": {
+    "name": "שאול יצחק קמפף",
+    "sort_name": "קמפף, שאול יצחק",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1818",
+      "death_year": "1892"
+    },
+    "bio_snippet": "רב ומזרחן. פעל בעיקר בבוהמיה ",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 631
+  },
+  "texts": {
+    "author": [
+      8107
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

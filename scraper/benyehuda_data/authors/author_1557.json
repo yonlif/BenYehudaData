@@ -1,0 +1,41 @@
+{
+  "id": 1557,
+  "url": "https://benyehuda.org/author/1557",
+  "metadata": {
+    "name": "יצחק פולקר",
+    "sort_name": "פולקר, יצחק ",
+    "other_designations": "פוליקאר, יצחק בן יוסף אבן פולקר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "חי במחצית הראשונה של המאה ה־14",
+      "death_year": ""
+    },
+    "bio_snippet": "איש קסטיליה, פילוסוף יהודי בספרד של המאה ה־14, פייטן ופולמוסן",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 276
+  },
+  "texts": {
+    "author": [
+      33932,
+      44941
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

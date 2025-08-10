@@ -1,0 +1,40 @@
+{
+  "id": 1055,
+  "url": "https://benyehuda.org/author/1055",
+  "metadata": {
+    "name": "פראדל שטוק",
+    "sort_name": "שטוק, פראדל ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1888",
+      "death_year": "1945"
+    },
+    "bio_snippet": "משוררת וסופרת בשפת היידיש, חיה בארצות הברית",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 510
+  },
+  "texts": {
+    "author": [
+      28878,
+      28879
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

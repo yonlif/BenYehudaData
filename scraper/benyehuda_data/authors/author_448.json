@@ -1,0 +1,39 @@
+{
+  "id": 448,
+  "url": "https://benyehuda.org/author/448",
+  "metadata": {
+    "name": "משה יעקב אוטולנגי",
+    "sort_name": "אוטולנגי, משה יעקב",
+    "other_designations": "משה יעקב בן דוד אוטולנגי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1840",
+      "death_year": "1901"
+    },
+    "bio_snippet": "מחנך, נולד בליוורנו (איטליה). שימש מורה ומחנך בסלוניקי, בה נפטר [ע\"פ ENCYCLOPEDIA.COM]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1285
+  },
+  "texts": {
+    "author": [
+      10932
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

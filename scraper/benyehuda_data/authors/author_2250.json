@@ -1,0 +1,39 @@
+{
+  "id": 2250,
+  "url": "https://benyehuda.org/author/2250",
+  "metadata": {
+    "name": "בנימין בן יהודה בוציקו",
+    "sort_name": "בן יהודה בוציקו, בנימין ",
+    "other_designations": "bozecco",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1290",
+      "death_year": "1330"
+    },
+    "bio_snippet": "פייטן, חי ברומא",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 154
+  },
+  "texts": {
+    "author": [
+      40727
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

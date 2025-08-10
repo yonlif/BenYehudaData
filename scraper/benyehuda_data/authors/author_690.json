@@ -1,0 +1,76 @@
+{
+  "id": 690,
+  "url": "https://benyehuda.org/author/690",
+  "metadata": {
+    "name": "יוסף מונדי",
+    "sort_name": "מונדי, יוסף",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1935",
+      "death_year": "1994"
+    },
+    "bio_snippet": "מחזאי וסופר ישראלי.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama",
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 13903
+  },
+  "texts": {
+    "author": [
+      19036,
+      24480,
+      31947,
+      31948,
+      31949,
+      31950,
+      40123,
+      40512,
+      40684,
+      40685,
+      49320,
+      57261,
+      57262,
+      57263,
+      57264,
+      57265,
+      57266,
+      57267,
+      57268,
+      57269,
+      57429,
+      57430,
+      57431,
+      57432,
+      57433,
+      57434,
+      57435,
+      57436,
+      57437,
+      57438,
+      57439,
+      57440,
+      57441,
+      57442,
+      57443,
+      57444
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

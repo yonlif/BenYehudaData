@@ -1,0 +1,39 @@
+{
+  "id": 319,
+  "url": "https://benyehuda.org/author/319",
+  "metadata": {
+    "name": "אנרי בטי",
+    "sort_name": "בטי, אנרי",
+    "other_designations": "",
+    "intellectual_property": "unknown",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 160
+  },
+  "texts": {
+    "author": [
+      5821
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

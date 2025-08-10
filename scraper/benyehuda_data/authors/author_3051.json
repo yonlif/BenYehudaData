@@ -1,0 +1,39 @@
+{
+  "id": 3051,
+  "url": "https://benyehuda.org/author/3051",
+  "metadata": {
+    "name": "יוסף דמסט",
+    "sort_name": "דמסט, יוסף ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1919",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד טרנוב. סטודנט באוניברסיטה העברית בירושלים ומורה למדעי הטבע. הצטרף לכפר עציון ובמלחמת העצמאות נפל בהתקפה על הכפר. הניח אישה וילד [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 122
+  },
+  "texts": {
+    "author": [
+      54841
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

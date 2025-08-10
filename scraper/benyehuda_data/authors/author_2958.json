@@ -1,0 +1,41 @@
+{
+  "id": 2958,
+  "url": "https://benyehuda.org/author/2958",
+  "metadata": {
+    "name": "אשר בן־ישראל",
+    "sort_name": "בן־ישראל, אשר ",
+    "other_designations": "אשר בן ישראל; אשר בן-ישראל; אשר בן־ישראל ברונפלד; אשר בן־ישראל אבי־עודד; אשר בן־ישראל, אבי עודד",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1887",
+      "death_year": "1958"
+    },
+    "bio_snippet": "מורה, פרסם מאמרים ומחקרים על עולם הסוד והקבלה, ועל היישוב העברי הישן בארץ־ישראל",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 272
+  },
+  "texts": {
+    "author": [
+      55105,
+      55106,
+      55107
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

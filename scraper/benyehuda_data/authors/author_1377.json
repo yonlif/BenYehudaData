@@ -1,0 +1,39 @@
+{
+  "id": 1377,
+  "url": "https://benyehuda.org/author/1377",
+  "metadata": {
+    "name": "שמואל קופמן",
+    "sort_name": "קופמן, שמואל ",
+    "other_designations": "שמואל אבן שמואל; שמואל אשר קופמן; שמואל אשר קויפמן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1927",
+      "death_year": "1947"
+    },
+    "bio_snippet": "לוחם בפלמ\"ח",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "letters"
+    ],
+    "impressions_count": 270
+  },
+  "texts": {
+    "author": [
+      32580
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

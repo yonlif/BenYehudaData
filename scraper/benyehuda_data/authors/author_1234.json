@@ -1,0 +1,42 @@
+{
+  "id": 1234,
+  "url": "https://benyehuda.org/author/1234",
+  "metadata": {
+    "name": "ישעיהו פְּרֵס",
+    "sort_name": "פרס, ישעיהו ",
+    "other_designations": "ישעיהו פרס",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1874",
+      "death_year": "1955"
+    },
+    "bio_snippet": "מחנך וחוקר ארץ ישראל",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir",
+      "reference"
+    ],
+    "impressions_count": 9757
+  },
+  "texts": {
+    "author": [
+      30738,
+      39746,
+      47169
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

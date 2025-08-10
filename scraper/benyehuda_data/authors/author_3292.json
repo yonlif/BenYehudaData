@@ -1,0 +1,45 @@
+{
+  "id": 3292,
+  "url": "https://benyehuda.org/author/3292",
+  "metadata": {
+    "name": "ישראל פנקס",
+    "sort_name": "פנקס, ישראל ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1935",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר עברי, חתן פרס ישראל לשירה תשס\"ה (2005)",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 664
+  },
+  "texts": {
+    "author": [
+      56037,
+      56038,
+      56039,
+      56040,
+      56380,
+      56381,
+      56382
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 2237,
+  "url": "https://benyehuda.org/author/2237",
+  "metadata": {
+    "name": "אחיטוב בן יצחק מפלרמו",
+    "sort_name": "מפלרמו, אחיטוב בן יצחק ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "חי בפָּלֶרְמוֹ במחצית השניה של המאה הי\"ג\r\n",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 275
+  },
+  "texts": {
+    "author": [
+      38435,
+      41659
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

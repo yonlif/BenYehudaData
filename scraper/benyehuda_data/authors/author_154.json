@@ -1,0 +1,66 @@
+{
+  "id": 154,
+  "url": "https://benyehuda.org/author/154",
+  "metadata": {
+    "name": "יוסף לואידור",
+    "sort_name": "לואידור, יוסף",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1893",
+      "death_year": "1921"
+    },
+    "bio_snippet": "סופר, מתרגם וחלוץ עברי. פרסם מאמרים, סיפורים ותרגומים. נרצח ביפו במאורעות תרפ\"א.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 6897
+  },
+  "texts": {
+    "author": [
+      98,
+      542,
+      950,
+      7080,
+      7411,
+      7731,
+      8050,
+      8374
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      23729,
+      23730,
+      23731,
+      23732,
+      23733,
+      23734,
+      23735,
+      23736,
+      23737,
+      23738,
+      23739,
+      23740,
+      23741,
+      23742,
+      23743,
+      23744,
+      23745,
+      23746
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

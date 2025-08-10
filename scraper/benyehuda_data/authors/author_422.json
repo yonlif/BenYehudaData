@@ -1,0 +1,56 @@
+{
+  "id": 422,
+  "url": "https://benyehuda.org/author/422",
+  "metadata": {
+    "name": "ראובן אשר ברודס",
+    "sort_name": "ברודס, ראובן אשר",
+    "other_designations": "ראובן אבי\"ב איש וילנה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1851",
+      "death_year": "1902"
+    },
+    "bio_snippet": "סופר עברי ויידי ועיתונאי מהמאה ה-19, מהסופרים המרכזיים בספרות ההשכלה.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 5149
+  },
+  "texts": {
+    "author": [
+      10531,
+      10532,
+      10533,
+      10534,
+      13350,
+      25755,
+      25785,
+      25999,
+      26000,
+      26198,
+      27907,
+      35436,
+      38470,
+      40579,
+      49291
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      31318,
+      52887
+    ]
+  }
+}

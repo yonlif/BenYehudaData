@@ -1,0 +1,40 @@
+{
+  "id": 210,
+  "url": "https://benyehuda.org/author/210",
+  "metadata": {
+    "name": "יוסף אבן ששת",
+    "sort_name": "ששת, יוסף אבן",
+    "other_designations": "אבן לטימי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "מ",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר, בן יהדות ספרד.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 648
+  },
+  "texts": {
+    "author": [
+      330,
+      36677
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

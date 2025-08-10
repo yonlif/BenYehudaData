@@ -1,0 +1,76 @@
+{
+  "id": 417,
+  "url": "https://benyehuda.org/author/417",
+  "metadata": {
+    "name": "אהרן פולאק",
+    "sort_name": "פולאק, אהרן",
+    "other_designations": "אהרן פולק; אהרון פולאק; א. בן-עיר; א. בן־עיר; א. בר-פלוגתא; א. בר־פלוגתא; א. מחלולאי; י. סרגל; ח. כפורי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1892",
+      "death_year": "1960"
+    },
+    "bio_snippet": "סופר, מתרגם, מורה וחוקר ומקרא ולשון. ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "drama",
+      "prose"
+    ],
+    "impressions_count": 12821
+  },
+  "texts": {
+    "author": [
+      10486,
+      10487,
+      10903,
+      10904,
+      10905,
+      11022,
+      12943,
+      12944,
+      12945,
+      12946,
+      12947,
+      20735,
+      20736,
+      20737,
+      20738,
+      20739,
+      20740,
+      20741,
+      20742,
+      29194,
+      29195,
+      29196,
+      29197,
+      29198,
+      29199,
+      29200,
+      29201,
+      29202,
+      29203,
+      29204,
+      29205,
+      29206,
+      29207,
+      29208,
+      29209,
+      47622
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

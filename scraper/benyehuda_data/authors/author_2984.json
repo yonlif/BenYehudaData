@@ -1,0 +1,41 @@
+{
+  "id": 2984,
+  "url": "https://benyehuda.org/author/2984",
+  "metadata": {
+    "name": "רחל דנה־פרוכטר",
+    "sort_name": "דנה־פרוכטר, רחל ",
+    "other_designations": "רחל דנה-פרוכטר; רחל דנה פרוכטר; רחל דנה",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1956",
+      "death_year": ""
+    },
+    "bio_snippet": "משוררת וסופרת ישראלית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 234
+  },
+  "texts": {
+    "author": [
+      54165,
+      54166,
+      54167
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

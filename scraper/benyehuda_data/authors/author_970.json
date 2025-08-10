@@ -1,0 +1,37 @@
+{
+  "id": 970,
+  "url": "https://benyehuda.org/author/970",
+  "metadata": {
+    "name": "פניה שלום",
+    "sort_name": "שלום, פניה ",
+    "other_designations": "פאניה שלום",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1909",
+      "death_year": "1999"
+    },
+    "bio_snippet": "פניה (לבית פרויד) למדה באוניברסיטה העברית בירושלים בשנות השלושים. נישאה לפרופסור גרשם שלום, וסייעה בעבודתו בתרגום ובעריכה. בין השאר תרגמה עבורו את כתב היד הפולני של 'דברי האדון'  (דבריו של יעקב פראנק) כפי שנכתבו בידי חסידיו, והשתתפה בהכנת הביבליוגרפיה של כתבי גרשם שלום ",
+    "languages": [],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 522
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      28201
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

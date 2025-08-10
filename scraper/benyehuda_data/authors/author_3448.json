@@ -1,0 +1,39 @@
+{
+  "id": 3448,
+  "url": "https://benyehuda.org/author/3448",
+  "metadata": {
+    "name": "יוסטיניאנוס הראשון",
+    "sort_name": " יוסטיניאנוס הראשון",
+    "other_designations": "יוסטיניאנוס הראשון, קיסר האימפריה הביזנטית; פלוויוס פטרוס סאבטיוס איוסטיניאנוס; יוסטיניאנוס הגדול; יוסטיניאנוס ה־1; ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "483",
+      "death_year": "565"
+    },
+    "bio_snippet": "קיסר האימפריה הביזנטית החל מ־1 באוגוסט 527 ועד מותו. הוא היה אחד השליטים החשובים של האימפריה הביזנטית וידוע בעיקר בזכות הקורפוס יוריס קיוויליס, רפורמה שערך בקוד החוקים הביזנטי ובזכות ההתפשטות הביזנטית שהגיעה לשיאה תחת שלטונו אשר נמשך 38 שנים",
+    "languages": [
+      "la"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 228
+  },
+  "texts": {
+    "author": [
+      57529
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

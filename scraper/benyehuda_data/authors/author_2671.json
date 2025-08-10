@@ -1,0 +1,37 @@
+{
+  "id": 2671,
+  "url": "https://benyehuda.org/author/2671",
+  "metadata": {
+    "name": "מאיר פלס",
+    "sort_name": "פלס, מאיר ",
+    "other_designations": "מאיר קפלנסקי פלס",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1900",
+      "death_year": "1986"
+    },
+    "bio_snippet": "מורה ומתרגם",
+    "languages": [],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 80
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      17961
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

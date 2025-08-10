@@ -1,0 +1,54 @@
+{
+  "id": 920,
+  "url": "https://benyehuda.org/author/920",
+  "metadata": {
+    "name": "ראובן ולנרוד",
+    "sort_name": "ולנרוד ראובן ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1899",
+      "death_year": "1966"
+    },
+    "bio_snippet": "סופר עברי וכותב מסות על ספרות עברית וכללית בכתבי עת עבריים בארצות הברית ובארץ. פרסם ספרים ומאמרים גם באנגלית ובצרפתית. כתב עם אחרים ספרי לימוד. מורה במקצועו",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 2060
+  },
+  "texts": {
+    "author": [
+      49036,
+      49037,
+      56730,
+      57513,
+      57514,
+      57515,
+      57516,
+      57517,
+      57518,
+      57519,
+      57520,
+      57521
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      34732,
+      35282
+    ]
+  }
+}

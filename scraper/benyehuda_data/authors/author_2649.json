@@ -1,0 +1,65 @@
+{
+  "id": 2649,
+  "url": "https://benyehuda.org/author/2649",
+  "metadata": {
+    "name": "אברהם כהנא (אבר\"ך)",
+    "sort_name": "כהנא (אבר\"ך), אברהם",
+    "other_designations": "אברהם כהנא; אברהם כהנא–אבר\"ך; אברהם כהנא בן ישראל חיים; אברהם־אבר\"ך כהנא;",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1889",
+      "death_year": "1954"
+    },
+    "bio_snippet": "סופר ומחבר מאמרים בענייני היום, חקרי יהדות ורשימות. השתתף בעיתונות העברית, היידית והגרמנית [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 1056
+  },
+  "texts": {
+    "author": [
+      56775,
+      56776,
+      56777,
+      56778,
+      56779,
+      56780,
+      56781,
+      56782,
+      57007,
+      57008,
+      57009,
+      57010,
+      57011,
+      57012,
+      57013,
+      57014,
+      57015,
+      57016,
+      57017,
+      57018,
+      57019,
+      57020,
+      57021,
+      57022,
+      57023,
+      57024,
+      57025
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

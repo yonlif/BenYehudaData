@@ -1,0 +1,39 @@
+{
+  "id": 3542,
+  "url": "https://benyehuda.org/author/3542",
+  "metadata": {
+    "name": "אנה לטישה ברבולד",
+    "sort_name": "ברבולד, אנה לטישה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1743",
+      "death_year": "1825"
+    },
+    "bio_snippet": "משוררת, מסאית, מבקרת ספרות, עורכת וסופרת ילדים אנגלית בולטת. חברה בולטת ב\"אגודת הגרביים הכחולות\", ו\"אשת ספרות\" שפרסמה בז'אנרים רבים. לברבולד הייתה קריירת כתיבה מצליחה שנמשכה יותר מחצי מאה",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 14
+  },
+  "texts": {
+    "author": [
+      58854
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

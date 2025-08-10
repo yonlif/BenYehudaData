@@ -1,0 +1,91 @@
+{
+  "id": 1194,
+  "url": "https://benyehuda.org/author/1194",
+  "metadata": {
+    "name": "יוסף צבי רימון",
+    "sort_name": "רימון, יוסף צבי ",
+    "other_designations": "יוסף צבי בן אפרים אליעז",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1889",
+      "death_year": "1958"
+    },
+    "bio_snippet": " משורר וסופר עברי ישראלי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 5692
+  },
+  "texts": {
+    "author": [
+      36905,
+      36906,
+      36907,
+      36908,
+      36909,
+      36910,
+      36911,
+      36912,
+      36913,
+      36914,
+      36915,
+      36916,
+      36917,
+      36918,
+      36919,
+      36920,
+      36921,
+      36922,
+      36923,
+      36924,
+      36925,
+      36926,
+      36927,
+      36928,
+      36929,
+      36930,
+      36931,
+      37490,
+      37491,
+      37492,
+      37493,
+      37501,
+      37518,
+      37522,
+      37523,
+      37524,
+      37525,
+      37526,
+      37527,
+      37528,
+      37529,
+      37530,
+      37531,
+      37532,
+      37533,
+      37534,
+      37535,
+      37536,
+      37537,
+      37538
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      37949,
+      47620
+    ]
+  }
+}

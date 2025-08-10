@@ -1,0 +1,39 @@
+{
+  "id": 2739,
+  "url": "https://benyehuda.org/author/2739",
+  "metadata": {
+    "name": "אברהם בן־יעקב",
+    "sort_name": "בן־יעקב, אברהם ",
+    "other_designations": "אברהם בן-יעקב; אברהם בן יעקב",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1914",
+      "death_year": "2005"
+    },
+    "bio_snippet": "היסטוריון, סופר, מחנך וחוקר יהודי בבל באלף השנים האחרונות",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 3446
+  },
+  "texts": {
+    "author": [
+      49164
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

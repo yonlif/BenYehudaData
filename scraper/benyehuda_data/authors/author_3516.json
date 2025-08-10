@@ -1,0 +1,39 @@
+{
+  "id": 3516,
+  "url": "https://benyehuda.org/author/3516",
+  "metadata": {
+    "name": "יוסף קסטיין",
+    "sort_name": "קסטיין, יוסף",
+    "other_designations": "יוליוס קצנשטיין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1890",
+      "death_year": "1946"
+    },
+    "bio_snippet": " סופר, ביוגרף, היסטוריון, משורר ועיתונאי יהודי גרמני־ארץ־ישראלי, עורך דין במקצועו. נודע במונוגרפיות שחיבר על דמויות מפתח בהיסטוריה היהודית ובספרו הגדול \"תולדות האומה הישראלית\" (Eine Geschichte der Juden;‏ 1931)",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 85
+  },
+  "texts": {
+    "author": [
+      58522
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

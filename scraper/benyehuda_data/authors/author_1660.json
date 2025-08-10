@@ -1,0 +1,39 @@
+{
+  "id": 1660,
+  "url": "https://benyehuda.org/author/1660",
+  "metadata": {
+    "name": "ג'יימס שירלי",
+    "sort_name": "שירלי, ג'יימס ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1596",
+      "death_year": "1666"
+    },
+    "bio_snippet": "מחזאי אנגלי",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 193
+  },
+  "texts": {
+    "author": [
+      34450
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

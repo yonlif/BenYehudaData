@@ -1,0 +1,40 @@
+{
+  "id": 845,
+  "url": "https://benyehuda.org/author/845",
+  "metadata": {
+    "name": "רפאל אוחנה",
+    "sort_name": "אוחנה, רפאל",
+    "other_designations": "רפאל אוחנא; רפאל בן חיים אוחנה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1850",
+      "death_year": "1902"
+    },
+    "bio_snippet": " שד\"ר מטבריה יליד מקנס שבמרוקו, ומחבר ספרים רבים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 8452
+  },
+  "texts": {
+    "author": [
+      24510,
+      32320
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

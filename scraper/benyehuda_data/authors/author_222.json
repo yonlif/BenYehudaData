@@ -1,0 +1,52 @@
+{
+  "id": 222,
+  "url": "https://benyehuda.org/author/222",
+  "metadata": {
+    "name": "אנאקריאון",
+    "sort_name": "אנאקריאון",
+    "other_designations": "אנאקראון; אנקראון; אנקריאון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "המאה הששית לפנה\"ס",
+      "death_year": ""
+    },
+    "bio_snippet": "היה משורר לירי יווני. \r\n",
+    "languages": [
+      "grc"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 5456
+  },
+  "texts": {
+    "author": [
+      149,
+      549,
+      1477,
+      2160,
+      2162,
+      2593,
+      2658,
+      2787,
+      3360,
+      3362,
+      5915,
+      6433,
+      7736,
+      19141
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

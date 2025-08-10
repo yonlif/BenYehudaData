@@ -1,0 +1,43 @@
+{
+  "id": 3414,
+  "url": "https://benyehuda.org/author/3414",
+  "metadata": {
+    "name": "ניקולאוס לנאו",
+    "sort_name": "לנאו, ניקולאוס ",
+    "other_designations": "ניקולאוס פרנץ נימבש אדלר פון שטרהלנאו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1802",
+      "death_year": "1850"
+    },
+    "bio_snippet": "משורר אוסטרי",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 286
+  },
+  "texts": {
+    "author": [
+      57201,
+      57202,
+      57203,
+      57204,
+      57205
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

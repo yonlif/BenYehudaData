@@ -1,0 +1,39 @@
+{
+  "id": 2030,
+  "url": "https://benyehuda.org/author/2030",
+  "metadata": {
+    "name": "אחימעץ בן פלטיאל",
+    "sort_name": "בן פלטיאל, אחימעץ ",
+    "other_designations": "אחימעץ בר פלטיאל; אחימעץ בר־פלטיאל; אחימעץ בר-פלטיאל",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1017",
+      "death_year": "1060"
+    },
+    "bio_snippet": "היסטוריון ופייטן יהודי־איטלקי, שנודע בשל חיבור כרוניקה בשם: \"ספר היוחסין\" (היא \"מגילת אחימעץ\")",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 252
+  },
+  "texts": {
+    "author": [
+      38414
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

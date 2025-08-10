@@ -1,0 +1,39 @@
+{
+  "id": 1269,
+  "url": "https://benyehuda.org/author/1269",
+  "metadata": {
+    "name": "משה נחמיה כהניו",
+    "sort_name": "כהניו, משה נחמיה ",
+    "other_designations": "משה נחמיה בן משלם פיבוש; משה נחמיה כהנוב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1817",
+      "death_year": "1887"
+    },
+    "bio_snippet": "רב בלארוסי, בסוף ימיו ראש ישיבת עץ חיים בירושלים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 622
+  },
+  "texts": {
+    "author": [
+      31151
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

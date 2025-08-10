@@ -1,0 +1,39 @@
+{
+  "id": 3437,
+  "url": "https://benyehuda.org/author/3437",
+  "metadata": {
+    "name": "ג'וסיה ג'ילברט הולנד",
+    "sort_name": "הולנד, ג'וסיה ג'ילברט ",
+    "other_designations": "י. ג. ג'וסיה; י\"ג יוסיה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1819",
+      "death_year": "1881"
+    },
+    "bio_snippet": "סופר, מסאי, משורר ומדריך רוחני אמריקאי בשנים שלאחר מלחמת האזרחים",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 21
+  },
+  "texts": {
+    "author": [
+      19294
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

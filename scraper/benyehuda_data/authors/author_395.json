@@ -1,0 +1,44 @@
+{
+  "id": 395,
+  "url": "https://benyehuda.org/author/395",
+  "metadata": {
+    "name": "פרנץ ורפל",
+    "sort_name": "ורפל, פרנץ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1890",
+      "death_year": "1945"
+    },
+    "bio_snippet": "סופר ומשורר יהודי אוסטרי, מנציגיו הבולטים של זרם האקספרסיוניזם בספרות הגרמנית.",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 7690
+  },
+  "texts": {
+    "author": [
+      9608,
+      14103,
+      39818
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      43845
+    ]
+  }
+}

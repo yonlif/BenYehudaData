@@ -1,0 +1,45 @@
+{
+  "id": 770,
+  "url": "https://benyehuda.org/author/770",
+  "metadata": {
+    "name": "נחמן מיפלב",
+    "sort_name": "מיפלב, נחמן",
+    "other_designations": "נחמן מיפעלעוו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1886",
+      "death_year": "1937"
+    },
+    "bio_snippet": "סופר יידי ועברי, מחנך ועורך בפולין.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1372
+  },
+  "texts": {
+    "author": [
+      22617,
+      22623,
+      22624,
+      22625,
+      22626,
+      22627,
+      41144
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

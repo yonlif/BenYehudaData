@@ -1,0 +1,81 @@
+{
+  "id": 1133,
+  "url": "https://benyehuda.org/author/1133",
+  "metadata": {
+    "name": "הלל בבלי",
+    "sort_name": "בבלי, הלל ",
+    "other_designations": "ראשגולין, ראשיגולסקי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1893",
+      "death_year": "1961"
+    },
+    "bio_snippet": "משורר, סופר, מתרגם, פרופסור לספרות עברית באוניברסיטת קולומביה, ועיתונאי יהודי אמריקאי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 3235
+  },
+  "texts": {
+    "author": [
+      36028,
+      36029,
+      36030,
+      36031,
+      36032,
+      36033,
+      36034,
+      36035,
+      36036,
+      36037,
+      36038,
+      36039,
+      36040,
+      36041,
+      36042,
+      36043,
+      36044,
+      36045,
+      36046,
+      36047,
+      36498,
+      36499,
+      36500,
+      36501,
+      36502,
+      36503,
+      36504,
+      36505,
+      36506,
+      36507,
+      36508,
+      36509,
+      36510,
+      36511,
+      36512,
+      36513,
+      36514,
+      41670,
+      41671
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      34658,
+      35271
+    ]
+  }
+}

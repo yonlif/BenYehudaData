@@ -1,0 +1,39 @@
+{
+  "id": 2317,
+  "url": "https://benyehuda.org/author/2317",
+  "metadata": {
+    "name": "ישראל בנימין באסאן",
+    "sort_name": "באסאן, ישראל בנימין ",
+    "other_designations": "ישראל בנימין בן ישעיה באסאן; ישראל בנימין בסן;  ישראל בנימין באסאני; ישראל בנימין בסני",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1701",
+      "death_year": "1790"
+    },
+    "bio_snippet": "רב ברג'ו, משורר, משכיל, רופא; חברו של רמח\"ל",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 115
+  },
+  "texts": {
+    "author": [
+      40789
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

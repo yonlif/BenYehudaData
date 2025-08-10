@@ -1,0 +1,42 @@
+{
+  "id": 3343,
+  "url": "https://benyehuda.org/author/3343",
+  "metadata": {
+    "name": "יצחק אשכנזי",
+    "sort_name": "אשכנזי, יצחק",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1952",
+      "death_year": ""
+    },
+    "bio_snippet": "סופר ומשורר יליד באר שבע.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 759
+  },
+  "texts": {
+    "author": [
+      56441,
+      56442,
+      56443,
+      56444
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

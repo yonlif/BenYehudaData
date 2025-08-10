@@ -1,0 +1,84 @@
+{
+  "id": 586,
+  "url": "https://benyehuda.org/author/586",
+  "metadata": {
+    "name": "דוד גלעדי [1908–2009]",
+    "sort_name": "גלעדי, דוד",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1908",
+      "death_year": "2009"
+    },
+    "bio_snippet": "סופר, עיתונאי, עורך ומתרגם ישראלי.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 7500
+  },
+  "texts": {
+    "author": [
+      28491,
+      45823,
+      45824,
+      45825,
+      45826,
+      45827,
+      45828,
+      45829,
+      45830,
+      45831,
+      45832,
+      45833,
+      45834,
+      45835,
+      45836,
+      45837,
+      45838,
+      45839,
+      45840,
+      45841,
+      45842,
+      45843,
+      45844,
+      45845,
+      45846,
+      45847,
+      45848,
+      45849,
+      45850,
+      45851,
+      45852,
+      45853,
+      45854,
+      45855,
+      45856,
+      45857,
+      45858,
+      45859,
+      45860,
+      45861,
+      45862,
+      45863,
+      45864,
+      45865,
+      49034
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

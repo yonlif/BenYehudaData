@@ -1,0 +1,39 @@
+{
+  "id": 3305,
+  "url": "https://benyehuda.org/author/3305",
+  "metadata": {
+    "name": "גבריאל צורן",
+    "sort_name": "צורן, גבריאל ",
+    "other_designations": "גבי צורן",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1947",
+      "death_year": ""
+    },
+    "bio_snippet": " פרופסור אמריטוס לספרות באוניברסיטת חיפה ובאוניברסיטה הפתוחה, מתרגם, סופר ועורך ספרותי. צורן הוא חבר בוועדה מקצועית למינוח בנושאי ספרות של האקדמיה ללשון העברית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 96
+  },
+  "texts": {
+    "author": [
+      56301
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

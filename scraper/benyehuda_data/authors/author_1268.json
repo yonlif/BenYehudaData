@@ -1,0 +1,39 @@
+{
+  "id": 1268,
+  "url": "https://benyehuda.org/author/1268",
+  "metadata": {
+    "name": "יהושע לוינזון",
+    "sort_name": "לוינזון, יהושע ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1843",
+      "death_year": "1911"
+    },
+    "bio_snippet": "מורה ומפקח על בית ספר יהודי; סופר עברי בנושאים של תולדות ישראל, אישים, מדעי טבע וטכניקה; מתרגם",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 429
+  },
+  "texts": {
+    "author": [
+      31152
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

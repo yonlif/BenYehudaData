@@ -1,0 +1,44 @@
+{
+  "id": 918,
+  "url": "https://benyehuda.org/author/918",
+  "metadata": {
+    "name": "אבינעם ילין",
+    "sort_name": "ילין אבינעם ",
+    "other_designations": "אבינועם ילין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1900",
+      "death_year": "1937"
+    },
+    "bio_snippet": "ילדם השישי של איטה ודוד ילין, מחנך ומזרחן, איש ירושלים, מומחה לערבית וחוקר בספרות ישראל",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 728
+  },
+  "texts": {
+    "author": [
+      26158
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      26145
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      10079
+    ]
+  }
+}

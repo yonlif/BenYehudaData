@@ -1,0 +1,39 @@
+{
+  "id": 2960,
+  "url": "https://benyehuda.org/author/2960",
+  "metadata": {
+    "name": "אדם מילר",
+    "sort_name": "מילר, אדם ",
+    "other_designations": "אדם היינריך מילר; אדם הינריך מילר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1779",
+      "death_year": "1829"
+    },
+    "bio_snippet": "פילוסוף גרמני־אוסטרי שמרני, מבקר ספרות וכלכלן פוליטי, שעבד במסורת הרומנטית",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 130
+  },
+  "texts": {
+    "author": [
+      54032
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

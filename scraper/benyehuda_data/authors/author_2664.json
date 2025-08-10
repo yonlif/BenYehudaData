@@ -1,0 +1,39 @@
+{
+  "id": 2664,
+  "url": "https://benyehuda.org/author/2664",
+  "metadata": {
+    "name": "יוסף רוזן ",
+    "sort_name": "רוזן, יוסף ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1894",
+      "death_year": "1954"
+    },
+    "bio_snippet": "פעיל בתנועת פועלי ציון שמאל, ומחבר מאמרים בעיתונות בעברית וביידיש, בארץ ובחו\"ל [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 215
+  },
+  "texts": {
+    "author": [
+      56925
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

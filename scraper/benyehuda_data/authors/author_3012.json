@@ -1,0 +1,45 @@
+{
+  "id": 3012,
+  "url": "https://benyehuda.org/author/3012",
+  "metadata": {
+    "name": "רפאל ארן",
+    "sort_name": "ארן, רפאל ",
+    "other_designations": "רפאל ארנשטין; רפאל אורן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1928",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד חיפה, נפל בקרב על הגנת יחיעם בשיירת ארבעים ושבעת החיילים [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir"
+    ],
+    "impressions_count": 342
+  },
+  "texts": {
+    "author": [
+      54622,
+      54623,
+      54624,
+      54625,
+      54626,
+      54890
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3422,
+  "url": "https://benyehuda.org/author/3422",
+  "metadata": {
+    "name": "אסנת ארבל",
+    "sort_name": "ארבל, אסנת ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "נינתה של נחמה פוחצ'בסקי ומעורכות האתר שלה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 127
+  },
+  "texts": {
+    "author": [
+      57214
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

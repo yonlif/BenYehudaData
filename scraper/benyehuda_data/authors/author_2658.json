@@ -1,0 +1,56 @@
+{
+  "id": 2658,
+  "url": "https://benyehuda.org/author/2658",
+  "metadata": {
+    "name": "יצחק למדן ",
+    "sort_name": "למדן, יצחק ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1897",
+      "death_year": "1954"
+    },
+    "bio_snippet": "משורר, מתרגם עורך ופובליציסט עברי זוכה פרס ישראל\r\n",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir",
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 2296
+  },
+  "texts": {
+    "author": [
+      52947,
+      56120,
+      56142,
+      56143,
+      56144,
+      56145,
+      56146
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      52869
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      944,
+      16421,
+      24557,
+      37723,
+      39259,
+      56115
+    ]
+  }
+}

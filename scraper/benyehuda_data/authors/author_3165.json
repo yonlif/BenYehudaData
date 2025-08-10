@@ -1,0 +1,45 @@
+{
+  "id": 3165,
+  "url": "https://benyehuda.org/author/3165",
+  "metadata": {
+    "name": "נחום שושני",
+    "sort_name": "שושני, נחום ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1926",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד כפר סבא, למד באוניברסיטה העברית בירושלים ובמלחמת העצמאות שירת בהגנת ירושלים. נהרג בקרבות על הקסטל, בסביבות בית סובה, ועקבותיו לא נודעו [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir"
+    ],
+    "impressions_count": 394
+  },
+  "texts": {
+    "author": [
+      54637,
+      54638,
+      54639,
+      54640,
+      54641,
+      54940
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

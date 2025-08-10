@@ -1,0 +1,39 @@
+{
+  "id": 887,
+  "url": "https://benyehuda.org/author/887",
+  "metadata": {
+    "name": "אליקום צונזר",
+    "sort_name": "צונזר, אליקום ",
+    "other_designations": "אליקום בדחן, צונזער",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1836",
+      "death_year": "1913"
+    },
+    "bio_snippet": "בדחן ומשורר יידי ידוע במזרח אירופה ובהמשך בארצות הברית. שבעת ילדיו נפטרו ממחלת הכולרה, ושנה לאחר מכן מתה גם אשתו",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 315
+  },
+  "texts": {
+    "author": [
+      25539
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

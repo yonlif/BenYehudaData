@@ -1,0 +1,39 @@
+{
+  "id": 2068,
+  "url": "https://benyehuda.org/author/2068",
+  "metadata": {
+    "name": "יעקב שלמה חזנוב",
+    "sort_name": "חזנוב, יעקב שלמה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1861",
+      "death_year": "1922"
+    },
+    "bio_snippet": "מאנשי ביל\"ו וממייסדי גדרה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "letters"
+    ],
+    "impressions_count": 454
+  },
+  "texts": {
+    "author": [
+      50329
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": 500,
+  "url": "https://benyehuda.org/author/500",
+  "metadata": {
+    "name": "אפלטון",
+    "sort_name": "אפלטון",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "427",
+      "death_year": "347"
+    },
+    "bio_snippet": "פילוסוף יווני, אשר כתביו שימשו אבני יסוד לפילוסופיה המערבית אחריו. תלמידו של סוקרטס, מורו של אריסטו, מחברם של כתבים רבים ומייסד האקדמיה באתונה.",
+    "languages": [
+      "grc"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 20240
+  },
+  "texts": {
+    "author": [
+      11462,
+      18018
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      18705
+    ]
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": 307,
+  "url": "https://benyehuda.org/author/307",
+  "metadata": {
+    "name": "ראלף וולדו אמרסון",
+    "sort_name": "אמרסון, ראלף וולדו",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1803",
+      "death_year": "1882"
+    },
+    "bio_snippet": "היה פילוסוף, סופר ומשורר אמריקאי, נודע בזכות נטישתו את הנצרות לטובת פילוסופיית הטרנסצנדנטליזם אותה יצר. ",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "article",
+      "poetry",
+      "reference"
+    ],
+    "impressions_count": 5525
+  },
+  "texts": {
+    "author": [
+      4783,
+      7729,
+      8853,
+      42003,
+      42004,
+      42005,
+      42006,
+      42634,
+      42635,
+      42636,
+      42637,
+      42638,
+      42639,
+      42640,
+      42641,
+      42642,
+      42643,
+      42644,
+      42912,
+      42913,
+      56091
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      24513
+    ]
+  }
+}

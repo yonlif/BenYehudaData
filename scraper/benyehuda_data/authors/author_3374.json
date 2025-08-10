@@ -1,0 +1,39 @@
+{
+  "id": 3374,
+  "url": "https://benyehuda.org/author/3374",
+  "metadata": {
+    "name": "חמורבי",
+    "sort_name": "חמורבי",
+    "other_designations": "עמורבי, חמורפי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "המאה ה־18 לפני הספירה",
+      "death_year": "1750"
+    },
+    "bio_snippet": "מלך בבל בשנים 1792 לפנה\"ס–1750 לפנה\"ס, השישי במספר לפי \"הכרונולוגיה התיכונה\" בשושלת הראשונה של בבל, ממוצא אמורי. הוא זכור בעיקר בזכות חוקי חמורבי - קובץ חוקים שחוקק, ושרד עד ימינו. לאחר מותו ירש אותו בנו שמשו־אילונה.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 338
+  },
+  "texts": {
+    "author": [
+      57103
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

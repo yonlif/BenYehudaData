@@ -1,0 +1,39 @@
+{
+  "id": 2323,
+  "url": "https://benyehuda.org/author/2323",
+  "metadata": {
+    "name": "יצחק חיים מוסטי",
+    "sort_name": "מוסטי, יצחק חיים ",
+    "other_designations": "יצחק חיים בן דניאל מוסטי; יצחק חיים מוסאטי;  יצחק חי מוסאטי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1710",
+      "death_year": "?"
+    },
+    "bio_snippet": "משורר יליד אנקונה, בשנת 1806 היה עדיין בין החיים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 93
+  },
+  "texts": {
+    "author": [
+      40795
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

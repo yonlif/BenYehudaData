@@ -1,0 +1,44 @@
+{
+  "id": 907,
+  "url": "https://benyehuda.org/author/907",
+  "metadata": {
+    "name": "נתן ביסטריצקי",
+    "sort_name": "ביסטריצקי, נתן ",
+    "other_designations": "נתן אגמון, יצחק פלח",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1896",
+      "death_year": "1980"
+    },
+    "bio_snippet": " סופר, מחזאי, מתרגם, עורך ומבקר עברי. ראש מחלקת הנוער והתעמולה בקרן קיימת לישראל",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 1555
+  },
+  "texts": {
+    "author": [
+      25776
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      5820,
+      16421,
+      24609,
+      51321
+    ]
+  }
+}

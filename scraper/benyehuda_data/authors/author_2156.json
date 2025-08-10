@@ -1,0 +1,66 @@
+{
+  "id": 2156,
+  "url": "https://benyehuda.org/author/2156",
+  "metadata": {
+    "name": "שמעון רבידוביץ'",
+    "sort_name": "רבידוביץ', שמעון ",
+    "other_designations": "שמעון ראבידוביץ'; שמעון ראבידוביץ; שמעון רבידוביץ; שמעון ראווידוביץ'; שמעון ראווידוביץ",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1896",
+      "death_year": "1957"
+    },
+    "bio_snippet": "הוגה דעות, היסטוריון, סופר וחוקר עברי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir",
+      "reference"
+    ],
+    "impressions_count": 6730
+  },
+  "texts": {
+    "author": [
+      40967,
+      41242,
+      41509,
+      41510,
+      41702,
+      41706,
+      42007,
+      42008,
+      42009,
+      42899,
+      42900,
+      42901,
+      42914,
+      42915,
+      42996,
+      42997,
+      42998,
+      43007,
+      43008,
+      44639,
+      44640,
+      44641,
+      45624,
+      45703,
+      45704,
+      45932
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

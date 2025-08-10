@@ -1,0 +1,42 @@
+{
+  "id": 3306,
+  "url": "https://benyehuda.org/author/3306",
+  "metadata": {
+    "name": "גיום אפולינר",
+    "sort_name": "אפולינר, גיום ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1880",
+      "death_year": "1918"
+    },
+    "bio_snippet": "משורר, סופר, ומבקר אמנות. נחשב לאבי המונח \"סוריאליזם\" ולאחד המשוררים הצרפתים החשובים ביותר בתקופתו",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 383
+  },
+  "texts": {
+    "author": [
+      56302,
+      56303,
+      56304,
+      56305
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

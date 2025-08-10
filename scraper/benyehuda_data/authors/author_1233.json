@@ -1,0 +1,39 @@
+{
+  "id": 1233,
+  "url": "https://benyehuda.org/author/1233",
+  "metadata": {
+    "name": "פרנסס הודג'סון ברנט",
+    "sort_name": "ברנט, פרנסס הודג'סון ",
+    "other_designations": "פרנסס אלייזה הודג'סון, סטיפן טאונסנד",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1849",
+      "death_year": "1924"
+    },
+    "bio_snippet": "סופרת אמריקאית ממוצא אנגלי",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1456
+  },
+  "texts": {
+    "author": [
+      30839
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

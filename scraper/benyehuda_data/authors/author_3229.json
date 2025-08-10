@@ -1,0 +1,53 @@
+{
+  "id": 3229,
+  "url": "https://benyehuda.org/author/3229",
+  "metadata": {
+    "name": "יאיר הורביץ",
+    "sort_name": "הורביץ, יאיר ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1941",
+      "death_year": "1988"
+    },
+    "bio_snippet": " משורר ומתרגם שירה ישראלי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "letters",
+      "poetry"
+    ],
+    "impressions_count": 733
+  },
+  "texts": {
+    "author": [
+      56036,
+      56077,
+      56078,
+      56079,
+      56080,
+      56081,
+      56082,
+      56083,
+      56084,
+      56085,
+      56086,
+      56087,
+      58503,
+      58504
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

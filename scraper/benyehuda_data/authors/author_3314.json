@@ -1,0 +1,39 @@
+{
+  "id": 3314,
+  "url": "https://benyehuda.org/author/3314",
+  "metadata": {
+    "name": "עדי ליבנה לוגר",
+    "sort_name": "ליבנה לוגר, עדי ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "משוררת, ביולוגית מרצה במכללת אורנים [על־פי הדף של מכללת אורנים]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 248
+  },
+  "texts": {
+    "author": [
+      56474
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

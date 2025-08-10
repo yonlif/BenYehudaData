@@ -1,0 +1,41 @@
+{
+  "id": 38,
+  "url": "https://benyehuda.org/author/38",
+  "metadata": {
+    "name": "אליעזר מיטרופוליטנסקי",
+    "sort_name": "מיטרופוליטנסקי, אליעזר",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1850",
+      "death_year": ""
+    },
+    "bio_snippet": "סופר ומתרגם",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 5452
+  },
+  "texts": {
+    "author": [
+      8298,
+      8332,
+      8361
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

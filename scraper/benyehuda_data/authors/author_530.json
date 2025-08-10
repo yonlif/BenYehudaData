@@ -1,0 +1,57 @@
+{
+  "id": 530,
+  "url": "https://benyehuda.org/author/530",
+  "metadata": {
+    "name": "תרצה אתר",
+    "sort_name": "אתר, תרצה",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1941",
+      "death_year": "1977"
+    },
+    "bio_snippet": "משוררת, פזמונאית, סופרת, זמרת, שחקנית תיאטרון ומתרגמת ישראלית. \"אֲתָר\" הוא שם העט שלה – קיצור שם נעוריה, אלתרמן.\r\n\r\n",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama",
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 95578
+  },
+  "texts": {
+    "author": [
+      12948,
+      12949,
+      13248,
+      13351,
+      13360,
+      13361,
+      13362,
+      13363,
+      13364,
+      13365,
+      13366,
+      13367,
+      13423,
+      13424,
+      13425
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      29756
+    ]
+  }
+}

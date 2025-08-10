@@ -1,0 +1,39 @@
+{
+  "id": 563,
+  "url": "https://benyehuda.org/author/563",
+  "metadata": {
+    "name": "ז'וזה מריה דה ארדיה",
+    "sort_name": "ארדיה, ז'וזה מריה דה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1842",
+      "death_year": "1905"
+    },
+    "bio_snippet": "משורר צרפתי ממוצא קובני. חבר באסכולת הפרנאס.",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 506
+  },
+  "texts": {
+    "author": [
+      13613
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

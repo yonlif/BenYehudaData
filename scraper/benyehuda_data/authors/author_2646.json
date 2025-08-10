@@ -1,0 +1,46 @@
+{
+  "id": 2646,
+  "url": "https://benyehuda.org/author/2646",
+  "metadata": {
+    "name": "מנחם זולאי",
+    "sort_name": "זולאי, מנחם",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1901",
+      "death_year": "1954"
+    },
+    "bio_snippet": "חוקר הפיוט והשירה העברית בימי הביניים. היה מראשוני חוקרי הפיוט הארץ־ישראלי הקדום, בעיקר על בסיס ממצאי הגניזה הקהירית, והניח בכך את היסודות לחקר הפיוט. התמקד במיוחד בפיוטי יניי, שעליהם כתב את ספרו הגדול \"פיוטי יניי\" (1938)",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry",
+      "reference"
+    ],
+    "impressions_count": 393
+  },
+  "texts": {
+    "author": [
+      56548,
+      56620,
+      56878,
+      56997,
+      57090
+    ],
+    "editor": [
+      51138
+    ],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

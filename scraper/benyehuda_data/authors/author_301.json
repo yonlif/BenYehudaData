@@ -1,0 +1,39 @@
+{
+  "id": 301,
+  "url": "https://benyehuda.org/author/301",
+  "metadata": {
+    "name": "מולייר",
+    "sort_name": "מולייר",
+    "other_designations": "ז'אן-בטיסט פּוֹקלֶן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1622",
+      "death_year": "1673"
+    },
+    "bio_snippet": "ז'אן-בטיסט פּוֹקלֶן, שנודע כמוֹלְיֵיר ‏, היה מחזאי, במאי ושחקן צרפתי. ",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 5431
+  },
+  "texts": {
+    "author": [
+      4512
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 332,
+  "url": "https://benyehuda.org/author/332",
+  "metadata": {
+    "name": "מארק טוויין",
+    "sort_name": "טוויין, מארק",
+    "other_designations": "סמואל לנגהורן קלמנס, מרק טווין, מרק טויין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1835",
+      "death_year": "1910"
+    },
+    "bio_snippet": "היה סופר והומוריסט אמריקני שיצירותיו נודעות בהומור הציני שלהן, בסאטירה החברתית החריפה, בתיאור הריאליסטי של מקומות ושפה ובהתנגדות לצביעות ולדיכוי.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 17681
+  },
+  "texts": {
+    "author": [
+      3274,
+      6848,
+      8761,
+      24243,
+      45178,
+      52870
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1663,
+  "url": "https://benyehuda.org/author/1663",
+  "metadata": {
+    "name": "בן ג'ונסון",
+    "sort_name": "ג'ונסון, בן ",
+    "other_designations": "בנג'מין ג'ונסון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1572",
+      "death_year": "1637"
+    },
+    "bio_snippet": "מחזאי ומשורר אנגלי מתקופת הרנסאנס. התפרסם במחזותיו הסאטיריים, ביניהם \"השועל\"(אנ') ו\"האלכימאי\", באמנותו המלוטשת ובשיריו הלִירִיים. נחשב לאחד המוחות הספרותיים המבריקים של הספרות האנגלית.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 245
+  },
+  "texts": {
+    "author": [
+      34420
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

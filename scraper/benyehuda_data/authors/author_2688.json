@@ -1,0 +1,49 @@
+{
+  "id": 2688,
+  "url": "https://benyehuda.org/author/2688",
+  "metadata": {
+    "name": "שמעון ברנשטיין",
+    "sort_name": "ברנשטיין, שמעון ",
+    "other_designations": "שמעון ברנשטין; שמעון גרשון ברנשטיין",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1884",
+      "death_year": "1962"
+    },
+    "bio_snippet": " חוקר ספרות ושירת ימי הביניים, סופר, עורך ופעיל ציוני",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 1787
+  },
+  "texts": {
+    "author": [
+      50078,
+      50079,
+      50080,
+      50081,
+      50082,
+      50083,
+      50084,
+      50085,
+      50086,
+      50087,
+      50088
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

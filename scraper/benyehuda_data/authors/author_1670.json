@@ -1,0 +1,42 @@
+{
+  "id": 1670,
+  "url": "https://benyehuda.org/author/1670",
+  "metadata": {
+    "name": "ג'ורג' הרברט",
+    "sort_name": "הרברט, ג'ורג' ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1593",
+      "death_year": "1633"
+    },
+    "bio_snippet": "משורר, נואם וכומר ולשי, שייך למשוררים המטאפיזיים",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 531
+  },
+  "texts": {
+    "author": [
+      34432,
+      34433,
+      57236,
+      57237
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

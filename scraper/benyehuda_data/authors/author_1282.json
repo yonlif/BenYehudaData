@@ -1,0 +1,62 @@
+{
+  "id": 1282,
+  "url": "https://benyehuda.org/author/1282",
+  "metadata": {
+    "name": "אליעזר קפלן",
+    "sort_name": "קפלן, אליעזר ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1891",
+      "death_year": "1952"
+    },
+    "bio_snippet": "פעיל ציוני, חבר מועצת העיר תל אביב, חבר הנהלת הסוכנות היהודית ומנהל מחלקת הכספים שלה, שר האוצר הראשון של ישראל ושר המסחר והתעשייה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 4096
+  },
+  "texts": {
+    "author": [
+      34699,
+      34700,
+      34701,
+      34704,
+      34705,
+      34706,
+      34707,
+      34708,
+      34709,
+      34710,
+      34711,
+      34712,
+      34713,
+      34719,
+      34720,
+      34721,
+      34722,
+      34723,
+      34749,
+      34750,
+      34751,
+      34752,
+      36667
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2212,
+  "url": "https://benyehuda.org/author/2212",
+  "metadata": {
+    "name": "אליזה אורז'שקובה",
+    "sort_name": "אורז'שקובה, אליזה ",
+    "other_designations": "עליזה אורזשקה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1841",
+      "death_year": "1910"
+    },
+    "bio_snippet": "סופרת ממוצא פולני, אשר הובילה את תנועת הפוזיטיביזם במהלך חלוקת פולין. בשנת 1905, יחד עם הנריק סנקביץ' היא הייתה מועמדת לפרס נובל בספרות",
+    "languages": [
+      "pl"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 622
+  },
+  "texts": {
+    "author": [
+      41593
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

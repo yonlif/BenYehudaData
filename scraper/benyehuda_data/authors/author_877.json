@@ -1,0 +1,39 @@
+{
+  "id": 877,
+  "url": "https://benyehuda.org/author/877",
+  "metadata": {
+    "name": "בנימין אריה הכהן וייס",
+    "sort_name": "וייס, בנימין אריה הכהן",
+    "other_designations": "בנימין אריה וייס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1843",
+      "death_year": "1912"
+    },
+    "bio_snippet": "רבה של קניהניטש בגליציה; אב בית הדין של צ'רנוביץ בירת בוקובינה ורבה של הקהילה האורתודוקסית בעיר \r\n",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 657
+  },
+  "texts": {
+    "author": [
+      25392
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

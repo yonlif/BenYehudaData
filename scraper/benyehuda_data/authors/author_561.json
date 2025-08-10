@@ -1,0 +1,41 @@
+{
+  "id": 561,
+  "url": "https://benyehuda.org/author/561",
+  "metadata": {
+    "name": "אסאיאס טגנר",
+    "sort_name": "טגנר, אסאיאס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1782",
+      "death_year": "1846"
+    },
+    "bio_snippet": "משורר והגמון שוודי.",
+    "languages": [
+      "sv",
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 509
+  },
+  "texts": {
+    "author": [
+      13619,
+      19300
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

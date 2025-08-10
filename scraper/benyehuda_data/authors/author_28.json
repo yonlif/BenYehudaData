@@ -1,0 +1,52 @@
+{
+  "id": 28,
+  "url": "https://benyehuda.org/author/28",
+  "metadata": {
+    "name": "אברהם שוער",
+    "sort_name": "שוער, אברהם",
+    "other_designations": "אברהם סויר (Abraham Soyer)",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1868",
+      "death_year": "1940"
+    },
+    "bio_snippet": "סופר יידיש ועברית, מורה, מרצה וסופר ילדים.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 3778
+  },
+  "texts": {
+    "author": [
+      6606,
+      6643,
+      6676,
+      6711,
+      6741,
+      6779,
+      6808,
+      21512,
+      21513,
+      21521,
+      25510,
+      25511,
+      25512,
+      25513
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

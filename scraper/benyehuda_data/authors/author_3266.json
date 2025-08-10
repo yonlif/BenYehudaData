@@ -1,0 +1,40 @@
+{
+  "id": 3266,
+  "url": "https://benyehuda.org/author/3266",
+  "metadata": {
+    "name": "נילי נוימן",
+    "sort_name": "נוימן, נילי ",
+    "other_designations": "",
+    "intellectual_property": "unknown",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 156
+  },
+  "texts": {
+    "author": [
+      56320,
+      56321
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

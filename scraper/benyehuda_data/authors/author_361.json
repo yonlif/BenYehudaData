@@ -1,0 +1,40 @@
+{
+  "id": 361,
+  "url": "https://benyehuda.org/author/361",
+  "metadata": {
+    "name": "ליאופולד קומפרט",
+    "sort_name": "קומפרט, ליאופולד",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "unknown",
+      "period": null,
+      "birth_year": "1822",
+      "death_year": "1886"
+    },
+    "bio_snippet": "היה סופר אוסטרי. משוייך ל\"סופרי הגטו היהודי\". ",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1232
+  },
+  "texts": {
+    "author": [
+      7591,
+      17950
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

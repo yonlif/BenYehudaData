@@ -1,0 +1,40 @@
+{
+  "id": 617,
+  "url": "https://benyehuda.org/author/617",
+  "metadata": {
+    "name": "אנדרה שנייה",
+    "sort_name": "שנייה, אנדרה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1762",
+      "death_year": "1793"
+    },
+    "bio_snippet": "משורר צרפתי. הוא נחשב למבשר תנועת הרומנטיקה בשירה הצרפתית. הוצא להורג במהפכה הצרפתית.",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 510
+  },
+  "texts": {
+    "author": [
+      17110,
+      17111
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

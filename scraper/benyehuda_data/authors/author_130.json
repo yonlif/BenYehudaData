@@ -1,0 +1,39 @@
+{
+  "id": 130,
+  "url": "https://benyehuda.org/author/130",
+  "metadata": {
+    "name": "יבנאל מטלון",
+    "sort_name": "מטלון, יבנאל",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1919",
+      "death_year": "2008"
+    },
+    "bio_snippet": "שופט של בימ\"ש השלום ברמת גן.\r\n",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 15009
+  },
+  "texts": {
+    "author": [
+      1571
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

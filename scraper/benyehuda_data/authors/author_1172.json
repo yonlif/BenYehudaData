@@ -1,0 +1,39 @@
+{
+  "id": 1172,
+  "url": "https://benyehuda.org/author/1172",
+  "metadata": {
+    "name": "ג'ין לאנג",
+    "sort_name": "לאנג, ג'ין ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1867",
+      "death_year": "1932"
+    },
+    "bio_snippet": "סופרת ילדים ונוער בריטית",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 89
+  },
+  "texts": {
+    "author": [
+      30101
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

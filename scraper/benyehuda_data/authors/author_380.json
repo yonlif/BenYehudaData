@@ -1,0 +1,46 @@
+{
+  "id": 380,
+  "url": "https://benyehuda.org/author/380",
+  "metadata": {
+    "name": "רוברט ברנז",
+    "sort_name": "ברנז, רוברט",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1759",
+      "death_year": "1796"
+    },
+    "bio_snippet": "היה משורר סקוטי, מחלוצי זרם הרומנטיקה באמנות.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1010
+  },
+  "texts": {
+    "author": [
+      8853,
+      13602,
+      13603,
+      58847,
+      58848,
+      58849
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      936
+    ]
+  }
+}

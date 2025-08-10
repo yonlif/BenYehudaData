@@ -1,0 +1,39 @@
+{
+  "id": 384,
+  "url": "https://benyehuda.org/author/384",
+  "metadata": {
+    "name": "חיא",
+    "sort_name": "חיא",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 273
+  },
+  "texts": {
+    "author": [
+      9028
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

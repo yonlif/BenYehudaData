@@ -1,0 +1,39 @@
+{
+  "id": 1263,
+  "url": "https://benyehuda.org/author/1263",
+  "metadata": {
+    "name": "קרל מאי",
+    "sort_name": "מאי, קרל ",
+    "other_designations": "קרל פרידריך, קפיטן רמון דיאז דה לה אסקוסורה, ד' ג'אם,  אלמה פולמר,  ארנסט פון לינדן, הובל־פרנק, קרל הוהנטל, מ' גיזלה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1842",
+      "death_year": "1912"
+    },
+    "bio_snippet": " סופר גרמני",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1845
+  },
+  "texts": {
+    "author": [
+      31040
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

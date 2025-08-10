@@ -1,0 +1,41 @@
+{
+  "id": 637,
+  "url": "https://benyehuda.org/author/637",
+  "metadata": {
+    "name": "גרהרט האופטמן",
+    "sort_name": "האופטמן, גרהרט",
+    "other_designations": "גרהרד האופטמן; גרהרט הויפטמן; גרהרד הויפטמן; גרהארד האופטמן; גרהארד הויפטמן; גרהארט האופטמאן; גרהארט הויפטמן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1862",
+      "death_year": "1946"
+    },
+    "bio_snippet": "סופר ומחזאי גרמני, מן הבולטים שבמחזאי זרם הנטורליזם, זוכה פרס נובל לספרות לשנת 1912.",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "drama",
+      "prose"
+    ],
+    "impressions_count": 1771
+  },
+  "texts": {
+    "author": [
+      17609,
+      17866
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

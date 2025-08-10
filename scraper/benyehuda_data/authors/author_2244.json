@@ -1,0 +1,39 @@
+{
+  "id": 2244,
+  "url": "https://benyehuda.org/author/2244",
+  "metadata": {
+    "name": "אלכסנדר כרמון",
+    "sort_name": "כרמון, אלכסנדר ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1886",
+      "death_year": "1977"
+    },
+    "bio_snippet": "סופר ומחזאי עברי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 164
+  },
+  "texts": {
+    "author": [
+      58052
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

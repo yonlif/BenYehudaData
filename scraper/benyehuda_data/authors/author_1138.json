@@ -1,0 +1,40 @@
+{
+  "id": 1138,
+  "url": "https://benyehuda.org/author/1138",
+  "metadata": {
+    "name": "מלכה שפירא",
+    "sort_name": "שפירא, מלכה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1894",
+      "death_year": "1971"
+    },
+    "bio_snippet": "סופרת חרדית משושלת חסידות קוז'ניץ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 767
+  },
+  "texts": {
+    "author": [
+      29480,
+      29481
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

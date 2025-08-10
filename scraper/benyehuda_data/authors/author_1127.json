@@ -1,0 +1,39 @@
+{
+  "id": 1127,
+  "url": "https://benyehuda.org/author/1127",
+  "metadata": {
+    "name": "ע. הלל",
+    "sort_name": "ע. הלל",
+    "other_designations": "הלל עומר; עי\"ן הלל; ע. הילל; הלל עוגני; הילל עוגני; הלל עמר; הילל עמר",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1926",
+      "death_year": "1990"
+    },
+    "bio_snippet": "סופר, משורר ואדריכל נוף ישראלי.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 1085
+  },
+  "texts": {
+    "author": [
+      29299
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

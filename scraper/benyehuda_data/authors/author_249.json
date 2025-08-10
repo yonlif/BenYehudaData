@@ -1,0 +1,43 @@
+{
+  "id": 249,
+  "url": "https://benyehuda.org/author/249",
+  "metadata": {
+    "name": "אנה אחמטובה",
+    "sort_name": "אחמטובה, אנה",
+    "other_designations": "שמה המקורי: אַנָּה אנדרייבנה גורנקו",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1889",
+      "death_year": "1966"
+    },
+    "bio_snippet": "משוררת רוסייה, מגדולי היוצרים בשפה הרוסית במאה ה-20 ומהבולטים שביוצרי המאה הזו.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 11746
+  },
+  "texts": {
+    "author": [
+      1624,
+      2818,
+      3774,
+      6795,
+      58825
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

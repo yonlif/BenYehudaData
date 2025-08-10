@@ -1,0 +1,39 @@
+{
+  "id": 2768,
+  "url": "https://benyehuda.org/author/2768",
+  "metadata": {
+    "name": "ויליאם דרייפר הרקינס",
+    "sort_name": "הרקינס, ויליאם דרייפר ",
+    "other_designations": "ויליאם הרקינס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1873",
+      "death_year": "1951"
+    },
+    "bio_snippet": "כימאי פיזיקלי אמריקאי, עסק בכימיית פני השטח ובכימייה גרעינית. חקר את מבנה גרעין האטום והיה הראשון שהציע את עקרון ההיתוך הגרעיני, ארבע שנים לפני שז'אן בפטיסט פרין פרסם את התיאוריה שלו בשנים 1919–1920. ממצאיו אפשרו, בין היתר, את פיתוחה של פצצת H",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 126
+  },
+  "texts": {
+    "author": [
+      49398
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

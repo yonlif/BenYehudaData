@@ -1,0 +1,40 @@
+{
+  "id": 955,
+  "url": "https://benyehuda.org/author/955",
+  "metadata": {
+    "name": "ברל שפיר",
+    "sort_name": "שפיר, ברל ",
+    "other_designations": "בערל שאפיר ; דב ברל שפיר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1876",
+      "death_year": "1922"
+    },
+    "bio_snippet": "סופר, מחזאי, משורר ועיתונאי יידי. כתב גם בעברית. עבד בייצור סיגריות ובתיווך. נפטר באודסה ברעב הגדול בתקופת המהפכה הסובייטית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1531
+  },
+  "texts": {
+    "author": [
+      26579,
+      32898
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

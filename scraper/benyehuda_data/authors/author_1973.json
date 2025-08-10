@@ -1,0 +1,50 @@
+{
+  "id": 1973,
+  "url": "https://benyehuda.org/author/1973",
+  "metadata": {
+    "name": "ש. שלום",
+    "sort_name": "שלום, ש.",
+    "other_designations": "ש' שלום; שלום יוסף שפירא",
+    "intellectual_property": "orphan",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1904",
+      "death_year": "1990"
+    },
+    "bio_snippet": " סופר, משורר ומתרגם עברי, חתן פרס ישראל לשירה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 3868
+  },
+  "texts": {
+    "author": [
+      38068,
+      38069,
+      38070,
+      38071,
+      44154,
+      57575,
+      57745,
+      57746,
+      57747
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      44270,
+      49976
+    ]
+  }
+}

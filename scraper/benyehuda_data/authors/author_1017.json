@@ -1,0 +1,82 @@
+{
+  "id": 1017,
+  "url": "https://benyehuda.org/author/1017",
+  "metadata": {
+    "name": "עזרא גולדין",
+    "sort_name": "גולדין, עזרא ",
+    "other_designations": "עזרא בן יצחק גולדין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1868",
+      "death_year": "1915"
+    },
+    "bio_snippet": "סופר ומשורר עברי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 3261
+  },
+  "texts": {
+    "author": [
+      28138,
+      28282,
+      37902,
+      44943,
+      44944,
+      44945,
+      44946,
+      44947,
+      44948,
+      44949,
+      44950,
+      44951,
+      44952,
+      44953,
+      44954,
+      44955,
+      44956,
+      44957,
+      44958,
+      44959,
+      44960,
+      44961,
+      44962,
+      44963,
+      44964,
+      44965,
+      44966,
+      44967,
+      44968,
+      44983,
+      44984,
+      44985,
+      44986,
+      44987,
+      44988,
+      44989,
+      44990,
+      44991,
+      44992,
+      44993,
+      44994,
+      52872
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

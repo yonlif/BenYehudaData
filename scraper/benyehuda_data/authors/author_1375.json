@@ -1,0 +1,40 @@
+{
+  "id": 1375,
+  "url": "https://benyehuda.org/author/1375",
+  "metadata": {
+    "name": "ברנרד גורין",
+    "sort_name": "גורין, ברנרד ",
+    "other_designations": "יצחק חיימוביץ גוידא, יצחק בן חיים גוידא, יצחק גוידא",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1868",
+      "death_year": "1925"
+    },
+    "bio_snippet": "מחזאי, עיתונאי ומתרגם יהודי-אמריקאי ממוצא רוסי, כתב ביידיש",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 385
+  },
+  "texts": {
+    "author": [
+      32458,
+      32459
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

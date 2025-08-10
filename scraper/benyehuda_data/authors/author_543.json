@@ -1,0 +1,39 @@
+{
+  "id": 543,
+  "url": "https://benyehuda.org/author/543",
+  "metadata": {
+    "name": "פומפוניוס מלה",
+    "sort_name": "מלה, פומפוניוס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "ה",
+      "death_year": ""
+    },
+    "bio_snippet": "היה הגאוגרף הרומאי המוקדם ביותר.",
+    "languages": [
+      "la"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 167
+  },
+  "texts": {
+    "author": [
+      18053
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

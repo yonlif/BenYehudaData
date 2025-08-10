@@ -1,0 +1,41 @@
+{
+  "id": 1129,
+  "url": "https://benyehuda.org/author/1129",
+  "metadata": {
+    "name": "חיים גורי",
+    "sort_name": "גורי, חיים",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1923",
+      "death_year": "2018"
+    },
+    "bio_snippet": " משורר, סופר, פזמונאי, עיתונאי וקולנוען ישראלי. היה לוחם ומפקד בפלמ\"ח ונמנה עם משוררי דור תש\"ח. חתן פרס ישראל לשירה לשנת 1988, פרס ביאליק, פרס סוקולוב ופרס ניומן.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 882
+  },
+  "texts": {
+    "author": [
+      29299
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      16421
+    ]
+  }
+}

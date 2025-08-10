@@ -1,0 +1,42 @@
+{
+  "id": 959,
+  "url": "https://benyehuda.org/author/959",
+  "metadata": {
+    "name": "יצחק בן־צבי",
+    "sort_name": "בן־צבי, יצחק ",
+    "other_designations": "שימשלביץ', יצחק השמשי, אבנר, נעמן, י. קטגורי, י. ק-י, עובר דרך, עובר אורח, י. ב.צ., בן צבי, בן-צבי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1884",
+      "death_year": "1963"
+    },
+    "bio_snippet": "נשיאהּ השני של מדינת ישראל, חלוץ בתקופת העלייה השנייה, היסטוריון ומראשי תנועת העבודה בארץ ישראל. בין תפקידיו הציבוריים היה ממייסדי \"פועלי ציון\", יו\"ר הוועד הלאומי, חבר ועד הקהילה בירושלים וחבר הכנסת מטעם מפא\"י. כחוקר עסק בתולדות עם ישראל וארץ ישראל והתמקד בחקר קהילות ישראל השונות, בראשן עדות המזרח. נבחר שלוש פעמים לכהונה כנשיא מדינת ישראל",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "letters"
+    ],
+    "impressions_count": 3216
+  },
+  "texts": {
+    "author": [
+      26607,
+      49202,
+      52889
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

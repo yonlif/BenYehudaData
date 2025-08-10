@@ -1,0 +1,50 @@
+{
+  "id": 1182,
+  "url": "https://benyehuda.org/author/1182",
+  "metadata": {
+    "name": "מנחם פרי",
+    "sort_name": "פרי, מנחם ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1942",
+      "death_year": ""
+    },
+    "bio_snippet": "חוקר תורת הספרות, פרופסור באוניברסיטת תל אביב ועורך ספרותי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 1085
+  },
+  "texts": {
+    "author": [
+      30168,
+      56033,
+      56034,
+      56035,
+      56322,
+      56358,
+      58699,
+      58700
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      56041,
+      56129
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

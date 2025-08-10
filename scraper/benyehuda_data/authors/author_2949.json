@@ -1,0 +1,39 @@
+{
+  "id": 2949,
+  "url": "https://benyehuda.org/author/2949",
+  "metadata": {
+    "name": "חנה בלומה סולץ",
+    "sort_name": "סולץ, חנה בלומה",
+    "other_designations": "חנה־בלומה סולץ; חנה בלומה בת רש\"ל סולץ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": "enlightenment",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "משוררת עברייה מליטא, בין הנשים הבודדות שפרסמו את יצירותיהן בתקופת ההשכלה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 186
+  },
+  "texts": {
+    "author": [
+      53633
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

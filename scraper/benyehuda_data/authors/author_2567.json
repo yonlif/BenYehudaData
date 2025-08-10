@@ -1,0 +1,41 @@
+{
+  "id": 2567,
+  "url": "https://benyehuda.org/author/2567",
+  "metadata": {
+    "name": "מרינה צבטייבה",
+    "sort_name": "צבטייבה, מרינה ",
+    "other_designations": "מרינה איבנובנה צבטייבה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1892",
+      "death_year": "1941"
+    },
+    "bio_snippet": "משוררת וסופרת רוסית. מן החשובות שבמשוררות תור הכסף בשירה הרוסית, ומן הכותבות המקוריות בספרות הרוסית",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 471
+  },
+  "texts": {
+    "author": [
+      46274,
+      46275,
+      46276
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

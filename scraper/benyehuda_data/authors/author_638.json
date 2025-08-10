@@ -1,0 +1,39 @@
+{
+  "id": 638,
+  "url": "https://benyehuda.org/author/638",
+  "metadata": {
+    "name": "לאופולד לעף",
+    "sort_name": "לעף, לאופולד",
+    "other_designations": "ליב לעף; לייבל לעף; יהודה ליב לעף; יהודה ליב לב; לאופולד לב; ליאופולד לעף",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1811",
+      "death_year": "1875"
+    },
+    "bio_snippet": " רב הקהילה היהודית בסגד, תאולוג והיסטוריון הונגרי יליד מורביה, מהבולטים במלומדי חכמת ישראל. במשך מרבית שנותיו היה קרוב לאסכולה הפוזיטיבית-היסטורית, אך בערוב ימיו נטה לרפורמים. הוא היה הרב המשפיע והבולט ביותר בקרב הציבור הנאולוגי בארצו.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 817
+  },
+  "texts": {
+    "author": [
+      17895
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2074,
+  "url": "https://benyehuda.org/author/2074",
+  "metadata": {
+    "name": "שמואל רפאלי",
+    "sort_name": "רפאלי, שמואל ",
+    "other_designations": "שמואל  רפאלוביץ; שמואל בן משה רפאלי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1866",
+      "death_year": "1923"
+    },
+    "bio_snippet": "נומיסמט, סוחר עתיקות, איש ציבור, עורך ועיתונאי ירושלמי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 799
+  },
+  "texts": {
+    "author": [
+      49273
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

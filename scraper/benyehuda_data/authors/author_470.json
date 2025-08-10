@@ -1,0 +1,42 @@
+{
+  "id": 470,
+  "url": "https://benyehuda.org/author/470",
+  "metadata": {
+    "name": "ברוך קימרלינג",
+    "sort_name": "קימרלינג, ברוך",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1939",
+      "death_year": "2007"
+    },
+    "bio_snippet": "סוציולוג. כיהן כפרופסור באוניברסיטה העברית בירושלים, מאבות המחשבה הביקורתית במדעי החברה בישראל; עסק בסוציולוגיה של החברה בישראל, החברה הפלסטינית והסכסוך הישראלי-ערבי.\r\n\r\n",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 20961
+  },
+  "texts": {
+    "author": [
+      15098,
+      52940,
+      53404,
+      57270
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

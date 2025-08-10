@@ -1,0 +1,39 @@
+{
+  "id": 3361,
+  "url": "https://benyehuda.org/author/3361",
+  "metadata": {
+    "name": "אהרן זאב בן ישי",
+    "sort_name": "בן ישי, אהרן זאב ",
+    "other_designations": "א\"ז בן ישי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1902",
+      "death_year": "1977"
+    },
+    "bio_snippet": " סופר, משורר, עיתונאי ועורך עיתונות ישראלי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 26
+  },
+  "texts": {
+    "author": [
+      43988
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

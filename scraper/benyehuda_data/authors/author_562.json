@@ -1,0 +1,45 @@
+{
+  "id": 562,
+  "url": "https://benyehuda.org/author/562",
+  "metadata": {
+    "name": "הנרי וודסוורת' לונגפלו",
+    "sort_name": "לונגפלו, הנרי וודסוורת'",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1807",
+      "death_year": "1882"
+    },
+    "bio_snippet": " משורר אמריקאי פטריוטי. רוב חייו התגורר בקיימברידג' במדינת מסצ'וסטס בבית ששימש בעבר את ג'ורג' וושינגטון.\r\n\r\nעבודתו של לונגפלו הייתה מאוד פופולרית בתקופתו וגם בימינו. שיריו נחשבים רגשניים בלשון פשוטה וברורה. לונגפלו היה משורר נערץ עוד בחייו ויום הולדתו השבעים היה מעין חג לאומי בארצות הברית, שכלל צעדות, נאומים וקריאה משיריו.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 3395
+  },
+  "texts": {
+    "author": [
+      13601,
+      29914,
+      41259,
+      49768,
+      49769,
+      58855,
+      58856
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

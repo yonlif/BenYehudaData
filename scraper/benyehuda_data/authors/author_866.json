@@ -1,0 +1,83 @@
+{
+  "id": 866,
+  "url": "https://benyehuda.org/author/866",
+  "metadata": {
+    "name": "שמעון הלקין",
+    "sort_name": "הלקין, שמעון",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1898",
+      "death_year": "1987"
+    },
+    "bio_snippet": "סופר ומשורר עברי, מתרגם, עורך, מורה וחוקר ספרות.\r\n\r\n",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "drama",
+      "poetry",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 5729
+  },
+  "texts": {
+    "author": [
+      24918,
+      26295,
+      26296,
+      26297,
+      29744,
+      29745,
+      29746,
+      29747,
+      29748,
+      30329,
+      30330,
+      30331,
+      34114,
+      34115,
+      34116,
+      56139
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      40832,
+      41006,
+      41007,
+      41018,
+      41019,
+      41020,
+      41021,
+      41315,
+      41316,
+      41317,
+      41318,
+      41319,
+      41320,
+      41321,
+      41322,
+      41323,
+      41324,
+      44743,
+      56290
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      34920,
+      34921,
+      35281,
+      50881
+    ]
+  }
+}

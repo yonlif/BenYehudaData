@@ -1,0 +1,50 @@
+{
+  "id": 2199,
+  "url": "https://benyehuda.org/author/2199",
+  "metadata": {
+    "name": "ארנסט תומפסון סטון ",
+    "sort_name": "סטון, ארנסט תומפסון ",
+    "other_designations": "ארנסט איבן תומפסון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1860",
+      "death_year": "1946"
+    },
+    "bio_snippet": "סופר קנדי־אמריקאי יליד אנגליה, אמן, חובב טבע, וממייסדי תנועת הצופים של אמריקה",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2100
+  },
+  "texts": {
+    "author": [
+      41442,
+      41443,
+      41444,
+      41445,
+      41446,
+      41447,
+      41448,
+      41449,
+      41450,
+      43454,
+      44817,
+      44818
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

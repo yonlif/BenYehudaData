@@ -1,0 +1,39 @@
+{
+  "id": 2302,
+  "url": "https://benyehuda.org/author/2302",
+  "metadata": {
+    "name": "יהודה מצליח פאדובה",
+    "sort_name": "פאדובה, יהודה מצליח ",
+    "other_designations": "Leon Prospero padova",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "1728"
+    },
+    "bio_snippet": "חי במודנה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 113
+  },
+  "texts": {
+    "author": [
+      40776
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

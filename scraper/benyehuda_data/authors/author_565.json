@@ -1,0 +1,39 @@
+{
+  "id": 565,
+  "url": "https://benyehuda.org/author/565",
+  "metadata": {
+    "name": "האנה אייוויס פרדו",
+    "sort_name": "פרדו, האנה אייוויס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1858",
+      "death_year": "1941"
+    },
+    "bio_snippet": "",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1201
+  },
+  "texts": {
+    "author": [
+      13639
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

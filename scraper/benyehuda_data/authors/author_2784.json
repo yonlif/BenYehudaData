@@ -1,0 +1,39 @@
+{
+  "id": 2784,
+  "url": "https://benyehuda.org/author/2784",
+  "metadata": {
+    "name": "תומס מור",
+    "sort_name": "מור, תומס ",
+    "other_designations": "תומאס מור; תום מור",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1779",
+      "death_year": "1852"
+    },
+    "bio_snippet": "סופר, משורר ופזמונאי אירי שזכה לפרסום בגלל לחניו האיריים. התאמת שירה אנגלית למנגינות איריות ישנות סימנה בתרבות האירית הפופולרית את המעבר מאירית לאנגלית. מבחינה פוליטית, מור הוכר באנגליה כעיתונאי, סופר עבור הוויגים האריסטוקרטיים; באירלנד הוא נחשב לפטריוט קתולי",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 24
+  },
+  "texts": {
+    "author": [
+      1276
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

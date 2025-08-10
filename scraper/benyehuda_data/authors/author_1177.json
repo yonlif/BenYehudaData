@@ -1,0 +1,39 @@
+{
+  "id": 1177,
+  "url": "https://benyehuda.org/author/1177",
+  "metadata": {
+    "name": "יעקב חר\"ש",
+    "sort_name": "חר\"ש, יעקב ",
+    "other_designations": "חרש",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1846",
+      "death_year": "1870"
+    },
+    "bio_snippet": "סופר יידי",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 224
+  },
+  "texts": {
+    "author": [
+      30656
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

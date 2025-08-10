@@ -1,0 +1,40 @@
+{
+  "id": 873,
+  "url": "https://benyehuda.org/author/873",
+  "metadata": {
+    "name": "בר הורוביץ",
+    "sort_name": "הורוביץ, בר",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1895",
+      "death_year": "1942"
+    },
+    "bio_snippet": "משורר, סופר ומסאי ביידיש, רופא. נספה בשואה",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 412
+  },
+  "texts": {
+    "author": [
+      25253,
+      25254
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

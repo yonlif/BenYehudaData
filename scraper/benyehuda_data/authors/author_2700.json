@@ -1,0 +1,41 @@
+{
+  "id": 2700,
+  "url": "https://benyehuda.org/author/2700",
+  "metadata": {
+    "name": "נחמן מברסלב",
+    "sort_name": "מברסלב,  נחמן ",
+    "other_designations": "רבי נחמן מברסלב; נחמן בן שמחה מברסלב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1772",
+      "death_year": "1810"
+    },
+    "bio_snippet": "מייסד חסידות ברסלב והאדמו\"ר היחיד שלה. רבי נחמן היה מורה רוחני מקורי שהדגיש את המכשולים הרבים בדרך לדעת האל ואת חשיבות השמחה, האמונה הפשוטה והתמימות, וכן ההתקשרות לצדיקים ובפרט \"צדיק האמת\". הִרבה למחות על מה שראה כהתמסדות ואובדן הדרך של החסידות ונקלע למחלוקות קשות עם אדמו\"רים אחרים, עקב המקוריוּת והשונוּת בדרך שייסד, וכן סביב טענתו שהוא לבדו \"צדיק האמת\"",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2346
+  },
+  "texts": {
+    "author": [
+      48226
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      53543
+    ]
+  }
+}

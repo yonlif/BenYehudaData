@@ -1,0 +1,39 @@
+{
+  "id": 2296,
+  "url": "https://benyehuda.org/author/2296",
+  "metadata": {
+    "name": "שלמה ניצה",
+    "sort_name": "ניצה, שלמה ",
+    "other_designations": "שלמה ניצא; שלמה בן ישעיה בן אליעזר חיים ניצה; Salomon Nizza",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "רבה של ונציה במאה ה־17 וה־18, לתשובותיו ולהסכמות שנתן היה משקל רב",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 77
+  },
+  "texts": {
+    "author": [
+      40770
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

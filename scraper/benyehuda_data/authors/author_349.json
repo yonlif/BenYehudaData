@@ -1,0 +1,44 @@
+{
+  "id": 349,
+  "url": "https://benyehuda.org/author/349",
+  "metadata": {
+    "name": "ארתור רמבו",
+    "sort_name": "רמבו, ארתור",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1854",
+      "death_year": "1891"
+    },
+    "bio_snippet": "משורר צרפתי",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 2312
+  },
+  "texts": {
+    "author": [
+      7213,
+      51733,
+      54058,
+      54059,
+      54060,
+      54061
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

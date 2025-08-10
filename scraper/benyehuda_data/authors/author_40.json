@@ -1,0 +1,77 @@
+{
+  "id": 40,
+  "url": "https://benyehuda.org/author/40",
+  "metadata": {
+    "name": "קלמן שולמן",
+    "sort_name": "שולמן, קלמן",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1819",
+      "death_year": "1899"
+    },
+    "bio_snippet": "סופר ומתרגם עברי, מאנשי תנועת ההשכלה היהודית בווילנה. ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "letters",
+      "memoir",
+      "poetry",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 13954
+  },
+  "texts": {
+    "author": [
+      162,
+      623,
+      1140,
+      1764,
+      2082,
+      2394,
+      2709,
+      3022,
+      3347,
+      3663,
+      3988,
+      4299,
+      4626,
+      4999,
+      9019,
+      14017,
+      14034,
+      15025,
+      15101,
+      15693,
+      15996,
+      16017,
+      16018,
+      16162,
+      45929
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      1798,
+      2119,
+      2746,
+      7660,
+      8627,
+      11124
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      4422
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3504,
+  "url": "https://benyehuda.org/author/3504",
+  "metadata": {
+    "name": "ורדה הורביץ",
+    "sort_name": "הורביץ, ורדה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "-27 במרץ 1957",
+      "death_year": ""
+    },
+    "bio_snippet": "עיתונאית וסופרת ישראלית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 87
+  },
+  "texts": {
+    "author": [
+      58285
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

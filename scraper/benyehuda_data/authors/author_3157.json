@@ -1,0 +1,49 @@
+{
+  "id": 3157,
+  "url": "https://benyehuda.org/author/3157",
+  "metadata": {
+    "name": "שמואל רובינוביץ",
+    "sort_name": "רובינוביץ, שמואל ",
+    "other_designations": "הרמתי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1911",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד פולין. כתב שירה שהתפרסמה בכתבי עת עבריים. נהרג במלחמת העצמאות בהתקפה על רמת הכובש. הניח בעזבונו שירים שיצאו לאחר מותו: \"תחת הרותם\" [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 510
+  },
+  "texts": {
+    "author": [
+      54596,
+      54597,
+      54598,
+      54599,
+      54600,
+      54601,
+      54602,
+      54603,
+      54604,
+      54605,
+      54606
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

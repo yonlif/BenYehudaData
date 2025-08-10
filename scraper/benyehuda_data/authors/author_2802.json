@@ -1,0 +1,40 @@
+{
+  "id": 2802,
+  "url": "https://benyehuda.org/author/2802",
+  "metadata": {
+    "name": "שולמית לסקוב",
+    "sort_name": "לסקוב, שולמית ",
+    "other_designations": "שולמית (סולה) לסקוב",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1916",
+      "death_year": "2016"
+    },
+    "bio_snippet": "אשת חינוך, היסטוריונית ומחברת ספרי תעודה ישראלית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 598
+  },
+  "texts": {
+    "author": [
+      50051,
+      50052
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

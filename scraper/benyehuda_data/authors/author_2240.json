@@ -1,0 +1,39 @@
+{
+  "id": 2240,
+  "url": "https://benyehuda.org/author/2240",
+  "metadata": {
+    "name": "עמנואל בן שלמה מן האדומים",
+    "sort_name": "מן האדומים, עמנואל בן שלמה ",
+    "other_designations": "עמנואל בן שלמה די רוסי; dei Rossi",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "מרומא, חי במחצית השנייה של המאה ה־13",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 134
+  },
+  "texts": {
+    "author": [
+      40719
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

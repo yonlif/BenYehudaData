@@ -1,0 +1,39 @@
+{
+  "id": 2615,
+  "url": "https://benyehuda.org/author/2615",
+  "metadata": {
+    "name": "מתתיהו מיזס",
+    "sort_name": "מיזס, מתתיה",
+    "other_designations": "מתתיהו מיזיש; מתיאס מיזס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1885",
+      "death_year": "1945"
+    },
+    "bio_snippet": "פילולוג פולני, היסטוריון תרבותי השוואתי ועיתונאי. נספה בשואה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 149
+  },
+  "texts": {
+    "author": [
+      53396
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 266,
+  "url": "https://benyehuda.org/author/266",
+  "metadata": {
+    "name": "אוסקר ויילד",
+    "sort_name": "ויילד, אוסקר",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1854",
+      "death_year": "1900"
+    },
+    "bio_snippet": "היה סופר, משורר, עיתונאי, מבקר אופנה ומחזאי אירי.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "article",
+      "drama",
+      "prose"
+    ],
+    "impressions_count": 21647
+  },
+  "texts": {
+    "author": [
+      2088,
+      4232,
+      4329,
+      5916,
+      6949,
+      45946
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

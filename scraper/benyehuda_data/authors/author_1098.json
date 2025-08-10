@@ -1,0 +1,69 @@
+{
+  "id": 1098,
+  "url": "https://benyehuda.org/author/1098",
+  "metadata": {
+    "name": "משה רון",
+    "sort_name": "רון, משה",
+    "other_designations": "משה (מוקי) רון",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1945",
+      "death_year": ""
+    },
+    "bio_snippet": "פרופסור בדימוס לספרות אנגלית ולספרות השוואתית באוניברסיטה העברית, מתרגם ועורך ספרותי ישראלי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 345
+  },
+  "texts": {
+    "author": [
+      29107
+    ],
+    "editor": [
+      28747,
+      28748,
+      28749,
+      28750,
+      28751,
+      28752,
+      28753,
+      28754,
+      28755,
+      28756,
+      28909,
+      28910,
+      28911,
+      28912,
+      28913,
+      28914,
+      28915,
+      28916,
+      28917,
+      28918,
+      28972,
+      28973,
+      28974,
+      28975,
+      28976,
+      28977,
+      28978,
+      28979,
+      28980
+    ],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

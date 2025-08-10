@@ -1,0 +1,45 @@
+{
+  "id": 596,
+  "url": "https://benyehuda.org/author/596",
+  "metadata": {
+    "name": "ישראל נג'ארה",
+    "sort_name": "נג'ארה, ישראל",
+    "other_designations": "ישראל נג'רה; ישראל בן משה נג'ארה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1555",
+      "death_year": "1628"
+    },
+    "bio_snippet": "רב, פרשן ומשורר, מגדולי המשוררים והפייטנים העבריים בכל הזמנים.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1306
+  },
+  "texts": {
+    "author": [
+      38312,
+      38313,
+      38314,
+      38315,
+      38316
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      30400
+    ]
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 1414,
+  "url": "https://benyehuda.org/author/1414",
+  "metadata": {
+    "name": "אנה מרגולין ",
+    "sort_name": "מרגולין, אנה ",
+    "other_designations": "רוזה הרנינג לבנסבוים",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1887",
+      "death_year": "1952"
+    },
+    "bio_snippet": " משוררת יידיש יהודיה־רוסייה־אמריקאית",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 476
+  },
+  "texts": {
+    "author": [
+      37684,
+      37685
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 3434,
+  "url": "https://benyehuda.org/author/3434",
+  "metadata": {
+    "name": "יורם צפריר",
+    "sort_name": "צפריר, יורם ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1938",
+      "death_year": "2015"
+    },
+    "bio_snippet": "פרופסור במכון לארכאולוגיה של האוניברסיטה העברית בירושלים וחתן פרס א.מ.ת לשנת 2014. מאז 2001 היה חבר האקדמיה הלאומית הישראלית למדעים. התחומים העיקריים של פעילותו המדעית היו הארכאולוגיה של ארץ ישראל ומזרח הים התיכון בכלל, בתקופות ההלניסטית, הרומית והביזנטית. תחום נוסף של פעילותו היה הגאוגרפיה ההיסטורית של ארץ ישראל וסביבותיה בתקופות האמורות",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 266
+  },
+  "texts": {
+    "author": [
+      57979,
+      57997,
+      58002
+    ],
+    "editor": [
+      57997,
+      57998
+    ],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

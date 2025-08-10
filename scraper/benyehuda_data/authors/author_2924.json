@@ -1,0 +1,58 @@
+{
+  "id": 2924,
+  "url": "https://benyehuda.org/author/2924",
+  "metadata": {
+    "name": "דוד ליבנה",
+    "sort_name": "ליבנה, דוד ",
+    "other_designations": "דוד לבנה, דויד ליבנה, דוד ליבמן, ד. עמיאב; ד' עמיאב; ד' צפורי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1902",
+      "death_year": "1984"
+    },
+    "bio_snippet": " סופר, משורר, פובליציסט בנושאי כלכלה וחברה, חבר קיבוץ עין־חרוד [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 1791
+  },
+  "texts": {
+    "author": [
+      53302,
+      53303,
+      53304,
+      53305,
+      53306,
+      53307,
+      53308,
+      53309,
+      53310,
+      53311,
+      53312,
+      53313,
+      53314,
+      53315,
+      53316,
+      53317,
+      53318,
+      53319,
+      53320,
+      53321
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

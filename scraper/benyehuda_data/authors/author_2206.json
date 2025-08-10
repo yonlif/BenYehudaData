@@ -1,0 +1,43 @@
+{
+  "id": 2206,
+  "url": "https://benyehuda.org/author/2206",
+  "metadata": {
+    "name": "אריה קרישק",
+    "sort_name": "קרישק, אריה ",
+    "other_designations": "דן בימור",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1952",
+      "death_year": ""
+    },
+    "bio_snippet": "סופר, מחזאי, תסריטאי ועורך ישראלי. שימש כעורך ראשי של \"הוצאת כתר\"",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama",
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 1080
+  },
+  "texts": {
+    "author": [
+      41705,
+      41713,
+      41822
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

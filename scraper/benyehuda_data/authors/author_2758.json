@@ -1,0 +1,39 @@
+{
+  "id": 2758,
+  "url": "https://benyehuda.org/author/2758",
+  "metadata": {
+    "name": "מוריץ לצרוס",
+    "sort_name": "לצרוס, מוריץ ",
+    "other_designations": "משה לצרוס; מוריץ לאצארוס; משה לאצארוס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1824",
+      "death_year": "1903"
+    },
+    "bio_snippet": "פילוסוף, אתנולוג ופסיכולוג יהודי־גרמני, מייסד הפסיכולוגיה הלאומית והפסיכולוגיה ההשוואתית",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 218
+  },
+  "texts": {
+    "author": [
+      49177
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

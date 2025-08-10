@@ -1,0 +1,69 @@
+{
+  "id": 439,
+  "url": "https://benyehuda.org/author/439",
+  "metadata": {
+    "name": "שמעון דובנוב",
+    "sort_name": "דובנוב, שמעון",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1860",
+      "death_year": "1941"
+    },
+    "bio_snippet": "סופר והיסטוריון יהודי שפעל ברוסיה, בגרמניה ובארצות הבלטיות, ממקימי התנועה האוטונומיסטית היהודית.",
+    "languages": [
+      "de",
+      "he",
+      "ru"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 65863
+  },
+  "texts": {
+    "author": [
+      10868,
+      16644,
+      16645,
+      17237,
+      17461,
+      17794,
+      17931,
+      17988,
+      18530,
+      20308,
+      20310,
+      21438,
+      24512,
+      33340,
+      43507,
+      43508,
+      43509,
+      43510,
+      43511,
+      43512,
+      43513,
+      43514,
+      43515,
+      43516,
+      43517,
+      43518,
+      43519,
+      57449
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

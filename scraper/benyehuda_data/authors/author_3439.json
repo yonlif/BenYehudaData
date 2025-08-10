@@ -1,0 +1,39 @@
+{
+  "id": 3439,
+  "url": "https://benyehuda.org/author/3439",
+  "metadata": {
+    "name": "שרה טיזדייל",
+    "sort_name": "טיזדייל, שרה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1884",
+      "death_year": "1933"
+    },
+    "bio_snippet": "משוררת לירית אמריקאית",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 34
+  },
+  "texts": {
+    "author": [
+      19296
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

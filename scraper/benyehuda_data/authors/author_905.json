@@ -1,0 +1,39 @@
+{
+  "id": 905,
+  "url": "https://benyehuda.org/author/905",
+  "metadata": {
+    "name": "שלמה אביגדורי",
+    "sort_name": "אביגדורי, שלמה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1915",
+      "death_year": "1951"
+    },
+    "bio_snippet": "מזכיר רפואי בבית החולים בטבריה ובקופת חולים עממית, עיתונאי וסופר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 796
+  },
+  "texts": {
+    "author": [
+      50471
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": 5,
+  "url": "https://benyehuda.org/author/5",
+  "metadata": {
+    "name": "אברהם סולודר",
+    "sort_name": "סולודר, אברהם",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1890",
+      "death_year": "1936"
+    },
+    "bio_snippet": "משורר, מחנך ומתרגם.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 7177
+  },
+  "texts": {
+    "author": [
+      226,
+      710,
+      1246,
+      1574,
+      2681,
+      3028,
+      3635,
+      3957,
+      4271,
+      4597,
+      4970,
+      5616,
+      5940,
+      6261,
+      6582,
+      6919,
+      7243,
+      7572,
+      7888,
+      8211,
+      8533,
+      19313,
+      28167,
+      28168,
+      28169,
+      28170,
+      28171,
+      28172,
+      28173,
+      31577,
+      31578,
+      31579,
+      31580,
+      31581,
+      31582,
+      31583,
+      31584,
+      31585,
+      31586,
+      31587,
+      31639,
+      31640,
+      31641,
+      31642,
+      31643,
+      31644,
+      31645,
+      31646,
+      31647,
+      31648,
+      31649
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      17780,
+      19328
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

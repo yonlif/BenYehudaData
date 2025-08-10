@@ -1,0 +1,39 @@
+{
+  "id": 2031,
+  "url": "https://benyehuda.org/author/2031",
+  "metadata": {
+    "name": "משה בר שבתי",
+    "sort_name": "בר שבתי, משה ",
+    "other_designations": "משה בר־שבתי; משה בר-שבתי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "המחצית השניה של המאה ה־11",
+      "death_year": ""
+    },
+    "bio_snippet": "פייטן, חי ברומא במחצית השנייה של המאה ה-11",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 116
+  },
+  "texts": {
+    "author": [
+      38415
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

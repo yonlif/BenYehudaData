@@ -1,0 +1,39 @@
+{
+  "id": 1362,
+  "url": "https://benyehuda.org/author/1362",
+  "metadata": {
+    "name": "חיים זאב הירשברג",
+    "sort_name": "הירשברג, חיים זאב ",
+    "other_designations": "יואכים וילהלם",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1903",
+      "death_year": "1976"
+    },
+    "bio_snippet": "רב, היסטוריון ומזרחן, גדול חוקריה של יהדות צפון אפריקה בדור הראשון שלאחר קום המדינה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 425
+  },
+  "texts": {
+    "author": [
+      32105
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

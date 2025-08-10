@@ -1,0 +1,48 @@
+{
+  "id": 2347,
+  "url": "https://benyehuda.org/author/2347",
+  "metadata": {
+    "name": "הלל זלטופולסקי",
+    "sort_name": "זלטופולסקי, הלל ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1868",
+      "death_year": "1932"
+    },
+    "bio_snippet": " איש עסקים, פעיל ציוני ותרבותי, נדבן וסופר יהודי. מהפעילים והתומכים של מפעלי תרבות רבים, בהם אגודת חובבי שפת עבר (לימים: תרבות) וקרן היסוד. נרצח בפריז על ידי עובד בכיר שלו לשעבר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 1135
+  },
+  "texts": {
+    "author": [
+      56008,
+      56009,
+      56010,
+      56011,
+      56121,
+      56122,
+      56123,
+      56124
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      42550
+    ]
+  }
+}

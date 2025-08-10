@@ -1,0 +1,39 @@
+{
+  "id": 3297,
+  "url": "https://benyehuda.org/author/3297",
+  "metadata": {
+    "name": "אסתר שומיאצר־הירשביין",
+    "sort_name": "שומיאצר־הירשביין, אסתר ",
+    "other_designations": "אסתר שומיאצר",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1896",
+      "death_year": "1985"
+    },
+    "bio_snippet": "משוררת ותסריטאית ביידיש, ילידת בלארוס, התגוררה בארצות הברית ובקנדה",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 71
+  },
+  "texts": {
+    "author": [
+      56099
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

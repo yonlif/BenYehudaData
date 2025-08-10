@@ -1,0 +1,39 @@
+{
+  "id": 1204,
+  "url": "https://benyehuda.org/author/1204",
+  "metadata": {
+    "name": "מאיר גרונולד ",
+    "sort_name": "גרונולד, מאיר ",
+    "other_designations": "מקס גרונולד, מאיר גרונוולד, גרונוואלד, גרינוואלד, גרינולד, גרינוולד",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1871",
+      "death_year": "1953"
+    },
+    "bio_snippet": "רב, חוקר היסטוריה ואתנוגרפיה יהודית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 205
+  },
+  "texts": {
+    "author": [
+      41605
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": 171,
+  "url": "https://benyehuda.org/author/171",
+  "metadata": {
+    "name": "חיים אריה זוטא",
+    "sort_name": "זוטא, חיים אריה",
+    "other_designations": "חיים אריה לייב זוטא ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1868",
+      "death_year": "1939"
+    },
+    "bio_snippet": "סופר ומחנך עברי, מראשוני \"החדר המתוקן\" ברוסיה, מנהל בית הספר למל ומנהל בית הספר העברי הראשון בירושלים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 12311
+  },
+  "texts": {
+    "author": [
+      1149,
+      1403,
+      1474,
+      1773,
+      2093,
+      2404,
+      5607,
+      9419,
+      18462,
+      18514,
+      20416,
+      33646,
+      44819,
+      44820,
+      49849,
+      53483
+    ],
+    "editor": [
+      35854,
+      35855,
+      35856,
+      35857,
+      35858,
+      35859,
+      35860,
+      35861,
+      35862,
+      35863,
+      35864,
+      35865,
+      35866,
+      35867,
+      35868,
+      35869,
+      35870,
+      35871,
+      35872,
+      35873,
+      35874,
+      35875,
+      35876,
+      35877,
+      35878,
+      35879,
+      35880,
+      35881
+    ],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": 882,
+  "url": "https://benyehuda.org/author/882",
+  "metadata": {
+    "name": "צבי אור־חוף",
+    "sort_name": "אור־חוף, צבי ",
+    "other_designations": "צבי אורחוב; אור-חוף; אור חוף",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1902",
+      "death_year": "1979"
+    },
+    "bio_snippet": "היה בגדודו של טרומפלדור, נער סיפון בצעירותו, חבר בחברת \"דן\", סופר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 3045
+  },
+  "texts": {
+    "author": [
+      25446,
+      28240,
+      28241,
+      28242,
+      28243,
+      28244,
+      28245,
+      28318,
+      28319,
+      28320
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

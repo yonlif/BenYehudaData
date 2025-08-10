@@ -1,0 +1,39 @@
+{
+  "id": 2829,
+  "url": "https://benyehuda.org/author/2829",
+  "metadata": {
+    "name": "משה ברזילי",
+    "sort_name": "ברזילי, משה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1916",
+      "death_year": "2004"
+    },
+    "bio_snippet": "מהנדס, עובד חברת סולל־בונה [מתוך זיכרונותיו]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 1210
+  },
+  "texts": {
+    "author": [
+      50472
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

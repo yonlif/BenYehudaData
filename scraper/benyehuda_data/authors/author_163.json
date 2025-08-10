@@ -1,0 +1,54 @@
+{
+  "id": 163,
+  "url": "https://benyehuda.org/author/163",
+  "metadata": {
+    "name": "פסח קפלן",
+    "sort_name": "קפלן, פסח",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1870",
+      "death_year": "1943"
+    },
+    "bio_snippet": "סופר, משורר, מתרגם ועיתונאי עברי ויידי.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "drama",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 2823
+  },
+  "texts": {
+    "author": [
+      779,
+      1285,
+      2419,
+      2733,
+      3051,
+      3371,
+      7569,
+      7626,
+      7654
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      1599,
+      7591,
+      48019
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1031,
+  "url": "https://benyehuda.org/author/1031",
+  "metadata": {
+    "name": "נעמי סמילנסקי",
+    "sort_name": "סמילנסקי, נעמי ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1916",
+      "death_year": "2016"
+    },
+    "bio_snippet": "ציירת, תחריטאית, מאיירת וסופרת ישראלית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "letters",
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 6712
+  },
+  "texts": {
+    "author": [
+      28860,
+      28861,
+      28862,
+      28863,
+      28864,
+      28871,
+      28876,
+      28877,
+      28880,
+      28898,
+      28899,
+      28900,
+      28903,
+      28906
+    ],
+    "editor": [],
+    "illustrator": [
+      28199,
+      28200,
+      28984,
+      36138,
+      57626,
+      57627
+    ],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

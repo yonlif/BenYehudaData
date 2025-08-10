@@ -1,0 +1,39 @@
+{
+  "id": 200,
+  "url": "https://benyehuda.org/author/200",
+  "metadata": {
+    "name": "יוסף קמחי",
+    "sort_name": "קמחי, יוסף",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1105",
+      "death_year": "1170"
+    },
+    "bio_snippet": "היה בלשן ופרשן מקרא יהודי-צרפתי.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 576
+  },
+  "texts": {
+    "author": [
+      351
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 3337,
+  "url": "https://benyehuda.org/author/3337",
+  "metadata": {
+    "name": "שרון שחם",
+    "sort_name": "שחם, שרון",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1965",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 125
+  },
+  "texts": {
+    "author": [
+      56377,
+      56378
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 331,
+  "url": "https://benyehuda.org/author/331",
+  "metadata": {
+    "name": "ג'ויס קילמר",
+    "sort_name": "קילמר, ג'ויס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1886",
+      "death_year": "1918"
+    },
+    "bio_snippet": "סופר ומשורר אמריקאי.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 610
+  },
+  "texts": {
+    "author": [
+      6820
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

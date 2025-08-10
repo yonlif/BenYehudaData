@@ -1,0 +1,39 @@
+{
+  "id": 2094,
+  "url": "https://benyehuda.org/author/2094",
+  "metadata": {
+    "name": "איטה ילין",
+    "sort_name": "ילין, איטה ",
+    "other_designations": "אטה ילין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": "revival",
+      "birth_year": "1868",
+      "death_year": "1943"
+    },
+    "bio_snippet": "מאנשי העלייה הראשונה, ממייסדי בית החולים עזרת נשים ופעילה במוסדות בני ברית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 2067
+  },
+  "texts": {
+    "author": [
+      40059
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

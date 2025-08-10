@@ -1,0 +1,39 @@
+{
+  "id": 2797,
+  "url": "https://benyehuda.org/author/2797",
+  "metadata": {
+    "name": "יפתח אלוני",
+    "sort_name": "אלוני, יפתח ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1955",
+      "death_year": ""
+    },
+    "bio_snippet": "סופר, משורר ואדריכל ישראלי; מייסד ועורך ראשי של \"פרויקט הסיפור הקצר - מעבורת\". מייסד ועורך של \"אפיק - ספרות ישראלית\"",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 81
+  },
+  "texts": {
+    "author": [
+      50044
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

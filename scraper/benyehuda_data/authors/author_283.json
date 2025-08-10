@@ -1,0 +1,39 @@
+{
+  "id": 283,
+  "url": "https://benyehuda.org/author/283",
+  "metadata": {
+    "name": "השאם אבן עבד אל מאלכ",
+    "sort_name": "מאלכ, השאם אבן עבד אל",
+    "other_designations": " Hisham ibn Abd al-Malik ibn Marwan",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "691",
+      "death_year": "743"
+    },
+    "bio_snippet": "היה הח'ליפה העשירי בשושלת בית אומיה.",
+    "languages": [
+      "ar"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 9831
+  },
+  "texts": {
+    "author": [
+      3021
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

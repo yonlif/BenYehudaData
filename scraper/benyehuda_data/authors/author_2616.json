@@ -1,0 +1,41 @@
+{
+  "id": 2616,
+  "url": "https://benyehuda.org/author/2616",
+  "metadata": {
+    "name": "יוסף עזריהו ",
+    "sort_name": "עזריהו, יוסף ",
+    "other_designations": "יוסף עזריהו (אוזרקובסקי) ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1873",
+      "death_year": "1945"
+    },
+    "bio_snippet": "מורה ופעיל ציוני, ממייסדי תל אביב. ערך עם אחרים תוכנית לימודים שיטתית ששימשה את כלל בתי הספר היסודיים בארץ ישראל, ועל בסיסה נבנתה תוכנית הלימודים הרשמית לבתי ספר עממיים; מנהל בית הספר הריאלי בחיפה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 612
+  },
+  "texts": {
+    "author": [
+      56224,
+      56471
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2878,
+  "url": "https://benyehuda.org/author/2878",
+  "metadata": {
+    "name": "ניקולאי נקראסוב",
+    "sort_name": "נקראסוב, ניקולאי ",
+    "other_designations": "ניקולאי אלכסייביץ' נקראסוב; ניקולאי אלכסייביץ נקראסוב;  ניקוליי אלכסייביץ נקראסוב; ניקולאי אלכסייביץ' נקרסוב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1821",
+      "death_year": "1878"
+    },
+    "bio_snippet": "משורר, סופר, עורך, מבקר ומו\"ל רוסי",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 155
+  },
+  "texts": {
+    "author": [
+      51798,
+      58743,
+      58744
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": 2274,
+  "url": "https://benyehuda.org/author/2274",
+  "metadata": {
+    "name": "עבדאללה חנין",
+    "sort_name": "חנין, עבדאללה ",
+    "other_designations": "עבדאללה בן כצ'יר חנין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "?",
+      "death_year": "1859"
+    },
+    "bio_snippet": "פייטן, איש בגדד, חי ופעל במאה ה־19",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 2181
+  },
+  "texts": {
+    "author": [
+      41911,
+      41912,
+      41913,
+      41914,
+      41915,
+      41916,
+      41917,
+      41918,
+      41919,
+      41920,
+      41921,
+      41922,
+      41923,
+      41924,
+      41925,
+      41926,
+      41927,
+      41928,
+      41929,
+      42062,
+      42063,
+      42064,
+      42065,
+      42066,
+      42067,
+      42068,
+      42069,
+      42070,
+      42071,
+      42072
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

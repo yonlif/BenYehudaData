@@ -1,0 +1,39 @@
+{
+  "id": 740,
+  "url": "https://benyehuda.org/author/740",
+  "metadata": {
+    "name": "ויליאם פרנהוף",
+    "sort_name": "פרנהוף, ויליאם",
+    "other_designations": "וילי פרנהוף",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1897",
+      "death_year": "1955"
+    },
+    "bio_snippet": "בנו של יצחק פרנהוף.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 363
+  },
+  "texts": {
+    "author": [
+      21106
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

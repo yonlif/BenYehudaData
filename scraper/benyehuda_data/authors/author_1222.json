@@ -1,0 +1,43 @@
+{
+  "id": 1222,
+  "url": "https://benyehuda.org/author/1222",
+  "metadata": {
+    "name": "עקיבא אטינגר",
+    "sort_name": "אטינגר, עקיבא ",
+    "other_designations": "עקיבא יעקב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1872",
+      "death_year": "1945"
+    },
+    "bio_snippet": "אגרונום ופעיל ציוני, ממעצבי ההתיישבות היהודית בארץ ישראל, כיהן כמנהל מחלקת ההתיישבות בסוכנות היהודית",
+    "languages": [
+      "he",
+      "en"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 1574
+  },
+  "texts": {
+    "author": [
+      30649,
+      31531
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      53002
+    ]
+  }
+}

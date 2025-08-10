@@ -1,0 +1,52 @@
+{
+  "id": 1433,
+  "url": "https://benyehuda.org/author/1433",
+  "metadata": {
+    "name": "שלום בן ברוך",
+    "sort_name": "בן ברוך, שלום ",
+    "other_designations": "שלום בן־ברוך, שלום בן-ברוך, שלום שווארץ, שלום שורץ, שלום שוורץ",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1886",
+      "death_year": "1965"
+    },
+    "bio_snippet": "עיתונאי, סופר ועורך",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "fables",
+      "reference"
+    ],
+    "impressions_count": 1720
+  },
+  "texts": {
+    "author": [
+      33229,
+      33233,
+      33238,
+      34171
+    ],
+    "editor": [
+      33230,
+      33231,
+      33232,
+      33234,
+      33235,
+      33236,
+      33237
+    ],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

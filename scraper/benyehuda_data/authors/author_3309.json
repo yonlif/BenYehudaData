@@ -1,0 +1,39 @@
+{
+  "id": 3309,
+  "url": "https://benyehuda.org/author/3309",
+  "metadata": {
+    "name": "פרץ־דרור בנאי",
+    "sort_name": "בנאי, פרץ־דרור ",
+    "other_designations": "פרץ בנאי; פרץ דרור בנאי; פרץ-דרור בנאי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1947",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר ומתרגם ישראלי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 81
+  },
+  "texts": {
+    "author": [
+      56362
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

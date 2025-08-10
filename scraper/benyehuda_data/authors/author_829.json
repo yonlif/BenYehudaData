@@ -1,0 +1,39 @@
+{
+  "id": 829,
+  "url": "https://benyehuda.org/author/829",
+  "metadata": {
+    "name": "לוי מקלר",
+    "sort_name": "מקלר, לוי",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 457
+  },
+  "texts": {
+    "author": [
+      24088
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

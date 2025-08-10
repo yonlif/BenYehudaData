@@ -1,0 +1,39 @@
+{
+  "id": 1669,
+  "url": "https://benyehuda.org/author/1669",
+  "metadata": {
+    "name": "ג'ון מרסטון ",
+    "sort_name": "מרסטון, ג'ון ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1576",
+      "death_year": "1634"
+    },
+    "bio_snippet": "מחזאי, משורר וסטיריקן אנגלי, בתקופה האליזבטנית המאוחרת וביעקובינית המוקדמת",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 159
+  },
+  "texts": {
+    "author": [
+      34431
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

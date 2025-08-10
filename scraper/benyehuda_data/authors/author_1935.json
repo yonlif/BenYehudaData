@@ -1,0 +1,54 @@
+{
+  "id": 1935,
+  "url": "https://benyehuda.org/author/1935",
+  "metadata": {
+    "name": "יהושע מזח",
+    "sort_name": "מזח, יהושע ",
+    "other_designations": "יהושע בן חיים הלוי מזח; יהושע חאימאָוויטץ סגל; יח\"ס; יהושע מייזאח; שר שלום של ים",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1834",
+      "death_year": "1917"
+    },
+    "bio_snippet": "סופר, עיתונאי, פובליציסט ועורך יהודי רוסי עברי ויידי, איש תנועת ההשכלה היהודית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "drama",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 1715
+  },
+  "texts": {
+    "author": [
+      38135,
+      45896,
+      47854,
+      47855,
+      47856,
+      47857,
+      52616,
+      52627,
+      52899,
+      52900,
+      53495,
+      55039,
+      55040
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

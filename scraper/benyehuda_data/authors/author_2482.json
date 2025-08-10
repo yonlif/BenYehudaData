@@ -1,0 +1,37 @@
+{
+  "id": 2482,
+  "url": "https://benyehuda.org/author/2482",
+  "metadata": {
+    "name": "שיינדל קצנלסון־פיינשטיין",
+    "sort_name": "קצנלסון־פיינשטיין, שיינדל",
+    "other_designations": "שיינדל קצנלסון-פיינשטיין; שיינדל קצנלסון פיינשטיין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "הגננת העברייה הראשונה בעיר לודז', אחותו של המשורר יצחק קצנלסון. נספתה בשואה",
+    "languages": [],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      44982
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

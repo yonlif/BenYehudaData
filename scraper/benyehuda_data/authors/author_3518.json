@@ -1,0 +1,39 @@
+{
+  "id": 3518,
+  "url": "https://benyehuda.org/author/3518",
+  "metadata": {
+    "name": "מנאנדרוס",
+    "sort_name": "מנאנדרוס",
+    "other_designations": "מננדר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "342",
+      "death_year": "291"
+    },
+    "bio_snippet": " מחזאי ביוון העתיקה בתקופה ההלניסטית. נולד באתונה העתיקה ונחשב אבי \"הקומדיה החדשה\", סוג הקומדיה שהתפתח ביוון אחרי הקומדיה הקלאסית",
+    "languages": [
+      "grc"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 35
+  },
+  "texts": {
+    "author": [
+      58657
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

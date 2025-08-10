@@ -1,0 +1,49 @@
+{
+  "id": 803,
+  "url": "https://benyehuda.org/author/803",
+  "metadata": {
+    "name": "יורם קניוק",
+    "sort_name": "קניוק, יורם",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1930",
+      "death_year": "2013"
+    },
+    "bio_snippet": " סופר, צייר ופובליציסט ישראלי. זוכה פרסי ברנר, ביאליק, ספיר ועוד",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 12300
+  },
+  "texts": {
+    "author": [
+      24101,
+      24124,
+      25407,
+      28124,
+      28125,
+      28126,
+      28127
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      29224,
+      29782,
+      34739
+    ]
+  }
+}

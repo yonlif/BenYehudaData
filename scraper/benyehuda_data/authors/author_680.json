@@ -1,0 +1,41 @@
+{
+  "id": 680,
+  "url": "https://benyehuda.org/author/680",
+  "metadata": {
+    "name": "פיוטר ויאזמסקי",
+    "sort_name": "ויאזמסקי, פיוטר",
+    "other_designations": "פטר ויאזמסקי; פטר ויזמסקי; פיוטר ויזמסקי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1792",
+      "death_year": "1878"
+    },
+    "bio_snippet": "משורר וסופר רוסי. ידידו הקרוב של פושקין.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "fables",
+      "poetry"
+    ],
+    "impressions_count": 96
+  },
+  "texts": {
+    "author": [
+      19243,
+      58729
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

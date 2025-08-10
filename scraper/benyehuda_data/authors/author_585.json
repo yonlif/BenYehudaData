@@ -1,0 +1,42 @@
+{
+  "id": 585,
+  "url": "https://benyehuda.org/author/585",
+  "metadata": {
+    "name": "רומן רולאן",
+    "sort_name": "רולאן, רומן",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1866",
+      "death_year": "1944"
+    },
+    "bio_snippet": "סופר, מחזאי וחוקר מוזיקה צרפתי, זוכה פרס נובל לספרות לשנת 1915.",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 6199
+  },
+  "texts": {
+    "author": [
+      15698
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      44394,
+      51244
+    ]
+  }
+}

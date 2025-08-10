@@ -1,0 +1,40 @@
+{
+  "id": 811,
+  "url": "https://benyehuda.org/author/811",
+  "metadata": {
+    "name": "שלמה אבן שושן",
+    "sort_name": "אבן שושן, שלמה",
+    "other_designations": "שלמה אבן-שושן; שלמה אבן־שושן; רוזנשטיין; א' אביובל; א' אבי-יובל; א' רן ",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1910",
+      "death_year": "2004"
+    },
+    "bio_snippet": " מתרגם עברי מיידיש ורוסית, עורך וסופר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 2726
+  },
+  "texts": {
+    "author": [
+      23773,
+      23826
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

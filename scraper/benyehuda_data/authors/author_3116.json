@@ -1,0 +1,46 @@
+{
+  "id": 3116,
+  "url": "https://benyehuda.org/author/3116",
+  "metadata": {
+    "name": "חיים נומיס",
+    "sort_name": "נומיס, חיים ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1920",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד ברלין, נמלט לאנגלייה. עלה ארצה עם אשתו בעלייה ב' ונשלח למעצר בקפריסין, שם שהה תשעה חודשים. נפל במלחמת השחרור בקרב על עיראק אל מנשיה. הניח אישה וילד [על פי \"גווילי אש\"]",
+    "languages": [
+      "he",
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 353
+  },
+  "texts": {
+    "author": [
+      54479,
+      54480,
+      54481,
+      54482,
+      54483,
+      54484,
+      54485
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

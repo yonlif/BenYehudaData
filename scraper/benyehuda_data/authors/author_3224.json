@@ -1,0 +1,40 @@
+{
+  "id": 3224,
+  "url": "https://benyehuda.org/author/3224",
+  "metadata": {
+    "name": "גבריאל פרייל",
+    "sort_name": "פרייל, גבריאל ",
+    "other_designations": "גבריאל יהושע פּרייל ",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1911",
+      "death_year": "1993"
+    },
+    "bio_snippet": " משורר עברי שחי בארצות הברית. פרסם ספר שירה יחיד ביידיש ועסק בתרגום יצירות לאנגלית. חתן פרס ביאליק לספרות יפה לשנת 1992",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 424
+  },
+  "texts": {
+    "author": [
+      56225,
+      56226
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

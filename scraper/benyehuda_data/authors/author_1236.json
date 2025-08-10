@@ -1,0 +1,51 @@
+{
+  "id": 1236,
+  "url": "https://benyehuda.org/author/1236",
+  "metadata": {
+    "name": "חיה תלמי",
+    "sort_name": "תלמי, חיה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 238
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      30693,
+      30694,
+      30695,
+      30696,
+      30697,
+      30698,
+      30699,
+      30700,
+      30701,
+      30702,
+      30703,
+      30704,
+      30705,
+      30706,
+      30707
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

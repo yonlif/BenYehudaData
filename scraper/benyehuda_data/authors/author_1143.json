@@ -1,0 +1,39 @@
+{
+  "id": 1143,
+  "url": "https://benyehuda.org/author/1143",
+  "metadata": {
+    "name": "משה בן־שאול",
+    "sort_name": "בן־שאול, משה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1930",
+      "death_year": "2007"
+    },
+    "bio_snippet": "משורר עברי, מאייר, צייר תפאורות, עיתונאי, סופר, עורך ומתרגם ישראלי; עורך מאזנים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 736
+  },
+  "texts": {
+    "author": [
+      29484
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 473,
+  "url": "https://benyehuda.org/author/473",
+  "metadata": {
+    "name": "טאקיטוס",
+    "sort_name": "טאקיטוס",
+    "other_designations": "טקיטוס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "56",
+      "death_year": "117"
+    },
+    "bio_snippet": "סנאטור רומאי והיסטוריון של האימפריה הרומית. נחשב לאחד מגדולי ההיסטוריונים של העת העתיקה.",
+    "languages": [
+      "la"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 7285
+  },
+  "texts": {
+    "author": [
+      11228,
+      18053
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

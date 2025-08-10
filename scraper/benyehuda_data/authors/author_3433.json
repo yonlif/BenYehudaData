@@ -1,0 +1,39 @@
+{
+  "id": 3433,
+  "url": "https://benyehuda.org/author/3433",
+  "metadata": {
+    "name": "משה שרון",
+    "sort_name": "שרון, משה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1937",
+      "death_year": ""
+    },
+    "bio_snippet": "פרופסור אמריטוס במכון ללימודי אסיה ואפריקה, מייסד ומופקד הקתדרה הראשונה בעולם ללימודים בהאיים באוניברסיטה העברית בירושלים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 166
+  },
+  "texts": {
+    "author": [
+      57409
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

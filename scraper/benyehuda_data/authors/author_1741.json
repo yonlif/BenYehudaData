@@ -1,0 +1,40 @@
+{
+  "id": 1741,
+  "url": "https://benyehuda.org/author/1741",
+  "metadata": {
+    "name": "היינריך לווה",
+    "sort_name": "לווה, היינריך ",
+    "other_designations": "אליקום היינריך לוה; אליקים בן יהודה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1869",
+      "death_year": "1951"
+    },
+    "bio_snippet": "עיתונאי, פובליציסט, פולקלוריסט, בלשן, מזרחן, הוגה דעות וספרן יהודי־גרמני, ממנהיגי התנועה הציונית בגרמניה ומחלוצי הספרנות בארץ ישראל",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 367
+  },
+  "texts": {
+    "author": [
+      34674,
+      34675
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

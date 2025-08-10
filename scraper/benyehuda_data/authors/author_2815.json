@@ -1,0 +1,39 @@
+{
+  "id": 2815,
+  "url": "https://benyehuda.org/author/2815",
+  "metadata": {
+    "name": "טום ג'ונס",
+    "sort_name": "ג'ונס, טום ",
+    "other_designations": "תומס קולינס ג'ונס; תום ג'ונס",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1928",
+      "death_year": "2023"
+    },
+    "bio_snippet": "תמלילן וליבריתן אמריקאי, הידוע בעיקר בזכות מחזות הזמר \"פנטסטיקס\", \"110 בצל\", ו\"אני כן! אני כן!\"",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 100
+  },
+  "texts": {
+    "author": [
+      12588
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

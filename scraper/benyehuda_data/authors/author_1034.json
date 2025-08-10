@@ -1,0 +1,41 @@
+{
+  "id": 1034,
+  "url": "https://benyehuda.org/author/1034",
+  "metadata": {
+    "name": "אביגדור צ'ריקובר",
+    "sort_name": "צ'ריקובר, אביגדור ",
+    "other_designations": "אביגדור ויקטור צ'ריקובר",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1894",
+      "death_year": "1958"
+    },
+    "bio_snippet": "היסטוריון ישראלי, חוקר תקופת הבית השני",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 2205
+  },
+  "texts": {
+    "author": [
+      30447,
+      31276
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

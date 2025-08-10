@@ -1,0 +1,44 @@
+{
+  "id": 1024,
+  "url": "https://benyehuda.org/author/1024",
+  "metadata": {
+    "name": "גדליה אלון",
+    "sort_name": "אלון, גדליה ",
+    "other_designations": "גדליהו רוגוזניצקי; גדליהו אלון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1902",
+      "death_year": "1950"
+    },
+    "bio_snippet": "היסטוריון ישראלי, חתן פרס ישראל במדעי היהדות לשנת תשי\"ג (1953) לאחר מותו. חקר את תולדות ארץ ישראל בתקופה שתחילתה באלכסנדר מוקדון וסיומה בכיבושי הערבים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 2161
+  },
+  "texts": {
+    "author": [
+      37844,
+      55427,
+      55428,
+      55896,
+      56289
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

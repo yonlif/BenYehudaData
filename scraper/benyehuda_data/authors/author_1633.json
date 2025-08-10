@@ -1,0 +1,39 @@
+{
+  "id": 1633,
+  "url": "https://benyehuda.org/author/1633",
+  "metadata": {
+    "name": "משה בן שם טוב אבן חביב",
+    "sort_name": "אבן חביב, משה בן שם טוב ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "המאה ה־15",
+      "death_year": "?"
+    },
+    "bio_snippet": "מדקדק עברי בן המאה החמש עשרה, יליד ליסבון",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "fables"
+    ],
+    "impressions_count": 618
+  },
+  "texts": {
+    "author": [
+      34351
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

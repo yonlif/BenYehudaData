@@ -1,0 +1,52 @@
+{
+  "id": 56,
+  "url": "https://benyehuda.org/author/56",
+  "metadata": {
+    "name": "מאיר דיזנגוף",
+    "sort_name": "דיזנגוף, מאיר",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1861",
+      "death_year": "1936"
+    },
+    "bio_snippet": "ראש העיר הראשון של תל אביב.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 8313
+  },
+  "texts": {
+    "author": [
+      5501,
+      5825,
+      6145,
+      6472,
+      6800,
+      7125,
+      7460,
+      7777,
+      8096
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      11742,
+      26230,
+      42652
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3313,
+  "url": "https://benyehuda.org/author/3313",
+  "metadata": {
+    "name": "כרמית רוזן",
+    "sort_name": "רוזן, כרמית ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1978",
+      "death_year": ""
+    },
+    "bio_snippet": "ביבליותרפיסטית, סופרת, משוררת, מתרגמת וחוקרת. כתביה זיכו אותה בפרסים ספרותיים: זוכת המקום הראשון בתחרות הסיפור הקצר של עיתון \"הארץ\", תשע\"ט; זוכה פעמיים בפרס ליצירה בתחום השירה מאת קרן תרבות חיפה. מלמדת במחלקה לספרות, לשון ואמנויות באוניברסיטה הפתוחה ומנחה סדנאות לכתיבה יוצרת",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 747
+  },
+  "texts": {
+    "author": [
+      56473
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 1091,
+  "url": "https://benyehuda.org/author/1091",
+  "metadata": {
+    "name": "יהודה ארז",
+    "sort_name": "ארז, יהודה",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1900",
+      "death_year": "1983"
+    },
+    "bio_snippet": " חלוץ, סופר, עורך וחוקר של תנועת העבודה וההתיישבות העובדת בארץ ישראל.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 747
+  },
+  "texts": {
+    "author": [
+      4765,
+      41550
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

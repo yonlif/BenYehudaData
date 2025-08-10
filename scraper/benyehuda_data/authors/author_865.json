@@ -1,0 +1,59 @@
+{
+  "id": 865,
+  "url": "https://benyehuda.org/author/865",
+  "metadata": {
+    "name": "אלפונס דודה",
+    "sort_name": "דודה, אלפונס ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1840",
+      "death_year": "1897"
+    },
+    "bio_snippet": "סופר צרפתי",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2212
+  },
+  "texts": {
+    "author": [
+      24803,
+      40617,
+      40618,
+      40619,
+      40620,
+      40621,
+      40622,
+      46828,
+      46829,
+      46830,
+      46831,
+      53622,
+      58962,
+      58963,
+      58964,
+      58965,
+      58966,
+      58967,
+      58968
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      32338
+    ]
+  }
+}

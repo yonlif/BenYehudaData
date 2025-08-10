@@ -1,0 +1,41 @@
+{
+  "id": 555,
+  "url": "https://benyehuda.org/author/555",
+  "metadata": {
+    "name": "חאפז",
+    "sort_name": "חאפז",
+    "other_designations": "שאמס א-דין חאפז; חאפיז",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1325",
+      "death_year": "1389"
+    },
+    "bio_snippet": " משורר פרסי סוּפי.",
+    "languages": [
+      "fa"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 2500
+  },
+  "texts": {
+    "author": [
+      13622,
+      13623,
+      13624
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1668,
+  "url": "https://benyehuda.org/author/1668",
+  "metadata": {
+    "name": "ויליאם דְּרָמוֹנד איש הוֹתוֹרְנְדֶן ",
+    "sort_name": "דרמונד, ויליאם איש הותורנדן ",
+    "other_designations": "ויליאם דרמונד איש הותורנדן; ויליאם דרמונד איש הות'ורנדן; ויליאם דרומונד איש הותורנדן; ויליאם דראמונד איש הותורנדן; איש הותורנדן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1585",
+      "death_year": "1649"
+    },
+    "bio_snippet": "משורר סקוטי",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 124
+  },
+  "texts": {
+    "author": [
+      34441
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

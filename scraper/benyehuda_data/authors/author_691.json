@@ -1,0 +1,40 @@
+{
+  "id": 691,
+  "url": "https://benyehuda.org/author/691",
+  "metadata": {
+    "name": "מיכאיל קוזמין",
+    "sort_name": "קוזמין, מיכאיל",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1872",
+      "death_year": "1936"
+    },
+    "bio_snippet": "סופר רוסי.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 558
+  },
+  "texts": {
+    "author": [
+      18988,
+      18989
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

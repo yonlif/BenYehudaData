@@ -1,0 +1,39 @@
+{
+  "id": 603,
+  "url": "https://benyehuda.org/author/603",
+  "metadata": {
+    "name": "דוד פרנקו מנדס",
+    "sort_name": "מנדס, דוד פרנקו",
+    "other_designations": "מינדיס, מינדיז, דוד חפשי, חופשי ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1713",
+      "death_year": "1792"
+    },
+    "bio_snippet": "משורר ומחזאי עברי יהודי־הולנדי, צאצא למשפחת אנוסים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 1711
+  },
+  "texts": {
+    "author": [
+      17246
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

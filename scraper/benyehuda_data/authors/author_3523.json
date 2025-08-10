@@ -1,0 +1,41 @@
+{
+  "id": 3523,
+  "url": "https://benyehuda.org/author/3523",
+  "metadata": {
+    "name": "אפנאסי פט",
+    "sort_name": "פט, אפנאסי ",
+    "other_designations": "אפנאסי אפנאסייביץ' פט; אפנאסי שנשין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1820",
+      "death_year": "1892"
+    },
+    "bio_snippet": " משורר רוסי ממוצא גרמני, דמות דומיננטית בשירה הרוסית של שלהי המאה ה־19. חלק מחייו שרת כקצין חיל פרשים בצבא הרוסי",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 46
+  },
+  "texts": {
+    "author": [
+      58737,
+      58738,
+      58739
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

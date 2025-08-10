@@ -1,0 +1,42 @@
+{
+  "id": 557,
+  "url": "https://benyehuda.org/author/557",
+  "metadata": {
+    "name": "פרסי ביש שלי",
+    "sort_name": "שלי, פרסי ביש",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1792",
+      "death_year": "1822"
+    },
+    "bio_snippet": "משורר אנגלי, מחשובי המשוררים בתקופה הרומנטית, ובעלה של הסופרת מרי שלי. ",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 2166
+  },
+  "texts": {
+    "author": [
+      13604,
+      58652,
+      58653,
+      58851
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

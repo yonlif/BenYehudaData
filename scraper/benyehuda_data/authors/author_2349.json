@@ -1,0 +1,39 @@
+{
+  "id": 2349,
+  "url": "https://benyehuda.org/author/2349",
+  "metadata": {
+    "name": "שלום יונה טשרנו",
+    "sort_name": "טשרנו, שלום יונה ",
+    "other_designations": "שלום יונה צ'רנו; שלום יונה צ'ארנו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1878",
+      "death_year": "1932"
+    },
+    "bio_snippet": "מורה ומחנך עברי ברוסיה ובליטא, מחלוצי החינוך העברי ברוסיה ובפולין, מנהל בתי ספר וסמינרים למורים ומחברם של ספרי לימוד חלוציים בעברית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 18
+  },
+  "texts": {
+    "author": [
+      57103
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

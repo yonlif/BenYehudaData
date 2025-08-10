@@ -1,0 +1,42 @@
+{
+  "id": 781,
+  "url": "https://benyehuda.org/author/781",
+  "metadata": {
+    "name": "משה שימל",
+    "sort_name": "שימל, משה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1903",
+      "death_year": "1942"
+    },
+    "bio_snippet": "משורר, סופר, מתרגם, מבקר ופובליציסט פולני ויידי. נספה בשואה",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 707
+  },
+  "texts": {
+    "author": [
+      22790,
+      22791,
+      22792,
+      57837
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

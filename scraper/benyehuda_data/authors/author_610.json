@@ -1,0 +1,50 @@
+{
+  "id": 610,
+  "url": "https://benyehuda.org/author/610",
+  "metadata": {
+    "name": "יצחק שמי",
+    "sort_name": "שמי, יצחק",
+    "other_designations": "יצחק סרווי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1888",
+      "death_year": "1949"
+    },
+    "bio_snippet": "סופר עברי, מראשוני הסופרים העבריים החדשים שפעלו בארץ ישראל בימי טרום-המדינה. יצירתו, הייחודית לתקופתה, עסקה בדמויות והתרחשויות המושרשים בהווי יהדות המזרח ובני ערב. שמי פרסם מספר סיפורים קצרים ואת הנובלה \"נקמת האבות\", וכן כתב מספר שירים ומאמרים. מבקר הספרות גרשון שקד, תיאר את הנובלה פרי עטו של שמי \"כאחת מהיצירות החשובות ביותר בספרות העברית\".",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 6890
+  },
+  "texts": {
+    "author": [
+      17196,
+      17197,
+      17198,
+      17199,
+      17200,
+      17201,
+      17202,
+      17203,
+      17204,
+      17205,
+      17206
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

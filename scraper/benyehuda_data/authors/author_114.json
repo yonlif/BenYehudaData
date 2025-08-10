@@ -1,0 +1,45 @@
+{
+  "id": 114,
+  "url": "https://benyehuda.org/author/114",
+  "metadata": {
+    "name": "שרה־פייגה פונר",
+    "sort_name": "פונר, שרה־פייגה",
+    "other_designations": "שרה פייגה פונר; שרה-פייגה פונר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": "enlightenment",
+      "birth_year": "1854",
+      "death_year": "1937"
+    },
+    "bio_snippet": "הסופרת העברייה הראשונה.",
+    "languages": [
+      "he",
+      "yi"
+    ],
+    "genres": [
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 5205
+  },
+  "texts": {
+    "author": [
+      2028,
+      4632,
+      6971,
+      22453,
+      47635
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

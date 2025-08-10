@@ -1,0 +1,39 @@
+{
+  "id": 3525,
+  "url": "https://benyehuda.org/author/3525",
+  "metadata": {
+    "name": "ניקולאי דוברוליובוב",
+    "sort_name": "דוברוליובוב, ניקולאי ",
+    "other_designations": "ניקולאי אלכסנדרוביץ' דוברוליובוב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1836",
+      "death_year": "1861"
+    },
+    "bio_snippet": "מבקר ספרות, פובליציסט ומהפכן רוסי של מחצית המאה ה־19",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 18
+  },
+  "texts": {
+    "author": [
+      58746
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

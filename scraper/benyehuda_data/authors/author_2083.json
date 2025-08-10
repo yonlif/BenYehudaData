@@ -1,0 +1,39 @@
+{
+  "id": 2083,
+  "url": "https://benyehuda.org/author/2083",
+  "metadata": {
+    "name": "יעקב מזא\"ה",
+    "sort_name": "מזא\"ה, יעקב ",
+    "other_designations": "יעקב בן ישעיהו מזא\"ה; סעדיה אהרוני; יעקב הכהן; כוכב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1859",
+      "death_year": "1924"
+    },
+    "bio_snippet": "רב, סופר, פעיל ציוני ומשפטן",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 302
+  },
+  "texts": {
+    "author": [
+      45868
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2586,
+  "url": "https://benyehuda.org/author/2586",
+  "metadata": {
+    "name": "אולגה שץ",
+    "sort_name": "שץ, אולגה ",
+    "other_designations": "אולגה פבזנר שץ",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1881",
+      "death_year": "1969"
+    },
+    "bio_snippet": "דוקטור לתולדות האמנות והפילוסופיה, חוקרת אמנות ומרצה. אשתו של בוריס שץ",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 600
+  },
+  "texts": {
+    "author": [
+      46849
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

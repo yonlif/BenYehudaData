@@ -1,0 +1,39 @@
+{
+  "id": 1139,
+  "url": "https://benyehuda.org/author/1139",
+  "metadata": {
+    "name": "אברהם קאטלאנו",
+    "sort_name": "קאטלאנו, אברהם ",
+    "other_designations": "קאטלאן, קאטאלאנו, קטלנו, קטילנו, קאטילאנו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1590",
+      "death_year": "1650"
+    },
+    "bio_snippet": "רופא ורב בפאדובה בזמן המגיפה של שנת 1630",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 727
+  },
+  "texts": {
+    "author": [
+      29456
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

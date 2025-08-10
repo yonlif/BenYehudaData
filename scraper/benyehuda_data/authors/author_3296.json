@@ -1,0 +1,42 @@
+{
+  "id": 3296,
+  "url": "https://benyehuda.org/author/3296",
+  "metadata": {
+    "name": "יצחק אוורבוך־אורפז",
+    "sort_name": "אוורבוך־אורפז, יצחק ",
+    "other_designations": "יצחק אורפז; יצחק אוורבוך אורפז; יצחק אוורבוך-אורפז",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1921",
+      "death_year": "2015"
+    },
+    "bio_snippet": "סופר ישראלי, חתן פרס ישראל לספרות לשנת 2005",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 362
+  },
+  "texts": {
+    "author": [
+      56034,
+      56076,
+      57169
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

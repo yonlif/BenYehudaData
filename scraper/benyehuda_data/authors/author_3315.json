@@ -1,0 +1,41 @@
+{
+  "id": 3315,
+  "url": "https://benyehuda.org/author/3315",
+  "metadata": {
+    "name": "אייסכילוס",
+    "sort_name": "אייסכילוס",
+    "other_designations": "אַיְסְחוּ'לוֹס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "525",
+      "death_year": "456"
+    },
+    "bio_snippet": "מחזאי יווני",
+    "languages": [
+      "grc"
+    ],
+    "genres": [
+      "drama",
+      "poetry"
+    ],
+    "impressions_count": 189
+  },
+  "texts": {
+    "author": [
+      56219,
+      58661
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": 718,
+  "url": "https://benyehuda.org/author/718",
+  "metadata": {
+    "name": "אורי קיסרי",
+    "sort_name": "קיסרי, אורי",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1901",
+      "death_year": "1979"
+    },
+    "bio_snippet": "עיתונאי ואיש תרבות ישראלי, עורכו הראשון של \"העולם הזה\".",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 4056
+  },
+  "texts": {
+    "author": [
+      20040,
+      20041,
+      20042,
+      20043,
+      20044,
+      20045,
+      20046,
+      20047,
+      20048,
+      24813,
+      28187
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      27986
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

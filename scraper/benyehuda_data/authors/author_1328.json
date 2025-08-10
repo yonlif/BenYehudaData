@@ -1,0 +1,41 @@
+{
+  "id": 1328,
+  "url": "https://benyehuda.org/author/1328",
+  "metadata": {
+    "name": "יוסף כרמין",
+    "sort_name": "כרמין, יוסף ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1895",
+      "death_year": "1961"
+    },
+    "bio_snippet": "איש מדעי הטבע, פרסם מחקרים ומאמרים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 3171
+  },
+  "texts": {
+    "author": [
+      31618,
+      44546
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

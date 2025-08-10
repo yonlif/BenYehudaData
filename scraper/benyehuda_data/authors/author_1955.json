@@ -1,0 +1,55 @@
+{
+  "id": 1955,
+  "url": "https://benyehuda.org/author/1955",
+  "metadata": {
+    "name": "שלמה גולדמן ",
+    "sort_name": "גולדמן, שלמה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1893",
+      "death_year": "1953"
+    },
+    "bio_snippet": "רב, מנהיג קהילתי, פעיל במוסדות ציוניים, כותב מסות וספרי לימוד",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 1736
+  },
+  "texts": {
+    "author": [
+      40832,
+      41006,
+      41007,
+      41018,
+      41019,
+      41020,
+      41021,
+      41315,
+      41316,
+      41317,
+      41318,
+      41319,
+      41320,
+      41321,
+      41322,
+      41323,
+      41324
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

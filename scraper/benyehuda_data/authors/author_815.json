@@ -1,0 +1,57 @@
+{
+  "id": 815,
+  "url": "https://benyehuda.org/author/815",
+  "metadata": {
+    "name": "לוקיוס אנאוס סנקה",
+    "sort_name": "סנקה, לוקיוס אנאוס ",
+    "other_designations": "סנקא; סנקה הצעיר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "3 לפנה״ס",
+      "death_year": "12 באפריל 65"
+    },
+    "bio_snippet": "פילוסוף, מדינאי ומחזאי רומאי ב\"תקופת הכסף\" של הספרות הלטינית",
+    "languages": [
+      "la"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 21782
+  },
+  "texts": {
+    "author": [
+      24293,
+      24294,
+      24295,
+      24296,
+      24297,
+      24298,
+      24299,
+      24320,
+      24321,
+      24322,
+      24323,
+      24324,
+      24370,
+      24373,
+      24398,
+      24400
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      24292
+    ]
+  }
+}

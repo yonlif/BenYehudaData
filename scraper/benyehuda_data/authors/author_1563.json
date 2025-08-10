@@ -1,0 +1,47 @@
+{
+  "id": 1563,
+  "url": "https://benyehuda.org/author/1563",
+  "metadata": {
+    "name": "מנחם מנדל שפירא",
+    "sort_name": "שפירא, מנחם מנדל ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1864",
+      "death_year": "1943"
+    },
+    "bio_snippet": "הבראיסט, מתרגם, חותנו של שלום אש. נספה בטרבלינקה",
+    "languages": [],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 207
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      34117,
+      37574,
+      37575,
+      37576,
+      37579,
+      37580,
+      37581,
+      37583,
+      37584,
+      38384,
+      39146
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

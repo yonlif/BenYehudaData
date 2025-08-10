@@ -1,0 +1,40 @@
+{
+  "id": 679,
+  "url": "https://benyehuda.org/author/679",
+  "metadata": {
+    "name": "אלכסנדר איזמאילוב",
+    "sort_name": "איזמאילוב, אלכסנדר",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1779",
+      "death_year": "1831"
+    },
+    "bio_snippet": "משורר וממשיל רוסי.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "fables"
+    ],
+    "impressions_count": 216
+  },
+  "texts": {
+    "author": [
+      19239,
+      19240
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

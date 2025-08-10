@@ -1,0 +1,75 @@
+{
+  "id": 165,
+  "url": "https://benyehuda.org/author/165",
+  "metadata": {
+    "name": "צבי אלעזר טלר",
+    "sort_name": "טלר, צבי אלעזר",
+    "other_designations": "הירש לזר טלר; צבי אלעזר טלר בן יהודה הלוי; עט־רעל",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1840",
+      "death_year": "1914"
+    },
+    "bio_snippet": "מחנך, סופר ומשורר, עיתונאי ומתרגם עברי; עורך כתב העת הפדגוגי העברי הראשון, \"איתנים\".",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "drama",
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 6179
+  },
+  "texts": {
+    "author": [
+      6220,
+      6540,
+      7202,
+      7527,
+      7849,
+      8168,
+      8492,
+      17929,
+      17930,
+      27864,
+      28104,
+      28105,
+      28106,
+      28107,
+      28108,
+      28109,
+      28110,
+      28111,
+      49797,
+      49798,
+      49799,
+      49800,
+      49801,
+      49802,
+      49803,
+      49804,
+      49805,
+      49806,
+      49807,
+      49808,
+      57512
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      6875,
+      15028
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

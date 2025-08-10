@@ -1,0 +1,43 @@
+{
+  "id": 2983,
+  "url": "https://benyehuda.org/author/2983",
+  "metadata": {
+    "name": "יוסף יחזקאל",
+    "sort_name": "יחזקאל, יוסף ",
+    "other_designations": " יוסף (ג'ו) יחזקאל",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1929",
+      "death_year": "2020"
+    },
+    "bio_snippet": "משורר יליד ארצות הברית, עסק גם בציור ורישום",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 329
+  },
+  "texts": {
+    "author": [
+      54161,
+      54162,
+      54163,
+      54164,
+      54868
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

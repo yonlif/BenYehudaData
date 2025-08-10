@@ -1,0 +1,41 @@
+{
+  "id": 3419,
+  "url": "https://benyehuda.org/author/3419",
+  "metadata": {
+    "name": "אורי ליפשיץ",
+    "sort_name": "ליפשיץ, אורי ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1936",
+      "death_year": "2011"
+    },
+    "bio_snippet": "צייר, פסל ואמן ישראלי, הרבה לעסוק ביצירת הדפסים בטכניקות התחריט. עבודותיו נכללות באוספי מספר מוזיאונים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir"
+    ],
+    "impressions_count": 212
+  },
+  "texts": {
+    "author": [
+      57162,
+      57225
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

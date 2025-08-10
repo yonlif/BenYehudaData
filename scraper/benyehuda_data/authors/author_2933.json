@@ -1,0 +1,39 @@
+{
+  "id": 2933,
+  "url": "https://benyehuda.org/author/2933",
+  "metadata": {
+    "name": "משה בן־דוד",
+    "sort_name": "בן־דוד, משה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "סופר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 149
+  },
+  "texts": {
+    "author": [
+      53405
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

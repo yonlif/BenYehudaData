@@ -1,0 +1,72 @@
+{
+  "id": 644,
+  "url": "https://benyehuda.org/author/644",
+  "metadata": {
+    "name": "פאלק הלפרין",
+    "sort_name": "הלפרין, פאלק",
+    "other_designations": "פלק הלפרין; פאַלק הלפערין; פֿאַלק הלפערין; פֿאַלק היילפערין; פלק היילפרין; פאלק היילפערין; פאלק הלפרן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1876",
+      "death_year": "1945"
+    },
+    "bio_snippet": "מחנך, סופר יידיש, מחזאי, סופר עברי, מתרגם ליידיש ולעברית.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 12087
+  },
+  "texts": {
+    "author": [
+      18162,
+      34974,
+      34975,
+      34976,
+      34977,
+      34978,
+      34979,
+      34980,
+      52528,
+      52529,
+      52530,
+      52531,
+      52532,
+      52533,
+      52536,
+      52537,
+      52538,
+      52539,
+      53276,
+      53277,
+      53278,
+      53279,
+      53280,
+      53281
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      44547,
+      45178,
+      45946,
+      45947,
+      46828,
+      46829,
+      46830,
+      46831,
+      46832
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

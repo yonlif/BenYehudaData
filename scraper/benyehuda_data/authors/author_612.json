@@ -1,0 +1,58 @@
+{
+  "id": 612,
+  "url": "https://benyehuda.org/author/612",
+  "metadata": {
+    "name": "מ. סיקו (מאיר סמילנסקי)",
+    "sort_name": "סמילנסקי), מ. סיקו (מאיר",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1876",
+      "death_year": "1949"
+    },
+    "bio_snippet": " סופר ופובליציסט עברי.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 4149
+  },
+  "texts": {
+    "author": [
+      17177,
+      17178,
+      17179,
+      17180,
+      17181,
+      17182,
+      17183,
+      17184,
+      17185,
+      17186,
+      17187,
+      17188,
+      17189,
+      17190,
+      17191,
+      17192,
+      17193,
+      17194
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      42871
+    ]
+  }
+}

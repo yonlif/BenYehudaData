@@ -1,0 +1,39 @@
+{
+  "id": 1851,
+  "url": "https://benyehuda.org/author/1851",
+  "metadata": {
+    "name": "מנחם מנדל פייטלסון",
+    "sort_name": "פייטלסון, מנחם מנדל",
+    "other_designations": "מנחם מנדל פיטלסון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1870",
+      "death_year": "1912"
+    },
+    "bio_snippet": " עיתונאי עברי וסופר עברי משכיל שעסק בכתיבת מאמרים וסיפורת המחנכים את האדם להתנהגות נאותה. כתב ב\"המליץ\", ב\"הצפירה\", ובהמשך עסק בתיעוד ותיאור סופרים עבריים אחרים בני זמנו, בסדרת כתבות בעיתון \"השילוח\", חלקם ביקורתיים מאוד ומושחזים, דבר שלא תמיד התקבל בהבנה בעיני נשואי ביקורתו. הוגדר בכתבה בעל המשמר, כאחד מחשובי המבקרים העברים של ראשית המאה העשרים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 725
+  },
+  "texts": {
+    "author": [
+      43977
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

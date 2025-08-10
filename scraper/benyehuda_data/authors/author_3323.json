@@ -1,0 +1,39 @@
+{
+  "id": 3323,
+  "url": "https://benyehuda.org/author/3323",
+  "metadata": {
+    "name": "אלישיב קלרמן",
+    "sort_name": "קלרמן, אלישיב ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1974",
+      "death_year": ""
+    },
+    "bio_snippet": "איש הייטק, סטודנט לתואר שני מחקרי במחלקה לספרות עם ישראל באוניברסיטת בר־אילן",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 158
+  },
+  "texts": {
+    "author": [
+      56492
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

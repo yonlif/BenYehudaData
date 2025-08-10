@@ -1,0 +1,42 @@
+{
+  "id": 1641,
+  "url": "https://benyehuda.org/author/1641",
+  "metadata": {
+    "name": "פיודור סולוגוב",
+    "sort_name": "סולוגוב, פיודור ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1863",
+      "death_year": "1927"
+    },
+    "bio_snippet": "משורר סימבוליסטי, סופר, מתרגם, מחזאי ומסאי רוסי",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 472
+  },
+  "texts": {
+    "author": [
+      35060,
+      35061,
+      35062,
+      35063
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

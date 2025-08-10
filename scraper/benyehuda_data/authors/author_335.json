@@ -1,0 +1,39 @@
+{
+  "id": 335,
+  "url": "https://benyehuda.org/author/335",
+  "metadata": {
+    "name": "דב זלמנוביץ",
+    "sort_name": "זלמנוביץ, דב",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1923",
+      "death_year": "2006"
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 8002
+  },
+  "texts": {
+    "author": [
+      6975
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

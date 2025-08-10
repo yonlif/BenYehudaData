@@ -1,0 +1,39 @@
+{
+  "id": 2691,
+  "url": "https://benyehuda.org/author/2691",
+  "metadata": {
+    "name": "ריכרד בר־הופמן",
+    "sort_name": "בר־הופמן, ריכרד ",
+    "other_designations": "ריכרד בר-הופמן; ריכרד בר הופמן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1866",
+      "death_year": "1945"
+    },
+    "bio_snippet": "משורר וסופר יהודי־אוסטרי. נולד בווינה למשפחה יהודית. חבר \"וינה הצעירה\". ב־1939 נמלט לניו יורק מפני אימת הנאצים ובה ישב עד סוף ימיו",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 113
+  },
+  "texts": {
+    "author": [
+      47974
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

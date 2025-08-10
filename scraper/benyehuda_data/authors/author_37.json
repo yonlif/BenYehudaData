@@ -1,0 +1,42 @@
+{
+  "id": 37,
+  "url": "https://benyehuda.org/author/37",
+  "metadata": {
+    "name": "אליעזר יצחק אילנאה",
+    "sort_name": "אילנאה, אליעזר יצחק",
+    "other_designations": "אליעזר יצחק שֶיינבּוֹים",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1854",
+      "death_year": "1928"
+    },
+    "bio_snippet": "פעיל ציוני ומחלוצי ההגות הפילוסופית בספרות העברית החדשה.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 2506
+  },
+  "texts": {
+    "author": [
+      1530,
+      57775
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      5518
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

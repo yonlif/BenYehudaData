@@ -1,0 +1,37 @@
+{
+  "id": 2157,
+  "url": "https://benyehuda.org/author/2157",
+  "metadata": {
+    "name": "פנינה לשצ'ינסקי ",
+    "sort_name": "לשצ'ינסקי , פנינה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": "revival",
+      "birth_year": "1883",
+      "death_year": "1939"
+    },
+    "bio_snippet": "מתרגמת",
+    "languages": [],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 65
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      40973
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

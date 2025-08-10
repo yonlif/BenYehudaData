@@ -1,0 +1,41 @@
+{
+  "id": 3067,
+  "url": "https://benyehuda.org/author/3067",
+  "metadata": {
+    "name": "זאב ולדימירסקי",
+    "sort_name": "ולדימירסקי, זאב ",
+    "other_designations": "זאב בן־אשר; זאב בן אשר זאב בן-אשר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1923",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד פולין. נפל במלחמת העצמאות בחזית משמר הירדן [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 211
+  },
+  "texts": {
+    "author": [
+      54422,
+      54423,
+      54424
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": 3416,
+  "url": "https://benyehuda.org/author/3416",
+  "metadata": {
+    "name": "סיגלית אברהם",
+    "sort_name": "אברהם, סיגלית ",
+    "other_designations": "",
+    "intellectual_property": "unknown",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "משוררת",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 390
+  },
+  "texts": {
+    "author": [
+      57209,
+      57210,
+      57211,
+      57212
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

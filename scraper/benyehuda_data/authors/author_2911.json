@@ -1,0 +1,40 @@
+{
+  "id": 2911,
+  "url": "https://benyehuda.org/author/2911",
+  "metadata": {
+    "name": "יוסף קרוק",
+    "sort_name": "קרוק, יוסף ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1885",
+      "death_year": "1972"
+    },
+    "bio_snippet": "יהודי סוציאליסט ותומך בתחייה לאומית־יהודית, יליד פולין, לקח חלק ב\"שלוש מהפכות\" כפי שנקרא ספר זכרונותיו",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 1731
+  },
+  "texts": {
+    "author": [
+      52400,
+      52540
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

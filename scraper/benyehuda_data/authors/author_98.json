@@ -1,0 +1,47 @@
+{
+  "id": 98,
+  "url": "https://benyehuda.org/author/98",
+  "metadata": {
+    "name": "יוסף אליהו טריבוש",
+    "sort_name": "טריבוש, יוסף אליהו",
+    "other_designations": "יוסף אליהו טריווש; יוסף אליהו טריוווש",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1855",
+      "death_year": "1940"
+    },
+    "bio_snippet": "מחנך, פרשן מקראי, סופר ומתרגם יהודי.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2491
+  },
+  "texts": {
+    "author": [
+      4335,
+      6846,
+      12936
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      3210,
+      4371,
+      5466,
+      12937,
+      12938
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

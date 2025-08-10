@@ -1,0 +1,39 @@
+{
+  "id": 452,
+  "url": "https://benyehuda.org/author/452",
+  "metadata": {
+    "name": "דיוויד הרברט לורנס",
+    "sort_name": "לורנס, דיוויד הרברט",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1885",
+      "death_year": "1930"
+    },
+    "bio_snippet": "סופר ומשורר אנגלי, מחשובי הסופרים בראשית המאה העשרים. ",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 4528
+  },
+  "texts": {
+    "author": [
+      11014
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

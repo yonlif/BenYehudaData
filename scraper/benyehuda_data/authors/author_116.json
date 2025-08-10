@@ -1,0 +1,73 @@
+{
+  "id": 116,
+  "url": "https://benyehuda.org/author/116",
+  "metadata": {
+    "name": "דוד ישעיהו זילברבוש",
+    "sort_name": "זילברבוש, דוד ישעיהו",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1854",
+      "death_year": "1936"
+    },
+    "bio_snippet": "סופר ועיתונאי עברי ויידי יליד גליציה המזרחית.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 10431
+  },
+  "texts": {
+    "author": [
+      1508,
+      1806,
+      2140,
+      2438,
+      2753,
+      3071,
+      3393,
+      3708,
+      4026,
+      4356,
+      4674,
+      5055,
+      5371,
+      5687,
+      6014,
+      6336,
+      6659,
+      6990,
+      23895,
+      44188,
+      45606,
+      45607,
+      45608,
+      45623
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      29160,
+      29161,
+      29162,
+      29163,
+      48599
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      9307,
+      31320
+    ]
+  }
+}

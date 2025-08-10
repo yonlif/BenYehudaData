@@ -1,0 +1,39 @@
+{
+  "id": 2286,
+  "url": "https://benyehuda.org/author/2286",
+  "metadata": {
+    "name": "חנניה אליקים מריאטי",
+    "sort_name": "מריאטי, חנניה אליקים ",
+    "other_designations": "חנניה אליקים בן עשהאל רפאל מריאטי; Graziadio da Rieti",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1560",
+      "death_year": "1623"
+    },
+    "bio_snippet": "נולד בבולוניה, חי במנטובה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 170
+  },
+  "texts": {
+    "author": [
+      40757
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

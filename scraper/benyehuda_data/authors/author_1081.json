@@ -1,0 +1,42 @@
+{
+  "id": 1081,
+  "url": "https://benyehuda.org/author/1081",
+  "metadata": {
+    "name": "ארנה גולן",
+    "sort_name": "גולן, ארנה ",
+    "other_designations": "בן דרור",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1935",
+      "death_year": ""
+    },
+    "bio_snippet": "חוקרת, מרצה לספרות עברית וסופרת",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 1331
+  },
+  "texts": {
+    "author": [
+      28958,
+      28981,
+      28985,
+      28997
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

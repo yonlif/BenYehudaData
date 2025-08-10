@@ -1,0 +1,47 @@
+{
+  "id": 525,
+  "url": "https://benyehuda.org/author/525",
+  "metadata": {
+    "name": "שמואל ישעיהו פנואלי",
+    "sort_name": "פנואלי, שמואל ישעיהו",
+    "other_designations": "ש\"י, ש.י., פינלס",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1904",
+      "death_year": "1965"
+    },
+    "bio_snippet": " מחנך, מסאי וחוקר ספרות ישראלי, ממייסדי החוג לספרות באוניברסיטת תל אביב.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 306
+  },
+  "texts": {
+    "author": [
+      58924,
+      58925,
+      58952,
+      58953,
+      58954,
+      58974,
+      58975
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      29219
+    ]
+  }
+}

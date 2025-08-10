@@ -1,0 +1,40 @@
+{
+  "id": 1102,
+  "url": "https://benyehuda.org/author/1102",
+  "metadata": {
+    "name": "יהושע סירקין",
+    "sort_name": "סירקין, יהושע ",
+    "other_designations": "יהושע בן יעקב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1838",
+      "death_year": "1922"
+    },
+    "bio_snippet": " סופר עברי ופעיל ציוני, מראשוני חובבי ציון, יו\"ר אגודת \"דורשי ציון\" במינסק, יוזם הספרייה הלאומית בירושלים, ממקימי ההתיישבות עין זיתים בארץ ישראל.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 533
+  },
+  "texts": {
+    "author": [
+      29165,
+      32293
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

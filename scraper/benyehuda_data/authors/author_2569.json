@@ -1,0 +1,56 @@
+{
+  "id": 2569,
+  "url": "https://benyehuda.org/author/2569",
+  "metadata": {
+    "name": "חוה שפירא",
+    "sort_name": "שפירא, חוה ",
+    "other_designations": "אם כל חי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": "revival",
+      "birth_year": "1876",
+      "death_year": "1943"
+    },
+    "bio_snippet": "סופרת, מבקרת, פובליציסטית, מחלוצות סיפורת הנשים העברית, פעלה בקרב חוגי הסופרים העבריים במזרח אירופה, עד למותה בגטו טרזיינשטט",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2030
+  },
+  "texts": {
+    "author": [
+      50458,
+      50459,
+      50460,
+      50461,
+      50462,
+      50463,
+      50464,
+      51142,
+      51143,
+      51144,
+      51145,
+      51146,
+      51147,
+      51148,
+      51149,
+      51150,
+      51151,
+      51152
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

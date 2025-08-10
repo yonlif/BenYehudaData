@@ -1,0 +1,39 @@
+{
+  "id": 3190,
+  "url": "https://benyehuda.org/author/3190",
+  "metadata": {
+    "name": "חמוטל בר־יוסף",
+    "sort_name": "בר־יוסף, חמוטל ",
+    "other_designations": "חמוטל בר יוסף; חמוטל בר-יוסף",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1940",
+      "death_year": ""
+    },
+    "bio_snippet": "משוררת, סופרת, מתרגמת וחוקרת ספרות ישראלית, פרופסור אמריטה לספרות באוניברסיטת בן־גוריון בנגב ומרצה באוניברסיטאות שונות בישראל ובעולם",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 193
+  },
+  "texts": {
+    "author": [
+      54872
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

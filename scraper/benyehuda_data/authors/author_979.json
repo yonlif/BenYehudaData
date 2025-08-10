@@ -1,0 +1,37 @@
+{
+  "id": 979,
+  "url": "https://benyehuda.org/author/979",
+  "metadata": {
+    "name": "יוסף קריב",
+    "sort_name": "קריב, יוסף ",
+    "other_designations": "יוסף קרקובי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1909",
+      "death_year": "1995"
+    },
+    "bio_snippet": "ראש המחלקה היהודית של הש\"י, שירות המודיעין של ארגון ההגנה. ממפעילי קול ישראל, תחנת הרדיו של \"ההגנה\". קצין החינוך הראשי הראשון בצה\"ל בזמן מלחמת העצמאות, ולאחר מכן ממנהלי רשות השידור. ערך ספרים.",
+    "languages": [],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 258
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      27756
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

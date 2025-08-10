@@ -1,0 +1,58 @@
+{
+  "id": 819,
+  "url": "https://benyehuda.org/author/819",
+  "metadata": {
+    "name": "אברהם אורי קובנר",
+    "sort_name": "קובנר, אברהם אורי",
+    "other_designations": "אברהם אורי בן צבי קובנר; ארקדי גריגוריביץ' קובנר; קאָוונער",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1842",
+      "death_year": "1909"
+    },
+    "bio_snippet": "פובליציסט ומבקר ספרות יהודי ליטאי בן תקופת ההשכלה, הנחשב לאבי ביקורת הספרות העברית המודרנית. בשנות חייו המאוחרות התארס עם נוצרייה והמיר את דתו לנצרות",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "letters",
+      "poetry"
+    ],
+    "impressions_count": 4107
+  },
+  "texts": {
+    "author": [
+      23923,
+      23924,
+      23925,
+      23926,
+      23927,
+      23928,
+      23929,
+      23930,
+      40817,
+      40823,
+      40824,
+      40825,
+      40826,
+      40827,
+      40828,
+      40829,
+      40830,
+      40831
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

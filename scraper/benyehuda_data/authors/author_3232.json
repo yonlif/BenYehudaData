@@ -1,0 +1,40 @@
+{
+  "id": 3232,
+  "url": "https://benyehuda.org/author/3232",
+  "metadata": {
+    "name": "מרדכי גלילי",
+    "sort_name": "גלילי, מרדכי ",
+    "other_designations": "מוטי גלילי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1950",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר, עוסק בעולם הדפוס (סדר צילום)",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 126
+  },
+  "texts": {
+    "author": [
+      56299,
+      56300
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

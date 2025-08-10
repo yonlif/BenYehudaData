@@ -1,0 +1,41 @@
+{
+  "id": 2405,
+  "url": "https://benyehuda.org/author/2405",
+  "metadata": {
+    "name": "ששון הלוי",
+    "sort_name": "הלוי, ששון ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1879",
+      "death_year": ""
+    },
+    "bio_snippet": "פייטן",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 162
+  },
+  "texts": {
+    "author": [
+      43966,
+      43967
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

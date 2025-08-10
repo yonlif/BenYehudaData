@@ -1,0 +1,39 @@
+{
+  "id": 3040,
+  "url": "https://benyehuda.org/author/3040",
+  "metadata": {
+    "name": "עודד גסר",
+    "sort_name": "גסר, עודד ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1929",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד תל אביב. במלחמת העצמאות השתתף בקרבות בקיבוץ אפעל ובתל ליטווינסקי. נפצע בקרב ליד לטרון ומת מפצעיו [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 102
+  },
+  "texts": {
+    "author": [
+      54620
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

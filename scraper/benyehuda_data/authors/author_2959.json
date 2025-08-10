@@ -1,0 +1,37 @@
+{
+  "id": 2959,
+  "url": "https://benyehuda.org/author/2959",
+  "metadata": {
+    "name": "שרגא פייבוש רוזן",
+    "sort_name": "רוזן, שרגא פייבוש",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1852",
+      "death_year": "1932"
+    },
+    "bio_snippet": "איכר, מורה, קליגרף ומתרגם [על פי אלבום משפחות ממוחשב, ראשון־לציון]",
+    "languages": [],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 98
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      54230
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2022,
+  "url": "https://benyehuda.org/author/2022",
+  "metadata": {
+    "name": "קלונימוס בן משה הזקן",
+    "sort_name": "בן משה הזקן, קלונימוס ",
+    "other_designations": "קלונימוס בר משה הזקן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "המאה העשירית",
+      "death_year": "המאה העשירית"
+    },
+    "bio_snippet": "פייטן, פעיל באמצע המאה העשירית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 126
+  },
+  "texts": {
+    "author": [
+      38407
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

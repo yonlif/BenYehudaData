@@ -1,0 +1,43 @@
+{
+  "id": 1050,
+  "url": "https://benyehuda.org/author/1050",
+  "metadata": {
+    "name": "ישראל טלר",
+    "sort_name": "טלר, ישראל ",
+    "other_designations": "ישראל הלוי, ישראל בן יהודה, טעללער ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1835",
+      "death_year": "1921"
+    },
+    "bio_snippet": "מורה וסופר עברי, מומחה לדקדוק; מראשי קונגרס פוקשאן, מאנשי העלייה הראשונה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 663
+  },
+  "texts": {
+    "author": [
+      29969
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      28869,
+      28870
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

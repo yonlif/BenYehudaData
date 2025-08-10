@@ -1,0 +1,40 @@
+{
+  "id": 256,
+  "url": "https://benyehuda.org/author/256",
+  "metadata": {
+    "name": "הנריק סנקביץ'",
+    "sort_name": "סנקביץ', הנריק",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1846",
+      "death_year": "1916"
+    },
+    "bio_snippet": "היה עיתונאי וסופר פולני, חתן פרס נובל לספרות. ",
+    "languages": [
+      "pl"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 5772
+  },
+  "texts": {
+    "author": [
+      1821,
+      48158
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

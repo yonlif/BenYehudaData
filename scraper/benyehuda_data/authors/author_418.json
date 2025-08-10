@@ -1,0 +1,41 @@
+{
+  "id": 418,
+  "url": "https://benyehuda.org/author/418",
+  "metadata": {
+    "name": "חיים גבתי",
+    "sort_name": "גבתי, חיים",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1901",
+      "death_year": "1990"
+    },
+    "bio_snippet": "חקלאי ואיש ציבור ישראלי, ממייסדי קיבוץ גבת, חבר הכנסת ושר בממשלות ישראל. ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 72347
+  },
+  "texts": {
+    "author": [
+      10488,
+      14481,
+      14684
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": 243,
+  "url": "https://benyehuda.org/author/243",
+  "metadata": {
+    "name": "שמעון בן צמח דוּרָאן",
+    "sort_name": "דוּרָאן, שמעון בן צמח",
+    "other_designations": "הרשב\"ץ; שמעון בן צמח דוראן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1361",
+      "death_year": "1444"
+    },
+    "bio_snippet": "היה מגדולי רבני אלג'יריה. מחבר שו\"ת התשב\"ץ וספרים נוספים.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1803
+  },
+  "texts": {
+    "author": [
+      544,
+      1410,
+      1707,
+      2650,
+      2969,
+      3599,
+      3601,
+      3614
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

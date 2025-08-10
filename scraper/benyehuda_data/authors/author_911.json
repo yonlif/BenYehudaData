@@ -1,0 +1,41 @@
+{
+  "id": 911,
+  "url": "https://benyehuda.org/author/911",
+  "metadata": {
+    "name": "ברונו שולץ",
+    "sort_name": "שולץ ברונו ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1892",
+      "death_year": "1942"
+    },
+    "bio_snippet": " סופר וצייר יהודי-פולני, נחשב בעיני רבים לאחד מיוצרי הפרוזה הפולנים הגדולים ביותר במאה ה-20. נספה בשואה",
+    "languages": [
+      "pl"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1819
+  },
+  "texts": {
+    "author": [
+      25880,
+      25881,
+      25889
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

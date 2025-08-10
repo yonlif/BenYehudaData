@@ -1,0 +1,54 @@
+{
+  "id": 3167,
+  "url": "https://benyehuda.org/author/3167",
+  "metadata": {
+    "name": "יואל שטרן",
+    "sort_name": "שטרן, יואל ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1920",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד גרמניה, למד בסמינר למורים בבית הכרם בירושלים. נהרג בתאונה מכדורי חיילים בריטיים. הניח בעזבונו מעין רומן אוטוביוגרפי [על פי \"גווילי אש\"]",
+    "languages": [
+      "de",
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 712
+  },
+  "texts": {
+    "author": [
+      54447,
+      54448,
+      54449,
+      54450,
+      54451,
+      54452,
+      54453,
+      54454,
+      54455,
+      54456,
+      54457,
+      54458,
+      54459,
+      54460,
+      54461
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

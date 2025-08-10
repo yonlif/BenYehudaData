@@ -1,0 +1,39 @@
+{
+  "id": 3006,
+  "url": "https://benyehuda.org/author/3006",
+  "metadata": {
+    "name": "משה אלנקוה",
+    "sort_name": "אלנקוה, משה ",
+    "other_designations": "משה אלנקווה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1931",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד קריית חיים, מפקד כיתה בפלמ\"ח, במלחמת העצמאות לחם במבצע יפתח (בגליל העליון המזרחי), נפל בקרב על מלכיה [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 135
+  },
+  "texts": {
+    "author": [
+      54343
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

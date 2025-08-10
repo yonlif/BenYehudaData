@@ -1,0 +1,39 @@
+{
+  "id": 2285,
+  "url": "https://benyehuda.org/author/2285",
+  "metadata": {
+    "name": "שמואל רפאל מארלי",
+    "sort_name": "מארלי, שמואל רפאל ",
+    "other_designations": "שמואל רפאל ארלי; שמואל רפאל בן מצליח מארלי; Samuel Marli",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "חי במנטובה בתחילת המאה ה־17",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 70
+  },
+  "texts": {
+    "author": [
+      40756
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 3464,
+  "url": "https://benyehuda.org/author/3464",
+  "metadata": {
+    "name": "נפתלי הרץ טור־סיני",
+    "sort_name": "טור־סיני, נפתלי הרץ ",
+    "other_designations": "נפתלי הרץ טור-סיני; נפתלי הרץ טור סיני; נפתלי הרץ טורטשינר; נ. ה. טור־סיני; נ\"ה טור־סיני",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1886",
+      "death_year": "1973"
+    },
+    "bio_snippet": " פילולוג וחוקר מקרא ישראלי נודע, ובפרט של לשונות שמיות עתיקות. שימש נשיא האקדמיה ללשון העברית והשלים את עריכת מילון בן יהודה. חתן פרס ישראל למדעי היהדות ויקיר ירושלים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 19
+  },
+  "texts": {
+    "author": [
+      57598,
+      57599,
+      57600,
+      57601,
+      57602,
+      57603,
+      57604,
+      57605,
+      57606,
+      57607,
+      57608,
+      57609,
+      57610,
+      57611,
+      57612,
+      57613
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

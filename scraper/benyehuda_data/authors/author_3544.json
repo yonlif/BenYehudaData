@@ -1,0 +1,48 @@
+{
+  "id": 3544,
+  "url": "https://benyehuda.org/author/3544",
+  "metadata": {
+    "name": "ג'ק גילברט",
+    "sort_name": "גילברט, ג'ק ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1925",
+      "death_year": "2012"
+    },
+    "bio_snippet": " משורר אמריקאי, בין המוערכים והמשפיעים ביותר במאה ה־20",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 39
+  },
+  "texts": {
+    "author": [
+      34090,
+      34091,
+      34092,
+      34093,
+      34094,
+      34095,
+      34096,
+      34097,
+      34098,
+      34099
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

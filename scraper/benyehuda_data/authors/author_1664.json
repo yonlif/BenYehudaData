@@ -1,0 +1,39 @@
+{
+  "id": 1664,
+  "url": "https://benyehuda.org/author/1664",
+  "metadata": {
+    "name": "כריסטופר מרלו ",
+    "sort_name": "מרלו , כריסטופר ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1564",
+      "death_year": "1593"
+    },
+    "bio_snippet": "מחזאי אנגלי,  מהמחזאים החשובים של העידן האליזבתני",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 233
+  },
+  "texts": {
+    "author": [
+      34442
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

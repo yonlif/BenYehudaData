@@ -1,0 +1,39 @@
+{
+  "id": 1889,
+  "url": "https://benyehuda.org/author/1889",
+  "metadata": {
+    "name": "נסיה שפרן",
+    "sort_name": "שפרן, נסיה ",
+    "other_designations": "נסיה שפרן (שפרנסקי)",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "סופרת וחוקרת",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 1368
+  },
+  "texts": {
+    "author": [
+      37045
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

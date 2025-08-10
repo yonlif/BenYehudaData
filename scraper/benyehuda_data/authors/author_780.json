@@ -1,0 +1,41 @@
+{
+  "id": 780,
+  "url": "https://benyehuda.org/author/780",
+  "metadata": {
+    "name": "משה אבן אלתקאנה",
+    "sort_name": "אלתקאנה, משה אבן",
+    "other_designations": "משה אבן-אלתקאנה; משה אבן־אלתקאנה; משה בן יצחרק אבן אלתקאנה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 591
+  },
+  "texts": {
+    "author": [
+      22788
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      25540
+    ]
+  }
+}

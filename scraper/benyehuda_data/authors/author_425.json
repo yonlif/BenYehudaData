@@ -1,0 +1,45 @@
+{
+  "id": 425,
+  "url": "https://benyehuda.org/author/425",
+  "metadata": {
+    "name": "רוברט לואיס סטיבנסון",
+    "sort_name": "סטיבנסון, רוברט לואיס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1850",
+      "death_year": "1894"
+    },
+    "bio_snippet": "סופר ומשורר סקוטי שהתפרסם בעיקר בזכות יצירותיו \"אי המטמון\" ו\"המקרה המוזר של ד\"ר ג'קיל ומר הייד\".",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 7954
+  },
+  "texts": {
+    "author": [
+      10574,
+      10575,
+      10576,
+      10577,
+      12629,
+      18670
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 2301,
+  "url": "https://benyehuda.org/author/2301",
+  "metadata": {
+    "name": "שמשון כהן מודון",
+    "sort_name": "מודון, שמשון כהן ",
+    "other_designations": "שמשון הכהן מודון; שמשון בן יעקב שמשון הכהן מודון;  Sanson Coen Modon;  Samson Kohen-Modon",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1679",
+      "death_year": "1727"
+    },
+    "bio_snippet": "משורר ולינגוויסט ממנטובה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 412
+  },
+  "texts": {
+    "author": [
+      40775,
+      42136,
+      42137,
+      42138,
+      42139
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

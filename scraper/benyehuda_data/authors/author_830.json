@@ -1,0 +1,59 @@
+{
+  "id": 830,
+  "url": "https://benyehuda.org/author/830",
+  "metadata": {
+    "name": "שלמה קפלנסקי",
+    "sort_name": "קפלנסקי, שלמה",
+    "other_designations": "שלמה קאפלאנסקי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1884",
+      "death_year": "1950"
+    },
+    "bio_snippet": "ממנהיגי מפלגת \"פועלי ציון\", ומנהל הטכניון בחיפה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 14061
+  },
+  "texts": {
+    "author": [
+      24375,
+      24376,
+      24377,
+      24378,
+      24379,
+      24380,
+      24381,
+      24382,
+      24383,
+      24384,
+      24385,
+      24386,
+      24387,
+      24388,
+      24389,
+      24390,
+      24391,
+      24392,
+      24393,
+      24394,
+      24395
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

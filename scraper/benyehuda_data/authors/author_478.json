@@ -1,0 +1,39 @@
+{
+  "id": 478,
+  "url": "https://benyehuda.org/author/478",
+  "metadata": {
+    "name": "סאלוסטיוס",
+    "sort_name": "סאלוסטיוס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "86 לפנה\"ס",
+      "death_year": "35 לפנה\"ס"
+    },
+    "bio_snippet": "מדינאי והיסטוריון רומאי. ידוע בעיקר בשל חיבורו על קשר קאטילינה ועל מלחמת יוגורתא.",
+    "languages": [
+      "la"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 2485
+  },
+  "texts": {
+    "author": [
+      11241
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1640,
+  "url": "https://benyehuda.org/author/1640",
+  "metadata": {
+    "name": "קונסטנטין פוֹפָנוֹב",
+    "sort_name": "פופנוב, קונסטנטין ",
+    "other_designations": "קונסטנטין פופנוב; קונסטנטין מיכאילוביץ' פופנוב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1862",
+      "death_year": "1911"
+    },
+    "bio_snippet": "משורר רוסי",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 322
+  },
+  "texts": {
+    "author": [
+      35055,
+      35056,
+      35057
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

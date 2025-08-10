@@ -1,0 +1,55 @@
+{
+  "id": 3094,
+  "url": "https://benyehuda.org/author/3094",
+  "metadata": {
+    "name": "יצחק לבנה",
+    "sort_name": "לבנה, יצחק ",
+    "other_designations": "יצחק ליבנה; יצחק בלינקו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1930",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד מרחביה. כתב שירה ורשימות שפורסמו בכתבי עת. נפל במלחמת העצמאות בחזית לטרון. הניח אישה, והשאיר עיזבון ובו שירים ומאמרים [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 772
+  },
+  "texts": {
+    "author": [
+      54462,
+      54463,
+      54464,
+      54465,
+      54466,
+      54467,
+      54468,
+      54469,
+      54470,
+      54471,
+      54472,
+      54473,
+      54474,
+      54475,
+      54476,
+      54477,
+      54478
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

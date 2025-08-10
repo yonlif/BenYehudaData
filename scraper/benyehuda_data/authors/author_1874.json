@@ -1,0 +1,39 @@
+{
+  "id": 1874,
+  "url": "https://benyehuda.org/author/1874",
+  "metadata": {
+    "name": "רחמים קלעי",
+    "sort_name": "קלעי, רחמים ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "המאה ה־17",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר, פעל במצרים במאה ה־17",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 552
+  },
+  "texts": {
+    "author": [
+      38066
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

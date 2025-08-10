@@ -1,0 +1,39 @@
+{
+  "id": 3363,
+  "url": "https://benyehuda.org/author/3363",
+  "metadata": {
+    "name": "בן ציון אילן",
+    "sort_name": "אילן, בן ציון ",
+    "other_designations": "בן ציון אפלבוים; בני אילן; בנציון אילן",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1913",
+      "death_year": "1975"
+    },
+    "bio_snippet": "חבר קיבוץ אפיקים, פעיל תנועתי, שליח לחו\"ל [על פי מוזיאון הלוחם היהודי במלחמת העולם השניה]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 88
+  },
+  "texts": {
+    "author": [
+      56996
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

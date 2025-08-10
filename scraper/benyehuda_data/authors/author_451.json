@@ -1,0 +1,61 @@
+{
+  "id": 451,
+  "url": "https://benyehuda.org/author/451",
+  "metadata": {
+    "name": "היינריך פון קלייסט",
+    "sort_name": "קלייסט, היינריך פון",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1777",
+      "death_year": "1811"
+    },
+    "bio_snippet": " סופר, מחזאי ומשורר פרוסי.\r\n",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "drama",
+      "prose"
+    ],
+    "impressions_count": 4774
+  },
+  "texts": {
+    "author": [
+      11110,
+      48959,
+      48960,
+      48961,
+      48962,
+      48963,
+      48964,
+      48965,
+      49426,
+      49427,
+      49428,
+      49429,
+      49430,
+      49431,
+      49432,
+      49580,
+      49581,
+      49582,
+      49583,
+      49584,
+      49585,
+      49586
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 1423,
+  "url": "https://benyehuda.org/author/1423",
+  "metadata": {
+    "name": "יצחק שנירי",
+    "sort_name": "שנירי, יצחק ",
+    "other_designations": "יצחק השנירי, יצחק בן יהודה שנירי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "פעיל במאה הי\"ג",
+      "death_year": ""
+    },
+    "bio_snippet": "פייטן בן המאה הי\"ג",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 415
+  },
+  "texts": {
+    "author": [
+      33169,
+      33170
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1504,
+  "url": "https://benyehuda.org/author/1504",
+  "metadata": {
+    "name": "מנדל שטרן",
+    "sort_name": "שטרן, מנדל ",
+    "other_designations": "מנדל בן יצחק שטרן, מקס עמנואל שטרן, מנדל בר\"י שטרן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1811",
+      "death_year": "1873"
+    },
+    "bio_snippet": "סופר, משורר ומתרגם הונגרי־יהודי, יליד אוסטרו־הונגריה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 68
+  },
+  "texts": {
+    "author": [
+      58513
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

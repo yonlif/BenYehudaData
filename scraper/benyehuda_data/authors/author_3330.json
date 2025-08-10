@@ -1,0 +1,39 @@
+{
+  "id": 3330,
+  "url": "https://benyehuda.org/author/3330",
+  "metadata": {
+    "name": "אקי להב",
+    "sort_name": "להב, אקי",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "יזם פרטי בתחום התוכנה, אחיינו של נתן אלתרמן, פרסם מספר מאמרים ומסות על יצירת אלתרמן [על־פי ספרי ניב]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 103
+  },
+  "texts": {
+    "author": [
+      56599
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

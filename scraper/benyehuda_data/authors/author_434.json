@@ -1,0 +1,39 @@
+{
+  "id": 434,
+  "url": "https://benyehuda.org/author/434",
+  "metadata": {
+    "name": "יצחק יהודה גולדציהר",
+    "sort_name": "גולדציהר, יצחק יהודה",
+    "other_designations": "איגנאץ גולדציהר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1850",
+      "death_year": "1921"
+    },
+    "bio_snippet": "מאבות תורת המזרחנות.",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 5676
+  },
+  "texts": {
+    "author": [
+      40578
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

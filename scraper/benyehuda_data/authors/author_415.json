@@ -1,0 +1,45 @@
+{
+  "id": 415,
+  "url": "https://benyehuda.org/author/415",
+  "metadata": {
+    "name": "אהרן אהרנסון",
+    "sort_name": "אהרנסון, אהרן",
+    "other_designations": "אהרן אהרונסון; אהרון אהרונסון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1876",
+      "death_year": "1919"
+    },
+    "bio_snippet": " בוטנאי, אגרונום וגאולוג, ראשון לאנשי המדע היהודים בארץ ישראל וראש מחתרת הריגול ניל\"י. אהרון הוא אחיהם של שרה אהרנסון ושל אלכסנדר אהרנסון שהיו אף הם חברים במחתרת ניל\"י",
+    "languages": [
+      "he",
+      "fr"
+    ],
+    "genres": [
+      "memoir",
+      "reference"
+    ],
+    "impressions_count": 9657
+  },
+  "texts": {
+    "author": [
+      11450,
+      27986,
+      35188
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      52840
+    ]
+  }
+}

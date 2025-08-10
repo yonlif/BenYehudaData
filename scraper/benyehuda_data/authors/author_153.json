@@ -1,0 +1,37 @@
+{
+  "id": 153,
+  "url": "https://benyehuda.org/author/153",
+  "metadata": {
+    "name": "משה מאיר אסטרינסקי",
+    "sort_name": "אסטרינסקי, משה מאיר",
+    "other_designations": "משה מאיר אוסטרינסקי, משה מאיר בן אפרים",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1842",
+      "death_year": "1870"
+    },
+    "bio_snippet": "פרסם כתבות, מאמרים, מחקרי יהדות ותרגומים [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 447
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      195
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 3192,
+  "url": "https://benyehuda.org/author/3192",
+  "metadata": {
+    "name": "לאה אילון",
+    "sort_name": "אילון, לאה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "?",
+      "death_year": ""
+    },
+    "bio_snippet": "משוררת וסופרת ישראלית, חיה ויוצרת בירושלים. פרסמה 15 ספרי שירה ו־5 ספרי פרוזה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 1039
+  },
+  "texts": {
+    "author": [
+      54874,
+      54875,
+      54876,
+      54877,
+      56294,
+      56295,
+      56296,
+      56297,
+      56410,
+      56411,
+      56412,
+      56413,
+      56414,
+      57223,
+      57224
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

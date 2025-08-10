@@ -1,0 +1,39 @@
+{
+  "id": 3125,
+  "url": "https://benyehuda.org/author/3125",
+  "metadata": {
+    "name": "יוסף עמית",
+    "sort_name": "עמית, יוסף ",
+    "other_designations": "יוסף ולקנוץ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1922",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד ברלין. נהרג במלחמת העצמאות בתאונה שבה התפוצצו רימונים שנשא איתו. הניח אישה, ואחרי נפילתו נולדה בתו [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 102
+  },
+  "texts": {
+    "author": [
+      55017
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

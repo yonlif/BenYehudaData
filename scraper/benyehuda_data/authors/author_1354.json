@@ -1,0 +1,39 @@
+{
+  "id": 1354,
+  "url": "https://benyehuda.org/author/1354",
+  "metadata": {
+    "name": "אליאס שוורצפלד",
+    "sort_name": "שוורצפלד, אליאס ",
+    "other_designations": "אליהו, שורצפלד, אדמונד סינצ'רוס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1855",
+      "death_year": "1915"
+    },
+    "bio_snippet": " היסטוריון, סופר, מתרגם, ועורך כתבי עת יהודים־רומנים",
+    "languages": [
+      "ro"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 274
+  },
+  "texts": {
+    "author": [
+      31755
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

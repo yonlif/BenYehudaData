@@ -1,0 +1,41 @@
+{
+  "id": 1144,
+  "url": "https://benyehuda.org/author/1144",
+  "metadata": {
+    "name": "זיסמן מונטנר",
+    "sort_name": "מונטנר, זיסמן ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1897",
+      "death_year": "1973"
+    },
+    "bio_snippet": "סופר, היסטוריון ורופא, ממייסדי החברה לתולדות הרפואה והמדעים בארץ ישראל, בשנת 1949 הקים וניהל במרסיי בית חולים לעולים לארץ־ישראל",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 893
+  },
+  "texts": {
+    "author": [
+      53511,
+      59055
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

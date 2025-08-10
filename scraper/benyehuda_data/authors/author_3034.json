@@ -1,0 +1,40 @@
+{
+  "id": 3034,
+  "url": "https://benyehuda.org/author/3034",
+  "metadata": {
+    "name": "יהושע גלוברמן",
+    "sort_name": "גלוברמן, יהושע ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1905",
+      "death_year": "1947"
+    },
+    "bio_snippet": "יליד רוסיה הלבנה. כתב חוברות שהיו גרעין לספרות הצבאית העברית. נהרג במלחמת העצמאות ממארב ליד לטרון, בדרכו מירושלים לתל אביב [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 187
+  },
+  "texts": {
+    "author": [
+      54860,
+      54861
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

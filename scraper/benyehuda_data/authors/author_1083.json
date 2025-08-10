@@ -1,0 +1,39 @@
+{
+  "id": 1083,
+  "url": "https://benyehuda.org/author/1083",
+  "metadata": {
+    "name": "מרתה הופמן",
+    "sort_name": "הופמן, מרתה ",
+    "other_designations": "מליתה הול",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1895",
+      "death_year": "1975"
+    },
+    "bio_snippet": "פעילה פוליטית וסופרת אוסטרית",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 970
+  },
+  "texts": {
+    "author": [
+      28946
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

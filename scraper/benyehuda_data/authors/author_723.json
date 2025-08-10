@@ -1,0 +1,39 @@
+{
+  "id": 723,
+  "url": "https://benyehuda.org/author/723",
+  "metadata": {
+    "name": "משה הס",
+    "sort_name": "הס, משה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1812",
+      "death_year": "1875"
+    },
+    "bio_snippet": "סופר והוגה דעות סוציאליסט. מאבות התנועה הסוציאליסטית באירופה, ממבשרי הציונות והסוציאליזם הציוני.",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 6464
+  },
+  "texts": {
+    "author": [
+      21869
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

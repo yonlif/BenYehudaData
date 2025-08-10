@@ -1,0 +1,46 @@
+{
+  "id": 455,
+  "url": "https://benyehuda.org/author/455",
+  "metadata": {
+    "name": "יעקב מלכין",
+    "sort_name": "מלכין, יעקב",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1926",
+      "death_year": "2019"
+    },
+    "bio_snippet": "סופר ומחזאי, עורך, מתרגם, מבקר תרבות, ומחנך ישראלי, פרופסור אמריטוס בפקולטה לאמנויות וממייסדי החוג לקולנוע וטלוויזיה באוניברסיטת תל אביב. הוגה באתיקה הומניסטית חילונית יהודית.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 2443
+  },
+  "texts": {
+    "author": [
+      11021,
+      47626,
+      49605,
+      56568,
+      57251,
+      57252,
+      57253
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

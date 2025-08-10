@@ -1,0 +1,39 @@
+{
+  "id": 2469,
+  "url": "https://benyehuda.org/author/2469",
+  "metadata": {
+    "name": "פרידריך אנגלס",
+    "sort_name": "אנגלס, פרידריך ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1820",
+      "death_year": "1895"
+    },
+    "bio_snippet": "מדען חברה פוליטי, סופר ופילוסוף גרמני. אבי תורת הקומוניזם לצד קרל מרקס, בשנת 1848 כתב יחד עם מרקס את \"המניפסט הקומוניסטי\"",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 1
+  },
+  "texts": {
+    "author": [
+      44796
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

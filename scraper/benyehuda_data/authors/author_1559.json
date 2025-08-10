@@ -1,0 +1,42 @@
+{
+  "id": 1559,
+  "url": "https://benyehuda.org/author/1559",
+  "metadata": {
+    "name": "שמואל בן יוסף אבן ששון",
+    "sort_name": "אבן ששון, שמואל בן יוסף ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "פעל במחצית הראשונה של המאה ה־14",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר, התגורר בערים קטנות במלכות קסטיליה במחצית הראשונה של המאה ה־14",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 810
+  },
+  "texts": {
+    "author": [
+      33931,
+      38002,
+      44940
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

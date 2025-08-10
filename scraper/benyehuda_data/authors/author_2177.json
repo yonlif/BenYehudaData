@@ -1,0 +1,54 @@
+{
+  "id": 2177,
+  "url": "https://benyehuda.org/author/2177",
+  "metadata": {
+    "name": "יעקב אריאל ",
+    "sort_name": "אריאל, יעקב ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1887",
+      "death_year": "1954"
+    },
+    "bio_snippet": "סופר ומחזאי; פרסם בכתבי עת בעברית, אנגלית ויידיש ; תרגם משירי ביאליק לאנגלית [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 97
+  },
+  "texts": {
+    "author": [
+      52036,
+      52037,
+      52038,
+      52039,
+      52040,
+      52610,
+      52611,
+      52612,
+      52619,
+      52620,
+      55495,
+      55664,
+      55666,
+      55703,
+      55708,
+      55899
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

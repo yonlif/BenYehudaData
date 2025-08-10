@@ -1,0 +1,38 @@
+{
+  "id": 3358,
+  "url": "https://benyehuda.org/author/3358",
+  "metadata": {
+    "name": "פרויקט בן־יהודה",
+    "sort_name": "פרויקט בן־יהודה",
+    "other_designations": "פרויקט בן-יהודה; פרויקט בן יהודה",
+    "intellectual_property": "permission_for_all",
+    "corporate_body": {
+      "location": "",
+      "inception_year": 1999,
+      "dissolution_year": null
+    },
+    "bio_snippet": "מיזם תרבותי המבוסס על עבודת מתנדבים, אשר פועל באינטרנט ומטרתו לשמר, להנגיש ולחשוף לציבור ספרות עברית מכל הדורות, בחינם וללא פרסומות.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 238
+  },
+  "texts": {
+    "author": [
+      56706
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

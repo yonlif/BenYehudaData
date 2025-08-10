@@ -1,0 +1,39 @@
+{
+  "id": 2259,
+  "url": "https://benyehuda.org/author/2259",
+  "metadata": {
+    "name": "יעקב בן אברהם מאסקולי",
+    "sort_name": "מאסקולי, יעקב בן אברהם ",
+    "other_designations": "Angelo d'Ascoli",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "בשנת 1436 חי בעיר קמרינו ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 95
+  },
+  "texts": {
+    "author": [
+      40736
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

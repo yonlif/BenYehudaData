@@ -1,0 +1,59 @@
+{
+  "id": 90,
+  "url": "https://benyehuda.org/author/90",
+  "metadata": {
+    "name": "יוסף מיוחס",
+    "sort_name": "מיוחס, יוסף",
+    "other_designations": "יוסף בן רחמים נתן מיוחס; יוסף בר\"נ מיוחס; יוסף מיחס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1868",
+      "death_year": "1942"
+    },
+    "bio_snippet": "מחנך, סופר וסופר ילדים עברי ואיש ציבור בתקופת היישוב, מראשי הקהילה היהודית בירושלים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 6662
+  },
+  "texts": {
+    "author": [
+      11006,
+      11007,
+      11009,
+      11351,
+      11352,
+      11353,
+      13226,
+      21026,
+      21027,
+      21028,
+      21029,
+      21030,
+      21031,
+      50954,
+      57254
+    ],
+    "editor": [
+      17935
+    ],
+    "illustrator": [],
+    "translator": [
+      2107
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3367,
+  "url": "https://benyehuda.org/author/3367",
+  "metadata": {
+    "name": "תום הדני נוה",
+    "sort_name": "הדני נוה , תום ",
+    "other_designations": "תום הדני נווה ",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1979",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר, סופר [ע\"פ לקסיקון הספרות העברית החדשה] ופסיכולוג",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 190
+  },
+  "texts": {
+    "author": [
+      57152
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

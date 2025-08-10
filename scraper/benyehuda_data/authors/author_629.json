@@ -1,0 +1,38 @@
+{
+  "id": 629,
+  "url": "https://benyehuda.org/author/629",
+  "metadata": {
+    "name": "פסח אוירבך",
+    "sort_name": "אוירבך, פסח",
+    "other_designations": "פסח אאורבך; פסח אאוארבך; פסח אויירבך; פסח אוירבאך; פסח אורבך; פסח אוירבוך; פ. א",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1877",
+      "death_year": "1945"
+    },
+    "bio_snippet": "מחנך, סופר וחוקר טבע, איש העלייה השנייה. כתב וערך ספרים רבים, בהם ספרי מדעי הטבע וספרי לימוד.",
+    "languages": [],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 624
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      21033,
+      21034
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

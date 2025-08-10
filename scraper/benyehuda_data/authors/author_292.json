@@ -1,0 +1,39 @@
+{
+  "id": 292,
+  "url": "https://benyehuda.org/author/292",
+  "metadata": {
+    "name": "רודולף בורכארדט",
+    "sort_name": "בורכארדט, רודולף",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1877",
+      "death_year": "1945"
+    },
+    "bio_snippet": "היה סופר, משורר והוגה דעות יהודי-גרמני. ",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 590
+  },
+  "texts": {
+    "author": [
+      3832
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

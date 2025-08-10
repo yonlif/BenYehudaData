@@ -1,0 +1,41 @@
+{
+  "id": 3356,
+  "url": "https://benyehuda.org/author/3356",
+  "metadata": {
+    "name": "סימון ארנו",
+    "sort_name": "ארנו, סימון",
+    "other_designations": "סימון ארנא",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1850",
+      "death_year": "1901"
+    },
+    "bio_snippet": "משוררת, מתרגמת, ומחזאית צרפתייה.",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "drama",
+      "fables"
+    ],
+    "impressions_count": 59
+  },
+  "texts": {
+    "author": [
+      19184,
+      31573
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

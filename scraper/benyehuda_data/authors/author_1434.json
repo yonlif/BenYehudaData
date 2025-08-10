@@ -1,0 +1,41 @@
+{
+  "id": 1434,
+  "url": "https://benyehuda.org/author/1434",
+  "metadata": {
+    "name": "מאיר הלוי אבולעפיה",
+    "sort_name": "אבולעפיה, מאיר הלוי ",
+    "other_designations": "מאיר בן טודרוס הלוי אבולעפיה, הרמ\"ה, הר\"ם הלוי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1170",
+      "death_year": "1244"
+    },
+    "bio_snippet": "מקובל, חוקר המסורה, מפרשני התלמוד, פוסק הלכה מן הראשונים ומשורר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1541
+  },
+  "texts": {
+    "author": [
+      33177,
+      33178,
+      33179
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

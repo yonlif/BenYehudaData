@@ -1,0 +1,39 @@
+{
+  "id": 3413,
+  "url": "https://benyehuda.org/author/3413",
+  "metadata": {
+    "name": "סעיד עקל",
+    "sort_name": "עקל, סעיד ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1911",
+      "death_year": "2014"
+    },
+    "bio_snippet": "משורר, סופר ומחזאי לבנוני. הוא היה אחד התומכים בגישת הערבית הלבנונית",
+    "languages": [
+      "ar"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 81
+  },
+  "texts": {
+    "author": [
+      57176
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

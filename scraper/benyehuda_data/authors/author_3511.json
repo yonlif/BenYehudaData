@@ -1,0 +1,41 @@
+{
+  "id": 3511,
+  "url": "https://benyehuda.org/author/3511",
+  "metadata": {
+    "name": "פאול צלאן",
+    "sort_name": "צלאן, פאול ",
+    "other_designations": "פאול צ'לאן; פאול סלאן;  פאול אנצ'ל",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1920",
+      "death_year": "1970"
+    },
+    "bio_snippet": " משורר ומתרגם יהודי יליד צ'רנוביץ (אז בממלכת רומניה וכיום באוקראינה), שכתב בעיקר בשפה הגרמנית. צלאן נחשב על ידי בני סמכא מסוימים לגדול המשוררים הגרמנים במחצית השנייה של המאה ה־20, לגדול המשוררים היהודים במאה ה־20 ולאחד מגדולי המשוררים האירופאים בתקופה המודרנית",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 158
+  },
+  "texts": {
+    "author": [
+      58505,
+      58506
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

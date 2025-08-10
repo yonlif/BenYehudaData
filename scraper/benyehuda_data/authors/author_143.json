@@ -1,0 +1,50 @@
+{
+  "id": 143,
+  "url": "https://benyehuda.org/author/143",
+  "metadata": {
+    "name": "חיים אהרן קפלן",
+    "sort_name": "קפלן, חיים אהרן",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1880",
+      "death_year": "1942"
+    },
+    "bio_snippet": "מחנך ופדגוג יהודי בוורשה. היומן שכתב בגטו ורשה בעברית מהווה אחד המסמכים החשובים על חיי היהודים בגטו שנכתבו כעדות ראשונית של תושב המקום. נספה בטרבלינקה בגירוש הגדול מהגטו לטרבלינקה באוגוסט 1942",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir"
+    ],
+    "impressions_count": 16649
+  },
+  "texts": {
+    "author": [
+      8460,
+      37553,
+      37554,
+      37555,
+      37556,
+      37603,
+      37604,
+      37605,
+      37606,
+      37607,
+      37608
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

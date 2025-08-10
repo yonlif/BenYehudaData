@@ -1,0 +1,40 @@
+{
+  "id": 3301,
+  "url": "https://benyehuda.org/author/3301",
+  "metadata": {
+    "name": "יצחק בשביס־זינגר",
+    "sort_name": "בשביס־זינגר, יצחק ",
+    "other_designations": "יצחק בשביס-זינגר; יצחק בשביס זינגר; ורשבסקי;  ד. סגל",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1902",
+      "death_year": "1991"
+    },
+    "bio_snippet": "מגדולי סופרי היידיש; סופר יהודי פולני, חתן פרס נובל לספרות לשנת 1978. חי בפולין ולאחר מכן בארצות הברית",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 459
+  },
+  "texts": {
+    "author": [
+      56129,
+      56130
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

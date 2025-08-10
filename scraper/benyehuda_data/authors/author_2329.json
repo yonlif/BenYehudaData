@@ -1,0 +1,40 @@
+{
+  "id": 2329,
+  "url": "https://benyehuda.org/author/2329",
+  "metadata": {
+    "name": "ישראל קושטא",
+    "sort_name": "קושטא, ישראל ",
+    "other_designations": "ישראל בן עמנואל קושטא",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1819",
+      "death_year": "1897"
+    },
+    "bio_snippet": "סופר עברי, רב, פרשן ומהדיר מליבורנו",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 270
+  },
+  "texts": {
+    "author": [
+      40809,
+      42257
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

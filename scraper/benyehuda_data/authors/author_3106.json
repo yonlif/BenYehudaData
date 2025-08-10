@@ -1,0 +1,40 @@
+{
+  "id": 3106,
+  "url": "https://benyehuda.org/author/3106",
+  "metadata": {
+    "name": "דוד מיזלר",
+    "sort_name": "מיזלר, דוד ",
+    "other_designations": "דוד מייזלר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1918",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד פולין, למד בסמינר למורים בירושלים ולימד במוסד החינוכי במרחביה. נהרג במלחמת העצמאות בהפצצה על מרחביה [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 159
+  },
+  "texts": {
+    "author": [
+      54842,
+      54843
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

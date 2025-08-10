@@ -1,0 +1,46 @@
+{
+  "id": 3189,
+  "url": "https://benyehuda.org/author/3189",
+  "metadata": {
+    "name": "יצחק לאור",
+    "sort_name": "לאור, יצחק ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1948",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר, סופר, מחזאי, עורך, מבקר ספרות ופובליציסט ישראלי, וכמו כן פעיל שמאל רדיקלי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 570
+  },
+  "texts": {
+    "author": [
+      54869,
+      56360,
+      56361,
+      57170,
+      57171,
+      57172,
+      57173
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

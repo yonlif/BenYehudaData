@@ -1,0 +1,45 @@
+{
+  "id": 2718,
+  "url": "https://benyehuda.org/author/2718",
+  "metadata": {
+    "name": "דורי מנור",
+    "sort_name": "מנור, דורי ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1971",
+      "death_year": ""
+    },
+    "bio_snippet": " משורר, עורך, סופר, מתרגם, מסאי וחוקר ספרות ישראלי, חתן פרס יהודה עמיחי למשוררים עבריים ופרס טשרניחובסקי לתרגומי מופת. בעל תואר אביר במסדר האמנויות והספרות של צרפת על תרומתו להפצת התרבות הצרפתית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 1850
+  },
+  "texts": {
+    "author": [
+      48518,
+      48549,
+      48550
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      54030,
+      54031
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

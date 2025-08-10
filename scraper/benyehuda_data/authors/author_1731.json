@@ -1,0 +1,69 @@
+{
+  "id": 1731,
+  "url": "https://benyehuda.org/author/1731",
+  "metadata": {
+    "name": "דוד תמר",
+    "sort_name": "תמר, דוד ",
+    "other_designations": "דוד שלמה תמר",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1925",
+      "death_year": "2005"
+    },
+    "bio_snippet": "חוקר היסטוריה יהודית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 7624
+  },
+  "texts": {
+    "author": [
+      34650,
+      34651,
+      35544,
+      35545,
+      35546,
+      36096,
+      36097,
+      36098,
+      36099,
+      36100,
+      36101,
+      36102,
+      36103,
+      36104,
+      36105,
+      36106,
+      36107,
+      36108,
+      36109,
+      36110,
+      36111,
+      36643,
+      36644,
+      36645,
+      36646,
+      36647,
+      36648,
+      36649,
+      36650,
+      36651
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 2986,
+  "url": "https://benyehuda.org/author/2986",
+  "metadata": {
+    "name": "גבריאלה אלישע",
+    "sort_name": "אלישע, גבריאלה ",
+    "other_designations": "אלה בת־ציון; אלה בת ציון; אלה בת-ציון",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1954",
+      "death_year": "2019"
+    },
+    "bio_snippet": " משוררת, מתרגמת ועורכת ישראלית. הוציאה לאור אחד עשר קובצי שירה, תרגמה שירה מאנגלית ומצרפתית, ערכה את מרפסת: קונטרסים לשירה בשנים 1990–1992, וזכתה בפרסים ספרותיים רבים. פרסמה גם בשם העט אלה בת־ציון",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 212
+  },
+  "texts": {
+    "author": [
+      54168,
+      54883
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

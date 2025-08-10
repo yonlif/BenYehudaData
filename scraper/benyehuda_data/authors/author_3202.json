@@ -1,0 +1,44 @@
+{
+  "id": 3202,
+  "url": "https://benyehuda.org/author/3202",
+  "metadata": {
+    "name": "סרגיי מיכאלקוב",
+    "sort_name": "מיכאלקוב, סרגיי ",
+    "other_designations": "סרגיי מיכלקוב",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1913",
+      "death_year": "2009"
+    },
+    "bio_snippet": "משורר סובייטי, מחבר המנון ברית המועצות והמנון הפדרציה הרוסית ושירי ילדים. לכבוד יום הולדתו ה־95 הוענק למיכאלקוב עיטור אנדריי הקדוש - העיטור הגבוה ביותר ברוסיה",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "fables"
+    ],
+    "impressions_count": 74
+  },
+  "texts": {
+    "author": [
+      19254,
+      19255,
+      19256,
+      19257,
+      19258,
+      19259
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

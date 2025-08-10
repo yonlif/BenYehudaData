@@ -1,0 +1,49 @@
+{
+  "id": 902,
+  "url": "https://benyehuda.org/author/902",
+  "metadata": {
+    "name": "אריה אהרוני",
+    "sort_name": "אהרוני, אריה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1923",
+      "death_year": "2019"
+    },
+    "bio_snippet": "סופר, עורך, ומתרגם שירה וסיפורת מיידיש, רוסית ואנגלית. עיקר פועלו הספרותי הוא תרגום שלם, מיידיש לעברית, של כל כתבי שלום עליכם. זכה בפרס אקו\"ם, פרס היצירה על שם לוי אשכול ופרס שרת החינוך",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 1221
+  },
+  "texts": {
+    "author": [
+      25657,
+      53708,
+      58386
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      34913,
+      34914,
+      34915,
+      34916,
+      34917,
+      34918
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

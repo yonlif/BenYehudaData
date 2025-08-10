@@ -1,0 +1,39 @@
+{
+  "id": 864,
+  "url": "https://benyehuda.org/author/864",
+  "metadata": {
+    "name": "פטר רוזגר",
+    "sort_name": "רוזגר, פטר ",
+    "other_designations": "רוסגר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1843",
+      "death_year": "1918"
+    },
+    "bio_snippet": "סופר ומשורר אוסטרי",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 476
+  },
+  "texts": {
+    "author": [
+      24802
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

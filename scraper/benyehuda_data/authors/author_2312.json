@@ -1,0 +1,39 @@
+{
+  "id": 2312,
+  "url": "https://benyehuda.org/author/2312",
+  "metadata": {
+    "name": "מלאכי הכהן",
+    "sort_name": "הכהן, מלאכי ",
+    "other_designations": "מלאכי בן יעקב הכהן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1700",
+      "death_year": "1771"
+    },
+    "bio_snippet": " רב איטלקי, מגדולי רבני ליוורנו במאה ה־18. נודע בספרו האנציקלופדי לכללי התלמוד \"יד מלאכי\"",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 131
+  },
+  "texts": {
+    "author": [
+      40785
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

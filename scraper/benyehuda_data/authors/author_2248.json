@@ -1,0 +1,39 @@
+{
+  "id": 2248,
+  "url": "https://benyehuda.org/author/2248",
+  "metadata": {
+    "name": "יואב בן יחיאל מבית אל",
+    "sort_name": "מבית אל, יואב בן יחיאל ",
+    "other_designations": "יואב בן יחיאל מן הכנסת",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "מרומא, חי במחצית הראשונה של המאה ה־14",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 106
+  },
+  "texts": {
+    "author": [
+      40725
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

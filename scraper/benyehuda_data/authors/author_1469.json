@@ -1,0 +1,65 @@
+{
+  "id": 1469,
+  "url": "https://benyehuda.org/author/1469",
+  "metadata": {
+    "name": "יהודה ברגמן",
+    "sort_name": "ברגמן, יהודה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1874",
+      "death_year": "1954"
+    },
+    "bio_snippet": "רב, סופר מחבר מאמרים בחוכמת ישראל, במדע היהדות ובפולקלור היהודי [ע\"פ האנציקלופדיה של חלוצי הישוב ובוניו / דוד תדהר]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 5619
+  },
+  "texts": {
+    "author": [
+      33315,
+      54800,
+      54801,
+      54802,
+      55122,
+      55123,
+      55230,
+      55231,
+      55232,
+      55233,
+      55402,
+      55403,
+      55432,
+      55433,
+      55900,
+      55901,
+      55902,
+      55903,
+      55904,
+      55905,
+      55906,
+      55907,
+      55908,
+      55909,
+      55910,
+      55911
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

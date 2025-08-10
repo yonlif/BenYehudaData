@@ -1,0 +1,41 @@
+{
+  "id": 2366,
+  "url": "https://benyehuda.org/author/2366",
+  "metadata": {
+    "name": "אליהו מני",
+    "sort_name": "מני, אליהו ",
+    "other_designations": "אליהו סלימאן מני",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1818",
+      "death_year": "1899"
+    },
+    "bio_snippet": "רבה הראשי של חברון, מגדולי רבני יהדות עיראק",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 254
+  },
+  "texts": {
+    "author": [
+      44192,
+      44193,
+      44194
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

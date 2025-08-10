@@ -1,0 +1,39 @@
+{
+  "id": 3145,
+  "url": "https://benyehuda.org/author/3145",
+  "metadata": {
+    "name": "ישראל צ'כנוביץ",
+    "sort_name": "צ'כנוביץ, ישראל ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1927",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד ליטא. במלחמת העולם השנייה נכלא בגיטו קובנה, שם מתה אחותו, ואיבד את אביו במחנה עבודה בגרמניה. האונייה שעלה בה ארצה נתפסה בידי הבריטים,  והוא נשלח עם כל נוסעיה לקפריסין. נפל במלחמת השחרור בשמירה על בית חרושת בקרבת מקווה ישראל [על פי \"גווילי אש\"]",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 67
+  },
+  "texts": {
+    "author": [
+      54939
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

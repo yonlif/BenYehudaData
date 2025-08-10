@@ -1,0 +1,39 @@
+{
+  "id": 2238,
+  "url": "https://benyehuda.org/author/2238",
+  "metadata": {
+    "name": "הלל בן שמואל",
+    "sort_name": "בן שמואל, הלל ",
+    "other_designations": "הלל מורונה (שם שגוי)",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "מחצית ראשונה של המאה ה־13",
+      "death_year": "1295"
+    },
+    "bio_snippet": "נולד באיטליה במחצית הראשונה של המאה הי\"ג, חי בבַּרְצֵלוֹנָה, רוֹמָא, קַפּוּאָה ופֿוֹרְלִי, מת סמוך לשנת 1295",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 161
+  },
+  "texts": {
+    "author": [
+      38436
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

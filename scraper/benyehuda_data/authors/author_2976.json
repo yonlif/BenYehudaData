@@ -1,0 +1,48 @@
+{
+  "id": 2976,
+  "url": "https://benyehuda.org/author/2976",
+  "metadata": {
+    "name": "מאיר ויזלטיר",
+    "sort_name": "ויזלטיר, מאיר ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1941",
+      "death_year": "2023"
+    },
+    "bio_snippet": "משורר ומתרגם ישראלי. מהבולטים שבמשוררי ובמתרגמי ישראל, פרופסור בחוג לספרות עברית והשוואתית באוניברסיטת חיפה. חתן פרס ישראל לספרות ושירה לשנת תש\"ס (2000)",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 530
+  },
+  "texts": {
+    "author": [
+      54151,
+      54152,
+      54884,
+      57226,
+      57227,
+      58699,
+      58700
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      54871
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 881,
+  "url": "https://benyehuda.org/author/881",
+  "metadata": {
+    "name": "מרדכי הורוביץ",
+    "sort_name": "הורוביץ, מרדכי",
+    "other_designations": "מרדכי (מקס) הורוביץ",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1926",
+      "death_year": "2010"
+    },
+    "bio_snippet": "עורך דין, סופר ומשורר ישראלי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 7309
+  },
+  "texts": {
+    "author": [
+      42264,
+      53323
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

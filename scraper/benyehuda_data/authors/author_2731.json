@@ -1,0 +1,39 @@
+{
+  "id": 2731,
+  "url": "https://benyehuda.org/author/2731",
+  "metadata": {
+    "name": "נולי עומר",
+    "sort_name": "עומר, נולי ",
+    "other_designations": "נעה עומר; נועה עומר; נעה עמר; תמנע המניאקית",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1960",
+      "death_year": ""
+    },
+    "bio_snippet": " שחקנית, קומיקאית ואמנית רב תחומית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 94
+  },
+  "texts": {
+    "author": [
+      48803
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

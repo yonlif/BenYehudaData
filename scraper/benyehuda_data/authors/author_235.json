@@ -1,0 +1,44 @@
+{
+  "id": 235,
+  "url": "https://benyehuda.org/author/235",
+  "metadata": {
+    "name": "מוריס מטרלינק",
+    "sort_name": "מטרלינק, מוריס",
+    "other_designations": "מוריס מֶטֶרְלִינְק",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1862",
+      "death_year": "1949"
+    },
+    "bio_snippet": "היה משורר ומחזאי בלגי, זוכה פרס נובל לספרות לשנת 1911.",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1441
+  },
+  "texts": {
+    "author": [
+      1238,
+      1562
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      6864,
+      32378,
+      41670
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3471,
+  "url": "https://benyehuda.org/author/3471",
+  "metadata": {
+    "name": "שמחה אריה הלוי קליינר",
+    "sort_name": "קליינר, שמחה אריה הלוי",
+    "other_designations": "שמחה הלוי מהרובשוב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "פרשן ומשורר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 31
+  },
+  "texts": {
+    "author": [
+      40686
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

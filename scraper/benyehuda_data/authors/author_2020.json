@@ -1,0 +1,39 @@
+{
+  "id": 2020,
+  "url": "https://benyehuda.org/author/2020",
+  "metadata": {
+    "name": "שבתי דונולו",
+    "sort_name": "דונולו, שבתי ",
+    "other_designations": "שבתאי בר אברהם דונולו; שבתי דונולו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "913",
+      "death_year": "982"
+    },
+    "bio_snippet": "רופא וחכם סוד יהודי־איטלקי מהעיר אוריה שבדרום איטליה, ספרו הוא ספר הרפואה העברי הראשון על אדמת אירופה הנוצרית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 235
+  },
+  "texts": {
+    "author": [
+      38405
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

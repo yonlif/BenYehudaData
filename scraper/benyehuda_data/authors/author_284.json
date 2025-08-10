@@ -1,0 +1,45 @@
+{
+  "id": 284,
+  "url": "https://benyehuda.org/author/284",
+  "metadata": {
+    "name": "הרמן מלוויל",
+    "sort_name": "מלוויל, הרמן",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1819",
+      "death_year": "1891"
+    },
+    "bio_snippet": "הרמן מלוויל היה סופר ומשורר אמריקאי, ידוע במיוחד בזכות הרומן \"מובי דיק\". ",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 5055
+  },
+  "texts": {
+    "author": [
+      4376,
+      5137,
+      26022,
+      44786,
+      44787,
+      44788,
+      44789
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

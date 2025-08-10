@@ -1,0 +1,37 @@
+{
+  "id": 2988,
+  "url": "https://benyehuda.org/author/2988",
+  "metadata": {
+    "name": "אברהם עוז",
+    "sort_name": "עוז, אברהם",
+    "other_designations": "אבי עוז",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1944",
+      "death_year": ""
+    },
+    "bio_snippet": " חוקר ופרופסור לתיאטרון, מחזאי, במאי תיאטרון, עורך ומתרגם ישראלי. ",
+    "languages": [],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 34
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      54147
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

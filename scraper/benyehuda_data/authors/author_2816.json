@@ -1,0 +1,39 @@
+{
+  "id": 2816,
+  "url": "https://benyehuda.org/author/2816",
+  "metadata": {
+    "name": "אוסקר המרשטיין",
+    "sort_name": "המרשטיין, אוסקר ",
+    "other_designations": "אוסקר גרילי קלנדנינג המרשטיין השני",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1895",
+      "death_year": "1960"
+    },
+    "bio_snippet": "פזמונאי ומחזאי אמריקאי ממוצא יהודי, ועסק גם בהפקה ובימוי מחזות זמר",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 77
+  },
+  "texts": {
+    "author": [
+      12589
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 631,
+  "url": "https://benyehuda.org/author/631",
+  "metadata": {
+    "name": "שלמה פפנהיים",
+    "sort_name": "פפנהיים, שלמה",
+    "other_designations": "שלמה פאפנהיים, רש\"פ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1740",
+      "death_year": "1814"
+    },
+    "bio_snippet": "בלשן ומשורר עברי, מן המתונים שבאנשי תנועת ההשכלה.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 1381
+  },
+  "texts": {
+    "author": [
+      17457
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

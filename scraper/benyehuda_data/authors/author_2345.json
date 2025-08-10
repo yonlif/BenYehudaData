@@ -1,0 +1,39 @@
+{
+  "id": 2345,
+  "url": "https://benyehuda.org/author/2345",
+  "metadata": {
+    "name": "ז'וזפין סולרי",
+    "sort_name": "סולרי, ז'וזפין ",
+    "other_designations": "ז'וזף מארי סולרי; ז'וזפין סולארי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1815",
+      "death_year": "1891"
+    },
+    "bio_snippet": "משורר צרפתי",
+    "languages": [
+      "it"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 34
+  },
+  "texts": {
+    "author": [
+      1374
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

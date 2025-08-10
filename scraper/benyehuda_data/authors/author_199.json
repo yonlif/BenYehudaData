@@ -1,0 +1,39 @@
+{
+  "id": 199,
+  "url": "https://benyehuda.org/author/199",
+  "metadata": {
+    "name": "שלמה אבן צקבל",
+    "sort_name": "צקבל, שלמה אבן",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "ה",
+      "death_year": "ה"
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1308
+  },
+  "texts": {
+    "author": [
+      332
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

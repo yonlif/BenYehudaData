@@ -1,0 +1,49 @@
+{
+  "id": 458,
+  "url": "https://benyehuda.org/author/458",
+  "metadata": {
+    "name": "יוסף בן מתתיהו",
+    "sort_name": "בן מתתיהו, יוסף",
+    "other_designations": "יוספוס פלאביוס; יוספוס פלביוס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "37",
+      "death_year": "100"
+    },
+    "bio_snippet": "היסטוריון, סופר ומצביא יהודי בתקופת המרד הגדול, במהלכו נפל בשבי הרומאים.",
+    "languages": [
+      "grc",
+      "el"
+    ],
+    "genres": [
+      "article",
+      "memoir",
+      "reference"
+    ],
+    "impressions_count": 81029
+  },
+  "texts": {
+    "author": [
+      11124,
+      12030,
+      16386,
+      22345,
+      22346,
+      29430,
+      31467,
+      44219
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 548,
+  "url": "https://benyehuda.org/author/548",
+  "metadata": {
+    "name": "חגית הלפרין",
+    "sort_name": "הלפרין, חגית",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1945",
+      "death_year": ""
+    },
+    "bio_snippet": "פרופ' לספרות ישראלית. ניהלה את ארכיוני הסופרים של מרכז קיפ לחקר הספרות והתרבות העברית באוניברסיטת תל-אביב (1971– 2014), מרצה במכללת סמינר הקיבוצים.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 23236
+  },
+  "texts": {
+    "author": [
+      13589,
+      13590,
+      13592,
+      13945,
+      25489,
+      33174,
+      44677,
+      49966
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

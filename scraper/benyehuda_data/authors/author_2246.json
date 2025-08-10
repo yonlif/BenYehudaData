@@ -1,0 +1,41 @@
+{
+  "id": 2246,
+  "url": "https://benyehuda.org/author/2246",
+  "metadata": {
+    "name": "שמריה האיקריטי",
+    "sort_name": "האיקריטי, שמריה ",
+    "other_designations": "שמריה בן אליה האיקריטי; שמריה בן אליהו האיקריטי; שמריה בן אליה היווני; שמריה מנגרופונט",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1275",
+      "death_year": "1352"
+    },
+    "bio_snippet": "רב יהודי־איטלקי, פילוסוף יהודי, משורר ופרשן המקרא.\r\nניסה לקרב ולהשיב את היהדות הקראית, אל היהדות הרבנית המסורתית. לפי האגדה, בסוף ימיו נאשם שהציג את עצמו ב\"אל־אנדלוס\" כמשיח, נכלא בידי השלטונות המקומיים ונפטר בכלאו",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 367
+  },
+  "texts": {
+    "author": [
+      40723,
+      41703,
+      41704
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

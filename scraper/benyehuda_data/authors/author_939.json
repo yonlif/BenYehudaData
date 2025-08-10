@@ -1,0 +1,39 @@
+{
+  "id": 939,
+  "url": "https://benyehuda.org/author/939",
+  "metadata": {
+    "name": "דב בן שמואל בר",
+    "sort_name": "בר, דב בן שמואל; בער, דב בן שמואל; דב בר בן שמואל",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2238
+  },
+  "texts": {
+    "author": [
+      26313
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

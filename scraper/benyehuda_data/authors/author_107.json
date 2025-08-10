@@ -1,0 +1,43 @@
+{
+  "id": 107,
+  "url": "https://benyehuda.org/author/107",
+  "metadata": {
+    "name": "יצחק אדוארד זלקינסון",
+    "sort_name": "זלקינסון, יצחק אדוארד",
+    "other_designations": "יע\"ס: יצחק עדוארד זאַלקינסאָן, יצחק זלקינסון, יצחק סלקינסון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1820",
+      "death_year": "1883"
+    },
+    "bio_snippet": "מתרגם עברי בן תקופת ההשכלה, יהודי מומר.",
+    "languages": [],
+    "genres": [
+      "drama",
+      "poetry"
+    ],
+    "impressions_count": 1261
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      3182,
+      12942,
+      21238
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      4138,
+      10672
+    ]
+  }
+}

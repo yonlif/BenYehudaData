@@ -1,0 +1,39 @@
+{
+  "id": 74,
+  "url": "https://benyehuda.org/author/74",
+  "metadata": {
+    "name": "שמואל ישראל מולדר",
+    "sort_name": "מולדר, שמואל ישראל",
+    "other_designations": "שמואל בן עזריאל, שמואל ישראל  (הירש) ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1792",
+      "death_year": "1862"
+    },
+    "bio_snippet": "סופר, מחנך ומתרגם יהודי-הולנדי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1279
+  },
+  "texts": {
+    "author": [
+      8176
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

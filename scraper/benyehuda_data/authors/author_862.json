@@ -1,0 +1,51 @@
+{
+  "id": 862,
+  "url": "https://benyehuda.org/author/862",
+  "metadata": {
+    "name": "בן־ציון יהושע",
+    "sort_name": "יהושע, בן־ציון ",
+    "other_designations": "בן־ציון יהושע־רז; בן ציון יהושע־רז; בן-ציון יהושע-רז",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1936",
+      "death_year": ""
+    },
+    "bio_snippet": " סופר, חוקר עמים ויהודים במרכז אסיה ומוציא לאור עברי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2898
+  },
+  "texts": {
+    "author": [
+      24754,
+      25448,
+      28827,
+      28828,
+      33979,
+      33980,
+      33981,
+      48287,
+      48288,
+      48289,
+      48290,
+      48291,
+      48292
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

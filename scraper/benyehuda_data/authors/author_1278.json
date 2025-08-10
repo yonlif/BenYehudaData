@@ -1,0 +1,52 @@
+{
+  "id": 1278,
+  "url": "https://benyehuda.org/author/1278",
+  "metadata": {
+    "name": "משה כרמי ",
+    "sort_name": "כרמי, משה ",
+    "other_designations": "ינובסקי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1893",
+      "death_year": "1952"
+    },
+    "bio_snippet": "מחנך ישראלי, מראשוני קיבוץ עין־חרוד בעמק יזרעאל, וממניחי המסד למערכת החינוך הייחודית של התנועה הקיבוצית\r\n\r\n",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "letters"
+    ],
+    "impressions_count": 2273
+  },
+  "texts": {
+    "author": [
+      34246,
+      34247,
+      34248,
+      34249,
+      34250,
+      34251,
+      34252,
+      34253,
+      34254,
+      34255,
+      34256,
+      34257,
+      34258,
+      34259
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2309,
+  "url": "https://benyehuda.org/author/2309",
+  "metadata": {
+    "name": "יעקב דניאל אולמו",
+    "sort_name": "אולמו, יעקב דניאל ",
+    "other_designations": "יעקב דניאל בן אברהם אולמו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1690",
+      "death_year": "1757"
+    },
+    "bio_snippet": "רב ומשורר יהודי־איטלקי מפררה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 401
+  },
+  "texts": {
+    "author": [
+      40783
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

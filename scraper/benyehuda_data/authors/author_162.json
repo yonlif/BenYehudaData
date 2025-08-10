@@ -1,0 +1,39 @@
+{
+  "id": 162,
+  "url": "https://benyehuda.org/author/162",
+  "metadata": {
+    "name": "שמשון צוקרמנדל",
+    "sort_name": "צוקרמנדל, שמשון",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "unknown",
+      "period": "enlightenment",
+      "birth_year": "1836",
+      "death_year": "1917"
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 1113
+  },
+  "texts": {
+    "author": [
+      7481
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

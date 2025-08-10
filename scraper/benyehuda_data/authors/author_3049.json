@@ -1,0 +1,47 @@
+{
+  "id": 3049,
+  "url": "https://benyehuda.org/author/3049",
+  "metadata": {
+    "name": "זהר דיין",
+    "sort_name": "דיין, זהר ",
+    "other_designations": "זהר דין; זוריק דין; זוריק דיין; זוהר דיין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1926",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד נהלל. התגייס לבריגדה היהודית בצבא הבריטי. נפל במלחמת העצמאות בקרב ברמת יוחנן. הניח אישה ובן  [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 411
+  },
+  "texts": {
+    "author": [
+      54493,
+      54559,
+      54560,
+      54561,
+      54562,
+      54563,
+      54564,
+      54565
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 551,
+  "url": "https://benyehuda.org/author/551",
+  "metadata": {
+    "name": "אמיל לודוויג",
+    "sort_name": "לודוויג, אמיל",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1881",
+      "death_year": "1948"
+    },
+    "bio_snippet": "סופר יהודי-גרמני, שהתפרסם בביוגרפיות שכתב. ",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2282
+  },
+  "texts": {
+    "author": [
+      13234
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      51243
+    ]
+  }
+}

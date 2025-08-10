@@ -1,0 +1,76 @@
+{
+  "id": 1215,
+  "url": "https://benyehuda.org/author/1215",
+  "metadata": {
+    "name": "אריה זקס",
+    "sort_name": "זקס, אריה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1932",
+      "death_year": "1992"
+    },
+    "bio_snippet": "משורר, מתרגם, מעבד ובמאי תיאטרון, מבקר, איש בוהמה, פרופסור באוניברסיטה העברית בירושלים ומייסד החוג לתולדות התיאטרון בה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 669
+  },
+  "texts": {
+    "author": [
+      34451
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      34409,
+      34410,
+      34411,
+      34412,
+      34413,
+      34414,
+      34415,
+      34416,
+      34417,
+      34418,
+      34419,
+      34420,
+      34430,
+      34431,
+      34432,
+      34433,
+      34435,
+      34436,
+      34437,
+      34438,
+      34439,
+      34440,
+      34441,
+      34442,
+      34443,
+      34444,
+      34445,
+      34446,
+      34447,
+      34448,
+      34449,
+      34450,
+      34452,
+      34453,
+      34454
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

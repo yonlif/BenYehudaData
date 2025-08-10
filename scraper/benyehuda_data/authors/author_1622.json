@@ -1,0 +1,40 @@
+{
+  "id": 1622,
+  "url": "https://benyehuda.org/author/1622",
+  "metadata": {
+    "name": "משה רימוס",
+    "sort_name": "רימוס, משה ",
+    "other_designations": "משה בן יצחק רימוס; משה רמוס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1406",
+      "death_year": "1430"
+    },
+    "bio_snippet": "רופא ומשורר קטלוני־יהודי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 323
+  },
+  "texts": {
+    "author": [
+      34338,
+      40734
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

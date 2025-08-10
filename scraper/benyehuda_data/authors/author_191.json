@@ -1,0 +1,52 @@
+{
+  "id": 191,
+  "url": "https://benyehuda.org/author/191",
+  "metadata": {
+    "name": "אברהם אידלסון",
+    "sort_name": "אידלסון, אברהם",
+    "other_designations": "אברהם דוידוביץ אידלסון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1865",
+      "death_year": "1921"
+    },
+    "bio_snippet": "מנהיג ציוני, עיתונאי ועורך עיתונים יהודיים־ציוניים מרכזיים ברוסיה",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 4537
+  },
+  "texts": {
+    "author": [
+      233,
+      1617,
+      1925,
+      4144,
+      4274,
+      6264,
+      6585,
+      8084,
+      22030,
+      32469,
+      32470,
+      32471,
+      32472
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

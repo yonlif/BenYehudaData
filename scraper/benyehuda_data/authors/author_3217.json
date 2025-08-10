@@ -1,0 +1,42 @@
+{
+  "id": 3217,
+  "url": "https://benyehuda.org/author/3217",
+  "metadata": {
+    "name": "אהרן שבתאי",
+    "sort_name": "שבתאי, אהרן ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1939",
+      "death_year": ""
+    },
+    "bio_snippet": " משורר עברי, מרצה, ומתרגם מיוונית עתיקה. תרגם עשרות מחזות יווניים קלאסיים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 326
+  },
+  "texts": {
+    "author": [
+      56227,
+      56355,
+      56376
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

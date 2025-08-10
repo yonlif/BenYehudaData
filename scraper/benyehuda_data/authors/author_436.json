@@ -1,0 +1,60 @@
+{
+  "id": 436,
+  "url": "https://benyehuda.org/author/436",
+  "metadata": {
+    "name": "אלכסנדר אהרנסון",
+    "sort_name": "אהרנסון, אלכסנדר",
+    "other_designations": "אלכסנדר אהרונסון; חייל פשוט",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1888",
+      "death_year": "1948"
+    },
+    "bio_snippet": "פעיל ציוני, עיתונאי ומחבר מארץ ישראל, בן למשפחת אהרנסון מזכרון יעקב.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir"
+    ],
+    "impressions_count": 7583
+  },
+  "texts": {
+    "author": [
+      10873,
+      11772,
+      11773,
+      11774,
+      11775,
+      11776,
+      11777,
+      11778,
+      11779,
+      11780,
+      11781,
+      11782,
+      11783,
+      11784,
+      11785,
+      11786,
+      11787,
+      11788,
+      11789,
+      11790,
+      11791
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

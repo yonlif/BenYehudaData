@@ -1,0 +1,41 @@
+{
+  "id": 1849,
+  "url": "https://benyehuda.org/author/1849",
+  "metadata": {
+    "name": "יצחק אייזיק טויבש",
+    "sort_name": "טויבש, יצחק אייזיק",
+    "other_designations": "יצחק אייזיק בן יחיאל מיכל טויבש; א\"ט מבערלאד; יצחק איזיק טאובס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1837",
+      "death_year": "1930"
+    },
+    "bio_snippet": "רבם של יהודי ברלאד, רומניה, במשך כ־30 שנה ולאחר מכן רבם של יהודי בוקרשט משנת 1894, מתרגם שירה מרומנית לעברית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 367
+  },
+  "texts": {
+    "author": [
+      36609,
+      36610,
+      36611
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

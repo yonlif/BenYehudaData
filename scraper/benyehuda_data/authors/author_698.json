@@ -1,0 +1,41 @@
+{
+  "id": 698,
+  "url": "https://benyehuda.org/author/698",
+  "metadata": {
+    "name": "יוליוש סלובצקי",
+    "sort_name": "סלובצקי, יוליוש",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1809",
+      "death_year": "1849"
+    },
+    "bio_snippet": "משורר ומחזאי רומנטי פולני, הנחשב לאחד משלושת המשוררים הלאומיים של פולין ואבי הדרמה הפולנית. ",
+    "languages": [
+      "pl"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 1378
+  },
+  "texts": {
+    "author": [
+      19214,
+      24465
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

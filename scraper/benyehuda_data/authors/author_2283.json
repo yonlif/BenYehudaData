@@ -1,0 +1,42 @@
+{
+  "id": 2283,
+  "url": "https://benyehuda.org/author/2283",
+  "metadata": {
+    "name": "שמואל בן אלחנן יעקב ארקיוולטי",
+    "sort_name": "ארקיוולטי, שמואל בן אלחנן יעקב ",
+    "other_designations": "שמואל בן אלחנן יעקב ארקוולטי; Samuel Archevolti",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1530",
+      "death_year": "1611"
+    },
+    "bio_snippet": " סופר, מדקדק ופייטן יהודי מאיטליה (נולד בצ'זנה, נפטר בפדובה)",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 329
+  },
+  "texts": {
+    "author": [
+      40754,
+      41965,
+      41966,
+      41967
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

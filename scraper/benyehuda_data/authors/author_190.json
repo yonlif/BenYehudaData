@@ -1,0 +1,39 @@
+{
+  "id": 190,
+  "url": "https://benyehuda.org/author/190",
+  "metadata": {
+    "name": "וילהלם פריי",
+    "sort_name": "פריי, וילהלם",
+    "other_designations": "וילהלם פריי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1833",
+      "death_year": "1909"
+    },
+    "bio_snippet": "סופר ועיתונאי אוסטרי ממוצא יהודי. כתב, בין היתר, מערבונים (אולי בהשפעת הסופר הגרמני בן דורו – קארל מאי). עבד בוינה כעיתונאי.",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 512
+  },
+  "texts": {
+    "author": [
+      195
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 3153,
+  "url": "https://benyehuda.org/author/3153",
+  "metadata": {
+    "name": "אברהם קריצמן",
+    "sort_name": "קריצמן, אברהם ",
+    "other_designations": "אברהם שרידי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1912",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד שיקגו. נהרג במלחמת העצמאות בהתקפה על צריפין ויהודייה. הניח אישה ושני ילדים [על פי \"גווילי אש\"]",
+    "languages": [
+      "he",
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 321
+  },
+  "texts": {
+    "author": [
+      54591,
+      54592,
+      54593,
+      54594,
+      54595
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

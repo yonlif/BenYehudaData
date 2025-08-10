@@ -1,0 +1,59 @@
+{
+  "id": 741,
+  "url": "https://benyehuda.org/author/741",
+  "metadata": {
+    "name": "אהרן ברנשטיין",
+    "sort_name": "ברנשטיין, אהרן",
+    "other_designations": "אהרן בערנשטיין; אהרון ברנשטיין; א' רֶבֶּנשטיין ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1812",
+      "death_year": "1884"
+    },
+    "bio_snippet": "עיתונאי, פילוסוף אוטודידקט, מחבר ספרי מדע פופולרי, מהפכן יהודי-גרמני, מהוגי הדעות של היהדות הרפורמית.",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 3921
+  },
+  "texts": {
+    "author": [
+      22992,
+      35732,
+      35733,
+      35734,
+      35736,
+      36136,
+      36137,
+      36941,
+      36942,
+      36943,
+      37315,
+      37325,
+      37500,
+      37819,
+      37834,
+      37835,
+      37901,
+      38145,
+      38308,
+      38380,
+      38398
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

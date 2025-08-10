@@ -1,0 +1,40 @@
+{
+  "id": 763,
+  "url": "https://benyehuda.org/author/763",
+  "metadata": {
+    "name": "תומאס מיין ריד",
+    "sort_name": "ריד, תומאס מיין",
+    "other_designations": "תומס מיין ריד; תומס מין ריד; תומאס מין ריד; תומאס מיין-ריד; תומאס מיין־ריד",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1818",
+      "death_year": "1883"
+    },
+    "bio_snippet": "סופר אנגלי-אירי, מחבר רומני הרפתקאות וספרי ילדים ונוער.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 978
+  },
+  "texts": {
+    "author": [
+      22459,
+      53299
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 1066,
+  "url": "https://benyehuda.org/author/1066",
+  "metadata": {
+    "name": "שלמה רייכנשטיין",
+    "sort_name": "רייכנשטיין, שלמה ",
+    "other_designations": "שלמה ריכנשטיין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1902",
+      "death_year": "1942"
+    },
+    "bio_snippet": "סופר עברי, מהסופרים העבריים הראשונים של התנועה הקיבוצית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 1224
+  },
+  "texts": {
+    "author": [
+      36669,
+      36670,
+      36671,
+      36672,
+      36673,
+      36674,
+      36675,
+      36676,
+      56898
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

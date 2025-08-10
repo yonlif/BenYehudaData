@@ -1,0 +1,37 @@
+{
+  "id": 606,
+  "url": "https://benyehuda.org/author/606",
+  "metadata": {
+    "name": "שמואל שולם",
+    "sort_name": "שולם, שמואל",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "ה",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 262
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      16386
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

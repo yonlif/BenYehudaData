@@ -1,0 +1,40 @@
+{
+  "id": 564,
+  "url": "https://benyehuda.org/author/564",
+  "metadata": {
+    "name": "אלפרד דה מיסה",
+    "sort_name": "מיסה, אלפרד דה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1810",
+      "death_year": "1857"
+    },
+    "bio_snippet": "מחזאי, משורר וסופר צרפתי.",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 785
+  },
+  "texts": {
+    "author": [
+      13605,
+      39817
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

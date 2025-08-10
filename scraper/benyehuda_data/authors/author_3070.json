@@ -1,0 +1,39 @@
+{
+  "id": 3070,
+  "url": "https://benyehuda.org/author/3070",
+  "metadata": {
+    "name": "יצחק זמיר [1924]",
+    "sort_name": "זמיר, יצחק ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1924",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד ורשה, שירת בחטיבת הנגב. כתב שירה, צייר, ואסף והגדיר מאות צמחים בנגב. במלחמת העצמאות שירת כצלם במטוסים, ונהרג כשמטוסו הופל ליד עוג'ה אל חפיר. הוריו כינסו את עזבונו בספר \"דברי ימי יצחק\" [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 203
+  },
+  "texts": {
+    "author": [
+      54817
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

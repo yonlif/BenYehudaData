@@ -1,0 +1,40 @@
+{
+  "id": 2348,
+  "url": "https://benyehuda.org/author/2348",
+  "metadata": {
+    "name": "עזרא סופר",
+    "sort_name": "סופר, עזרא ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "מאה 19",
+      "death_year": ""
+    },
+    "bio_snippet": "סופר סתם ופייטן, חי במחצית הראשונה של המאה הי\"ט",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 133
+  },
+  "texts": {
+    "author": [
+      42994,
+      42995
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

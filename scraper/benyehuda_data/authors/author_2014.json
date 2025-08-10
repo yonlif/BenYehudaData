@@ -1,0 +1,41 @@
+{
+  "id": 2014,
+  "url": "https://benyehuda.org/author/2014",
+  "metadata": {
+    "name": "יהודה גור־אריה",
+    "sort_name": "גור־אריה, יהודה ",
+    "other_designations": "יהודה גור-אריה; יהודה גור אריה",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1934",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר עברי, מתרגם ועורך; ניצול השואה",
+    "languages": [],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 148
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      35400,
+      35401,
+      35402,
+      35403,
+      35404
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

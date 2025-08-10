@@ -1,0 +1,39 @@
+{
+  "id": 2310,
+  "url": "https://benyehuda.org/author/2310",
+  "metadata": {
+    "name": "אליעזר חפץ",
+    "sort_name": "חפץ, אליעזר ",
+    "other_designations": "אליעזר בן גרשם חפץ;  Eliezer Gentili ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "משורר, חי בגוריצה במחצית הראשונה של המאה ה־18",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 122
+  },
+  "texts": {
+    "author": [
+      40784
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

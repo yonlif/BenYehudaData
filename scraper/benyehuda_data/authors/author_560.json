@@ -1,0 +1,41 @@
+{
+  "id": 560,
+  "url": "https://benyehuda.org/author/560",
+  "metadata": {
+    "name": "שותא רוסתאוולי",
+    "sort_name": "רוסתאוולי, שותא",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1165",
+      "death_year": "1220"
+    },
+    "bio_snippet": " משורר גאורגי שחי במאה ה-12. נחשב לאחד מן המייצגים החשובים ביותר של ספרות ושירת ימי הביניים של גאורגיה, ואחד מגדולי המשוררים בכל הזמנים. כתב את הפואמה האפית הלאומית הגאורגית, \"עוטה עור הנמר\", שהפכה לחלק מהתודעה הלאומית הגאורגית.",
+    "languages": [
+      "ka",
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 3525
+  },
+  "texts": {
+    "author": [
+      13616,
+      13617
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

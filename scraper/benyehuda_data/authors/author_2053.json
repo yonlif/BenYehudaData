@@ -1,0 +1,40 @@
+{
+  "id": 2053,
+  "url": "https://benyehuda.org/author/2053",
+  "metadata": {
+    "name": "יצחק אייזיק לובצקי",
+    "sort_name": "לובצקי, יצחק אייזיק",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1872",
+      "death_year": "1921"
+    },
+    "bio_snippet": "מספר, מבקר, פובליציסט ומוזיקולוג עברי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 312
+  },
+  "texts": {
+    "author": [
+      39896,
+      53517
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

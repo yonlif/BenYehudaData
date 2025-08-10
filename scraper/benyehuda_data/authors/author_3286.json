@@ -1,0 +1,39 @@
+{
+  "id": 3286,
+  "url": "https://benyehuda.org/author/3286",
+  "metadata": {
+    "name": "שאול שארף",
+    "sort_name": "שארף, שאול ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1983",
+      "death_year": ""
+    },
+    "bio_snippet": "חוקר ומרצה למשפטים, משורר, סופר ועורך כתב עת [על־פי יהי ומקורות נוספים]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 208
+  },
+  "texts": {
+    "author": [
+      56478
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

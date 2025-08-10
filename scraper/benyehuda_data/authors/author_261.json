@@ -1,0 +1,62 @@
+{
+  "id": 261,
+  "url": "https://benyehuda.org/author/261",
+  "metadata": {
+    "name": "רודיארד קיפלינג",
+    "sort_name": "קיפלינג, רודיארד",
+    "other_designations": "ג'וזף רודיארד קיפלינג ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1865",
+      "death_year": "1936"
+    },
+    "bio_snippet": "היה מספר סיפורים קצרים, סופר ומשורר אנגלי. כיום מפורסם בעיקר בזכות ספר הילדים \"ספר הג'ונגל\". זוכה פרס נובל לספרות לשנת 1907.",
+    "languages": [
+      "en",
+      "he"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 12893
+  },
+  "texts": {
+    "author": [
+      1891,
+      4703,
+      5642,
+      6287,
+      6609,
+      7269,
+      7910,
+      7915,
+      8117,
+      8237,
+      8559,
+      19291,
+      19292,
+      19293,
+      39735,
+      57050,
+      57093,
+      57094,
+      57104
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      1143,
+      4735
+    ]
+  }
+}

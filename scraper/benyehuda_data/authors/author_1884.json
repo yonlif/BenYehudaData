@@ -1,0 +1,39 @@
+{
+  "id": 1884,
+  "url": "https://benyehuda.org/author/1884",
+  "metadata": {
+    "name": "חיים יוסף חוצנר",
+    "sort_name": "חוצנר, חיים יוסף",
+    "other_designations": "חיים יוסף בן שלמה חוצנר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1844",
+      "death_year": "1914"
+    },
+    "bio_snippet": "רב בבלפסט ובבית המדרש של מונטיפיורי ברמסגייט; פובליציסט, משורר, מחבר סאטירות וחוקר ספרות עברית של ימי הביניים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 214
+  },
+  "texts": {
+    "author": [
+      38153
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": 300,
+  "url": "https://benyehuda.org/author/300",
+  "metadata": {
+    "name": "בני מר",
+    "sort_name": "מר, בני",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1971",
+      "death_year": ""
+    },
+    "bio_snippet": "בני מֵר הוא מתרגם מיידיש, עיתונאי סופר ועורך ישראלי. עורך, בין השאר, את המוסף \"ספרים\" בעיתון \"הארץ\" ואת כתב העת \"דווקא\", המוקדש ל\"ארץ יידיש ותרבותה\" בחסות בית שלום עליכם בתל אביב.",
+    "languages": [],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 547
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      4449,
+      18633
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

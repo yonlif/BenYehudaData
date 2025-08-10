@@ -1,0 +1,65 @@
+{
+  "id": 2697,
+  "url": "https://benyehuda.org/author/2697",
+  "metadata": {
+    "name": "הרמן וגנר",
+    "sort_name": "וגנר, הרמן ",
+    "other_designations": "הרמן ואגנר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1840",
+      "death_year": "1929"
+    },
+    "bio_snippet": "גאוגרף וקרטוגרף גרמני",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2748
+  },
+  "texts": {
+    "author": [
+      48160,
+      48161,
+      48162,
+      48163,
+      48164,
+      48165,
+      48166,
+      48627,
+      48628,
+      48629,
+      48630,
+      48631,
+      48632,
+      48633,
+      48634,
+      48635,
+      48636,
+      48637,
+      48638,
+      48639,
+      48640,
+      48641,
+      48642,
+      48643,
+      48644,
+      48645,
+      48646
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

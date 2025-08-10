@@ -1,0 +1,42 @@
+{
+  "id": 3302,
+  "url": "https://benyehuda.org/author/3302",
+  "metadata": {
+    "name": "יהודה מלצר",
+    "sort_name": "מלצר, יהודה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1940",
+      "death_year": ""
+    },
+    "bio_snippet": "פילוסוף, עורך ומתרגם ישראלי. מייסד הוצאת הספרים \"ספרי עליית הגג\"",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 119
+  },
+  "texts": {
+    "author": [
+      56131
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      56130
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

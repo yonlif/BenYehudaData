@@ -1,0 +1,39 @@
+{
+  "id": 2299,
+  "url": "https://benyehuda.org/author/2299",
+  "metadata": {
+    "name": "יהודה בריאל",
+    "sort_name": "בריאל, יהודה ",
+    "other_designations": "יהודה לאון בן אליעזר בריאל; Leon Brieli",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1643",
+      "death_year": "1722"
+    },
+    "bio_snippet": "רב במנטובה, התמצא במדעים בני הזמן",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 83
+  },
+  "texts": {
+    "author": [
+      40773
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

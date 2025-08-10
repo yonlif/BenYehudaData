@@ -1,0 +1,41 @@
+{
+  "id": 3194,
+  "url": "https://benyehuda.org/author/3194",
+  "metadata": {
+    "name": "גדעון ירון",
+    "sort_name": "ירון, גדעון ",
+    "other_designations": "",
+    "intellectual_property": "unknown",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1953",
+      "death_year": ""
+    },
+    "bio_snippet": "עוסק בהוראת הספרות, פרסם בכתבי עת",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 248
+  },
+  "texts": {
+    "author": [
+      54878,
+      54879,
+      54880
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

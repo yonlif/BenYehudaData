@@ -1,0 +1,43 @@
+{
+  "id": 435,
+  "url": "https://benyehuda.org/author/435",
+  "metadata": {
+    "name": "יצחק ברקמן",
+    "sort_name": "ברקמן, יצחק",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1870",
+      "death_year": "1940"
+    },
+    "bio_snippet": "סופר ומחנך עברי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 1309
+  },
+  "texts": {
+    "author": [
+      13946,
+      13947,
+      13948,
+      45933
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

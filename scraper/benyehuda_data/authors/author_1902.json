@@ -1,0 +1,39 @@
+{
+  "id": 1902,
+  "url": "https://benyehuda.org/author/1902",
+  "metadata": {
+    "name": "יוסף בן תנחום הירושלמי",
+    "sort_name": "הירושלמי, יוסף בן תנחום ",
+    "other_designations": "יוסף הירושלמי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1262",
+      "death_year": ""
+    },
+    "bio_snippet": "חי במצרים במחצית השנייה של המאה הי\"ג ובראשית המאה הי\"ד. משורר, ידען בשירה העברית, במקרא ובפירושיו",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 176
+  },
+  "texts": {
+    "author": [
+      38149
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

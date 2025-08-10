@@ -1,0 +1,39 @@
+{
+  "id": 318,
+  "url": "https://benyehuda.org/author/318",
+  "metadata": {
+    "name": "ולטר גרינווד",
+    "sort_name": "גרינווד, ולטר",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1903",
+      "death_year": "1974"
+    },
+    "bio_snippet": "היה סופר אנגלי.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2075
+  },
+  "texts": {
+    "author": [
+      5582
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

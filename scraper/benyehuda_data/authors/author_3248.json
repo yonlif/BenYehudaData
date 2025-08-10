@@ -1,0 +1,39 @@
+{
+  "id": 3248,
+  "url": "https://benyehuda.org/author/3248",
+  "metadata": {
+    "name": "אלי הירש",
+    "sort_name": "הירש, אלי ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1962",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר, עורך ספרותי, מבקר ספרות ומתרגם ישראלי. חתן פרס היצירה לסופרים עבריים לשנת תשע\"ה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 87
+  },
+  "texts": {
+    "author": [
+      56363
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2954,
+  "url": "https://benyehuda.org/author/2954",
+  "metadata": {
+    "name": "פרידריך וילהלם מדר",
+    "sort_name": "מדר, פרידריך וילהלם ",
+    "other_designations": "ארנסט פרידריך וילהלם מדר; פרידריך וילהלם מאדר; פ' ו' מדר; פ\"ו מדר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1866",
+      "death_year": "1945"
+    },
+    "bio_snippet": "סופר ילדים ונוער גרמני",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 120
+  },
+  "texts": {
+    "author": [
+      53715
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 669,
+  "url": "https://benyehuda.org/author/669",
+  "metadata": {
+    "name": "עמנואל גייבל",
+    "sort_name": "גייבל, עמנואל",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1815",
+      "death_year": "1884"
+    },
+    "bio_snippet": "משורר ומחזאי גרמני.",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 57
+  },
+  "texts": {
+    "author": [
+      19210
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

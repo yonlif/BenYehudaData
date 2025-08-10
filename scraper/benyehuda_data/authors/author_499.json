@@ -1,0 +1,53 @@
+{
+  "id": 499,
+  "url": "https://benyehuda.org/author/499",
+  "metadata": {
+    "name": "אלכסנדר בלוק",
+    "sort_name": "בלוק, אלכסנדר",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1880",
+      "death_year": "1921"
+    },
+    "bio_snippet": "משורר רוסי.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 4940
+  },
+  "texts": {
+    "author": [
+      11458,
+      18992,
+      18993,
+      18994,
+      18995,
+      18996,
+      18997,
+      18998,
+      18999,
+      19000,
+      19001,
+      19002,
+      19009
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      43812
+    ]
+  }
+}

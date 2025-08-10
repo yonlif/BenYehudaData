@@ -1,0 +1,68 @@
+{
+  "id": 426,
+  "url": "https://benyehuda.org/author/426",
+  "metadata": {
+    "name": "ישראל בנימין לבנר",
+    "sort_name": "לבנר, ישראל בנימין",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1862",
+      "death_year": "1916"
+    },
+    "bio_snippet": " מחנך עברי, מחבר ספרי לימוד ומקראות, סופר ילדים ונוער, מתרגם, מעבד ועורך עיתוני ילדים, ורב מטעם בלוגנסק",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 10531
+  },
+  "texts": {
+    "author": [
+      20516,
+      20517,
+      20518,
+      20519,
+      20729,
+      20881,
+      20882,
+      20883,
+      20884,
+      20885,
+      20886,
+      20887,
+      20888,
+      20889,
+      20890,
+      20891,
+      20892,
+      20893,
+      20894,
+      20895,
+      20896,
+      20897,
+      20898,
+      20899,
+      20900,
+      21170,
+      22443
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      10772,
+      20520
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

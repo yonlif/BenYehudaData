@@ -1,0 +1,64 @@
+{
+  "id": 880,
+  "url": "https://benyehuda.org/author/880",
+  "metadata": {
+    "name": "יוסף קלוזנר",
+    "sort_name": "קלוזנר, יוסף",
+    "other_designations": "יוסף גדליה קלוזנר; קלאוזנר; קלויזנר; איש עברי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1874",
+      "death_year": "1958"
+    },
+    "bio_snippet": " היסטוריון, חוקר ספרות ואיש רוח ישראלי, נמנה עם מקימי האוניברסיטה העברית, פעיל בתחיית הלשון העברית ומחדש מילים, העורך המדעי של ועד הלשון העברית ונשיאו, והעורך הראשי הראשון של האנציקלופדיה העברית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 15275
+  },
+  "texts": {
+    "author": [
+      25756,
+      33100,
+      33101,
+      33102,
+      33104,
+      41961,
+      42795,
+      42796,
+      42797,
+      43009,
+      43984,
+      44159,
+      44160,
+      44161,
+      44185,
+      44186,
+      44187,
+      45359,
+      45963,
+      53519,
+      57361,
+      58642
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      35714,
+      44398
+    ]
+  }
+}

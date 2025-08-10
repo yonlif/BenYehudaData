@@ -1,0 +1,39 @@
+{
+  "id": 2282,
+  "url": "https://benyehuda.org/author/2282",
+  "metadata": {
+    "name": "אברהם פרווינצאלי",
+    "sort_name": "פרווינצאלי, אברהם ",
+    "other_designations": "אברהם בן דוד פרווינצאלי; Abraham Provenzale",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "חי במחצית השנייה של המאה ה־16",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 65
+  },
+  "texts": {
+    "author": [
+      40753
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2249,
+  "url": "https://benyehuda.org/author/2249",
+  "metadata": {
+    "name": "דניאל בן יהודה הדיין",
+    "sort_name": "בן יהודה הדיין, דניאל ",
+    "other_designations": "דניאל בן יהודה הדין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "מרומא, חי במחצית הראשונה של המאה ה־14",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 234
+  },
+  "texts": {
+    "author": [
+      40726
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

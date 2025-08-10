@@ -1,0 +1,37 @@
+{
+  "id": 1082,
+  "url": "https://benyehuda.org/author/1082",
+  "metadata": {
+    "name": "לאה גולדברג",
+    "sort_name": "גולדברג, לאה ",
+    "other_designations": "עדה גראנט",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1911",
+      "death_year": "1970"
+    },
+    "bio_snippet": "משוררת – מהמשוררים העבריים הידועים והחשובים ביותר בעת החדשה, סופרת מבוגרים וילדים, מתרגמת, מבקרת, ציירת וחוקרת ספרות, עיתונאית ומבקרת תרבות, כלת פרס ישראל לספרות לשנת 1970. פרופסור לספרות כללית והשוואתית באוניברסיטה העברית בירושלים",
+    "languages": [],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 8746
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      28946
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

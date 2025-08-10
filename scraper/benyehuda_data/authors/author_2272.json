@@ -1,0 +1,39 @@
+{
+  "id": 2272,
+  "url": "https://benyehuda.org/author/2272",
+  "metadata": {
+    "name": "שלמה בן אברהם מאורבינו",
+    "sort_name": "מאורבינו, שלמה בן אברהם ",
+    "other_designations": "Salomon Urbino",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "חי באורבינו בסוף המאה ה-15–תחילת ה־16",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 104
+  },
+  "texts": {
+    "author": [
+      40744
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

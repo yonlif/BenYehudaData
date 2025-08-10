@@ -1,0 +1,39 @@
+{
+  "id": 702,
+  "url": "https://benyehuda.org/author/702",
+  "metadata": {
+    "name": "אדואר גרניה",
+    "sort_name": "גרניה, אדואר",
+    "other_designations": "אדוארד גרניה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1819",
+      "death_year": "1901"
+    },
+    "bio_snippet": "משורר ודיפלומט צרפתי. ",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 86
+  },
+  "texts": {
+    "author": [
+      19505
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

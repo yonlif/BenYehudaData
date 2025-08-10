@@ -1,0 +1,48 @@
+{
+  "id": 3014,
+  "url": "https://benyehuda.org/author/3014",
+  "metadata": {
+    "name": "מרדכי ארקין",
+    "sort_name": "ארקין, מרדכי ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1907",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד גדרה. עבד כפקיד בבית החולים הדסה בהר הצופים, ונפל בהגנה על בית החולים. הניח אישה וילד, ילדה נוספת נולדה לאחר נפילתו. השאיר צרור שירים בעזבונו [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 514
+  },
+  "texts": {
+    "author": [
+      54607,
+      54608,
+      54609,
+      54610,
+      54611,
+      54612,
+      54613,
+      54614,
+      54615,
+      54616
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

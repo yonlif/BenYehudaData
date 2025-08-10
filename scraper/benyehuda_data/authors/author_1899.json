@@ -1,0 +1,55 @@
+{
+  "id": 1899,
+  "url": "https://benyehuda.org/author/1899",
+  "metadata": {
+    "name": "ריקרדה הוּך",
+    "sort_name": "הוך, ריקרדה",
+    "other_designations": "ריקרדה הוך, ריכרדה הוך",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "other",
+      "period": null,
+      "birth_year": "1864",
+      "death_year": "1947"
+    },
+    "bio_snippet": "אינטלקטואלית גרמנייה פורצת דרך, היסטוריונית, מחברת יצירות רבות בנושא ההיסטוריה של אירופה; סופרת, משוררת ומחזאית. אסטרואיד ריקרדה 879 קרוי על שמה ולכבודה",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 1500
+  },
+  "texts": {
+    "author": [
+      48021,
+      48022,
+      48023,
+      48024,
+      49338,
+      49339,
+      49340,
+      49399,
+      49574,
+      49575,
+      49576,
+      49577,
+      49578,
+      49579,
+      53332,
+      53342
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

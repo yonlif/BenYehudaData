@@ -1,0 +1,40 @@
+{
+  "id": 670,
+  "url": "https://benyehuda.org/author/670",
+  "metadata": {
+    "name": "כריסטיאן פורכטגוט גלרט",
+    "sort_name": "גלרט, כריסטיאן פורכטגוט",
+    "other_designations": "כריסטיאן גלרט; כריסטין גלרט; כריסטיאן געלערט; כ. פ. גלרט",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1715",
+      "death_year": "1769"
+    },
+    "bio_snippet": "משורר גרמני. ממבשרי תור הזהב של הספרות הגרמנית.",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "fables"
+    ],
+    "impressions_count": 62
+  },
+  "texts": {
+    "author": [
+      19186,
+      19187
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

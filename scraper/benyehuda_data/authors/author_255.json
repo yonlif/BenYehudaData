@@ -1,0 +1,40 @@
+{
+  "id": 255,
+  "url": "https://benyehuda.org/author/255",
+  "metadata": {
+    "name": "מריה שקפסקיה",
+    "sort_name": "שקפסקיה, מריה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1891",
+      "death_year": "1952"
+    },
+    "bio_snippet": "סופרת ומשוררת רוסיה, למדה עם רחל באוניברסיטה בטולוז.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1271
+  },
+  "texts": {
+    "author": [
+      1808,
+      8481
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

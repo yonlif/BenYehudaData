@@ -1,0 +1,40 @@
+{
+  "id": 1940,
+  "url": "https://benyehuda.org/author/1940",
+  "metadata": {
+    "name": "שמעון בן יצחק",
+    "sort_name": "בן יצחק, שמעון ",
+    "other_designations": "שמעון בן יצחק בן אבון ממגנצא; רבי שמעון הגדול; שמעון בר יצחק; שמעון בר יצחק החסיד",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "950",
+      "death_year": "1020"
+    },
+    "bio_snippet": "רב, מקובל, שתדלן ופייטן; חברו של רבנו גרשום מאור הגולה. כונה \"הגדול\" בשל גדולתו בכל תחומי התורה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1450
+  },
+  "texts": {
+    "author": [
+      38318,
+      38330
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

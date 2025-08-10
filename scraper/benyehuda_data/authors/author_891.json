@@ -1,0 +1,40 @@
+{
+  "id": 891,
+  "url": "https://benyehuda.org/author/891",
+  "metadata": {
+    "name": "אלתר קציזנה",
+    "sort_name": "קציזנה, אלתר ",
+    "other_designations": "אלטר קאציזנה, אלטער קאציזנע, אלתר שלום, אלתר שולם",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1885",
+      "death_year": "1941"
+    },
+    "bio_snippet": "סופר, משורר, מחזאי, מוציא לאור, יושב־ראש הזרוע היהודית של ארגון הסופרים הבינלאומי (PEN), בעל טור וצלם יהודי ורשאי, מן התורמים החשובים והבולטים לחיי התרבות היהודיים־פולניים במחצית הראשונה של המאה ה־20. נודע בין היתר כצלם אשר הנציח בתצלומיו את החיים היהודיים בפולין בשנות ה־20 ובשנות ה־30 של המאה ה־20. נרצח בשואה ",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 607
+  },
+  "texts": {
+    "author": [
+      25536,
+      25537
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

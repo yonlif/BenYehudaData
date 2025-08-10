@@ -1,0 +1,56 @@
+{
+  "id": 1376,
+  "url": "https://benyehuda.org/author/1376",
+  "metadata": {
+    "name": "זהרה לביָטוב",
+    "sort_name": "לביטוב, זהרה ",
+    "other_designations": "זהרה לביטוב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1927",
+      "death_year": "1948"
+    },
+    "bio_snippet": "לוחמת פלמ\"ח והטייסת הראשונה בחיל האוויר הישראלי. התפרסמה לאחר מותה עם פרסום יומניה האישיים וחליפת המכתבים בינה ובין ארוסה ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "letters"
+    ],
+    "impressions_count": 3216
+  },
+  "texts": {
+    "author": [
+      32566,
+      32567,
+      32568,
+      32569,
+      32570,
+      32571,
+      32572,
+      32573,
+      32574,
+      32575,
+      32576,
+      32577,
+      32578,
+      32579,
+      32580
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      32544
+    ]
+  }
+}

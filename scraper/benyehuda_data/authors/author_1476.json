@@ -1,0 +1,47 @@
+{
+  "id": 1476,
+  "url": "https://benyehuda.org/author/1476",
+  "metadata": {
+    "name": "יצחק אבן סהולה",
+    "sort_name": "סהולה, יצחק אבן ",
+    "other_designations": "יצחק בן שלמה אבן סהולה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1244",
+      "death_year": "1283"
+    },
+    "bio_snippet": " פילוסוף, רופא ומקובל",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "fables",
+      "reference"
+    ],
+    "impressions_count": 1648
+  },
+  "texts": {
+    "author": [
+      33363,
+      33364,
+      33365,
+      33366,
+      33367,
+      33374,
+      33375,
+      33376
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

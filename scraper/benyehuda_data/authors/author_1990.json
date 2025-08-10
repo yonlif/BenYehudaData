@@ -1,0 +1,39 @@
+{
+  "id": 1990,
+  "url": "https://benyehuda.org/author/1990",
+  "metadata": {
+    "name": "יחיה צארום",
+    "sort_name": "צארום, יחיה",
+    "other_designations": "יחיא צארם;  יחיא צארום;  יחיה צארום",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1842",
+      "death_year": "1917"
+    },
+    "bio_snippet": "הרב יחיא צארום (נולד בשנת 1842 בצנעא; נפטר בירושלים, ו' בניסן ה'תרע\"ז, 29 במרץ 1917) היה רב תימני שעלה בעליית \"אעלה בתמ\"ר\" בשנת 1881, כיהן כאב\"ד הקהילה ...",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 310
+  },
+  "texts": {
+    "author": [
+      38177
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

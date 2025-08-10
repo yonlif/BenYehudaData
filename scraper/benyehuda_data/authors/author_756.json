@@ -1,0 +1,39 @@
+{
+  "id": 756,
+  "url": "https://benyehuda.org/author/756",
+  "metadata": {
+    "name": "ירמיהו פרנקל",
+    "sort_name": "פרנקל, ירמיהו",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1885",
+      "death_year": "1948"
+    },
+    "bio_snippet": "מורה לעברית ומרצה לספרות, פעיל בתנועה הציונית, ופרסם מאמרים ומסות על ספרות ועל חינוך. ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 1209
+  },
+  "texts": {
+    "author": [
+      21944
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

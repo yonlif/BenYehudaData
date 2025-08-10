@@ -1,0 +1,40 @@
+{
+  "id": 1013,
+  "url": "https://benyehuda.org/author/1013",
+  "metadata": {
+    "name": "שלמה לויזון",
+    "sort_name": "לויזון, שלמה ",
+    "other_designations": "שלמה בן יהודה ליב לוי מוהר, לויסון, לוויזון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1789",
+      "death_year": "1821"
+    },
+    "bio_snippet": "חוקר, בלשן ומשורר עברי, איש תנועת ההשכלה, מחבר \"מליצת ישורון\"",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 595
+  },
+  "texts": {
+    "author": [
+      47089,
+      56074
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

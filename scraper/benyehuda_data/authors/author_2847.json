@@ -1,0 +1,39 @@
+{
+  "id": 2847,
+  "url": "https://benyehuda.org/author/2847",
+  "metadata": {
+    "name": "ג'יימס מתיו ברי",
+    "sort_name": "ברי, ג'יימס מתיו ",
+    "other_designations": "ג'יימס מתיו בארי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1860",
+      "death_year": "1937"
+    },
+    "bio_snippet": "סופר ומחזאי בריטי ממוצא סקוטי הידוע בעיקר כמחבר המחזה והספר \"פיטר פן\"",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 355
+  },
+  "texts": {
+    "author": [
+      51285
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

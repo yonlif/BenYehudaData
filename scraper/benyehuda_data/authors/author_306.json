@@ -1,0 +1,40 @@
+{
+  "id": 306,
+  "url": "https://benyehuda.org/author/306",
+  "metadata": {
+    "name": "פריץ יורדן",
+    "sort_name": "יורדן, פריץ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1914",
+      "death_year": "1948"
+    },
+    "bio_snippet": "היה חייל ארץ־ישראלי בצבא הבריטי, שנודע בבריחתו הנועזת משבי הגרמנים ביוון במלחמת העולם השנייה. נהרג במלחמת העצמאות בחזית סג'רה",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 925
+  },
+  "texts": {
+    "author": [
+      4767,
+      55037
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

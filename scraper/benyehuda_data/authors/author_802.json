@@ -1,0 +1,40 @@
+{
+  "id": 802,
+  "url": "https://benyehuda.org/author/802",
+  "metadata": {
+    "name": "יצחק שלו",
+    "sort_name": "שלו, יצחק",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1918",
+      "death_year": "1992"
+    },
+    "bio_snippet": " משורר, סופר ומסאי ישראלי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 5632
+  },
+  "texts": {
+    "author": [
+      32509,
+      41151
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

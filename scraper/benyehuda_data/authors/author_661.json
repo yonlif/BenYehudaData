@@ -1,0 +1,70 @@
+{
+  "id": 661,
+  "url": "https://benyehuda.org/author/661",
+  "metadata": {
+    "name": "ז'אן דה לה פונטן",
+    "sort_name": "פונטן, ז'אן דה לה",
+    "other_designations": "ז'אן דה לה פונטין; ז'אן דה לה פונטיין; לא פונטין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1621",
+      "death_year": "1695"
+    },
+    "bio_snippet": "משורר וממשיל משלים צרפתי.",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "fables",
+      "poetry"
+    ],
+    "impressions_count": 2929
+  },
+  "texts": {
+    "author": [
+      18946,
+      18947,
+      18948,
+      18949,
+      18950,
+      18951,
+      18952,
+      18953,
+      18954,
+      18955,
+      18956,
+      18957,
+      18958,
+      18959,
+      50128,
+      50129,
+      50130,
+      50131,
+      50132,
+      50133,
+      50134,
+      50135,
+      50315,
+      50316,
+      54030,
+      54031,
+      54679,
+      54680,
+      58664
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      54038
+    ]
+  }
+}

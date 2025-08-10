@@ -1,0 +1,39 @@
+{
+  "id": 2974,
+  "url": "https://benyehuda.org/author/2974",
+  "metadata": {
+    "name": "סמואל בקט",
+    "sort_name": "בקט, סמואל ",
+    "other_designations": "סמואל ברקליי בקט",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1906",
+      "death_year": "1989"
+    },
+    "bio_snippet": "במאי תיאטרון, מחזאי, סופר, משורר ומתרגם אירי שכתב באנגלית ובצרפתית. חתן פרס נובל לספרות לשנת 1969",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 137
+  },
+  "texts": {
+    "author": [
+      54150
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

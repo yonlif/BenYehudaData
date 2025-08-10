@@ -1,0 +1,84 @@
+{
+  "id": 237,
+  "url": "https://benyehuda.org/author/237",
+  "metadata": {
+    "name": "הנס כריסטיאן אנדרסן",
+    "sort_name": "אנדרסן, הנס כריסטיאן",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1805",
+      "death_year": "1875"
+    },
+    "bio_snippet": "היה סופר ומשורר דני שנודע במעשיות ובסיפורי הילדים שלו.\r\n",
+    "languages": [
+      "en",
+      "da"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 40455
+  },
+  "texts": {
+    "author": [
+      1292,
+      1294,
+      1433,
+      1855,
+      2110,
+      2926,
+      3311,
+      4392,
+      4426,
+      4462,
+      4491,
+      4528,
+      4559,
+      5866,
+      5871,
+      6502,
+      6977,
+      7557,
+      7823,
+      8005,
+      8008,
+      8233,
+      8269,
+      11164,
+      11165,
+      11166,
+      17236,
+      17249,
+      36808,
+      37326,
+      37327,
+      37328,
+      37329,
+      40595,
+      40596,
+      40597,
+      40598,
+      40599,
+      41476,
+      41477,
+      52901,
+      53300,
+      53301
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      32414
+    ]
+  }
+}

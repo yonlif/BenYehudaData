@@ -1,0 +1,39 @@
+{
+  "id": 1451,
+  "url": "https://benyehuda.org/author/1451",
+  "metadata": {
+    "name": "שלמה בן יצחק גירונדי",
+    "sort_name": "גירונדי, שלמה בן יצחק ",
+    "other_designations": "שלמה בן־יצחק גירונדי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר, פעיל במאה השלוש־עשרה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 332
+  },
+  "texts": {
+    "author": [
+      33299
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

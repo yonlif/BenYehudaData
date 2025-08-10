@@ -1,0 +1,37 @@
+{
+  "id": 708,
+  "url": "https://benyehuda.org/author/708",
+  "metadata": {
+    "name": "מרדכי הק",
+    "sort_name": "הק, מרדכי",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1894",
+      "death_year": "1948"
+    },
+    "bio_snippet": "חוקר ספרות יוונית וספרות הלניסטית יהודית ומתרגם [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 900
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      20030
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

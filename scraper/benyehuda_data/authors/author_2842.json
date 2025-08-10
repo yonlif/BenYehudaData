@@ -1,0 +1,39 @@
+{
+  "id": 2842,
+  "url": "https://benyehuda.org/author/2842",
+  "metadata": {
+    "name": "קוּנוֹ פישר",
+    "sort_name": "פישר, קונו ",
+    "other_designations": "קונו פישר; ארנסט קונו ברטהולד פישר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1824",
+      "death_year": "1907"
+    },
+    "bio_snippet": "פילוסוף, היסטוריון של הפילוסופיה ומבקר גרמני",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 293
+  },
+  "texts": {
+    "author": [
+      51048
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

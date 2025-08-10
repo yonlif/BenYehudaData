@@ -1,0 +1,40 @@
+{
+  "id": 352,
+  "url": "https://benyehuda.org/author/352",
+  "metadata": {
+    "name": "ורגיליוס",
+    "sort_name": "ורגיליוס",
+    "other_designations": "פובליוס ורגיליוס מארו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "15 באוקטובר 70 לפנה״ס",
+      "death_year": " 21 בספטמבר 19 לפנה״ס"
+    },
+    "bio_snippet": "היה משורר רומי. יצירתו ה\"אינאיס\" נחשבה לאפוס הלאומי הרומאי.",
+    "languages": [
+      "la"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 3849
+  },
+  "texts": {
+    "author": [
+      7380,
+      26494
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

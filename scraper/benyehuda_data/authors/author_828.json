@@ -1,0 +1,41 @@
+{
+  "id": 828,
+  "url": "https://benyehuda.org/author/828",
+  "metadata": {
+    "name": "יצחק יוליוס גוטמן",
+    "sort_name": "גוטמן, יצחק יוליוס",
+    "other_designations": "יוליוס גוטמן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1880",
+      "death_year": "1950"
+    },
+    "bio_snippet": "הוגה דעות יהודי־גרמני, חוקר ומרצה בתחום הפילוסופיה היהודית. מנהלה המדעי של האקדמיה למדעי היהדות בברלין, ומראשוני האוניברסיטה העברית בירושלים",
+    "languages": [
+      "he",
+      "de"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 3364
+  },
+  "texts": {
+    "author": [
+      24374,
+      45297
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

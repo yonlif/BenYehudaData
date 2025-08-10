@@ -1,0 +1,39 @@
+{
+  "id": 1928,
+  "url": "https://benyehuda.org/author/1928",
+  "metadata": {
+    "name": "סעדיה בן יהודה מנצורה",
+    "sort_name": "מנצורה, סעדיה בן יהודה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "",
+      "death_year": "1880"
+    },
+    "bio_snippet": "משורר, תלמיד חכם, מקובל ומשכיל שפעל בתימן",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 147
+  },
+  "texts": {
+    "author": [
+      38158
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

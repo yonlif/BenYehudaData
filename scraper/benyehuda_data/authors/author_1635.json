@@ -1,0 +1,40 @@
+{
+  "id": 1635,
+  "url": "https://benyehuda.org/author/1635",
+  "metadata": {
+    "name": "לואיס קרול",
+    "sort_name": "קרול, לואיס ",
+    "other_designations": "צ'ארלס לוטווידג' דודג'סון ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1832",
+      "death_year": "1898"
+    },
+    "bio_snippet": " סופר, מתמטיקאי, לוגיקן, צלם, מרצה, ממציא ופילוסוף בריטי",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2376
+  },
+  "texts": {
+    "author": [
+      34262,
+      41017
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

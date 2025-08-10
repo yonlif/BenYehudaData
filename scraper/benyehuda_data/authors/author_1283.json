@@ -1,0 +1,44 @@
+{
+  "id": 1283,
+  "url": "https://benyehuda.org/author/1283",
+  "metadata": {
+    "name": "יצחק שדה ",
+    "sort_name": "שדה , יצחק ",
+    "other_designations": "לנדוברג, י. נודד, הזקן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1890",
+      "death_year": "1952"
+    },
+    "bio_snippet": "ממקימי צה\"ל, מפקד, אסטרטג, מנהיג, מחנך, מחזאי וסופר יהודי. ממנהיגי גדוד העבודה וחבר מחתרת הקיבוץ, ממפקדי ארגון \"ההגנה\", ממייסדי הפלמ\"ח ומפקדו הראשון",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 3678
+  },
+  "texts": {
+    "author": [
+      34927,
+      34928,
+      34929,
+      34930
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      37282
+    ]
+  }
+}

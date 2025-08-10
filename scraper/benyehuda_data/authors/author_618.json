@@ -1,0 +1,41 @@
+{
+  "id": 618,
+  "url": "https://benyehuda.org/author/618",
+  "metadata": {
+    "name": "שטפן גאורגה",
+    "sort_name": "גאורגה, שטפן",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1868",
+      "death_year": "1933"
+    },
+    "bio_snippet": "משורר, עורך ספרותי ומתרגם גרמני.",
+    "languages": [
+      "de",
+      "ro"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 753
+  },
+  "texts": {
+    "author": [
+      17114,
+      42703
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

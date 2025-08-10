@@ -1,0 +1,39 @@
+{
+  "id": 885,
+  "url": "https://benyehuda.org/author/885",
+  "metadata": {
+    "name": "יהודה אבן בלעם",
+    "sort_name": "אבן בלעם, יהודה ",
+    "other_designations": "אבן־בלעם, אבן-בלעם, יהודה בן שמואל אבן בלעם, אבו זכרייה יחיא,  אבן־אלעם",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1000",
+      "death_year": "1070"
+    },
+    "bio_snippet": "פרשן מקרא רבני, מדקדק ואיש הלכה בספרד",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1424
+  },
+  "texts": {
+    "author": [
+      25488
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

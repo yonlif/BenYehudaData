@@ -1,0 +1,40 @@
+{
+  "id": 2289,
+  "url": "https://benyehuda.org/author/2289",
+  "metadata": {
+    "name": "יוסף גאנשו",
+    "sort_name": "גאנשו, יוסף ",
+    "other_designations": "יוסף בן משה גאנשו; Josef Ganso",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "במחצית הראשונה של המאה ה־17",
+      "death_year": "?"
+    },
+    "bio_snippet": "נולד פרוג’ה במחצית הראשונה של המאה ה־17, חי בעיר ברוסה בארץ תוגרמה ונפטר בירושלים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 185
+  },
+  "texts": {
+    "author": [
+      40760,
+      41972
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

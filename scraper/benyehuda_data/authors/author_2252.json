@@ -1,0 +1,39 @@
+{
+  "id": 2252,
+  "url": "https://benyehuda.org/author/2252",
+  "metadata": {
+    "name": "מתתיה מלריפה",
+    "sort_name": "מלריפה, מתתיה ",
+    "other_designations": "מתתיה מלרפה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "פייטן, חי במאה ה־14",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 94
+  },
+  "texts": {
+    "author": [
+      40729
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

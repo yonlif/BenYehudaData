@@ -1,0 +1,39 @@
+{
+  "id": 3178,
+  "url": "https://benyehuda.org/author/3178",
+  "metadata": {
+    "name": "עמית שיטאי",
+    "sort_name": "שיטאי, עמית ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1957",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר, פרסם בכתבי עת",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 127
+  },
+  "texts": {
+    "author": [
+      54725
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

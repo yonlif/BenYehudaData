@@ -1,0 +1,42 @@
+{
+  "id": 206,
+  "url": "https://benyehuda.org/author/206",
+  "metadata": {
+    "name": "יצחק אבן עזרא",
+    "sort_name": "עזרא, יצחק אבן",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1114",
+      "death_year": "1158"
+    },
+    "bio_snippet": "ממשוררי יהדות ספרד בימי הביניים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1208
+  },
+  "texts": {
+    "author": [
+      338,
+      340,
+      346,
+      30440
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": 201,
+  "url": "https://benyehuda.org/author/201",
+  "metadata": {
+    "name": "יוסף אבן צדיק",
+    "sort_name": "צדיק, יוסף אבן",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1075",
+      "death_year": "1149"
+    },
+    "bio_snippet": "היה דיין, משורר ופילוסוף יהודי בימי הביניים.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1936
+  },
+  "texts": {
+    "author": [
+      323,
+      324,
+      325,
+      328,
+      350,
+      353,
+      21169
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

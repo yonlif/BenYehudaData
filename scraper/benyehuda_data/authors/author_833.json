@@ -1,0 +1,39 @@
+{
+  "id": 833,
+  "url": "https://benyehuda.org/author/833",
+  "metadata": {
+    "name": "מהלל העדני",
+    "sort_name": "העדני, מהלל",
+    "other_designations": "מהלא יעקב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1883",
+      "death_year": "1950"
+    },
+    "bio_snippet": "איש עסקים, פעיל ציוני, סופר עברי ופרשן מקרא. מהדמויות הבולטות ביהדות עדן בתחילת המאה העשרים. לאחר עלייתו לארץ ישראל ב־1930 יזם מפעלי תעשייה זעירה בתל אביב, וחיבר חיבורים רבים בעברית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 2731
+  },
+  "texts": {
+    "author": [
+      24396
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

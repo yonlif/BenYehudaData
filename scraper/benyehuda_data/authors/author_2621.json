@@ -1,0 +1,39 @@
+{
+  "id": 2621,
+  "url": "https://benyehuda.org/author/2621",
+  "metadata": {
+    "name": "ניתאי אליאש",
+    "sort_name": "אליאש, ניתאי ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "מנכ\"ל המרכז הרפואי הישראלי לאלצהיימר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 1
+  },
+  "texts": {
+    "author": [
+      47230
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

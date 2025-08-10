@@ -1,0 +1,39 @@
+{
+  "id": 1073,
+  "url": "https://benyehuda.org/author/1073",
+  "metadata": {
+    "name": "גצל קרסל",
+    "sort_name": "קרסל, גצל ",
+    "other_designations": "גצל אליקים",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1911",
+      "death_year": "1986"
+    },
+    "bio_snippet": "ביבליוגרף, סופר, היסטוריון וחוקר ישראלי. מחלוצי הביבליוגרפיה הארצישראלית בעת החדשה, ומתעד העיתונות העברית המוקדמת. חוקר תולדות היישוב בארץ ישראל, בעיקר כמשתקף מהספרות העממית והעיתונות. מפתח הענף העברי של הביו־ביבליוגרפיה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 1124
+  },
+  "texts": {
+    "author": [
+      31471
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

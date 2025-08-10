@@ -1,0 +1,41 @@
+{
+  "id": 64,
+  "url": "https://benyehuda.org/author/64",
+  "metadata": {
+    "name": "יצחק שריון",
+    "sort_name": "שריון, יצחק",
+    "other_designations": "יצחק זלקינד",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1871",
+      "death_year": "1941"
+    },
+    "bio_snippet": "כתב זכרונותיו.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 4053
+  },
+  "texts": {
+    "author": [
+      7338
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      13343
+    ]
+  }
+}

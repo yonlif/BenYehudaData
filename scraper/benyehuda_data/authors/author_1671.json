@@ -1,0 +1,39 @@
+{
+  "id": 1671,
+  "url": "https://benyehuda.org/author/1671",
+  "metadata": {
+    "name": "סמואל דניאל",
+    "sort_name": "דניאל, סמואל ",
+    "other_designations": "סמיואל דניאל",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1562",
+      "death_year": "1619"
+    },
+    "bio_snippet": " משורר, מחזאי והיסטוריון אנגלי בסוף התקופה האליזבטנית ובתחילת התקופה היעקובינית",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 151
+  },
+  "texts": {
+    "author": [
+      34416
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

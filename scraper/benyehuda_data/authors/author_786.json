@@ -1,0 +1,39 @@
+{
+  "id": 786,
+  "url": "https://benyehuda.org/author/786",
+  "metadata": {
+    "name": "לייזר וולף",
+    "sort_name": "וולף, לייזר",
+    "other_designations": "לייזער וואָלף",
+    "intellectual_property": "unknown",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1910",
+      "death_year": "1943"
+    },
+    "bio_snippet": "משורר יידי, אחד ממייסדי קבוצת יונג ווילנע",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 300
+  },
+  "texts": {
+    "author": [
+      23411
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

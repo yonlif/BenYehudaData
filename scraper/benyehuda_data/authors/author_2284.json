@@ -1,0 +1,40 @@
+{
+  "id": 2284,
+  "url": "https://benyehuda.org/author/2284",
+  "metadata": {
+    "name": "יוחנן יהודה בן שלמה אלטרינו",
+    "sort_name": "אלטרינו, יוחנן יהודה בן שלמה ",
+    "other_designations": "Angelo Alatrini",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "חי באיטליה בסוף המאה ה־16",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 269
+  },
+  "texts": {
+    "author": [
+      40755,
+      41968
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 105,
+  "url": "https://benyehuda.org/author/105",
+  "metadata": {
+    "name": "אלכסנדר שור",
+    "sort_name": "שור, אלכסנדר",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1881",
+      "death_year": "1943"
+    },
+    "bio_snippet": "מחנך עברי ציוני דתי בבוקובינה ובירושלים, מתרגם והיסטוריון ומראשוני המתרגמים לעברית של הספרות הרומית והיוונית הקלאסית",
+    "languages": [],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 1371
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      7174,
+      10919,
+      11228,
+      29430
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

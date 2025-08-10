@@ -1,0 +1,39 @@
+{
+  "id": 1225,
+  "url": "https://benyehuda.org/author/1225",
+  "metadata": {
+    "name": "יצחק אייזיק הלוי הרצוג",
+    "sort_name": "הרצוג, יצחק אייזיק הלוי ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1888",
+      "death_year": "1959"
+    },
+    "bio_snippet": "הרב הראשי האשכנזי של ארץ ישראל משנת 1936, ואחר כך של מדינת ישראל עד יום מותו. לפני כן היה רבה הראשי של יהדות אירלנד. דוקטור וחתן פרס ישראל לספרות תורנית בשנת 1958",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 2730
+  },
+  "texts": {
+    "author": [
+      30683
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

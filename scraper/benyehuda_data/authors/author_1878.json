@@ -1,0 +1,40 @@
+{
+  "id": 1878,
+  "url": "https://benyehuda.org/author/1878",
+  "metadata": {
+    "name": "יוסף בן ישראל",
+    "sort_name": "בן ישראל, יוסף ",
+    "other_designations": "יוסף בן ישראל משתא",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "המאה ה־16–17",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר יהודי תימני משרעב, השתמש בשירתו בשפה הערבית, בעל השפעה על משוררי תימן הבאים אחריו",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 2781
+  },
+  "texts": {
+    "author": [
+      3163,
+      38000
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

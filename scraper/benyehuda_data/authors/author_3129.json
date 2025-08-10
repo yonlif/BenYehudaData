@@ -1,0 +1,46 @@
+{
+  "id": 3129,
+  "url": "https://benyehuda.org/author/3129",
+  "metadata": {
+    "name": "בן־עמי פחטר",
+    "sort_name": "פחטר, בן־עמי ",
+    "other_designations": "בן עמי פחטר; בן-עמי פחטר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1919",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד פולין, כתב שירה מגיל צעיר.  עלה עם חבריו להתנחל בחניתה, וניהל את ההגנה על היישובים המבודדים בגליל המערבי ועל מבואותיה הצפוניים של חיפה. ניהל את שיירת האספקה ליחיעם הנצורה ונפל בקרב ליד הכפר כברי. על שמו, בן־עמי, נקראים המבצע לשחרור הגליל המערבי, הרחוב הראשי בעכו העברית, מחנה צבא וספר שהוציאה חניתה על שמו, וכן גדוד צבאי [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 373
+  },
+  "texts": {
+    "author": [
+      54503,
+      54566,
+      54567,
+      54568,
+      54569,
+      54570,
+      54571
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

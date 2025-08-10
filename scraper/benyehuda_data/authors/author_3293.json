@@ -1,0 +1,41 @@
+{
+  "id": 3293,
+  "url": "https://benyehuda.org/author/3293",
+  "metadata": {
+    "name": "יוסל בירשטיין",
+    "sort_name": "בירשטיין, יוסל ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1920",
+      "death_year": "2003"
+    },
+    "bio_snippet": "סופר ומשורר ישראלי יליד פולין, כתב ביידיש ובעברית",
+    "languages": [
+      "yi",
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 217
+  },
+  "texts": {
+    "author": [
+      56041,
+      56138
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

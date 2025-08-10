@@ -1,0 +1,39 @@
+{
+  "id": 620,
+  "url": "https://benyehuda.org/author/620",
+  "metadata": {
+    "name": "אל-חרירי",
+    "sort_name": "אל-חרירי",
+    "other_designations": "אבו מוחמד אל-קאסם בן עלי בן מוחמד בן עות'מאן אל-חרירי אל-בסירי אלחראמי; אל חרירי; אל־חרירי; אבו מוחמד אל-קאסם אלחרירי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1054",
+      "death_year": "1122"
+    },
+    "bio_snippet": "משורר ערבי ונודע בעקבות ספרו \"מקאמות אל-חרירי\". ספר זה נחשב לספר המפורסם ביותר בתולדות המקאמה הערבית.",
+    "languages": [
+      "ar"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2579
+  },
+  "texts": {
+    "author": [
+      17243
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

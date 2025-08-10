@@ -1,0 +1,38 @@
+{
+  "id": 400,
+  "url": "https://benyehuda.org/author/400",
+  "metadata": {
+    "name": "מרדכי אזרחי (קרישבסקי)",
+    "sort_name": "אזרחי (קרישבסקי), מרדכי",
+    "other_designations": "פתחיה, מר דרור, בן יעקב, בן חי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1862",
+      "death_year": "1951"
+    },
+    "bio_snippet": "איש העלייה הראשונה, מראשוני המורים העבריים בארץ ישראל, ולימים יושב ראש הסתדרות המורים. מאנשי חוגו של אליעזר בן יהודה בהחייאת השפה העברית וממקימי ועד הלשון. תרגם, עיבד וכתב ספרים רבים, בהם ספרי מדעי הטבע וספרי לימוד.",
+    "languages": [],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 941
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      9965,
+      50013
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

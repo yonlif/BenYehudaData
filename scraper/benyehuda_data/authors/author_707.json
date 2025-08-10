@@ -1,0 +1,39 @@
+{
+  "id": 707,
+  "url": "https://benyehuda.org/author/707",
+  "metadata": {
+    "name": "רות גרבר",
+    "sort_name": "גרבר, רות",
+    "other_designations": "רות פישלר גרבר",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1900",
+      "death_year": "1983"
+    },
+    "bio_snippet": "חקלאית בקיבוץ בית אלפא ומקימת מרכז קהילתי בבית שאן",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1735
+  },
+  "texts": {
+    "author": [
+      19503
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

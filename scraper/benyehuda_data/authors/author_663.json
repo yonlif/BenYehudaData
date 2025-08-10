@@ -1,0 +1,39 @@
+{
+  "id": 663,
+  "url": "https://benyehuda.org/author/663",
+  "metadata": {
+    "name": "וסילי ז'וקובסקי",
+    "sort_name": "ז'וקובסקי, וסילי",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1783",
+      "death_year": "1852"
+    },
+    "bio_snippet": "משורר רוסי. מייסד הסגנון הרומנטי בשירה הרוסית ומחבר ההמנון הלאומי של האימפריה הרוסית.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "fables"
+    ],
+    "impressions_count": 106
+  },
+  "texts": {
+    "author": [
+      19236
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

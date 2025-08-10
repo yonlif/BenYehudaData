@@ -1,0 +1,46 @@
+{
+  "id": 289,
+  "url": "https://benyehuda.org/author/289",
+  "metadata": {
+    "name": "אדם מיצקביץ'",
+    "sort_name": "מיצקביץ', אדם",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1798",
+      "death_year": "1855"
+    },
+    "bio_snippet": "אדם ברנרד מיצקביץ', סופר ומשורר, מגדולי אנשי הרוח של פולין. נחשב לאחד המשוררים המייצגים של התקופה הרומנטית של המאה ה-19, ולאחד מאנשי הספר שעוררו את הלאומיות הפולנית.",
+    "languages": [
+      "pl",
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 4569
+  },
+  "texts": {
+    "author": [
+      3281,
+      15095,
+      18667,
+      18668,
+      18669,
+      24464,
+      39737
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3220,
+  "url": "https://benyehuda.org/author/3220",
+  "metadata": {
+    "name": "נסים קלדרון",
+    "sort_name": "קלדרון, נסים ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1947",
+      "death_year": ""
+    },
+    "bio_snippet": " פרופסור אמריטוס באוניברסיטת בן־גוריון בנגב, במחלקה לספרות עברית. בין עורכי כתבי העת \"סימן קריאה\" ו\"מקרוב\". עורך סדרה של מפגשים בין שירה למוזיקה במועדון לבונטין 7 בתל אביב",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 8
+  },
+  "texts": {
+    "author": [
+      58700
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

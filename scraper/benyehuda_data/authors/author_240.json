@@ -1,0 +1,39 @@
+{
+  "id": 240,
+  "url": "https://benyehuda.org/author/240",
+  "metadata": {
+    "name": "קַרְל רֵיסְנֶר",
+    "sort_name": "רֵיסְנֶר, קַרְל",
+    "other_designations": "",
+    "intellectual_property": "unknown",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 389
+  },
+  "texts": {
+    "author": [
+      1366
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

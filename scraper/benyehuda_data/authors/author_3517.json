@@ -1,0 +1,39 @@
+{
+  "id": 3517,
+  "url": "https://benyehuda.org/author/3517",
+  "metadata": {
+    "name": "פייר דה רונסאר",
+    "sort_name": "רונסאר, פייר דה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1524",
+      "death_year": "1585"
+    },
+    "bio_snippet": "משורר צרפתי",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 23
+  },
+  "texts": {
+    "author": [
+      58656
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

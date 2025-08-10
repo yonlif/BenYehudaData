@@ -1,0 +1,39 @@
+{
+  "id": 1095,
+  "url": "https://benyehuda.org/author/1095",
+  "metadata": {
+    "name": "נחום ירושלמי",
+    "sort_name": "ירושלמי, נחום ",
+    "other_designations": "נחום בן חיים זלמן",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1890",
+      "death_year": "1961"
+    },
+    "bio_snippet": "מורה, סופר, עורך בעיתון \"הצופה\". שהה בשליחות חינוכית בתוניסיה בשנים 1938–1945",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 631
+  },
+  "texts": {
+    "author": [
+      29032
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

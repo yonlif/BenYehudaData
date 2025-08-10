@@ -1,0 +1,39 @@
+{
+  "id": 2200,
+  "url": "https://benyehuda.org/author/2200",
+  "metadata": {
+    "name": "נחום טברסקי ",
+    "sort_name": "טברסקי, נחום ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1884",
+      "death_year": "1953"
+    },
+    "bio_snippet": " איש העלייה השנייה, פעיל ציוני במולדובה, אז חלק מהאימפריה הרוסית ומו\"ל ארץ־ישראלי. מראשוני הפועל הצעיר ומייסד ביטאונה, חבר הוועד הלאומי, מנהל הוצאת שטיבל בישראל ובעל הוצאת הספרים 'נ. טברסקי'",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 25
+  },
+  "texts": {
+    "author": [
+      41381
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

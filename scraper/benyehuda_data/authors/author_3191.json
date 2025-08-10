@@ -1,0 +1,54 @@
+{
+  "id": 3191,
+  "url": "https://benyehuda.org/author/3191",
+  "metadata": {
+    "name": "משה הנעמי",
+    "sort_name": "הנעמי, משה  ",
+    "other_designations": "משה זינגר",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1935",
+      "death_year": "1994"
+    },
+    "bio_snippet": " משורר עברי ומתרגם ישראלי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 308
+  },
+  "texts": {
+    "author": [
+      54873,
+      57215
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      56453,
+      56454,
+      56455,
+      56456,
+      56457,
+      56458,
+      56459,
+      57216,
+      57217,
+      57218,
+      57219,
+      57220
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

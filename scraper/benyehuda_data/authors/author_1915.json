@@ -1,0 +1,42 @@
+{
+  "id": 1915,
+  "url": "https://benyehuda.org/author/1915",
+  "metadata": {
+    "name": "יעקב פרנקל",
+    "sort_name": "פרנקל, יעקב",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1848",
+      "death_year": "1916"
+    },
+    "bio_snippet": "סופר - חיבר ספרים מקוריים או מעובדים ממקורות לועזיים, ספרי היסטוריה פופולריים ומאמרי מדע פופולרי בכתבי עת [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 46
+  },
+  "texts": {
+    "author": [
+      58907
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      58581
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

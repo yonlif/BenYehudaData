@@ -1,0 +1,39 @@
+{
+  "id": 3463,
+  "url": "https://benyehuda.org/author/3463",
+  "metadata": {
+    "name": "אברהם אבא רקובסקי ",
+    "sort_name": "רקובסקי, אברהם אבא ",
+    "other_designations": "אברהם אבא בן עזריאל אריה ליב רקובסקי; אברהם אבא אברבנאל",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1854",
+      "death_year": "1921"
+    },
+    "bio_snippet": "סופר, עיתונאי ומתרגם עברי מגליציה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 124
+  },
+  "texts": {
+    "author": [
+      57596
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

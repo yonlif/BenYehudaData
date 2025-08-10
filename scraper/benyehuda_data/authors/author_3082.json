@@ -1,0 +1,39 @@
+{
+  "id": 3082,
+  "url": "https://benyehuda.org/author/3082",
+  "metadata": {
+    "name": "מיכאל יעקבי",
+    "sort_name": "יעקבי, מיכאל ",
+    "other_designations": "מיכאל יעקובי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1928",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד ירושלים, למד בכדורי. נלחם בסביבות צפת, ונפל בקרב על שחרורה [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 115
+  },
+  "texts": {
+    "author": [
+      54927
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

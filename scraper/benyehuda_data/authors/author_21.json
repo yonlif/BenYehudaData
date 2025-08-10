@@ -1,0 +1,68 @@
+{
+  "id": 21,
+  "url": "https://benyehuda.org/author/21",
+  "metadata": {
+    "name": "אברהם שלום פרידברג",
+    "sort_name": "פרידברג, אברהם שלום",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1838",
+      "death_year": "1902"
+    },
+    "bio_snippet": "סופר עברי, מחבר \"זכרונות לבית דוד\", עורך כתבי העת העבריים \"הצפירה\", \"המליץ\", האלמנך \"לוח אחיאסף\" והאנציקלופדיה העברית \"האשכול\".",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "letters",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 17260
+  },
+  "texts": {
+    "author": [
+      33,
+      168,
+      1959,
+      2275,
+      2588,
+      2902,
+      3230,
+      3540,
+      3864,
+      4180,
+      4510,
+      4837,
+      5205,
+      5521,
+      13944,
+      18549,
+      29788,
+      32006,
+      38623,
+      52613,
+      58439
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      31824,
+      32993,
+      38475
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      26167
+    ]
+  }
+}

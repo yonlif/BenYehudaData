@@ -1,0 +1,39 @@
+{
+  "id": 398,
+  "url": "https://benyehuda.org/author/398",
+  "metadata": {
+    "name": "יעקב גולדמן",
+    "sort_name": "גולדמן, יעקב",
+    "other_designations": "יעקב בן אשר גולדמן; אחד ממנקי המנעלים; אפרתי; בן יפו; בן עמי; יעקב איש גם זו; עקביא בן הראש; פ. פלטיאל",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1856",
+      "death_year": "1931"
+    },
+    "bio_snippet": " רב ועיתונאי אשכנזי שפעל בארץ ישראל",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 442
+  },
+  "texts": {
+    "author": [
+      9677
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

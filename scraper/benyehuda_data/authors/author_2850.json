@@ -1,0 +1,39 @@
+{
+  "id": 2850,
+  "url": "https://benyehuda.org/author/2850",
+  "metadata": {
+    "name": "אשר בינג",
+    "sort_name": "בינג, אשר ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1904",
+      "death_year": "1961"
+    },
+    "bio_snippet": "מורה ומחבר ספרי לימוד ומלאכת  יד [אין מקור]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 236
+  },
+  "texts": {
+    "author": [
+      51436
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 378,
+  "url": "https://benyehuda.org/author/378",
+  "metadata": {
+    "name": "ויליאם ווטסון",
+    "sort_name": "ווטסון, ויליאם",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1858",
+      "death_year": "1935"
+    },
+    "bio_snippet": "היה משורר אנגלי.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 176
+  },
+  "texts": {
+    "author": [
+      8839
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 860,
+  "url": "https://benyehuda.org/author/860",
+  "metadata": {
+    "name": "אלכסנדר קופרין",
+    "sort_name": "קופרין, אלכסנדר ",
+    "other_designations": "אלכסנדר איוונוביץ קופרין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1870",
+      "death_year": "1938"
+    },
+    "bio_snippet": "סופר רוסי",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 678
+  },
+  "texts": {
+    "author": [
+      24726
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

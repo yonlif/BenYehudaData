@@ -1,0 +1,39 @@
+{
+  "id": 2233,
+  "url": "https://benyehuda.org/author/2233",
+  "metadata": {
+    "name": "משה בן אברהם מהענווים",
+    "sort_name": "מהענווים, משה בן אברהם ",
+    "other_designations": "משה בן אברהם מהענוים",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "מרומא, חי באמצע המאה הי\"ג",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 100
+  },
+  "texts": {
+    "author": [
+      38430
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

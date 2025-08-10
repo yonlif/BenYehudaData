@@ -1,0 +1,46 @@
+{
+  "id": 858,
+  "url": "https://benyehuda.org/author/858",
+  "metadata": {
+    "name": "שמואל יעקב אימבר",
+    "sort_name": "אימבר, שמואל יעקב",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1889",
+      "death_year": "1942"
+    },
+    "bio_snippet": "משורר יידי, נספה בשואה",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1607
+  },
+  "texts": {
+    "author": [
+      24677,
+      24678,
+      24679,
+      24680,
+      52142,
+      52143,
+      52144,
+      52145
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

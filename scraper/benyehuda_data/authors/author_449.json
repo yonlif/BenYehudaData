@@ -1,0 +1,39 @@
+{
+  "id": 449,
+  "url": "https://benyehuda.org/author/449",
+  "metadata": {
+    "name": "מאיר ד' ריבקין",
+    "sort_name": "ריבקין, מאיר ד'",
+    "other_designations": "מ\"ד ריבקין ; מאיר ריווקין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1869",
+      "death_year": "1915"
+    },
+    "bio_snippet": "סופר יידיש, עיתונאי ומורה רוסי. פירסם סיפורים ופיליטונים ברוסית וביידיש בעיתונים יהודיים באימפריה הרוסית.",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 431
+  },
+  "texts": {
+    "author": [
+      11005
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

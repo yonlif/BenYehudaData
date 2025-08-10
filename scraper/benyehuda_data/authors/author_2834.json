@@ -1,0 +1,39 @@
+{
+  "id": 2834,
+  "url": "https://benyehuda.org/author/2834",
+  "metadata": {
+    "name": "וילהלם וינדלבנד",
+    "sort_name": "וינדלבנד, וילהלם ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1848",
+      "death_year": "1916"
+    },
+    "bio_snippet": "פילוסוף גרמני",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 442
+  },
+  "texts": {
+    "author": [
+      50569
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

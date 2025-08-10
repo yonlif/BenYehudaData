@@ -1,0 +1,41 @@
+{
+  "id": 2028,
+  "url": "https://benyehuda.org/author/2028",
+  "metadata": {
+    "name": "יחיאל בר אברהם",
+    "sort_name": "בר אברהם, יחיאל ",
+    "other_designations": "יחיאל בר־אברהם; יחיאל בר אברהם מרומא",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "המאה ה־11",
+      "death_year": "1070"
+    },
+    "bio_snippet": "פייטן, חי ברומא",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 265
+  },
+  "texts": {
+    "author": [
+      38413,
+      41651,
+      41652
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

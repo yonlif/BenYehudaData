@@ -1,0 +1,39 @@
+{
+  "id": 2269,
+  "url": "https://benyehuda.org/author/2269",
+  "metadata": {
+    "name": "יהודה בן יחיאל",
+    "sort_name": "בן יחיאל, יהודה ",
+    "other_designations": "מסר ליאון; Messer Leon",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "1492"
+    },
+    "bio_snippet": "פייטן בן המאה ה־15",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 102
+  },
+  "texts": {
+    "author": [
+      40741
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

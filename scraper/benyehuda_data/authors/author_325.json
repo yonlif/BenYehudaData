@@ -1,0 +1,37 @@
+{
+  "id": 325,
+  "url": "https://benyehuda.org/author/325",
+  "metadata": {
+    "name": "בלומה ביינאשוויץ",
+    "sort_name": "ביינאשוויץ, בלומה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": "enlightenment",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "שרה הירש, בתו של רש\"ר הירש, הייתה סופרת. כתבה את הרומן \"יאקובינה\" ב-1897. תורגם על ידי בלומה ביינאשווייץ ונקרא בעברית \"בת רוחמה\"; תרגומו פורסם בכתב העת הגרמני \"דר יזראליט\".  ",
+    "languages": [],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 347
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      6399
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

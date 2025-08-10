@@ -1,0 +1,39 @@
+{
+  "id": 1363,
+  "url": "https://benyehuda.org/author/1363",
+  "metadata": {
+    "name": "חנא שמרוק",
+    "sort_name": "שמרוק, חנא ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1921",
+      "death_year": "1997"
+    },
+    "bio_snippet": "היסטוריון, בלשן שעיסוקו בתחום לשון היידיש, מגדולי חוקרי ספרות היידיש, חבר האקדמיה הלאומית הישראלית למדעים וחתן פרס ישראל לחקר לשונות היהודים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "letters"
+    ],
+    "impressions_count": 1006
+  },
+  "texts": {
+    "author": [
+      32106
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

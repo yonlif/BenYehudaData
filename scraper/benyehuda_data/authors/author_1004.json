@@ -1,0 +1,40 @@
+{
+  "id": 1004,
+  "url": "https://benyehuda.org/author/1004",
+  "metadata": {
+    "name": "ברתולד אוארבך",
+    "sort_name": "אוארבך, ברתולד ",
+    "other_designations": "אוירבך, משה ברוך אוארבכר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1812",
+      "death_year": "1882"
+    },
+    "bio_snippet": "סופר ומשורר יהודי־גרמני נודע",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2485
+  },
+  "texts": {
+    "author": [
+      28045,
+      31970
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

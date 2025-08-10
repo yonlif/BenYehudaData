@@ -1,0 +1,62 @@
+{
+  "id": 587,
+  "url": "https://benyehuda.org/author/587",
+  "metadata": {
+    "name": "נתן שחם",
+    "sort_name": "שחם, נתן",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1925",
+      "death_year": "2018"
+    },
+    "bio_snippet": "סופר, עורך, מתרגם ומחזאי ישראלי, חתן פרס ישראל לספרות ה'תשע\"ב.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "drama",
+      "prose"
+    ],
+    "impressions_count": 50622
+  },
+  "texts": {
+    "author": [
+      15821,
+      15822,
+      18851,
+      18852,
+      18853,
+      18854,
+      18857,
+      18896,
+      18923,
+      18924,
+      19176,
+      19474,
+      47073,
+      55012
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      16421,
+      25865,
+      26024,
+      41785,
+      46116,
+      49824,
+      52048
+    ]
+  }
+}

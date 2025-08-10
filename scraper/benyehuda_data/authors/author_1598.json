@@ -1,0 +1,62 @@
+{
+  "id": 1598,
+  "url": "https://benyehuda.org/author/1598",
+  "metadata": {
+    "name": "אליעזר צוקרמן",
+    "sort_name": "צוקרמן, אליעזר ",
+    "other_designations": "אליעזר בן יוסף צוקרמאן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1852",
+      "death_year": "1887"
+    },
+    "bio_snippet": "סופר, מתרגם, עובד דפוס, משכיל, מהפכן, סוציאליסט יהודי [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "yi",
+      "he"
+    ],
+    "genres": [
+      "article",
+      "drama",
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 2649
+  },
+  "texts": {
+    "author": [
+      34567,
+      34568,
+      34569,
+      34570,
+      34571,
+      34572,
+      34573,
+      38930,
+      38931,
+      38932,
+      38933,
+      38934,
+      38935,
+      38936,
+      38937,
+      38938,
+      38939,
+      38940,
+      38941,
+      38942
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

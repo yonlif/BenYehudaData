@@ -1,0 +1,42 @@
+{
+  "id": 3336,
+  "url": "https://benyehuda.org/author/3336",
+  "metadata": {
+    "name": "צבי עצמון",
+    "sort_name": "עצמון, צבי",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1948",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר עברי, עורך, מורה וביולוג ישראלי.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 518
+  },
+  "texts": {
+    "author": [
+      56388,
+      57239,
+      57240,
+      57241
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

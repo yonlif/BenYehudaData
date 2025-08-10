@@ -1,0 +1,39 @@
+{
+  "id": 2221,
+  "url": "https://benyehuda.org/author/2221",
+  "metadata": {
+    "name": "אברהם אזרח בר מתתיה",
+    "sort_name": "בר מתתיה, אברהם אזרח ",
+    "other_designations": "אברהם אזרח בן מתתיה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "חי ברומא באמצע המאה הי\"ב",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 99
+  },
+  "texts": {
+    "author": [
+      38421
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 956,
+  "url": "https://benyehuda.org/author/956",
+  "metadata": {
+    "name": "בצלאל (ססיל) רות",
+    "sort_name": "רות, בצלאל ססיל ",
+    "other_designations": "ססיל רות; בצלאל ססיל רות; בצלאל רות",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1899",
+      "death_year": "1970"
+    },
+    "bio_snippet": "היסטוריון יהודי־בריטי, התמחה בתולדות היהודים בכלל ובתקופת הרנסאנס בפרט. הציע היסטוריוגרפיה שהדגישה את פירות היצירה העיקריים בכל תקופה. בהיסטוריוגרפיה שלו גלומה תפיסת עולם הומניסטית, והדגשת חירות האדם וכוח היצירה שלו. הורה באוניברסיטת אוקספורד, ניו יורק ובר אילן. עורך ראשי של האנציקלופדיה יודאיקה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 957
+  },
+  "texts": {
+    "author": [
+      29458,
+      49321
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

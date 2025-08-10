@@ -1,0 +1,39 @@
+{
+  "id": 1198,
+  "url": "https://benyehuda.org/author/1198",
+  "metadata": {
+    "name": "אליעזר ליפמן הורביץ",
+    "sort_name": "הורביץ, אליעזר ליפמן",
+    "other_designations": "הורוביץ, הורוויץ, אליעזר ליפמאן בר״ח ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1815",
+      "death_year": "1852"
+    },
+    "bio_snippet": "מורה, מייסד כתב העת העברי הראשון בליטא, \"פרחי צפון\" (יחד עם ש. י. פין) [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 312
+  },
+  "texts": {
+    "author": [
+      30353
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 1319,
+  "url": "https://benyehuda.org/author/1319",
+  "metadata": {
+    "name": "אשר למל לוי",
+    "sort_name": "לוי, אשר למל",
+    "other_designations": "אשר־למיל, אשר-למיל, אשר למיל, לואיס, אשר למל בן משה לוי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "?",
+      "death_year": "1853"
+    },
+    "bio_snippet": "חזן, משורר ומתרגם [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 577
+  },
+  "texts": {
+    "author": [
+      47010,
+      47011,
+      47104,
+      47105,
+      47106,
+      47107
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 396,
+  "url": "https://benyehuda.org/author/396",
+  "metadata": {
+    "name": "אוואריסט איק",
+    "sort_name": "איק, אוואריסט",
+    "other_designations": "אוואריסט הוק; אווריסט היק; אווריסט איק; אווריסט הוק; אבריסט רז'י איק ; אבה איק",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1813",
+      "death_year": "1860"
+    },
+    "bio_snippet": "כומר קתולי צרפתי, מיסיונר ונוסע",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 645
+  },
+  "texts": {
+    "author": [
+      45891
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

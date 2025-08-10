@@ -1,0 +1,45 @@
+{
+  "id": 2813,
+  "url": "https://benyehuda.org/author/2813",
+  "metadata": {
+    "name": "ברטולט ברכט",
+    "sort_name": "ברכט, ברטולט ",
+    "other_designations": "אויגן ברטולד פרידריך ברכט; אויגן ברטולד (ברט) פרידריך ברכט; ברתולט ברכט; ברטולד ברכט; ברתולד ברכט",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1898",
+      "death_year": "1956"
+    },
+    "bio_snippet": "מחזאי, במאי ותאורטיקן תיאטרון ומשורר גרמני. מהבולטים שבמתנגדי המשטר הנאצי",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1369
+  },
+  "texts": {
+    "author": [
+      12571,
+      12572,
+      12573,
+      12574,
+      12575,
+      12576,
+      52867
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

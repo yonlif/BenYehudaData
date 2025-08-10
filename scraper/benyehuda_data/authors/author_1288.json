@@ -1,0 +1,55 @@
+{
+  "id": 1288,
+  "url": "https://benyehuda.org/author/1288",
+  "metadata": {
+    "name": "אברהם יצחק גולני ",
+    "sort_name": "גולני, אברהם יצחק ",
+    "other_designations": "יגולניצר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1876",
+      "death_year": "1952"
+    },
+    "bio_snippet": "מורה ומנהל בתי ספר, פעיל ציוני ופעיל ציבור",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "letters"
+    ],
+    "impressions_count": 1595
+  },
+  "texts": {
+    "author": [
+      37693,
+      37694,
+      37695,
+      37696,
+      37697,
+      37698,
+      37699,
+      37700,
+      37701,
+      37702,
+      37703,
+      54222,
+      54223,
+      54224,
+      54225,
+      54226
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

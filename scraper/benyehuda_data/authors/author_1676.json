@@ -1,0 +1,40 @@
+{
+  "id": 1676,
+  "url": "https://benyehuda.org/author/1676",
+  "metadata": {
+    "name": "תומס קרי",
+    "sort_name": "קרי, תומס ",
+    "other_designations": "תומאס קרי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1595",
+      "death_year": "1640"
+    },
+    "bio_snippet": "משורר בריטי",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 213
+  },
+  "texts": {
+    "author": [
+      34417,
+      34418
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

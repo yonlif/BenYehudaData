@@ -1,0 +1,58 @@
+{
+  "id": 1310,
+  "url": "https://benyehuda.org/author/1310",
+  "metadata": {
+    "name": "לוי אבן אלתבאן",
+    "sort_name": "אבן אלתבאן, לוי ",
+    "other_designations": "לוי בן יעקב, אבן־אלתבאן, אבן-אלתבאן; אבו אלפהם לוי בן יעקב אבן אלתבאן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "פייטן ומדקדק ספרדי במחצית השנייה של המאה ה־11 בסארגוסה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 3127
+  },
+  "texts": {
+    "author": [
+      31482,
+      31483,
+      31484,
+      31485,
+      31486,
+      31487,
+      31488,
+      31489,
+      31490,
+      31491,
+      31492,
+      31493,
+      40580,
+      40581,
+      40582,
+      40583,
+      40584,
+      40585,
+      40586,
+      40587
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

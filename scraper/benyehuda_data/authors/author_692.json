@@ -1,0 +1,39 @@
+{
+  "id": 692,
+  "url": "https://benyehuda.org/author/692",
+  "metadata": {
+    "name": "מקס וולושין",
+    "sort_name": "וולושין, מקס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1877",
+      "death_year": "1932"
+    },
+    "bio_snippet": "משורר ומתרגם רוסי.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 370
+  },
+  "texts": {
+    "author": [
+      18990
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

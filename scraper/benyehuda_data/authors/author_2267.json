@@ -1,0 +1,39 @@
+{
+  "id": 2267,
+  "url": "https://benyehuda.org/author/2267",
+  "metadata": {
+    "name": "רפאל בן יצחק מפאינצא",
+    "sort_name": "מפאינצא, רפאל בן יצחק ",
+    "other_designations": "Rafael da Faenza",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "כנראה מהעיר פאינצה שבפלך רומניה, חי בפירנצא סמוך ל־1450",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 90
+  },
+  "texts": {
+    "author": [
+      40739
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

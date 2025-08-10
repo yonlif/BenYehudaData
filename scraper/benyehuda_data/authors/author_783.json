@@ -1,0 +1,39 @@
+{
+  "id": 783,
+  "url": "https://benyehuda.org/author/783",
+  "metadata": {
+    "name": "רוברט זנדק",
+    "sort_name": "זנדק, רוברט",
+    "other_designations": "רברט זנדק",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "pl"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 388
+  },
+  "texts": {
+    "author": [
+      22994
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

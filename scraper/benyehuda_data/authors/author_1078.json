@@ -1,0 +1,39 @@
+{
+  "id": 1078,
+  "url": "https://benyehuda.org/author/1078",
+  "metadata": {
+    "name": "דניאל דפו",
+    "sort_name": "דפו, דניאל ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1660",
+      "death_year": "1731"
+    },
+    "bio_snippet": "סופר ועיתונאי אנגלי. נחשב, יחד עם סמואל ריצ'רדסון, לאבי הרומן האנגלי. \"רובינזון קרוזו\" הוא ספרו הידוע ביותר.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 3079
+  },
+  "texts": {
+    "author": [
+      29148
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

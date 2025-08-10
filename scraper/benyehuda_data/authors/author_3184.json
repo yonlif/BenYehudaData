@@ -1,0 +1,42 @@
+{
+  "id": 3184,
+  "url": "https://benyehuda.org/author/3184",
+  "metadata": {
+    "name": "אסתר אטינגר",
+    "sort_name": "אטינגר, אסתר ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1941",
+      "death_year": ""
+    },
+    "bio_snippet": "משוררת, סופרת ומבקרת ספרות ישראלית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 408
+  },
+  "texts": {
+    "author": [
+      54810,
+      54811,
+      57242,
+      58507
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 2118,
+  "url": "https://benyehuda.org/author/2118",
+  "metadata": {
+    "name": "אלכסנדר פופ",
+    "sort_name": "פופ, אלכסנדר ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1688",
+      "death_year": "1744"
+    },
+    "bio_snippet": "מגדולי המשוררים האנגלים של המאה ה־18. ידוע במיוחד בזכות מסותיו בחרוזים, תרגומיו ליצירותיו של הומרוס, והסאטירות שלו",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 348
+  },
+  "texts": {
+    "author": [
+      39820,
+      58842
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

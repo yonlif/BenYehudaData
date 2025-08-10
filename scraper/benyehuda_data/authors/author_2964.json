@@ -1,0 +1,39 @@
+{
+  "id": 2964,
+  "url": "https://benyehuda.org/author/2964",
+  "metadata": {
+    "name": "יבי",
+    "sort_name": "יבי",
+    "other_designations": "יונה בן יהודה; יונה בן יהודה (יהודיוף)",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1934",
+      "death_year": "2002"
+    },
+    "bio_snippet": "עיתונאי, פובליציסט ומשורר ישראלי. היה מהאמנים הפוליטיים הבולטים בישראל, ונודע בעמדותיו בנושא השוויון, הצדק החברתי ומעמד הפועלים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 147
+  },
+  "texts": {
+    "author": [
+      54056
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

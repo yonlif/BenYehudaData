@@ -1,0 +1,43 @@
+{
+  "id": 3409,
+  "url": "https://benyehuda.org/author/3409",
+  "metadata": {
+    "name": "רמי דיצני",
+    "sort_name": "דיצני, רמי ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1950",
+      "death_year": "2012"
+    },
+    "bio_snippet": "משורר ישראלי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 411
+  },
+  "texts": {
+    "author": [
+      57164,
+      57165,
+      57166,
+      57167,
+      57168
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

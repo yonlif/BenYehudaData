@@ -1,0 +1,39 @@
+{
+  "id": 883,
+  "url": "https://benyehuda.org/author/883",
+  "metadata": {
+    "name": "ראובן זכריה",
+    "sort_name": "זכריה ראובן ",
+    "other_designations": "סגן גלילי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1924",
+      "death_year": "1948"
+    },
+    "bio_snippet": "חבר אצ\"ל, וכינויו בו \"סגן גלילי\". נעצר ב־1944 בידי הבריטים למשך שבעה חודשים בלטרון. נאסר אחרי פיצוץ מלון \"המלך דויד\" בירושלים וישב במאסר עד צאת הבריטים מהארץ. נלחם במלחמת העצמאות באיזור ירושלים ונפל בקרב מלחה. בית־הכנסת במנחת (מלחה) נקרא על שמו, \"זיכרון ראובן\".",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 1421
+  },
+  "texts": {
+    "author": [
+      25450
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

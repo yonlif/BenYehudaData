@@ -1,0 +1,39 @@
+{
+  "id": 204,
+  "url": "https://benyehuda.org/author/204",
+  "metadata": {
+    "name": "יוסף אבן סהל",
+    "sort_name": "סהל, יוסף אבן",
+    "other_designations": "אבו עמר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "סו",
+      "death_year": "רא"
+    },
+    "bio_snippet": "היה חכם תלמודי דיין ופייטן בספרד. ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 505
+  },
+  "texts": {
+    "author": [
+      319
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

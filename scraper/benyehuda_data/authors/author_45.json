@@ -1,0 +1,98 @@
+{
+  "id": 45,
+  "url": "https://benyehuda.org/author/45",
+  "metadata": {
+    "name": "בר טוביה",
+    "sort_name": "טוביה, בר",
+    "other_designations": "שרגא פייבל פרנקל; בר־טוביה; בר-טוביה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1875",
+      "death_year": "1933"
+    },
+    "bio_snippet": "מורה, מתרגם, ומבקר עברי. ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "letters",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 19948
+  },
+  "texts": {
+    "author": [
+      156,
+      238,
+      587,
+      707,
+      966,
+      1242,
+      1275,
+      1436,
+      1556,
+      1589,
+      1733,
+      1858,
+      1894,
+      2049,
+      2177,
+      2363,
+      2486,
+      2677,
+      2805,
+      3026,
+      3125,
+      3315,
+      3459,
+      3631,
+      3762,
+      3955,
+      4267,
+      4593,
+      4966,
+      5292,
+      5612,
+      5936,
+      6257,
+      6583,
+      6915,
+      7106,
+      7239,
+      7439,
+      7571,
+      7689,
+      7717,
+      7753,
+      7758,
+      7783,
+      7809,
+      7821,
+      7850,
+      7879,
+      7884,
+      8129,
+      8207,
+      8400,
+      8451,
+      8529
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      1759,
+      33690
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

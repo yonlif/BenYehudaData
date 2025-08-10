@@ -1,0 +1,40 @@
+{
+  "id": 85,
+  "url": "https://benyehuda.org/author/85",
+  "metadata": {
+    "name": "עדינה שריון",
+    "sort_name": "שריון, עדינה",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1920",
+      "death_year": "2011"
+    },
+    "bio_snippet": "חברה בארגון ה\"הגנה\", מחנכת וספרנית. ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 7311
+  },
+  "texts": {
+    "author": [
+      3398,
+      3715
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

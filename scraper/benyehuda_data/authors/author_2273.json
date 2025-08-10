@@ -1,0 +1,39 @@
+{
+  "id": 2273,
+  "url": "https://benyehuda.org/author/2273",
+  "metadata": {
+    "name": "יהודה אברבנאל",
+    "sort_name": "אברבנאל, יהודה ",
+    "other_designations": "יהודה בן יצחק אברבנאל; לאונה אבראו` Leone Ebreo; Jehuda Abravanel",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1460",
+      "death_year": "1530"
+    },
+    "bio_snippet": "רב, רופא, פילוסוף יהודי ומשורר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 800
+  },
+  "texts": {
+    "author": [
+      40745
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

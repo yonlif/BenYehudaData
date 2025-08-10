@@ -1,0 +1,39 @@
+{
+  "id": 2322,
+  "url": "https://benyehuda.org/author/2322",
+  "metadata": {
+    "name": "חזקיה דוד אבולעפיה",
+    "sort_name": "אבולעפיה, חזקיה דוד ",
+    "other_designations": "חזקיה דוד בן מרדכי אבולעפיה; חזקיה דוד אבולאפיו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "משכיל יהודי־איטלקי ומשורר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 581
+  },
+  "texts": {
+    "author": [
+      40794
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

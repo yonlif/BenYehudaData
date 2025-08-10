@@ -1,0 +1,39 @@
+{
+  "id": 1575,
+  "url": "https://benyehuda.org/author/1575",
+  "metadata": {
+    "name": "שלמה בן לביא",
+    "sort_name": "בן לביא, שלמה ",
+    "other_designations": "שלמה בן-לביא, שלמה בן־לביא",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "המאה ה־14",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר מסרגוסה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 331
+  },
+  "texts": {
+    "author": [
+      34152
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

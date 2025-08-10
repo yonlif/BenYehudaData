@@ -1,0 +1,45 @@
+{
+  "id": 2575,
+  "url": "https://benyehuda.org/author/2575",
+  "metadata": {
+    "name": "מתתיהו שמחה רבנר",
+    "sort_name": "רבנר, מתתיהו שמחה ",
+    "other_designations": "מתיתיהו שמחה רבנר; המשביר; מתיתיהו שמחה ראבנר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1829",
+      "death_year": "1894"
+    },
+    "bio_snippet": "רב, דרשן, מחנך, מורה לעברית, סופר, מתרגם ועורך בשפות עברית, גרמנית ורומנית, יליד גליציה המזרחית (בימינו באוקראינה) שפעל בגליציה, בוקובינה וברומניה, מראשי המשכילים בצ'רנוביץ וביאשי",
+    "languages": [],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 85
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      47060,
+      47061,
+      47062,
+      47063,
+      47064,
+      47065,
+      47066,
+      56089,
+      56090
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

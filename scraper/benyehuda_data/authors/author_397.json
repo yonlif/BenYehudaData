@@ -1,0 +1,60 @@
+{
+  "id": 397,
+  "url": "https://benyehuda.org/author/397",
+  "metadata": {
+    "name": "יחיאל מיכל פינס",
+    "sort_name": "פינס, יחיאל מיכל",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1843",
+      "death_year": "1913"
+    },
+    "bio_snippet": "סופר ציוני, מאבות הציונות הדתית, ממיישבי ארץ ישראל והוגה דעות. מושב כפר פינס קרוי על שמו.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "letters",
+      "memoir",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 6122
+  },
+  "texts": {
+    "author": [
+      9673,
+      9674,
+      9675,
+      11010,
+      11011,
+      17934,
+      17935,
+      17965,
+      18163,
+      57145,
+      57255,
+      57257,
+      57258
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      11350
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      4646,
+      31280
+    ]
+  }
+}

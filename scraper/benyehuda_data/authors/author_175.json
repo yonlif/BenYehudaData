@@ -1,0 +1,97 @@
+{
+  "id": 175,
+  "url": "https://benyehuda.org/author/175",
+  "metadata": {
+    "name": "שמואל לייב גורדון",
+    "sort_name": "גורדון, שמואל לייב",
+    "other_designations": "של\"ג; שמואל ליב גורדון; ש\"ל גורדון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1865",
+      "death_year": "1933"
+    },
+    "bio_snippet": "מחנך, משורר ומתרגם עברי, ומפרשני התנ\"ך בדורות האחרונים.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "drama",
+      "fables",
+      "poetry",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 8920
+  },
+  "texts": {
+    "author": [
+      264,
+      1590,
+      2216,
+      2525,
+      2719,
+      2843,
+      3011,
+      3165,
+      3174,
+      3483,
+      3672,
+      4636,
+      5007,
+      5333,
+      5659,
+      6299,
+      6621,
+      6955,
+      7281,
+      8247,
+      8570,
+      25859
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      770,
+      1276,
+      1895,
+      3357,
+      3987,
+      4309,
+      5977,
+      6449,
+      7605,
+      7920,
+      25757,
+      25857,
+      25858,
+      25860,
+      25861,
+      25862,
+      50128,
+      50129,
+      50130,
+      50131,
+      50132,
+      50133,
+      50134,
+      50135,
+      50315,
+      50316,
+      54679,
+      54680
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      3551,
+      11825
+    ]
+  }
+}

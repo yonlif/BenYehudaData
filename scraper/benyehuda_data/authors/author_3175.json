@@ -1,0 +1,44 @@
+{
+  "id": 3175,
+  "url": "https://benyehuda.org/author/3175",
+  "metadata": {
+    "name": "בנימין שפירא",
+    "sort_name": "שפירא, בנימין ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1914",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד ביאליסטוק. במלחמת העצמאות השתתף בקרבות בגשר ובסג'רה, ונפל בגנוסר תוך פירוק מוקשים. הניח אישה ושני ילדים [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 328
+  },
+  "texts": {
+    "author": [
+      54504,
+      54505,
+      54506,
+      54574,
+      54575
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

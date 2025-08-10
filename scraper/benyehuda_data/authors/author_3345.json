@@ -1,0 +1,42 @@
+{
+  "id": 3345,
+  "url": "https://benyehuda.org/author/3345",
+  "metadata": {
+    "name": "יעל גרינפלד",
+    "sort_name": "גרינפלד, יעל",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "משוררת. ספרה \"תותי פטל\" ראה אור בשנת 1969 בהוצאת \"עכשיו\".",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 333
+  },
+  "texts": {
+    "author": [
+      56450,
+      56451,
+      57228,
+      57229
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1132,
+  "url": "https://benyehuda.org/author/1132",
+  "metadata": {
+    "name": "אריה חשביה",
+    "sort_name": "חשביה, אריה ",
+    "other_designations": "אביאל רן, חיים עדיני, ט' לביא",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1931",
+      "death_year": "2015"
+    },
+    "bio_snippet": " סופר, עיתונאי ומתרגם ישראלי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 10924
+  },
+  "texts": {
+    "author": [
+      31252,
+      31253,
+      31254,
+      31255,
+      31256,
+      31257,
+      31258,
+      31259,
+      31260,
+      31261,
+      31262,
+      31263,
+      31264,
+      31265,
+      31266,
+      31267,
+      31268,
+      31269,
+      31270,
+      31271,
+      31272,
+      31273,
+      31274,
+      31973,
+      49375
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

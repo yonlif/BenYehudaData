@@ -1,0 +1,41 @@
+{
+  "id": 494,
+  "url": "https://benyehuda.org/author/494",
+  "metadata": {
+    "name": "וילהלם גרים",
+    "sort_name": "גרים, וילהלם",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1786",
+      "death_year": "1859"
+    },
+    "bio_snippet": " סופר גרמני, אחיו הצעיר של יעקוב גרים, הזכורים בתור הצמד האחים גרים. ",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1090
+  },
+  "texts": {
+    "author": [
+      11451,
+      28869,
+      28870
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

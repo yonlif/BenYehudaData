@@ -1,0 +1,41 @@
+{
+  "id": 1199,
+  "url": "https://benyehuda.org/author/1199",
+  "metadata": {
+    "name": "אוריאל עקביא",
+    "sort_name": "עקביא, אוריאל ",
+    "other_designations": "יעקבוביץ, עקביה",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1911",
+      "death_year": "1997"
+    },
+    "bio_snippet": " מחנך, פסיכולוג וסופר ישראלי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 409
+  },
+  "texts": {
+    "author": [
+      54220,
+      56750
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

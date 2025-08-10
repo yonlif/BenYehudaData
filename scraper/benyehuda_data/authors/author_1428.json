@@ -1,0 +1,44 @@
+{
+  "id": 1428,
+  "url": "https://benyehuda.org/author/1428",
+  "metadata": {
+    "name": "מנשה מאירוביץ",
+    "sort_name": "מאירוביץ,  מנשה ",
+    "other_designations": "מזקני הישוב, אבו איברהים, הביל\"ויי, מנשה מאירוביץ'",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1860",
+      "death_year": "1949"
+    },
+    "bio_snippet": "מאנשי ביל\"ו, אגרונום, סופר ומראשי ההתיישבות היהודית בארץ ישראל בתקופת העלייה הראשונה ואחריה. כונה \"אחרון הביל\"ויים\"",
+    "languages": [
+      "he",
+      "yi"
+    ],
+    "genres": [
+      "memoir",
+      "reference"
+    ],
+    "impressions_count": 988
+  },
+  "texts": {
+    "author": [
+      50077,
+      54227,
+      54228,
+      54230
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

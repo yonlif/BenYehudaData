@@ -1,0 +1,41 @@
+{
+  "id": 508,
+  "url": "https://benyehuda.org/author/508",
+  "metadata": {
+    "name": "חיים חרמש",
+    "sort_name": "חרמש, חיים",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1919",
+      "death_year": "2007"
+    },
+    "bio_snippet": "מצנחני היישוב, פעיל פוליטי ולוחם אנטי-פשיסטי ישראלי, יליד הונגריה.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 2708
+  },
+  "texts": {
+    "author": [
+      11796,
+      11797
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

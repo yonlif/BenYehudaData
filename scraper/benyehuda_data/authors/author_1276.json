@@ -1,0 +1,43 @@
+{
+  "id": 1276,
+  "url": "https://benyehuda.org/author/1276",
+  "metadata": {
+    "name": "סמי גרונמן ",
+    "sort_name": "גרונמן, סמי ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1875",
+      "death_year": "1952"
+    },
+    "bio_snippet": "פעיל ציוני, מחזאי וסאטיריקן, שכתב בגרמנית",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 3794
+  },
+  "texts": {
+    "author": [
+      37313,
+      37456,
+      40362
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      50893
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 179,
+  "url": "https://benyehuda.org/author/179",
+  "metadata": {
+    "name": "יוסף יקותיאלי",
+    "sort_name": "יקותיאלי, יוסף",
+    "other_designations": "יוסף בן ברוך יקותיאל יקותיאלי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1897",
+      "death_year": "1982"
+    },
+    "bio_snippet": "עסקן ספורט ישראלי, הוגה רעיון המכביה ומגשימו.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 2554
+  },
+  "texts": {
+    "author": [
+      2643
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

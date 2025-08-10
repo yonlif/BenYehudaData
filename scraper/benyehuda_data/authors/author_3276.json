@@ -1,0 +1,39 @@
+{
+  "id": 3276,
+  "url": "https://benyehuda.org/author/3276",
+  "metadata": {
+    "name": "טל רחל הורוביץ",
+    "sort_name": "הורוביץ, טל רחל ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1979",
+      "death_year": ""
+    },
+    "bio_snippet": "משוררת, עובדת בחברת תרופות",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 163
+  },
+  "texts": {
+    "author": [
+      56490
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

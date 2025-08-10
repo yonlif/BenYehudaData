@@ -1,0 +1,41 @@
+{
+  "id": 954,
+  "url": "https://benyehuda.org/author/954",
+  "metadata": {
+    "name": "שלמה רילף",
+    "sort_name": "רילף, שלמה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1896",
+      "death_year": "1976"
+    },
+    "bio_snippet": "רב קונסרבטיבי בגרמניה, עלה ארצה בשנות השלושים למאה העשרים, לנהרייה. מנהל בית הספר העברי הראשון בגליל המערבי. עסק בשיקום הקהילות היהודיות באמסטרדם וסארביריקן לאחר מלחמת העולם השנייה. פעיל בלשכת בני-ברית וממייסדי הקהילה הרפורמית בנהרייה (מתוך ספרו: נחלים בערבה - זיכרונות חיי)",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 2058
+  },
+  "texts": {
+    "author": [
+      26550,
+      44785
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

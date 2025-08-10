@@ -1,0 +1,39 @@
+{
+  "id": 921,
+  "url": "https://benyehuda.org/author/921",
+  "metadata": {
+    "name": "יעקב בכרך",
+    "sort_name": "בכרך, יעקב ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1824",
+      "death_year": "1896"
+    },
+    "bio_snippet": "למדן וחוקר תורני. מחבר הגהות על ארבעה טורים וסדרת ספרי מחקר תורני ואפולוגטיקה אודות הכתב האשורי, עיבור השנים בתקופות קדומות ועל קדמות הניקוד העברי וטעמי המקרא\r\n\r\n",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 865
+  },
+  "texts": {
+    "author": [
+      26111
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

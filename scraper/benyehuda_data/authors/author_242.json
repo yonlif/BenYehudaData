@@ -1,0 +1,40 @@
+{
+  "id": 242,
+  "url": "https://benyehuda.org/author/242",
+  "metadata": {
+    "name": "ולדיסלב חודסביץ'",
+    "sort_name": "חודסביץ', ולדיסלב",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1886",
+      "death_year": "1939"
+    },
+    "bio_snippet": "היה סופר רוסי, בן \"תור הכסף\".",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 975
+  },
+  "texts": {
+    "author": [
+      1390,
+      13618
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

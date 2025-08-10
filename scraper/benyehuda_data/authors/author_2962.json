@@ -1,0 +1,58 @@
+{
+  "id": 2962,
+  "url": "https://benyehuda.org/author/2962",
+  "metadata": {
+    "name": "נתן זך",
+    "sort_name": "זך, נתן ",
+    "other_designations": "הארי זייטלבך",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1930",
+      "death_year": "2020"
+    },
+    "bio_snippet": "משורר, עורך, מתרגם, מבקר שירה, סופר, פזמונאי ומחזאי ישראלי. חתן פרס ישראל לשנת 1995, פרופסור בחוג לספרות עברית והשוואתית באוניברסיטת חיפה. זך נחשב לפורץ דרך בשירה העברית ולאחד המשוררים העבריים החשובים במחצית השנייה של המאה ה־20 וראשית המאה ה־21.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 1043
+  },
+  "texts": {
+    "author": [
+      54042,
+      54043,
+      54044,
+      54729,
+      57198,
+      57199,
+      57200
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      54726,
+      54727,
+      54728,
+      54730,
+      57201,
+      57202,
+      57203,
+      57204,
+      57205
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      29765
+    ]
+  }
+}

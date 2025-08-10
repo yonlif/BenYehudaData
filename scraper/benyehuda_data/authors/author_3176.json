@@ -1,0 +1,39 @@
+{
+  "id": 3176,
+  "url": "https://benyehuda.org/author/3176",
+  "metadata": {
+    "name": "ארז ביטון",
+    "sort_name": "ביטון, ארז ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1942",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר, מחזאי ופעיל חברתי ישראלי, חתן פרס ישראל לספרות ולשירה עברית לשנת 2015. ביטון שימש בעבר יושב ראש המרכז הים־תיכוני הבינלאומי בישראל, ערך את כתב העת הספרותי \"אפיריון\" ועבד כעיתונאי בעיתון \"מעריב\"",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 201
+  },
+  "texts": {
+    "author": [
+      54722
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

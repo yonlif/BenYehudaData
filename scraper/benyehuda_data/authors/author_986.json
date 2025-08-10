@@ -1,0 +1,47 @@
+{
+  "id": 986,
+  "url": "https://benyehuda.org/author/986",
+  "metadata": {
+    "name": "משה דוד קאסוטו",
+    "sort_name": "קאסוטו, משה דוד ",
+    "other_designations": "משה דוד אומברטו קאסוטו, קסוטו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1883",
+      "death_year": "1951"
+    },
+    "bio_snippet": "רב בפירנצה ופרופסור למקרא באוניברסיטה העברית. עסק בפרשנות המקרא, בביקורת נוסח המקרא ובאשורולוגיה",
+    "languages": [
+      "he",
+      "it"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 47331
+  },
+  "texts": {
+    "author": [
+      30417,
+      30817,
+      30997,
+      31012,
+      31019,
+      31020,
+      44118
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

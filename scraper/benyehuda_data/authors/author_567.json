@@ -1,0 +1,39 @@
+{
+  "id": 567,
+  "url": "https://benyehuda.org/author/567",
+  "metadata": {
+    "name": "פרדריק מריאט",
+    "sort_name": "מריאט, פרדריק",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1792",
+      "death_year": "1848"
+    },
+    "bio_snippet": "מלח וסופר אנגלי.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1014
+  },
+  "texts": {
+    "author": [
+      13957
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

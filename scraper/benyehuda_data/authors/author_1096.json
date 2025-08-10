@@ -1,0 +1,64 @@
+{
+  "id": 1096,
+  "url": "https://benyehuda.org/author/1096",
+  "metadata": {
+    "name": "סמי פדר",
+    "sort_name": "פדר, סמי ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1909",
+      "death_year": "2000"
+    },
+    "bio_snippet": "סופר יידי, במאי, שחקן, עורך וסדר־דפוס",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "drama",
+      "prose"
+    ],
+    "impressions_count": 3491
+  },
+  "texts": {
+    "author": [
+      33401,
+      33402,
+      33403,
+      33404,
+      33405,
+      33406,
+      33407,
+      33408,
+      33409,
+      33410,
+      33411,
+      33412,
+      33413,
+      33414,
+      33415,
+      33416,
+      33419,
+      33420,
+      33421,
+      33422,
+      33423,
+      33424,
+      33425,
+      33426,
+      38335
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

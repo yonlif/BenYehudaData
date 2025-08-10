@@ -1,0 +1,43 @@
+{
+  "id": 3447,
+  "url": "https://benyehuda.org/author/3447",
+  "metadata": {
+    "name": "גרשם שלום",
+    "sort_name": "שלום, גרשם ",
+    "other_designations": "גרשום שלום; גרשם שולם; גרהארד שולם",
+    "intellectual_property": "copyrighted",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1897",
+      "death_year": "1982"
+    },
+    "bio_snippet": "מגדולי חוקרי הקבלה, ספרן, וכן אספן ספרי קבלה, חסידות ומיסטיקה",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 393
+  },
+  "texts": {
+    "author": [
+      57666,
+      57667,
+      57668,
+      57669,
+      57670
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

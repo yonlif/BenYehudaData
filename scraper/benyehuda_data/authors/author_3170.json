@@ -1,0 +1,42 @@
+{
+  "id": 3170,
+  "url": "https://benyehuda.org/author/3170",
+  "metadata": {
+    "name": "אהרן שמי (ג'ימי)",
+    "sort_name": "שמי (ג'ימי), אהרן ",
+    "other_designations": "אהרן שמידט; אהרן שמיט",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1926",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד חיפה, בנו של הצייר מנחם שמידט (שמי). במלחמת העצמאות לחם בקרבות שונים: בפעולת נחשון, בחטיבת הראל בכיבוש שיך ג'ראח ועוד. נהרג בכיבוש \"המשלט המשותף\" (לחטיבת הראל ולמצרים). הוריו הוציאו לזכרו ספר הנצחה \"חברים מספרים על ג'ימי\" [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 290
+  },
+  "texts": {
+    "author": [
+      54555,
+      54556,
+      54557,
+      54558
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

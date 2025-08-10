@@ -1,0 +1,39 @@
+{
+  "id": 1341,
+  "url": "https://benyehuda.org/author/1341",
+  "metadata": {
+    "name": "משה מנדלסון (מהמבורג)",
+    "sort_name": "מנדלסון, משה  (מהמבורג)",
+    "other_designations": "משה בן מנחם מנדל, [פרנקפורט]; משה פרנקפורטר; משה מנדלסון-פרנקפורטר; משה מנדלסון־פרנקפורטר; משה מנדלסון פרנקפורטר; משה מנדלזון-פרנקפורט",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1782",
+      "death_year": "1861"
+    },
+    "bio_snippet": " משורר, סופר ומתרגם יהודי־גרמני\r\n",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 371
+  },
+  "texts": {
+    "author": [
+      38160
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

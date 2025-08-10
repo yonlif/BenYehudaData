@@ -1,0 +1,42 @@
+{
+  "id": 558,
+  "url": "https://benyehuda.org/author/558",
+  "metadata": {
+    "name": "אייזיק מאיר דיק",
+    "sort_name": "דיק, אייזיק מאיר",
+    "other_designations": "יצחק אייזיק מאיר דיק; איזיק מאיר דיק",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1814",
+      "death_year": "1893"
+    },
+    "bio_snippet": "משכיל וסופר יהודי ליטאי שכתב ביידיש ובעברית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 726
+  },
+  "texts": {
+    "author": [
+      48286,
+      48339,
+      49690
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

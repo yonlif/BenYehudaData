@@ -1,0 +1,39 @@
+{
+  "id": 3512,
+  "url": "https://benyehuda.org/author/3512",
+  "metadata": {
+    "name": "עופר ללוש",
+    "sort_name": "ללוש, עופר ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1947",
+      "death_year": ""
+    },
+    "bio_snippet": "צייר, פסל ואמן תחריט ישראלי. עבודותיו מוצגות בישראל ומחוצה לה, בין היתר במוזיאון גולבנקיאן לאמנות עכשווית בליסבון, במוזיאון תל אביב לאמנות, במוזיאון ישראל בירושלים ובמוזיאון אלברטינה בווינה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 64
+  },
+  "texts": {
+    "author": [
+      58508
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

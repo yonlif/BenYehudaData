@@ -1,0 +1,39 @@
+{
+  "id": 3093,
+  "url": "https://benyehuda.org/author/3093",
+  "metadata": {
+    "name": "צבי לבנברג",
+    "sort_name": "לבנברג, צבי ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1924",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד ברלין, התיישב בגזר. נפל במלחמת העצמאות בקרב על יישובו [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 86
+  },
+  "texts": {
+    "author": [
+      55015
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

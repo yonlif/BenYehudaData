@@ -1,0 +1,39 @@
+{
+  "id": 492,
+  "url": "https://benyehuda.org/author/492",
+  "metadata": {
+    "name": "קרלו קולודי",
+    "sort_name": "קולודי, קרלו",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1826",
+      "death_year": "1890"
+    },
+    "bio_snippet": "היה סופר ועיתונאי איטלקי. בעולם הרחב הוא מוכר כמחבר סיפור הילדים פינוקיו.",
+    "languages": [
+      "it"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 13295
+  },
+  "texts": {
+    "author": [
+      11440
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

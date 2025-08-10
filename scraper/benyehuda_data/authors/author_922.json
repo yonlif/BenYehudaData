@@ -1,0 +1,39 @@
+{
+  "id": 922,
+  "url": "https://benyehuda.org/author/922",
+  "metadata": {
+    "name": "מוריס וינצ'בסקי ",
+    "sort_name": "וינצ'בסקי מוריס ",
+    "other_designations": "מוריס וינטשבסקי, בן־נץ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1856",
+      "death_year": "1932"
+    },
+    "bio_snippet": "משורר יידי חשוב, אידאולוג סוציאליסטי, עיתונאי ופולמוסן שהיה גם קומוניסט, מתרגם ליידיש ומסאי עברי. מראשוני הסוציאליסטים היהודיים.",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 239
+  },
+  "texts": {
+    "author": [
+      26240
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2029,
+  "url": "https://benyehuda.org/author/2029",
+  "metadata": {
+    "name": "יוסף בן גוריון",
+    "sort_name": "בן גוריון, יוסף ",
+    "other_designations": "יוסף בן־גוריון; יוסף בן-גוריון; יוסף בן גוריון הכהו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "ancient",
+      "birth_year": "תחילת המאה העשירית",
+      "death_year": ""
+    },
+    "bio_snippet": "כינויו של מחבר “ספר יוסִפּוֹן” (שמו האמתי לא נודע). כנראה, חי באיטליה הדרומית בתחילת המאה העשירית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 318
+  },
+  "texts": {
+    "author": [
+      38404
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

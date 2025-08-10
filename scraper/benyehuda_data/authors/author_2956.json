@@ -1,0 +1,38 @@
+{
+  "id": 2956,
+  "url": "https://benyehuda.org/author/2956",
+  "metadata": {
+    "name": "ישראל זאב בן נפתלי שפרלינג",
+    "sort_name": "שפרלינג, ישראל זאב בן נפתלי ",
+    "other_designations": "ישראל וולף שפרלינג; ישראל זאב שפרלינג",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1817",
+      "death_year": "1890"
+    },
+    "bio_snippet": "מתרגם [ע\"פ VIAF: The Virtual International Authority File]",
+    "languages": [],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 205
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      54034,
+      54202
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

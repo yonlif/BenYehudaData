@@ -1,0 +1,39 @@
+{
+  "id": 3316,
+  "url": "https://benyehuda.org/author/3316",
+  "metadata": {
+    "name": "רות פוירשטיין",
+    "sort_name": "פוירשטיין, רות ",
+    "other_designations": "רות חוה פוירשטיין",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1994",
+      "death_year": ""
+    },
+    "bio_snippet": "משוררת ואמנית רב־תחומית [על־פי גרנטה: מגזין לספרות חדשה]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 460
+  },
+  "texts": {
+    "author": [
+      56593
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3539,
+  "url": "https://benyehuda.org/author/3539",
+  "metadata": {
+    "name": "אברהם קאולי",
+    "sort_name": "קאולי, אברהם ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1618",
+      "death_year": "1667"
+    },
+    "bio_snippet": "משורר ומסאי אנגלי יליד הסיטי של לונדון. אחד המשוררים האנגליים המובילים במאה ה־17",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 18
+  },
+  "texts": {
+    "author": [
+      58839
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

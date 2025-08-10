@@ -1,0 +1,42 @@
+{
+  "id": 226,
+  "url": "https://benyehuda.org/author/226",
+  "metadata": {
+    "name": "בנימין נחום סילקינר",
+    "sort_name": "סילקינר, בנימין נחום",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1882",
+      "death_year": "1933"
+    },
+    "bio_snippet": "משורר וסופר עברי יליד ליטא שפעל בניו יורק",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 290
+  },
+  "texts": {
+    "author": [
+      668
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      32449,
+      34724
+    ]
+  }
+}

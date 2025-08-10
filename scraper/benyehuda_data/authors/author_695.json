@@ -1,0 +1,41 @@
+{
+  "id": 695,
+  "url": "https://benyehuda.org/author/695",
+  "metadata": {
+    "name": "לאופולד שפר",
+    "sort_name": "שפר, לאופולד",
+    "other_designations": "לעאפאלד שעפער",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1784",
+      "death_year": "1862"
+    },
+    "bio_snippet": "משורר, סופר ומלחין גרמני.",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 831
+  },
+  "texts": {
+    "author": [
+      46,
+      19139,
+      19140
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

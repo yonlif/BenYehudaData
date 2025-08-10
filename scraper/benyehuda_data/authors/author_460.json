@@ -1,0 +1,43 @@
+{
+  "id": 460,
+  "url": "https://benyehuda.org/author/460",
+  "metadata": {
+    "name": "שמואל שרירא",
+    "sort_name": "שרירא, שמואל",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1883",
+      "death_year": "1944"
+    },
+    "bio_snippet": "סופר, חוקר מקרא ואתנוגרפיה, מחנך ומחבר ספרי לימוד חלוציים. ממייסדי רשת החינוך \"תרבות\" באוקראינה ומנהל גימנסיות בחו\"ל ובארץ ישראל.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir",
+      "reference"
+    ],
+    "impressions_count": 6258
+  },
+  "texts": {
+    "author": [
+      24246,
+      24551,
+      31479,
+      32319
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

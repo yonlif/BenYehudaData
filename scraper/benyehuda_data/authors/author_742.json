@@ -1,0 +1,39 @@
+{
+  "id": 742,
+  "url": "https://benyehuda.org/author/742",
+  "metadata": {
+    "name": "יוסף מזל",
+    "sort_name": "מזל, יוסף",
+    "other_designations": "יוסף מאזל; אחד מאוהבי ציון; כלכל בן איתן הגדי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1850",
+      "death_year": "1912"
+    },
+    "bio_snippet": "משורר ומתרגם עברי ופעיל ציוני",
+    "languages": [],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 332
+  },
+  "texts": {
+    "author": [],
+    "editor": [
+      33475
+    ],
+    "illustrator": [],
+    "translator": [
+      21179
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

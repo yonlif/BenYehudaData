@@ -1,0 +1,39 @@
+{
+  "id": 2205,
+  "url": "https://benyehuda.org/author/2205",
+  "metadata": {
+    "name": "צבי מרדכי לווה",
+    "sort_name": "לווה, צבי מרדכי",
+    "other_designations": "צבי מרדכי הלוי ; הרברט לאווי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1882",
+      "death_year": "1940"
+    },
+    "bio_snippet": "מרצה לתלמוד במכללת קיימברידג'",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 102
+  },
+  "texts": {
+    "author": [
+      41525
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

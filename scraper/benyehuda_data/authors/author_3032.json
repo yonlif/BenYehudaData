@@ -1,0 +1,50 @@
+{
+  "id": 3032,
+  "url": "https://benyehuda.org/author/3032",
+  "metadata": {
+    "name": "צבי גובר",
+    "sort_name": "גובר, צבי ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1931",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד רחובות. נפל במלחמת העצמאות ליד חוליקיית לאחר קרב ארוך ונואש. כתביו כונסו ב\"ספר האחים\", ולזכרו ולזכר אחיו אפרים נקרא מושב עולים סמוך \"כפר אחים\" [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 613
+  },
+  "texts": {
+    "author": [
+      54250,
+      54251,
+      54252,
+      54253,
+      54344,
+      54345,
+      54346,
+      54617,
+      54618,
+      54619
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

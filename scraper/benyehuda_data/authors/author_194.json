@@ -1,0 +1,40 @@
+{
+  "id": 194,
+  "url": "https://benyehuda.org/author/194",
+  "metadata": {
+    "name": "יוסף אבן חסדאי",
+    "sort_name": "חסדאי, יוסף אבן",
+    "other_designations": "יוסף בן חסדאי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1000",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר בן יהדות ספרד. ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 696
+  },
+  "texts": {
+    "author": [
+      260,
+      7616
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

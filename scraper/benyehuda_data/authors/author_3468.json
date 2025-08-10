@@ -1,0 +1,40 @@
+{
+  "id": 3468,
+  "url": "https://benyehuda.org/author/3468",
+  "metadata": {
+    "name": "אברהם עמיצור",
+    "sort_name": "עמיצור, אברהם ",
+    "other_designations": "אברהם הכהן מזרחי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1890",
+      "death_year": "1969"
+    },
+    "bio_snippet": " סופר ומשורר ישראלי יליד איראן, שכתב על קורות יהודי פרס",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 205
+  },
+  "texts": {
+    "author": [
+      57622,
+      57647
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

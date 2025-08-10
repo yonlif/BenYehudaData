@@ -1,0 +1,71 @@
+{
+  "id": 2506,
+  "url": "https://benyehuda.org/author/2506",
+  "metadata": {
+    "name": "יקיר ורשבסקי",
+    "sort_name": "ורשבסקי, יקיר ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1885",
+      "death_year": "1942"
+    },
+    "bio_snippet": "סופר יהודי־פולני נודע שכתב בעברית וביידיש. במהלך השואה בקיץ 1942 נרצח ורשבסקי במחנה ההשמדה טרבלינקה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 2042
+  },
+  "texts": {
+    "author": [
+      52555,
+      52556,
+      52583,
+      52584,
+      52585,
+      52720,
+      52721,
+      52722,
+      52723,
+      52724,
+      52725,
+      52726,
+      52731,
+      52732,
+      52846,
+      52847,
+      53875,
+      53876,
+      53877,
+      53878,
+      53879,
+      53880,
+      53881,
+      53882,
+      53890,
+      55174,
+      57530,
+      57531,
+      57532,
+      57533,
+      57534,
+      58580
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

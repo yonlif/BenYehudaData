@@ -1,0 +1,39 @@
+{
+  "id": 3519,
+  "url": "https://benyehuda.org/author/3519",
+  "metadata": {
+    "name": "פינדארוס",
+    "sort_name": "פינדארוס",
+    "other_designations": "פינדרוס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "522",
+      "death_year": "443"
+    },
+    "bio_snippet": "משורר יווני, מיוצריה הדגולים של השירה הלירית ביוון העתיקה. נולד בכפר קינוסקאפלאי אשר במחוז תבאי. באנגלית ובשפות אירופיות נוספות הוא נקרא גם פינדאר",
+    "languages": [
+      "grc"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 22
+  },
+  "texts": {
+    "author": [
+      58658
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1179,
+  "url": "https://benyehuda.org/author/1179",
+  "metadata": {
+    "name": "מוריץ פרידלנדר",
+    "sort_name": "פרידלנדר, מוריץ ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1844",
+      "death_year": "1919"
+    },
+    "bio_snippet": "מורה והיסטוריון אוסטרי־הונגרי־יהודי",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 541
+  },
+  "texts": {
+    "author": [
+      30349
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

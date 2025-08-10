@@ -1,0 +1,51 @@
+{
+  "id": 83,
+  "url": "https://benyehuda.org/author/83",
+  "metadata": {
+    "name": "מרדכי דוד ברנדשטטר",
+    "sort_name": "ברנדשטטר, מרדכי דוד",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1844",
+      "death_year": "1928"
+    },
+    "bio_snippet": "סופר ומשורר עברי גליצאי בולט בתקופת ההשכלה, מראשי הקהילה היהודית בטַרנוב. כתב סיפורים הומוריסטיים וסאטיריים על יהדות גליציה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 4957
+  },
+  "texts": {
+    "author": [
+      80,
+      556,
+      930,
+      1421,
+      1718,
+      2033,
+      2348,
+      2660,
+      2974,
+      3297
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      31319,
+      52888
+    ]
+  }
+}

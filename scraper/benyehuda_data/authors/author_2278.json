@@ -1,0 +1,39 @@
+{
+  "id": 2278,
+  "url": "https://benyehuda.org/author/2278",
+  "metadata": {
+    "name": "אברהם בן דניאל ממודנה",
+    "sort_name": "ממודנה, אברהם בן דניאל ",
+    "other_designations": "אברהם בן דניאל ממודינא; Abraham da Modena",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1511",
+      "death_year": "?"
+    },
+    "bio_snippet": "יליד מודנה. חי עדיין בשנת 1575 ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 80
+  },
+  "texts": {
+    "author": [
+      40749
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

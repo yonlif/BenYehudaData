@@ -1,0 +1,39 @@
+{
+  "id": 3285,
+  "url": "https://benyehuda.org/author/3285",
+  "metadata": {
+    "name": "ענת לוין",
+    "sort_name": "לוין, ענת ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1973",
+      "death_year": ""
+    },
+    "bio_snippet": "משוררת וסופרת, זוכת פרסי שר המדע, התרבות והספורט למשוררים בראשית דרכם ולספר ביכורים ופרס אקו\"ם לעידוד פרסום יצירה ספרותית ע\"ש שלמה טנאי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 94
+  },
+  "texts": {
+    "author": [
+      56484
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

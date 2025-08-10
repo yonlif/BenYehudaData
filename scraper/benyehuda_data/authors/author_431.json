@@ -1,0 +1,69 @@
+{
+  "id": 431,
+  "url": "https://benyehuda.org/author/431",
+  "metadata": {
+    "name": "זלמן יצחק אנכי",
+    "sort_name": "אנכי, זלמן יצחק",
+    "other_designations": "זלמן יצחק אהרנסון; זלמן יצחק אנוכי; זלמן אנוכי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1877",
+      "death_year": "1947"
+    },
+    "bio_snippet": "סופר, מחזאי וקריין עברי ויידי ביישוב. \t",
+    "languages": [
+      "he",
+      "yi"
+    ],
+    "genres": [
+      "drama",
+      "prose"
+    ],
+    "impressions_count": 5895
+  },
+  "texts": {
+    "author": [
+      16620,
+      16621,
+      16622,
+      16623,
+      16624,
+      16625,
+      16626,
+      16627,
+      16628,
+      16629,
+      16630,
+      16631,
+      16632,
+      16633,
+      16634,
+      16635,
+      16636,
+      16637,
+      20427,
+      20428,
+      21010,
+      21011,
+      21012,
+      21013,
+      21014
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      35707,
+      35708,
+      44323
+    ]
+  }
+}

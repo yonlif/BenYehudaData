@@ -1,0 +1,46 @@
+{
+  "id": 1904,
+  "url": "https://benyehuda.org/author/1904",
+  "metadata": {
+    "name": "בנימין בן אברהם מהענווים",
+    "sort_name": "מהענווים, בנימין בן  אברהם",
+    "other_designations": "בנימין מן הענווים; בנימין מן הענוים; בנימין בן אברהם בן יחיאל הרופא ממשפחת הענוים; בנימין בן אברהם הרופא מהענוים; בנימין דלי מאנצי; delli mansi",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1210",
+      "death_year": "1285"
+    },
+    "bio_snippet": " פוסק, פרשן, משורר ופייטן יהודי רומי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 713
+  },
+  "texts": {
+    "author": [
+      37885,
+      38426,
+      41653,
+      41654,
+      41655,
+      41656,
+      41657
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

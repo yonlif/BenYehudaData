@@ -1,0 +1,39 @@
+{
+  "id": 765,
+  "url": "https://benyehuda.org/author/765",
+  "metadata": {
+    "name": "אברהם צוקרמן",
+    "sort_name": "צוקרמן, אברהם",
+    "other_designations": "אברהם צוקקערמאנן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1843",
+      "death_year": "1892"
+    },
+    "bio_snippet": "סופר, מתרגם ומו\"ל עברי שפעל בוורשה.  יליד אושמינה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 435
+  },
+  "texts": {
+    "author": [
+      22504
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

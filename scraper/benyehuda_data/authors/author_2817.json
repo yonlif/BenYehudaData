@@ -1,0 +1,39 @@
+{
+  "id": 2817,
+  "url": "https://benyehuda.org/author/2817",
+  "metadata": {
+    "name": "איירה גרשווין",
+    "sort_name": "גרשווין, איירה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1896",
+      "death_year": "1983"
+    },
+    "bio_snippet": "פזמונאי יהודי־אמריקאי, שעבודתו המוכרת ביותר היא בכתיבת מילים ללחנים של אחיו ג'ורג' גרשווין. עבודתם המשותפת של האחים ייצרה כמה מהקטעים המפורסמים ביותר במאה ה־20, כולל האופרה \"פורגי ובס\".\r\n\r\nהצלחתם הרבה של האחים כצמד משכיחה לעיתים את תפקידו החשוב של איירה, אך הוא המשיך ליצור גם אחרי מותו המוקדם של אחיו הצעיר בשנות ה־30, ושיתף פעולה עם מלחינים כג'רום קרן, קורט וייל והרולד ארלן",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 190
+  },
+  "texts": {
+    "author": [
+      12590
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": 2880,
+  "url": "https://benyehuda.org/author/2880",
+  "metadata": {
+    "name": "אפרים די־זהב",
+    "sort_name": "די־זהב, אפרים ",
+    "other_designations": "אפרים די-זהב; אפרים די זהב; אפרים גולדשטיין ",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1902",
+      "death_year": "1957"
+    },
+    "bio_snippet": "קריין וחזן, מוזיקאי וסופר ישראלי. נולד בירושלים ומת בה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2360
+  },
+  "texts": {
+    "author": [
+      51928,
+      51929,
+      51930,
+      51931,
+      51932,
+      51933,
+      51934,
+      51935,
+      51936,
+      51937,
+      51938,
+      51939,
+      51940,
+      51941,
+      51942,
+      51943,
+      51944,
+      51945,
+      51946,
+      51947,
+      51948,
+      51949,
+      51950,
+      51951,
+      52029,
+      52030,
+      52031,
+      52032,
+      52033,
+      52034,
+      52035,
+      52257,
+      52258,
+      52259,
+      52260,
+      52261,
+      52262,
+      52263,
+      52264,
+      52265,
+      52266,
+      52267,
+      52268,
+      52269
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

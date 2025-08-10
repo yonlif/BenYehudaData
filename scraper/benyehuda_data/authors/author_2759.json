@@ -1,0 +1,75 @@
+{
+  "id": 2759,
+  "url": "https://benyehuda.org/author/2759",
+  "metadata": {
+    "name": "דוד אריה פרידמן",
+    "sort_name": "פרידמן, דוד אריה ",
+    "other_designations": "ד\"א פרידמן",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1889",
+      "death_year": "1957"
+    },
+    "bio_snippet": "רופא עיניים, סופר, בלשן ועורך כתב העת המדעי \"הרפואה\" משנת 1928 עד 1957",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 5410
+  },
+  "texts": {
+    "author": [
+      49314,
+      49337,
+      49416,
+      49595,
+      49596,
+      49597,
+      49599,
+      49601,
+      49607,
+      49608,
+      49609,
+      49610,
+      49611,
+      49612,
+      49613,
+      49614,
+      49673,
+      49674,
+      50037,
+      50038,
+      51243,
+      51244,
+      51245,
+      51246,
+      51321,
+      51322,
+      51323,
+      51324,
+      51426,
+      51427,
+      51428,
+      51429,
+      51430,
+      51431,
+      53333
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      49600
+    ]
+  }
+}

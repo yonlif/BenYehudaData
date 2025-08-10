@@ -1,0 +1,37 @@
+{
+  "id": 339,
+  "url": "https://benyehuda.org/author/339",
+  "metadata": {
+    "name": "רות גורן",
+    "sort_name": "גורן, רות",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "מתרגמת ישראלית.",
+    "languages": [],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 271
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      7044
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

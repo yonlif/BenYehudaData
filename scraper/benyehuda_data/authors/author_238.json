@@ -1,0 +1,79 @@
+{
+  "id": 238,
+  "url": "https://benyehuda.org/author/238",
+  "metadata": {
+    "name": "לורד ביירון",
+    "sort_name": "ביירון, לורד",
+    "other_designations": "ג'ורג' גורדון ביירון ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1788",
+      "death_year": "1824"
+    },
+    "bio_snippet": "מגדולי המשוררים הרומנטיים האנגלים.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "drama",
+      "poetry"
+    ],
+    "impressions_count": 15329
+  },
+  "texts": {
+    "author": [
+      59,
+      1295,
+      2848,
+      2866,
+      3147,
+      3215,
+      6743,
+      13620,
+      19142,
+      19143,
+      19144,
+      19145,
+      20492,
+      20493,
+      20494,
+      20495,
+      20496,
+      20497,
+      20498,
+      20499,
+      20500,
+      20501,
+      20502,
+      20503,
+      20504,
+      20505,
+      20506,
+      20507,
+      20508,
+      20509,
+      20510,
+      20511,
+      20512,
+      20513,
+      20514,
+      28182,
+      49771,
+      58850
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      13368
+    ]
+  }
+}

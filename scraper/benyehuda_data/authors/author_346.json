@@ -1,0 +1,39 @@
+{
+  "id": 346,
+  "url": "https://benyehuda.org/author/346",
+  "metadata": {
+    "name": "ויליאם קאלן בראיינט",
+    "sort_name": "בראיינט, ויליאם קאלן",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1794",
+      "death_year": "1878"
+    },
+    "bio_snippet": "משורר אמריקני ועורך עיתונות.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 439
+  },
+  "texts": {
+    "author": [
+      7145
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 2499,
+  "url": "https://benyehuda.org/author/2499",
+  "metadata": {
+    "name": "הנרי זדור",
+    "sort_name": "זדור, הנרי ",
+    "other_designations": "הנרי זאדור; הנרי ב. זדור; הנרי ב. זאדור; היינריך זדור; הנריק זדור",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1905",
+      "death_year": "1981"
+    },
+    "bio_snippet": "סופר ישראלי, כתב בגרמנית, הונגרית, עברית ואנגלית",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2
+  },
+  "texts": {
+    "author": [
+      45255,
+      45256
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

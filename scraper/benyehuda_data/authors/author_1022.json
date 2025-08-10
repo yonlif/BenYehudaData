@@ -1,0 +1,39 @@
+{
+  "id": 1022,
+  "url": "https://benyehuda.org/author/1022",
+  "metadata": {
+    "name": "דניאל חבולסון",
+    "sort_name": "חבולסון, דניאל ",
+    "other_designations": "דניאיל אברמוביץ', חבולזון, חוואלסאן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1819",
+      "death_year": "1911"
+    },
+    "bio_snippet": "מזרחן, היסטוריון, בלשן וחוקר מקרא רוסי ממוצא יהודי",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 691
+  },
+  "texts": {
+    "author": [
+      28230
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

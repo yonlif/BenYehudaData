@@ -1,0 +1,39 @@
+{
+  "id": 2854,
+  "url": "https://benyehuda.org/author/2854",
+  "metadata": {
+    "name": "אדוארד ליר",
+    "sort_name": "ליר, אדוארד ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1812",
+      "death_year": "1888"
+    },
+    "bio_snippet": "אמן, מאייר וסופר. ליר ידוע במיוחד בשירת האיגיון שלו ובחמשירים שכתב וקידם אותם לסוגה פופולרית",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 82
+  },
+  "texts": {
+    "author": [
+      51375
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

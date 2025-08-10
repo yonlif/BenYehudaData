@@ -1,0 +1,39 @@
+{
+  "id": 3442,
+  "url": "https://benyehuda.org/author/3442",
+  "metadata": {
+    "name": "אנרי מורז'ה",
+    "sort_name": "מורז'ה, אנרי ",
+    "other_designations": "לואי אנרי מורז'ה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1822",
+      "death_year": "1861"
+    },
+    "bio_snippet": "סופר ומשורר צרפתי",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 20
+  },
+  "texts": {
+    "author": [
+      19307
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

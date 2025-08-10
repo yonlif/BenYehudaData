@@ -1,0 +1,39 @@
+{
+  "id": 3476,
+  "url": "https://benyehuda.org/author/3476",
+  "metadata": {
+    "name": "יונה כהן",
+    "sort_name": "כהן, יונה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1920",
+      "death_year": "1996"
+    },
+    "bio_snippet": "עיתונאי, סופר, ושליח המוסדות הלאומיים בענייני חינוך ועלייה למדינות סוריה, איראן, לוב, תוניסיה, אלג'יריה ומדינות שונות באירופה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 274
+  },
+  "texts": {
+    "author": [
+      57774
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

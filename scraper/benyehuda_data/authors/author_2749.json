@@ -1,0 +1,39 @@
+{
+  "id": 2749,
+  "url": "https://benyehuda.org/author/2749",
+  "metadata": {
+    "name": "אלכסנדר טברדובסקי [2042]",
+    "sort_name": "טברדובסקי, אלכסנדר ",
+    "other_designations": "אלכסנדר טריפונוביץ' טברדובסקי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1910",
+      "death_year": "1971"
+    },
+    "bio_snippet": " משורר סובייטי. בנוסף לכך במשך תקופה ארוכה היה עורך של הירחון הספרותי \"נובי מיר\"",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 14
+  },
+  "texts": {
+    "author": [
+      58822
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

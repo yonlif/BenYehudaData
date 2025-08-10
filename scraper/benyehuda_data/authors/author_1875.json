@@ -1,0 +1,39 @@
+{
+  "id": 1875,
+  "url": "https://benyehuda.org/author/1875",
+  "metadata": {
+    "name": "יחזקאל הבבלי",
+    "sort_name": "הבבלי, יחזקאל ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "משורר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 143
+  },
+  "texts": {
+    "author": [
+      38136
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

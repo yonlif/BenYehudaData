@@ -1,0 +1,39 @@
+{
+  "id": 3155,
+  "url": "https://benyehuda.org/author/3155",
+  "metadata": {
+    "name": "רות רבינוב",
+    "sort_name": "רבינוב, רות ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1929",
+      "death_year": "1948"
+    },
+    "bio_snippet": "ילידת גבת, בתו של המשורר יהושע רבינוב. נהרגה במלחמת העצמאות ביריות ממארב ליד כפר עין דור, יחד עם חברתה זיוה נתן. הניחה עיזבון שבו רשימותיה שיצאו לאור לאחר מותה, \"מבפנים\"; אביה המשורר הקדיש את ספר שיריו \"מול הר העקידה\" לזכרה ולזכר חברתה שנהרגה יחד איתה [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 164
+  },
+  "texts": {
+    "author": [
+      54888
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

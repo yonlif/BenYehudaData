@@ -1,0 +1,39 @@
+{
+  "id": 3209,
+  "url": "https://benyehuda.org/author/3209",
+  "metadata": {
+    "name": "מנחם בדר",
+    "sort_name": "בדר, מנחם ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1895",
+      "death_year": "1985"
+    },
+    "bio_snippet": "גזבר ומזכיר ועד ההצלה בקושטא, איש המוסד לעלייה ב' ואיש תנועת הבריחה, חבר הכנסת בכנסת הראשונה, מחזאי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 126
+  },
+  "texts": {
+    "author": [
+      54905
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

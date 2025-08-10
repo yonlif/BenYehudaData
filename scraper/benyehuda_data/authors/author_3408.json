@@ -1,0 +1,43 @@
+{
+  "id": 3408,
+  "url": "https://benyehuda.org/author/3408",
+  "metadata": {
+    "name": "דליה רביקוביץ",
+    "sort_name": "רביקוביץ, דליה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1936",
+      "death_year": "2005"
+    },
+    "bio_snippet": "משוררת, סופרת ומתרגמת ישראלית, כלת פרס ישראל לשירה לשנת תשנ\"ח (1998)",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 488
+  },
+  "texts": {
+    "author": [
+      57163,
+      58498,
+      58499,
+      58500,
+      58501
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

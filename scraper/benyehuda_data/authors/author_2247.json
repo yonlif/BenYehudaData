@@ -1,0 +1,39 @@
+{
+  "id": 2247,
+  "url": "https://benyehuda.org/author/2247",
+  "metadata": {
+    "name": "דניאל בן יחיאל ממונטלצינו",
+    "sort_name": "ממונטלצינו, דניאל בן יחיאל ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "מטוסקנה, חי בערך ב־1300",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 92
+  },
+  "texts": {
+    "author": [
+      40724
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 211,
+  "url": "https://benyehuda.org/author/211",
+  "metadata": {
+    "name": "יוסף אבן ברזל",
+    "sort_name": "ברזל, יוסף אבן",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "ה",
+      "death_year": "ה"
+    },
+    "bio_snippet": "היה רופא ומשורר יהודי.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 418
+  },
+  "texts": {
+    "author": [
+      365,
+      9024
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

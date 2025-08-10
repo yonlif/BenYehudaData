@@ -1,0 +1,39 @@
+{
+  "id": 1130,
+  "url": "https://benyehuda.org/author/1130",
+  "metadata": {
+    "name": "רפי (רפאל) רוזן",
+    "sort_name": "רוזן, רפי (רפאל)",
+    "other_designations": "רפי רוזן; רפאל רוזן",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1929",
+      "death_year": "1999"
+    },
+    "bio_snippet": "מילדיו הראשונים של קיבוץ שריד, הרוח החיה בחיי התרבות במקום",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 5463
+  },
+  "texts": {
+    "author": [
+      35263
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

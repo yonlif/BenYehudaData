@@ -1,0 +1,39 @@
+{
+  "id": 2313,
+  "url": "https://benyehuda.org/author/2313",
+  "metadata": {
+    "name": "יעקב רפאל סרוואל",
+    "sort_name": "סרוואל, יעקב רפאל",
+    "other_designations": "יעקב רפאל בן שמחה יהודה סרוואל; יעקב רפאל סארואל",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1707",
+      "death_year": "1782"
+    },
+    "bio_snippet": "רב, משכיל, משורר, מתרגם ומלחין פיוטים מוונציה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 80
+  },
+  "texts": {
+    "author": [
+      40786
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

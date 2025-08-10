@@ -1,0 +1,45 @@
+{
+  "id": 264,
+  "url": "https://benyehuda.org/author/264",
+  "metadata": {
+    "name": "יצחק בר שֵׁשֶׁת בֶּרְפֶת",
+    "sort_name": "בֶּרְפֶת, יצחק בר שֵׁשֶׁת",
+    "other_designations": "ריב\"ש; ריצב\"ש; יצחק בר ששת ברפת; יצחק בן ששת ברפת",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1326",
+      "death_year": "1408"
+    },
+    "bio_snippet": "מגדולי חכמי ספרד במאה ה-14, נודע בזכות תשובותיו ההלכתיות, שמהן נפסקו הלכות רבות בשולחן ערוך",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1515
+  },
+  "texts": {
+    "author": [
+      949,
+      2027,
+      2337,
+      3287,
+      34153,
+      34154,
+      34155
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

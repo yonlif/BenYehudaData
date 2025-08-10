@@ -1,0 +1,39 @@
+{
+  "id": 3438,
+  "url": "https://benyehuda.org/author/3438",
+  "metadata": {
+    "name": "תומאס הרדי",
+    "sort_name": "הרדי, תומאס ",
+    "other_designations": "תומס הרדי; תומס הארדי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1840",
+      "death_year": "1928"
+    },
+    "bio_snippet": " סופר ומשורר אנגלי",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 46
+  },
+  "texts": {
+    "author": [
+      19290
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

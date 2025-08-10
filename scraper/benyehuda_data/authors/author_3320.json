@@ -1,0 +1,39 @@
+{
+  "id": 3320,
+  "url": "https://benyehuda.org/author/3320",
+  "metadata": {
+    "name": "ניצן יוגב",
+    "sort_name": "יוגב, ניצן ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1981",
+      "death_year": ""
+    },
+    "bio_snippet": "משוררת ופסיכולוגית קלינית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 200
+  },
+  "texts": {
+    "author": [
+      56513
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

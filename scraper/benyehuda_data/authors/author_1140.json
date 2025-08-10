@@ -1,0 +1,40 @@
+{
+  "id": 1140,
+  "url": "https://benyehuda.org/author/1140",
+  "metadata": {
+    "name": "משה קאטלאנו",
+    "sort_name": "קאטלאנו, משה ",
+    "other_designations": "משה חיים, משה בן אברהם, קאטלאן, קאטאלאנו, קטלנו, משה קטאלאנו, משה חיים בן אברהם קטאלאנו; Mosè Catalano",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1615",
+      "death_year": "1661"
+    },
+    "bio_snippet": "משורר עברי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 316
+  },
+  "texts": {
+    "author": [
+      29457,
+      40762
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

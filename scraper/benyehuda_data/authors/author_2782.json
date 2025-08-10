@@ -1,0 +1,50 @@
+{
+  "id": 2782,
+  "url": "https://benyehuda.org/author/2782",
+  "metadata": {
+    "name": "אפרים שריאר",
+    "sort_name": "שריאר, אפרים ",
+    "other_designations": "אפרים שרייער",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1911",
+      "death_year": "1993"
+    },
+    "bio_snippet": "כותב יידי, כתב ביקורות וכתבות בעיקר על תאטרון ואמנות [מתוך: לקסיקון לספרות עברית חדשה (ביידיש ובאנגלית)]",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 1681
+  },
+  "texts": {
+    "author": [
+      49878,
+      50053,
+      50054,
+      50055,
+      50056,
+      50062,
+      50063,
+      50064,
+      50068,
+      50069,
+      50074,
+      50075
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

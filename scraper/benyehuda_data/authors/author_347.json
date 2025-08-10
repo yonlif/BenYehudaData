@@ -1,0 +1,39 @@
+{
+  "id": 347,
+  "url": "https://benyehuda.org/author/347",
+  "metadata": {
+    "name": "סווטוניוס",
+    "sort_name": "סווטוניוס",
+    "other_designations": "גאיוס ואלריוס קאטולוס ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "69 לספירה",
+      "death_year": "130"
+    },
+    "bio_snippet": "היה סופר והיסטוריון רומאי.",
+    "languages": [
+      "la"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 15415
+  },
+  "texts": {
+    "author": [
+      7174
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

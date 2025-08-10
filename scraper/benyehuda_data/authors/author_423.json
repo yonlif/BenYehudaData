@@ -1,0 +1,43 @@
+{
+  "id": 423,
+  "url": "https://benyehuda.org/author/423",
+  "metadata": {
+    "name": "ג'וזף קונרד",
+    "sort_name": "קונרד, ג'וזף",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1857",
+      "death_year": "1924"
+    },
+    "bio_snippet": " סופר בריטי יליד פולין, ספרו הידוע ביותר הוא \"לב המאפליה\". ",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 4043
+  },
+  "texts": {
+    "author": [
+      10553,
+      16160,
+      31288
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      37836
+    ]
+  }
+}

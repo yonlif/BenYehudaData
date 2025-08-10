@@ -1,0 +1,39 @@
+{
+  "id": 1237,
+  "url": "https://benyehuda.org/author/1237",
+  "metadata": {
+    "name": "משה אברבך",
+    "sort_name": "אברבך, משה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1924",
+      "death_year": "2007"
+    },
+    "bio_snippet": "איש חינוך וחוקר בלימודי יהדות, מתמחה בתחום החינוך היהודי בתקופת התלמוד",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 6270
+  },
+  "texts": {
+    "author": [
+      30819
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

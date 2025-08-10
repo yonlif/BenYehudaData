@@ -1,0 +1,39 @@
+{
+  "id": 1456,
+  "url": "https://benyehuda.org/author/1456",
+  "metadata": {
+    "name": "אריה ליב יפה",
+    "sort_name": "יפה, אריה ליב ",
+    "other_designations": "אריה יפה, אריה לייב יפה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1876",
+      "death_year": "1948"
+    },
+    "bio_snippet": " מתרגם, משורר ומנהיג ציוני",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 825
+  },
+  "texts": {
+    "author": [
+      54362
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

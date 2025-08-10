@@ -1,0 +1,60 @@
+{
+  "id": 712,
+  "url": "https://benyehuda.org/author/712",
+  "metadata": {
+    "name": "יעקב אייכנבוים",
+    "sort_name": "אייכנבוים, יעקב",
+    "other_designations": "יעקב גלבר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1796",
+      "death_year": "1861"
+    },
+    "bio_snippet": "מחנך, משורר ומתמטיקאי יהודי־רוסי, איש תנועת ההשכלה, מחלוצי החינוך המודרני בקרב יהודי רוסיה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "letters",
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 3461
+  },
+  "texts": {
+    "author": [
+      19570,
+      22549,
+      56419,
+      56420,
+      56421,
+      56422,
+      56423,
+      56424,
+      56425,
+      56787,
+      56788,
+      56789,
+      56790,
+      56791,
+      56792,
+      56793,
+      57698,
+      57699,
+      57700,
+      57701
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

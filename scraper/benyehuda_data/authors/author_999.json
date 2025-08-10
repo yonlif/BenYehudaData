@@ -1,0 +1,39 @@
+{
+  "id": 999,
+  "url": "https://benyehuda.org/author/999",
+  "metadata": {
+    "name": "זרחיה הלוי",
+    "sort_name": "הלוי, זרחיה ",
+    "other_designations": "זרחיה הלוי גירונדי, מגירונה, זרחיה בן יצחק הלוי, רז\"ה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1130",
+      "death_year": "1186"
+    },
+    "bio_snippet": "מן הראשונים. למדן, פרשן, פוסק ומשורר, מחשובי חכמי פרובנס במאה ה־12. מחבר \"ספר המאור\", ספר השגות על הרי\"ף, ועל כן נקרא \"בעל המאור\". נודע גם בידיעותיו באסטרונומיה ופילוסופיה, וכן בספרות. מפורסם בפיוטיו ובשיריו, וכמה מפיוטיו, סליחותיו וקינותיו נכנסו לסידור התפילה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 603
+  },
+  "texts": {
+    "author": [
+      27953
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

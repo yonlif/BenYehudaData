@@ -1,0 +1,42 @@
+{
+  "id": 270,
+  "url": "https://benyehuda.org/author/270",
+  "metadata": {
+    "name": "וולט ויטמן",
+    "sort_name": "ויטמן, וולט",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1819",
+      "death_year": "1892"
+    },
+    "bio_snippet": "היה משורר, עיתונאי, מחבר והומניסט אמריקני.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 3261
+  },
+  "texts": {
+    "author": [
+      2212,
+      4054
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      53545
+    ]
+  }
+}

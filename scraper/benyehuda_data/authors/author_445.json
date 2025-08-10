@@ -1,0 +1,56 @@
+{
+  "id": 445,
+  "url": "https://benyehuda.org/author/445",
+  "metadata": {
+    "name": "מרדכי אהרן גינצבורג",
+    "sort_name": "גינצבורג, מרדכי אהרן",
+    "other_designations": "יונה בן אמתי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1795",
+      "death_year": "1846"
+    },
+    "bio_snippet": "מראשי המשכילים בווילנה, תרגם לעברית וחיבר ספרי השכלה. חיבר את האוטוביוגרפיה הראשונה בעברית, \"אביעזר\".",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "fables",
+      "memoir",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 4012
+  },
+  "texts": {
+    "author": [
+      13345,
+      13346,
+      13347,
+      13348,
+      33041,
+      41434,
+      49342,
+      49343,
+      49344,
+      49345,
+      49346,
+      49347
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      32699,
+      32986
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

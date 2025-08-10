@@ -1,0 +1,41 @@
+{
+  "id": 1630,
+  "url": "https://benyehuda.org/author/1630",
+  "metadata": {
+    "name": "מתתיה",
+    "sort_name": "מתתיה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "מאה 15?",
+      "death_year": "?"
+    },
+    "bio_snippet": "משורר, שמו המלא אינו ידוע וכן פרטים אחרים; ישב כפי הנראה בספרד במחצית הראשונה של המאה ה־15",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 275
+  },
+  "texts": {
+    "author": [
+      35814,
+      38161
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

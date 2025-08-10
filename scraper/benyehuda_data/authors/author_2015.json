@@ -1,0 +1,41 @@
+{
+  "id": 2015,
+  "url": "https://benyehuda.org/author/2015",
+  "metadata": {
+    "name": "עוזי גדור",
+    "sort_name": "גדור, עוזי ",
+    "other_designations": "עוזי גדור (גולדנברג)",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1935",
+      "death_year": ""
+    },
+    "bio_snippet": "סופר, עובד ציבור בפרויקטים שונים של פיתוח ההתיישבות, קליטת עלייה וייעוץ לפרויקטים מיוחדים של ראשי ממשלה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 810
+  },
+  "texts": {
+    "author": [
+      45926,
+      45927,
+      48785
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

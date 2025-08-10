@@ -1,0 +1,43 @@
+{
+  "id": 3211,
+  "url": "https://benyehuda.org/author/3211",
+  "metadata": {
+    "name": "ישראל שטרן",
+    "sort_name": "שטרן, ישראל ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1894",
+      "death_year": "1942"
+    },
+    "bio_snippet": "משורר יידי ומבקר ספרות, נספה במחנה ההשמדה טרבלינקה",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 284
+  },
+  "texts": {
+    "author": [
+      54955,
+      54956,
+      54957,
+      54958,
+      54959
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

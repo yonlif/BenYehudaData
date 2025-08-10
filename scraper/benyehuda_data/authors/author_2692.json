@@ -1,0 +1,39 @@
+{
+  "id": 2692,
+  "url": "https://benyehuda.org/author/2692",
+  "metadata": {
+    "name": "יחיאל מיכל פוחצ'בסקי",
+    "sort_name": "פוחצ'בסקי, יחיאל מיכל ",
+    "other_designations": "יחיאל מיכל שלמה זלמן פוחצ'בסקי; מיכל זלמן פוחצ'בסקי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1863",
+      "death_year": "1947"
+    },
+    "bio_snippet": "איש העלייה הראשונה, מראשוני המושבה ראשון לציון, מומחה לגידול עצי פרי בכלל ולכרמי גפן בפרט. מראשוני המדריכים החקלאיים היהודים בארץ ישראל, הן במושבות העלייה הראשונה והן במושבים ובקיבוצים של העלייה השנייה. תרומתו התבטאה גם בפיתוח טכניקות חקלאיות",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "letters"
+    ],
+    "impressions_count": 279
+  },
+  "texts": {
+    "author": [
+      53785
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1228,
+  "url": "https://benyehuda.org/author/1228",
+  "metadata": {
+    "name": "יואב שורק",
+    "sort_name": "שורק, יואב ",
+    "other_designations": "שלזינגר",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1970",
+      "death_year": ""
+    },
+    "bio_snippet": "פובליציסט ועורך, דוקטור להיסטוריה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 528
+  },
+  "texts": {
+    "author": [
+      30687
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

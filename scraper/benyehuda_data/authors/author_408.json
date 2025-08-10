@@ -1,0 +1,43 @@
+{
+  "id": 408,
+  "url": "https://benyehuda.org/author/408",
+  "metadata": {
+    "name": "יעקב נפתלי שמחוני",
+    "sort_name": "שמחוני, יעקב נפתלי",
+    "other_designations": "יעקב נפתלי הרץ שמחוני",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1884",
+      "death_year": "1926"
+    },
+    "bio_snippet": "משכיל יהודי, היסטוריון ומתרגם, בקי במזרחנות ומדעי היהדות.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 1350
+  },
+  "texts": {
+    "author": [
+      50136,
+      50470
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      12030,
+      22345
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

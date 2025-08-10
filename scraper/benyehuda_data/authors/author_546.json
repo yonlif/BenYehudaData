@@ -1,0 +1,39 @@
+{
+  "id": 546,
+  "url": "https://benyehuda.org/author/546",
+  "metadata": {
+    "name": "אמיאנוס מרקלינוס",
+    "sort_name": "מרקלינוס, אמיאנוס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "330",
+      "death_year": "395"
+    },
+    "bio_snippet": "היה איש צבא והיסטוריון רומאי בן המאה הרביעית. מרקלינוס היה מאחרוני ההיסטוריונים הפגנים שכתבו בלטינית.",
+    "languages": [
+      "la"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 271
+  },
+  "texts": {
+    "author": [
+      18053
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

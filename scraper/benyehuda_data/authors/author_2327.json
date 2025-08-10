@@ -1,0 +1,39 @@
+{
+  "id": 2327,
+  "url": "https://benyehuda.org/author/2327",
+  "metadata": {
+    "name": "אברהם שלום (אבשלום)",
+    "sort_name": "שלום (אבשלום), אברהם ",
+    "other_designations": "אבשלום",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1793",
+      "death_year": "1866"
+    },
+    "bio_snippet": "משורר מפאדובה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 121
+  },
+  "texts": {
+    "author": [
+      40805
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

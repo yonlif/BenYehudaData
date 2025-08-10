@@ -1,0 +1,53 @@
+{
+  "id": 2055,
+  "url": "https://benyehuda.org/author/2055",
+  "metadata": {
+    "name": "נתן נטע סמואלי",
+    "sort_name": "סמואלי, נתן נטע ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1843",
+      "death_year": "1921"
+    },
+    "bio_snippet": "סופר יהודי מגליציה שבאוסטריה־הונגריה שכתב בעברית ובגרמנית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1037
+  },
+  "texts": {
+    "author": [
+      48347,
+      48348,
+      48349,
+      48350,
+      48351,
+      48352,
+      48353,
+      48354,
+      48355,
+      48356,
+      48357,
+      48358,
+      48359,
+      48360,
+      48361
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

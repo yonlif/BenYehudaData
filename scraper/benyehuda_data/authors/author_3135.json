@@ -1,0 +1,40 @@
+{
+  "id": 3135,
+  "url": "https://benyehuda.org/author/3135",
+  "metadata": {
+    "name": "אשר פרדו",
+    "sort_name": "פרדו, אשר ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1918",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד סלוניקי, גדל בבולגריה. עלה עם רעייתו לארץ ישראל בעלייה ב', וישב שנה וחצי במחנות מעצר בעכו ובעתלית. הקדיש את עצמו לעבודה תנועתית - ארגון העלייה מבולגריה, טיפול בקבוצות נוער שהגיעו ארצה וכדומה. נפל בדרדרה שממזרח לחולה, הניח אישה ובת, ובנו נולד לאחר נפילתו [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 166
+  },
+  "texts": {
+    "author": [
+      54572,
+      54573
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

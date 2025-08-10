@@ -1,0 +1,39 @@
+{
+  "id": 2879,
+  "url": "https://benyehuda.org/author/2879",
+  "metadata": {
+    "name": "ניקולאי מורוזוב",
+    "sort_name": "מורוזוב, ניקולאי ",
+    "other_designations": "ניקולאי אלכסנדרוביץ' מורוזוב; ניקולאי אלכסנדרוביץ מורוזוב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1854",
+      "death_year": "1946"
+    },
+    "bio_snippet": "מהפכן רוסי, שלאחר 25 שנה בבית הכלא פנה לעסוק במדע. חבר כבוד של האקדמיה הרוסית למדעים",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 86
+  },
+  "texts": {
+    "author": [
+      51799
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

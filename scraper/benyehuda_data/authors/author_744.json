@@ -1,0 +1,39 @@
+{
+  "id": 744,
+  "url": "https://benyehuda.org/author/744",
+  "metadata": {
+    "name": "וולטר סקוט",
+    "sort_name": "סקוט, וולטר",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1771",
+      "death_year": "1832"
+    },
+    "bio_snippet": "משורר וסופר סקוטי פורה שנודע בעיקר בזכות הרומנים ההיסטוריים שכתב.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2176
+  },
+  "texts": {
+    "author": [
+      21462
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

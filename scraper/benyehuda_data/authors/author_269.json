@@ -1,0 +1,40 @@
+{
+  "id": 269,
+  "url": "https://benyehuda.org/author/269",
+  "metadata": {
+    "name": "אלכסנדר זייד",
+    "sort_name": "זייד, אלכסנדר",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1886",
+      "death_year": "1938"
+    },
+    "bio_snippet": "אלכסנדר זייד היה ממקימי ארגוני השמירה \"בר גיורא\", \"השומר\", \"הקיבוץ\" ו\"אגודת השומרים\", ומהאישים הבולטים בעלייה השנייה. ",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 8384
+  },
+  "texts": {
+    "author": [
+      2165,
+      17961
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

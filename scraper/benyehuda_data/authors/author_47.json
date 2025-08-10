@@ -1,0 +1,39 @@
+{
+  "id": 47,
+  "url": "https://benyehuda.org/author/47",
+  "metadata": {
+    "name": "צבי הירש יפה",
+    "sort_name": "יפה, צבי הירש",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1857",
+      "death_year": "1927"
+    },
+    "bio_snippet": "מתמטיקאי, כרונולוג, עסק בחקר לוחות השנה הכללים ובלוחות השנה העבריים, ממציא.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 614
+  },
+  "texts": {
+    "author": [
+      7577
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

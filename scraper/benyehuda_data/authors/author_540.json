@@ -1,0 +1,39 @@
+{
+  "id": 540,
+  "url": "https://benyehuda.org/author/540",
+  "metadata": {
+    "name": "קווינטוס קורטיוס רופוס",
+    "sort_name": "רופוס, קווינטוס קורטיוס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "ה",
+      "death_year": ""
+    },
+    "bio_snippet": "היה היסטוריון רומאי שכתב ככל הנראה במאה ה-1 לספירה. ישנם חוקרים הסבורים כי חי ופעל בתקופת אוגוסטוס, ואחרים משערים כי חי בתקופת קלאודיוס או אספסיאנוס ואפילו מאוחר יותר.",
+    "languages": [
+      "la"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 234
+  },
+  "texts": {
+    "author": [
+      18053
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

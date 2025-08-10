@@ -1,0 +1,39 @@
+{
+  "id": 3446,
+  "url": "https://benyehuda.org/author/3446",
+  "metadata": {
+    "name": "פרנסיס וויליאם בורדיון",
+    "sort_name": "בורדיון, פרנסיס וויליאם ",
+    "other_designations": "פ. ו. בורדיון; פ\"ו בורדיון; פ. ו. בודילון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1852",
+      "death_year": "1921"
+    },
+    "bio_snippet": "משורר ומתרגם בריטי, ידוע גם כביבליופיל",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 6
+  },
+  "texts": {
+    "author": [
+      19298
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

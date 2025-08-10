@@ -1,0 +1,46 @@
+{
+  "id": 1460,
+  "url": "https://benyehuda.org/author/1460",
+  "metadata": {
+    "name": "שם טוב בן יוסף אבן פלקירה",
+    "sort_name": "פלקירה, שם טוב בן יוסף ",
+    "other_designations": "פלקירא, שם טוב בן פלקירה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1225",
+      "death_year": "1295"
+    },
+    "bio_snippet": "פילוסוף, משורר ומתרגם יהודי שחי בספרד",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 2890
+  },
+  "texts": {
+    "author": [
+      33323,
+      33324,
+      33325,
+      33326,
+      33347,
+      37682
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

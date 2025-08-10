@@ -1,0 +1,39 @@
+{
+  "id": 118,
+  "url": "https://benyehuda.org/author/118",
+  "metadata": {
+    "name": "יצחק בן מרדכי יפה",
+    "sort_name": "יפה, יצחק בן מרדכי",
+    "other_designations": "יצחק יפה; יצחק יפה [1880]",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1880",
+      "death_year": "1928"
+    },
+    "bio_snippet": "מורה, כתב מחקרים במקרא ובגאוגרפיה היסטורית של ארץ ישראל [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 1685
+  },
+  "texts": {
+    "author": [
+      3497
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

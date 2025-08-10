@@ -1,0 +1,45 @@
+{
+  "id": 1646,
+  "url": "https://benyehuda.org/author/1646",
+  "metadata": {
+    "name": "ולרי בריוסוב",
+    "sort_name": "בריוסוב, ולרי ",
+    "other_designations": "ולרי יקובלביץ' בריוסוב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1873",
+      "death_year": "1924"
+    },
+    "bio_snippet": "משורר רוסי, סופר ומתרגם, היסטוריון תרבות ומודרניסט",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 647
+  },
+  "texts": {
+    "author": [
+      35075,
+      35076,
+      35077,
+      35078,
+      35079,
+      58708,
+      58719
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

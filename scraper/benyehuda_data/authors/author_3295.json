@@ -1,0 +1,55 @@
+{
+  "id": 3295,
+  "url": "https://benyehuda.org/author/3295",
+  "metadata": {
+    "name": "אורי ברנשטיין",
+    "sort_name": "ברנשטיין, אורי ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1936",
+      "death_year": "2017"
+    },
+    "bio_snippet": " משורר, עורך וסופר ישראלי שעסק גם בתרגום השירה ובהוראתה. עבד כעורך דין בתל אביב, היה מנכ\"ל חברת \"אמקור\" במשך כ-30 שנים ופרופסור לספרות עברית באוניברסיטת בן־גוריון בנגב",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 619
+  },
+  "texts": {
+    "author": [
+      56065,
+      56066,
+      56067,
+      56068,
+      56069,
+      56070,
+      56391,
+      56392,
+      56393,
+      56394,
+      56395,
+      58991,
+      58992,
+      58993,
+      58994,
+      58995
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

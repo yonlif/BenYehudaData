@@ -1,0 +1,40 @@
+{
+  "id": 2218,
+  "url": "https://benyehuda.org/author/2218",
+  "metadata": {
+    "name": "ליאונטי בר אברהם",
+    "sort_name": "בר אברהם, ליאונטי ",
+    "other_designations": "ליאונטי בן אברהם",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "ראשית המאה ה־12",
+      "death_year": ""
+    },
+    "bio_snippet": "מרוֹמָא,  חי כנראה  בראשית המאה הי\"ב",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 205
+  },
+  "texts": {
+    "author": [
+      38418,
+      41600
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

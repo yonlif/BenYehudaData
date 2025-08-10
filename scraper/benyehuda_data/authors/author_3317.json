@@ -1,0 +1,44 @@
+{
+  "id": 3317,
+  "url": "https://benyehuda.org/author/3317",
+  "metadata": {
+    "name": "דמיאן חזן",
+    "sort_name": "חזן, דמיאן",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "2001",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר ומתרגם, נולד בשדרות ב־2001, מתגורר בשטרסבורג שבצרפת [על־פי תולעת ספרים]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 791
+  },
+  "texts": {
+    "author": [
+      56475,
+      57766,
+      57767,
+      57768,
+      57769,
+      57770
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

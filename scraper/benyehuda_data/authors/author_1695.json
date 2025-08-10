@@ -1,0 +1,40 @@
+{
+  "id": 1695,
+  "url": "https://benyehuda.org/author/1695",
+  "metadata": {
+    "name": "אהרן ילינק",
+    "sort_name": "ילינק, אהרן ",
+    "other_designations": "אהרן אדולף ילינק; אהרן בן יצחק יהודה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1821",
+      "death_year": "1893"
+    },
+    "bio_snippet": "מלומד יהודי־מוראבי, מראשי חכמת ישראל. כיהן כדרשן ליברלי בווינה. ערך את קובצי המדרשים והקבלה \"בית המדרש\" המאגדים למעלה ממאה מדרשים",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 373
+  },
+  "texts": {
+    "author": [
+      42226,
+      42227
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

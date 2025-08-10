@@ -1,0 +1,42 @@
+{
+  "id": 2307,
+  "url": "https://benyehuda.org/author/2307",
+  "metadata": {
+    "name": "שבתי חיים מריני",
+    "sort_name": "מריני, שבתי חיים ",
+    "other_designations": "שבתי חיים מאריני; שבתי חיים בן יצחק מריני; Sabbato Vita Marini",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1690",
+      "death_year": "1748"
+    },
+    "bio_snippet": "רב, משורר, מתרגם ורופא; תרגם לעברית שלושה ספרים מתוך \"מטמורפוזות\" לאובידיוס",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 274
+  },
+  "texts": {
+    "author": [
+      40782,
+      42184
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      42185
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

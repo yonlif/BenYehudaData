@@ -1,0 +1,45 @@
+{
+  "id": 2321,
+  "url": "https://benyehuda.org/author/2321",
+  "metadata": {
+    "name": "יצחק לוצטו",
+    "sort_name": "לוצטו, יצחק ",
+    "other_designations": "יצחק לוצאטו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1730",
+      "death_year": "1803"
+    },
+    "bio_snippet": "רופא ומשורר יהודי־איטלקי; סבה של רחל מורפורגו",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 463
+  },
+  "texts": {
+    "author": [
+      40793,
+      42215,
+      42216,
+      42217,
+      42218,
+      42220,
+      42221
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

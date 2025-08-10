@@ -1,0 +1,46 @@
+{
+  "id": 1567,
+  "url": "https://benyehuda.org/author/1567",
+  "metadata": {
+    "name": "משה נתן",
+    "sort_name": "נתן, משה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "חי באמצע המאה ה־14",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר מטאריגיה שבקטלוניה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 798
+  },
+  "texts": {
+    "author": [
+      34133,
+      34134,
+      34135,
+      34136,
+      34137,
+      34138,
+      34139,
+      34140
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

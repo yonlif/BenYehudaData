@@ -1,0 +1,40 @@
+{
+  "id": 2369,
+  "url": "https://benyehuda.org/author/2369",
+  "metadata": {
+    "name": "עזרא בן ששון עזרא",
+    "sort_name": "עזרא, עזרא בן ששון ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "?",
+      "death_year": "1878"
+    },
+    "bio_snippet": "חי בבגדד במחצית הראשונה של המאה התשע עשרה. כתב חידושי תורה רבים, שאותם פרסם ר' שלמה תווינא בספרו \"נופת צופים\". פייטן. שירו המפורסם ביותר הוא הפיוט לפורים – \"עזר מצרי היית\"",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 106
+  },
+  "texts": {
+    "author": [
+      45473,
+      45474
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

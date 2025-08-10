@@ -1,0 +1,39 @@
+{
+  "id": 926,
+  "url": "https://benyehuda.org/author/926",
+  "metadata": {
+    "name": "שמואל בזק ",
+    "sort_name": "בזק שמואל ",
+    "other_designations": "ביז'ינסקי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1927",
+      "death_year": "1982"
+    },
+    "bio_snippet": "מזכיר ועדת הכספים של הכנסת, חבר הנהלת בנק המזרחי. כתב יומן, שהתפרסם אחר כך לספר, בהיותו בשבי הירדני לאחר נפילת הרובע היהודי במלחמת השחרור",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 1808
+  },
+  "texts": {
+    "author": [
+      26116
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

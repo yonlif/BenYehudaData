@@ -1,0 +1,53 @@
+{
+  "id": 1205,
+  "url": "https://benyehuda.org/author/1205",
+  "metadata": {
+    "name": "עדה צמח־ורטה",
+    "sort_name": "צמח־ורטה, עדה ",
+    "other_designations": "עדה צמח, עדה צמח-ורטה, עדה צמח ורטה",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1919",
+      "death_year": "2005"
+    },
+    "bio_snippet": "חוקרת ספרות ומתרגמת ישראלית, כלת פרס טשרניחובסקי לתרגום",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir"
+    ],
+    "impressions_count": 1857
+  },
+  "texts": {
+    "author": [
+      47648,
+      47658,
+      47659,
+      51173,
+      51174,
+      51188,
+      53486,
+      53487,
+      53488,
+      53489,
+      53490,
+      53493,
+      53494,
+      57756
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

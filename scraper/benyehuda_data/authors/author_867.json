@@ -1,0 +1,41 @@
+{
+  "id": 867,
+  "url": "https://benyehuda.org/author/867",
+  "metadata": {
+    "name": "ברוך בן עזר (ראב)",
+    "sort_name": "בן עזר (ראב), ברוך",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1887",
+      "death_year": "1960"
+    },
+    "bio_snippet": "מומחה בחקלאות, בייחוד בעף הפרדסנות; היה בעל פרדס בפתח-תקווה ומראשי התאחדות האיכרים במשך שנים רבות. בתקופת מלחמת העולם הראשונה היה מנהל העבודות החקלאיות בתחנת הניסיונות החקלאיים של אהרון אהרונסון בעתלית; כמו כן תיכנן ובנה את האחוזה החקלאית קלמניה, ושימש כמנהל האחוזה. אחותו היא המשוררת אסתר ראב.\r\n\r\n\r\n",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir"
+    ],
+    "impressions_count": 6632
+  },
+  "texts": {
+    "author": [
+      24925,
+      27783
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

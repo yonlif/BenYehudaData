@@ -1,0 +1,52 @@
+{
+  "id": 2044,
+  "url": "https://benyehuda.org/author/2044",
+  "metadata": {
+    "name": "אנטון שמאס",
+    "sort_name": "שמאס, אנטון ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1950",
+      "death_year": ""
+    },
+    "bio_snippet": "סופר, משורר, מתרגם ועורך פלסטיני אזרח ישראל.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 6875
+  },
+  "texts": {
+    "author": [
+      38558,
+      38559,
+      39249,
+      47029,
+      56383,
+      57175
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      56384,
+      56385,
+      56386,
+      56387,
+      57176
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

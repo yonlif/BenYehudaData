@@ -1,0 +1,39 @@
+{
+  "id": 1877,
+  "url": "https://benyehuda.org/author/1877",
+  "metadata": {
+    "name": "יהודה בן צור",
+    "sort_name": "בן צור, יהודה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "משורר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 135
+  },
+  "texts": {
+    "author": [
+      38001
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

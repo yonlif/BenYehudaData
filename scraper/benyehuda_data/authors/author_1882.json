@@ -1,0 +1,50 @@
+{
+  "id": 1882,
+  "url": "https://benyehuda.org/author/1882",
+  "metadata": {
+    "name": "חיים ברנדוויין",
+    "sort_name": "ברנדוויין, חיים ",
+    "other_designations": "חיים נפתלי ברנדוויין; חיים ברנדוין; חיים ברנדויין",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1921",
+      "death_year": "1996"
+    },
+    "bio_snippet": "סופר, משורר וחוקר (חקר המקרא וחקר הספרות העברית החדשה)",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 1305
+  },
+  "texts": {
+    "author": [
+      36668,
+      49376,
+      49377,
+      49378,
+      49379,
+      49380,
+      49381,
+      49382,
+      49383,
+      49384
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

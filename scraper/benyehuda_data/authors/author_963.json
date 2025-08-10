@@ -1,0 +1,41 @@
+{
+  "id": 963,
+  "url": "https://benyehuda.org/author/963",
+  "metadata": {
+    "name": "דב חביב לובמן",
+    "sort_name": "חביב לובמן, דב ",
+    "other_designations": "אברהם דב לובמן חביב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1864",
+      "death_year": "1951"
+    },
+    "bio_snippet": "חקלאי, ראש מועצה מקומית ראשון לציון ואיכרי המושבות העבריות, איש חינוך וסופר עברי. חבר \"הוועד הזמני\" וציר באספת הנבחרים.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir"
+    ],
+    "impressions_count": 1069
+  },
+  "texts": {
+    "author": [
+      30999,
+      31001
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 767,
+  "url": "https://benyehuda.org/author/767",
+  "metadata": {
+    "name": "חיים זליג סלונימסקי",
+    "sort_name": "סלונימסקי, חיים זליג",
+    "other_designations": "חיים זליג בן יעקב סְלוֹנִימְסקי; חיים זעליג סלאָנימסקי; חז\"ס; רחז\"ס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1810",
+      "death_year": "1904"
+    },
+    "bio_snippet": "מוציא לאור עברי, אסטרונום, ממציא, עורך מדעי, מייסדו ועורכו הראשון של עיתון \"הצפירה\", צנזור רשמי מטעם השלטון הצארי בעיר ז'יטומיר וראש בית המדרש הממשלתי לרבנים בז'יטומיר.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 2406
+  },
+  "texts": {
+    "author": [
+      22455,
+      22491,
+      31308,
+      37252,
+      39031
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

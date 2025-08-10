@@ -1,0 +1,37 @@
+{
+  "id": 3513,
+  "url": "https://benyehuda.org/author/3513",
+  "metadata": {
+    "name": "אברהם רמון",
+    "sort_name": "רמון, אברהם ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1921",
+      "death_year": "1994"
+    },
+    "bio_snippet": "מתרגם, עיתונאי בכיר ועורך חדשות בעיתון הארץ. מסוף שנות הששים ערך את המוסף השבועי של העיתון",
+    "languages": [],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 41
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      58506
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

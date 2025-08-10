@@ -1,0 +1,39 @@
+{
+  "id": 314,
+  "url": "https://benyehuda.org/author/314",
+  "metadata": {
+    "name": "אלג'רנון צ'ארלס סווינברן",
+    "sort_name": "סווינברן, אלג'רנון צ'ארלס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1837",
+      "death_year": "1909"
+    },
+    "bio_snippet": "מן המשוררים החשובים בתקופה הוויקטוריאנית, בן אצילים סורר, שהתחנך באוקספורד והיה חבר בחוג האמנים והמשוררים הפרה-רפאליטים.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 628
+  },
+  "texts": {
+    "author": [
+      5139
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

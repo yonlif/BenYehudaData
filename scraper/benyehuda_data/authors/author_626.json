@@ -1,0 +1,46 @@
+{
+  "id": 626,
+  "url": "https://benyehuda.org/author/626",
+  "metadata": {
+    "name": "משה לייב הלפרן",
+    "sort_name": "הלפרן, משה לייב",
+    "other_designations": "משה ליב האלפערן; משה לייב הלפרן; משה לייב האלפערן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1886",
+      "death_year": "1932"
+    },
+    "bio_snippet": "משורר יידיש מודרניסטי, עורך ומסאי.",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 2184
+  },
+  "texts": {
+    "author": [
+      17370,
+      22772,
+      22773,
+      22774,
+      22775,
+      22776,
+      22777,
+      22778
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

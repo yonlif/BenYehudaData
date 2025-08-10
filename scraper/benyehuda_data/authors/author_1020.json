@@ -1,0 +1,45 @@
+{
+  "id": 1020,
+  "url": "https://benyehuda.org/author/1020",
+  "metadata": {
+    "name": "מרים זינגר",
+    "sort_name": "זינגר, מרים ",
+    "other_designations": "מרים (אירמה), זינגר־ברקוביץ",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "other",
+      "period": "modern",
+      "birth_year": "1898",
+      "death_year": "1989"
+    },
+    "bio_snippet": "סופרת, משוררת, עיתונאית, מרצה לחינוך והגננת של הדור הראשון של ילדי קיבוץ דגניה א'\r\n",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1860
+  },
+  "texts": {
+    "author": [
+      28233,
+      28234,
+      28235,
+      28236,
+      28237,
+      28238,
+      28239
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

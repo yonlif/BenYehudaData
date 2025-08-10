@@ -1,0 +1,39 @@
+{
+  "id": 3308,
+  "url": "https://benyehuda.org/author/3308",
+  "metadata": {
+    "name": "רומן יאקובסון",
+    "sort_name": "יאקובסון, רומן ",
+    "other_designations": "רומאן יאקובסון",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1896",
+      "death_year": "1982"
+    },
+    "bio_snippet": "בלשן יהודי רוסי מפורסם, שהיגר לצ'כוסלובקיה ולארצות הברית. כסטודנט היה דמות מובילה בחוג הבלשני של מוסקבה, אחת משתי התנועות שהרכיבו את הפורמליזם הרוסי",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 101
+  },
+  "texts": {
+    "author": [
+      56359
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

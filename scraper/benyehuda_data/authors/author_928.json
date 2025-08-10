@@ -1,0 +1,39 @@
+{
+  "id": 928,
+  "url": "https://benyehuda.org/author/928",
+  "metadata": {
+    "name": "יהודה הורביץ",
+    "sort_name": "הורביץ יהודה ",
+    "other_designations": "יהודה בן מרדכי הלוי הורביץ, יהודה בן מרדכי הורוויץ ; יהודה בן מרדכי הורוביץ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1734",
+      "death_year": "1797"
+    },
+    "bio_snippet": "רופא, איש רוח וסופר עברי, מראשוני המשכילים היהודיים. כתב ספרים רבים הדנים במחשבת ישראל, באפולוגטיקה יהודית, בהלכות, במוסר, במנהגים וכדומה, שחלקם הגדול נכתב כפרוזה מחורזת. הוקע בידי הרבנים בני דורו בשל שילוב התחומים בכתיבתו בין הלכה ואמונה לבין השכלה ונאורות",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 220
+  },
+  "texts": {
+    "author": [
+      38159
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": 1029,
+  "url": "https://benyehuda.org/author/1029",
+  "metadata": {
+    "name": "שרגא גפני",
+    "sort_name": "גפני, שרגא ",
+    "other_designations": "אבנר כרמלי, און שריג, איתן דרור, יגאל גולן, איתן נותב, יצחק אחיטוב",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1926",
+      "death_year": "2012"
+    },
+    "bio_snippet": "סופר ישראלי פורה ומתרגם לעברית. כתב ותרגם, בשמות־עט שונים, כ־175 ספרי ילדים ונוער שהפכו לרבי־מכר, בהם סדרות הספרים \"דנידין הרואה ואינו נראה\", \"הספורטאים הצעירים\", \"הבלשים הצעירים\" ו\"עולם התנ\"ך לילד\".",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 3951
+  },
+  "texts": {
+    "author": [
+      30348,
+      30927,
+      37497,
+      37498,
+      37499,
+      37515,
+      37519,
+      37521,
+      49813,
+      49814,
+      52255,
+      52386,
+      52487,
+      52615,
+      53238
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

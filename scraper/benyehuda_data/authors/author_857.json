@@ -1,0 +1,42 @@
+{
+  "id": 857,
+  "url": "https://benyehuda.org/author/857",
+  "metadata": {
+    "name": "ג'ק לונדון",
+    "sort_name": "לונדון, ג'ק ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1876",
+      "death_year": "1916"
+    },
+    "bio_snippet": "מגדולי סופרי ההרפתקאות האמריקאים",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 3144
+  },
+  "texts": {
+    "author": [
+      24675,
+      24676,
+      24724,
+      56290
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

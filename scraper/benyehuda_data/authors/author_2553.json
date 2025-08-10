@@ -1,0 +1,39 @@
+{
+  "id": 2553,
+  "url": "https://benyehuda.org/author/2553",
+  "metadata": {
+    "name": "ישראל זאב בן פינחס הורביץ ",
+    "sort_name": "הורביץ, ישראל זאב בן פינחס ",
+    "other_designations": "ישראל זאב בן פינחס הורוביץ; ישראל זאב וולף הלוי איש הורוויץ בן פנחס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1880",
+      "death_year": "1918"
+    },
+    "bio_snippet": "חוקר ארץ ישראל והגאוגרפיה ההיסטורית של ארץ ישראל [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 339
+  },
+  "texts": {
+    "author": [
+      47032
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

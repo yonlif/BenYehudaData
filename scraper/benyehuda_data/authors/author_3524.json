@@ -1,0 +1,39 @@
+{
+  "id": 3524,
+  "url": "https://benyehuda.org/author/3524",
+  "metadata": {
+    "name": "ארסני גולנישצ'ב־קוטוזוב",
+    "sort_name": "גולנישצ'ב־קוטוזוב, ארסני ",
+    "other_designations": "ארסני ארקדייביץ' גולנישצ'ב־קוטוזוב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1848",
+      "death_year": "1913"
+    },
+    "bio_snippet": "משורר רוסי, מוכר בין היתר בגלל כתיבת הטקסטים לשני מחזורי השירים של מודסט מוסורגסקי משנות ה־70: ללא שמש ושירים וריקודים של מוות",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 20
+  },
+  "texts": {
+    "author": [
+      58745
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

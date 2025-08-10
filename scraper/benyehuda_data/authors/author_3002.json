@@ -1,0 +1,39 @@
+{
+  "id": 3002,
+  "url": "https://benyehuda.org/author/3002",
+  "metadata": {
+    "name": "מרדכי אלון",
+    "sort_name": "אלון, מרדכי ",
+    "other_designations": "מרדכי (מודי) אלון; מרדכי קליבנסקי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1921",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד צפת. התגייס לצבא הבריטי, הפך לטייס ולחם כטייס באיטליה. אחרי כ\"ט בנובמבר 1947 הפך למפקד טייסי קרב. נהרג בתאונת טיס במבצע \"עשר מכות\" (שנקרא אחר כך \"מבצע יואב\"). השאיר אישה ובת שנולדה אחר מותו [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 94
+  },
+  "texts": {
+    "author": [
+      55035
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 973,
+  "url": "https://benyehuda.org/author/973",
+  "metadata": {
+    "name": "יעקב אורי",
+    "sort_name": "אורי, יעקב ",
+    "other_designations": "יעקב זסלבסקי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1888",
+      "death_year": "1970"
+    },
+    "bio_snippet": "ממייסדי נהלל וחבר הכנסת מטעם מפא\"י בכנסת השנייה. עורך ירחונה של תנועת המושבים – \"תלמים\"",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 1954
+  },
+  "texts": {
+    "author": [
+      27708
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

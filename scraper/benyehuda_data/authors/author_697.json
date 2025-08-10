@@ -1,0 +1,39 @@
+{
+  "id": 697,
+  "url": "https://benyehuda.org/author/697",
+  "metadata": {
+    "name": "יצחק מאיר וייז",
+    "sort_name": "וייז, יצחק מאיר",
+    "other_designations": "יצחק וייס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1819",
+      "death_year": "1900"
+    },
+    "bio_snippet": "מחלוצי התנועה הרפורמית היהודית באמריקה ומראשיה, מייסד היברו יוניון קולג'.",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 1002
+  },
+  "texts": {
+    "author": [
+      19266
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

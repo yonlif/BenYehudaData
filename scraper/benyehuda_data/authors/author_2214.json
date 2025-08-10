@@ -1,0 +1,39 @@
+{
+  "id": 2214,
+  "url": "https://benyehuda.org/author/2214",
+  "metadata": {
+    "name": "זבדיה",
+    "sort_name": "זבדיה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "ancient",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "חי כנראה במאה התשיעית באיטליה הדרומית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 249
+  },
+  "texts": {
+    "author": [
+      38403
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

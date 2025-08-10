@@ -1,0 +1,41 @@
+{
+  "id": 2279,
+  "url": "https://benyehuda.org/author/2279",
+  "metadata": {
+    "name": "עזריה מן האדומים",
+    "sort_name": "מן האדומים, עזריה ",
+    "other_designations": "עזריה בן משה מן האדומים; עזריה דה לה רוסה; בונאיוטו די רוסי; Bonaiuto dei Rossi",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1513",
+      "death_year": "1578"
+    },
+    "bio_snippet": "למדן, היסטוריון וחוקר יהודי־איטלקי. מהיהודים הראשונים שחרגו מחוץ לספרות הרבנית המקובלת בכתביהם, ובין היתר תרגם את איגרת אריסטיאס לעברית וחידש את העניין בפילון האלכסנדרוני.\r\n\r\nהתפרסם בעיקר עקב ספרו \"מאור עיניים\" בו פקפק בתוקפם של דברי חז\"ל בענייני היסטוריה ומדע, דבר שגרר נגדו גינויים וחרמות על הספר מרבנים בני דורו.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 388
+  },
+  "texts": {
+    "author": [
+      40750,
+      41962,
+      41963
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

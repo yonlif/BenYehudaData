@@ -1,0 +1,39 @@
+{
+  "id": 3219,
+  "url": "https://benyehuda.org/author/3219",
+  "metadata": {
+    "name": "מרים מס",
+    "sort_name": "מס, מרים ",
+    "other_designations": "מירי",
+    "intellectual_property": "unknown",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "בתו של הסופר יהודה ליב יונתן",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 76
+  },
+  "texts": {
+    "author": [
+      55242
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

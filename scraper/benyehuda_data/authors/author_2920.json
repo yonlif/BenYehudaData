@@ -1,0 +1,39 @@
+{
+  "id": 2920,
+  "url": "https://benyehuda.org/author/2920",
+  "metadata": {
+    "name": "ניקולה ואפצארוב",
+    "sort_name": "ניקולה ואפצארוב",
+    "other_designations": "ניקולה ופצארוב; ניקולה ואפצרוב; ניקולה ופצרוב; ניקולה יונקוב ואפצארוב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1909",
+      "death_year": "1042"
+    },
+    "bio_snippet": "משורר בולגרי, קומוניסט ומהפכן. רוב חייו עבד כמכונאי, כתב רק בזמנו הפנו;. הוצא להורג בגלל פעילותו הקומוניסטית המחתרתית",
+    "languages": [
+      "bg"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 78
+  },
+  "texts": {
+    "author": [
+      52832
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

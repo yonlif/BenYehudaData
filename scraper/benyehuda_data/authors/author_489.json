@@ -1,0 +1,39 @@
+{
+  "id": 489,
+  "url": "https://benyehuda.org/author/489",
+  "metadata": {
+    "name": "הארייט ביצ'ר-סטואו",
+    "sort_name": "ביצ'ר-סטואו, הארייט",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1811",
+      "death_year": "1896"
+    },
+    "bio_snippet": "סופרת אמריקנית ידועה, שהתפרסמה בזכות ספרה \"אוהל הדוד תום\".",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2667
+  },
+  "texts": {
+    "author": [
+      11434
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

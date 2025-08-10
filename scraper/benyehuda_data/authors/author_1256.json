@@ -1,0 +1,44 @@
+{
+  "id": 1256,
+  "url": "https://benyehuda.org/author/1256",
+  "metadata": {
+    "name": "יצחק ספיבק",
+    "sort_name": "ספיבק, יצחק ",
+    "other_designations": "יצחק בן אשר, י. אחי לאה, י. שפי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1886",
+      "death_year": "1977"
+    },
+    "bio_snippet": "מחנך, מתרגם, סופר ילדים ונוער ומחבר ספרי לימוד ברוסיה ובישראל",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 1326
+  },
+  "texts": {
+    "author": [
+      30965,
+      50264,
+      57109,
+      57637,
+      57639
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

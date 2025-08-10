@@ -1,0 +1,55 @@
+{
+  "id": 2789,
+  "url": "https://benyehuda.org/author/2789",
+  "metadata": {
+    "name": "שיח'ה חליווה",
+    "sort_name": "חליווה, שיח'ה ",
+    "other_designations": "שיח'ה חוסיין חליווה; שייחה חליווא; שייח'ה חליווא",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1968",
+      "death_year": ""
+    },
+    "bio_snippet": "סופרת, משוררת ואשת חינוך בדואית־ישראלית",
+    "languages": [
+      "ar"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 2380
+  },
+  "texts": {
+    "author": [
+      49832,
+      49833,
+      49834,
+      49835,
+      49836,
+      49837,
+      49838,
+      49839,
+      49840,
+      49841,
+      49842,
+      49843,
+      49844,
+      49845,
+      49846,
+      49847,
+      49848
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

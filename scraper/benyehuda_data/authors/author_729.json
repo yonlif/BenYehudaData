@@ -1,0 +1,40 @@
+{
+  "id": 729,
+  "url": "https://benyehuda.org/author/729",
+  "metadata": {
+    "name": "בנימין זאב בכר",
+    "sort_name": "בכר, בנימין זאב",
+    "other_designations": "בנימין זאב בכרך; וילמוש באכר; וילהלם בכר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1850",
+      "death_year": "1913"
+    },
+    "bio_snippet": "מזרחן ובלשן איש חכמת ישראל בהונגריה",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 7558
+  },
+  "texts": {
+    "author": [
+      20936,
+      29301
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

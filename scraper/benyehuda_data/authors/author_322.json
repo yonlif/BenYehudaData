@@ -1,0 +1,41 @@
+{
+  "id": 322,
+  "url": "https://benyehuda.org/author/322",
+  "metadata": {
+    "name": "פרנסיס ז’ם",
+    "sort_name": "ז’ם, פרנסיס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1868",
+      "death_year": "1938"
+    },
+    "bio_snippet": "היה משורר צרפתי.",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 4215
+  },
+  "texts": {
+    "author": [
+      6272,
+      6593,
+      8542
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

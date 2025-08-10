@@ -1,0 +1,39 @@
+{
+  "id": 2604,
+  "url": "https://benyehuda.org/author/2604",
+  "metadata": {
+    "name": "מרסל פרוסט",
+    "sort_name": "פרוסט, מרסל ",
+    "other_designations": "ולנטן לואי ז'ורז' אז'ן מרסל פרוסט",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1871",
+      "death_year": "1922"
+    },
+    "bio_snippet": "אינטלקטואל, סופר ומבקר צרפתי ממוצא יהודי, הידוע ביותר כמחברו של הספר \"בעקבות הזמן האבוד\" (בצרפתית: À la recherche du temps perdu). פרוסט נחשב לאחד מגדולי הסופרים הצרפתים במאה ה־20",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1313
+  },
+  "texts": {
+    "author": [
+      47211
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

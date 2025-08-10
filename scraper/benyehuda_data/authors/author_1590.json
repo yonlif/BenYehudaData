@@ -1,0 +1,41 @@
+{
+  "id": 1590,
+  "url": "https://benyehuda.org/author/1590",
+  "metadata": {
+    "name": "יצחק אַלְאַחְדַּב",
+    "sort_name": "אלאחדב, יצחק ",
+    "other_designations": "יצחק  אלאחדב, יצחק בן שלמה אלאחדב, יצחק בן שלמה בן צדיק אלאחדב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "אמצע המאה ה־14",
+      "death_year": "מחצית ראשונה של המאה ה־15"
+    },
+    "bio_snippet": "משורר עברי, אסטרונום, מתרגם, מתמטיקאי וחכם תורני. נולד באמצע המאה ה־14 בקסטיליה שבספרד, היגר לסיציליה בסוף המאה וישב בה עד מותו בראשית המאה ה־15",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 726
+  },
+  "texts": {
+    "author": [
+      34193,
+      34194,
+      34195
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

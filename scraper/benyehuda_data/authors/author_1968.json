@@ -1,0 +1,42 @@
+{
+  "id": 1968,
+  "url": "https://benyehuda.org/author/1968",
+  "metadata": {
+    "name": "ניסן טורוב ",
+    "sort_name": "טורוב, ניסן ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1877",
+      "death_year": "1953"
+    },
+    "bio_snippet": "מורה ופדגוג, פסיכולוג, סופר, עיתונאי, עורך ומתרגם עברי יליד רוסיה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 661
+  },
+  "texts": {
+    "author": [
+      44155
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      43821
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

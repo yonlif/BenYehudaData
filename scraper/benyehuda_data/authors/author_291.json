@@ -1,0 +1,53 @@
+{
+  "id": 291,
+  "url": "https://benyehuda.org/author/291",
+  "metadata": {
+    "name": "ז'ול ורן",
+    "sort_name": "ורן, ז'ול",
+    "other_designations": "Jules Verne‏",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1828",
+      "death_year": "1905"
+    },
+    "bio_snippet": "ז'וּל וֶרְן היה סופר צרפתי הנחשב לאחד מחלוצי סוגת המדע הבדיוני בספרות.",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 11051
+  },
+  "texts": {
+    "author": [
+      3718,
+      42705,
+      43502,
+      43951,
+      43952,
+      44570,
+      44571,
+      44611,
+      44612,
+      44701,
+      47259,
+      47263,
+      48691,
+      54034,
+      54202
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

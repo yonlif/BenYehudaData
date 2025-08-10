@@ -1,0 +1,37 @@
+{
+  "id": 2687,
+  "url": "https://benyehuda.org/author/2687",
+  "metadata": {
+    "name": "יעקב עדיני",
+    "sort_name": "עדיני, יעקב ",
+    "other_designations": "יעקב יוסף עדיני; יעקב יוסף עדיני (אִדֶל)",
+    "intellectual_property": "orphan",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1898",
+      "death_year": "1968"
+    },
+    "bio_snippet": " מתרגם, עורך ומסאי ישראלי, ולפני עלייתו לארץ פעיל ציוני ומחנך בעירו רובנה",
+    "languages": [],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 99
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      53343
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

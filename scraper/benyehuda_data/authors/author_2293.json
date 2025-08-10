@@ -1,0 +1,39 @@
+{
+  "id": 2293,
+  "url": "https://benyehuda.org/author/2293",
+  "metadata": {
+    "name": "יהודה עשהאל בן אליעזר דוד מהטוב",
+    "sort_name": "מהטוב, יהודה עשהאל בן אליעזר דוד",
+    "other_designations": "יהודה עשהאל בן אליעזר דוד מה טוב; Leon del Bene",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1618",
+      "death_year": "1678"
+    },
+    "bio_snippet": "רב איטלקי ומשורר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 109
+  },
+  "texts": {
+    "author": [
+      40765
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

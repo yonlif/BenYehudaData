@@ -1,0 +1,39 @@
+{
+  "id": 342,
+  "url": "https://benyehuda.org/author/342",
+  "metadata": {
+    "name": "אנה פודגיצקי",
+    "sort_name": "פודגיצקי, אנה",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 7909
+  },
+  "texts": {
+    "author": [
+      7067
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

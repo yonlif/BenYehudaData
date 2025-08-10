@@ -1,0 +1,39 @@
+{
+  "id": 1730,
+  "url": "https://benyehuda.org/author/1730",
+  "metadata": {
+    "name": "טוביה כהן",
+    "sort_name": "כהן, טוביה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1819",
+      "death_year": "1898"
+    },
+    "bio_snippet": "סוחר, סופר ומתרגם [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 341
+  },
+  "texts": {
+    "author": [
+      38370
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

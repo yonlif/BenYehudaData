@@ -1,0 +1,39 @@
+{
+  "id": 1326,
+  "url": "https://benyehuda.org/author/1326",
+  "metadata": {
+    "name": "יצחק שמואל רג'יו",
+    "sort_name": "רג'יו, יצחק שמואל ",
+    "other_designations": "רג'ו, יש\"ר מגוריציה, יש\"ר מגוריציאה, יצחק שמואל רגיו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1784",
+      "death_year": "1855"
+    },
+    "bio_snippet": "רב, פילוסוף, חוקר יהדות, פרשן מקרא וסופר, מראשי תנועת חכמת ישראל",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 153
+  },
+  "texts": {
+    "author": [
+      40801
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

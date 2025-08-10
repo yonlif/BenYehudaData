@@ -1,0 +1,39 @@
+{
+  "id": 1854,
+  "url": "https://benyehuda.org/author/1854",
+  "metadata": {
+    "name": "אדונים בר נסים הלוי",
+    "sort_name": "הלוי, אדונים בר נסים ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "פייטן מצפון אפריקה, פיוטיו נשמרו בכתבי הגניזה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 175
+  },
+  "texts": {
+    "author": [
+      37847
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

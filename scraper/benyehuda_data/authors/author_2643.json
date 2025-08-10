@@ -1,0 +1,57 @@
+{
+  "id": 2643,
+  "url": "https://benyehuda.org/author/2643",
+  "metadata": {
+    "name": "אברהם בנימין ריבלין",
+    "sort_name": "ריבלין, אברהם בנימין ",
+    "other_designations": "אברהם ב. ריבלין; אברהם בנימין בן הלל ריבלין",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1906",
+      "death_year": "1993"
+    },
+    "bio_snippet": "מחבר מאמרים ורשימות, בעיקר בתולדות היישוב הישן בירושלים, וכן מאמרי ביקורת ספרותית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 2435
+  },
+  "texts": {
+    "author": [
+      47469,
+      47470,
+      47471,
+      47472,
+      47473,
+      47474,
+      47475,
+      47476,
+      47477,
+      47478,
+      47479,
+      47480,
+      47481,
+      47482,
+      47483,
+      47484,
+      47485,
+      47486,
+      47487
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3208,
+  "url": "https://benyehuda.org/author/3208",
+  "metadata": {
+    "name": "וילם בונטקו",
+    "sort_name": "בונטקו, וילם ",
+    "other_designations": "וילם איזברנץ בונטקו; וילם איזברנצזון בונטקו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1587",
+      "death_year": "1657"
+    },
+    "bio_snippet": "רב חובל בחברת הודו המזרחית ההולנדית, שערך מסע יחיד עבור החברה. התפרסם ברבים בגלל כתב עת שבו פורסמו הרפתקאותיו",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 139
+  },
+  "texts": {
+    "author": [
+      54944
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

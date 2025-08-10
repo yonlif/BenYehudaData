@@ -1,0 +1,39 @@
+{
+  "id": 2290,
+  "url": "https://benyehuda.org/author/2290",
+  "metadata": {
+    "name": "יוסף ברוך בן ידידיה זכריה מאורבינו",
+    "sort_name": "מאורבינו, יוסף ברוך בן ידידיה זכריה ",
+    "other_designations": "יוסף ברוך אורבינו; יוסף ברוך בן ידידיה זכריה אורבינו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "חי במאה ה־17 במנטובה, מודנה ובוסטו",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 107
+  },
+  "texts": {
+    "author": [
+      40763
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

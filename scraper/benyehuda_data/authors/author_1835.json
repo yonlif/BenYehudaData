@@ -1,0 +1,53 @@
+{
+  "id": 1835,
+  "url": "https://benyehuda.org/author/1835",
+  "metadata": {
+    "name": "אליהו ספיר",
+    "sort_name": "ספיר, אליהו ",
+    "other_designations": "אליהו בן בנימין זאב הלוי ספיר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1869",
+      "death_year": "1911"
+    },
+    "bio_snippet": " מנהל הסניף הראשי של בנק אנגלו־פלשתינה בארץ ישראל, בעיר הנמל היחידה בזמנו, ביפו. העיר שהייתה גם המרכז העירוני של בני המושבות של העלייה הראשונה. הוא היה סגנו של זלמן דוד ליבונטין, מנהל הבנק בארץ ישראל ומועמד להיות למחליפו בניהול הבנק, בבוא העת. פטירתו בגיל 42 הייתה אבדה לבנק עקב היותו בקיא בלשון הטורקית, רכש קרקעות ו[בקי] בחוקי המדינה העות'מאנית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "letters",
+      "prose"
+    ],
+    "impressions_count": 1402
+  },
+  "texts": {
+    "author": [
+      48295,
+      48334,
+      48335,
+      48336,
+      48337,
+      48338,
+      48796,
+      48797,
+      48798,
+      48799,
+      48800,
+      48801,
+      48802
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

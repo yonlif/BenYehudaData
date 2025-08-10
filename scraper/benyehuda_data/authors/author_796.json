@@ -1,0 +1,55 @@
+{
+  "id": 796,
+  "url": "https://benyehuda.org/author/796",
+  "metadata": {
+    "name": "מני ליב",
+    "sort_name": "ליב, מני",
+    "other_designations": "מאני לייב; מאני ליב;  מני לייב; מנחם לייב בראהינסקי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1883",
+      "death_year": "1953"
+    },
+    "bio_snippet": "משורר יידי יליד אוקראינה, חי בארצות הברית",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1137
+  },
+  "texts": {
+    "author": [
+      40833,
+      46339,
+      47323,
+      51058,
+      57536,
+      57538,
+      57540,
+      57553,
+      57555,
+      57557,
+      57788,
+      57794,
+      57795,
+      57796,
+      57797,
+      57854,
+      57855
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

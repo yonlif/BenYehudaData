@@ -1,0 +1,41 @@
+{
+  "id": 3307,
+  "url": "https://benyehuda.org/author/3307",
+  "metadata": {
+    "name": "תמר גטר",
+    "sort_name": "גטר, תמר ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1953",
+      "death_year": ""
+    },
+    "bio_snippet": "אמנית וציירת ישראלית, פרסמה ספר סיפורים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 29
+  },
+  "texts": {
+    "author": [
+      56306
+    ],
+    "editor": [],
+    "illustrator": [
+      56307
+    ],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 566,
+  "url": "https://benyehuda.org/author/566",
+  "metadata": {
+    "name": "רובי ויינטרויב",
+    "sort_name": "ויינטרויב, רובי",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 722
+  },
+  "texts": {
+    "author": [
+      13680
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

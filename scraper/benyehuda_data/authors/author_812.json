@@ -1,0 +1,40 @@
+{
+  "id": 812,
+  "url": "https://benyehuda.org/author/812",
+  "metadata": {
+    "name": "מנחם גוטמן",
+    "sort_name": "גוטמן, מנחם",
+    "other_designations": "חמי גוטמן",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1936",
+      "death_year": ""
+    },
+    "bio_snippet": " ביופיזיקאי ישראלי, חבר האקדמיה האירופית למדעים, סופר וצייר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 1010
+  },
+  "texts": {
+    "author": [
+      23807,
+      27885
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

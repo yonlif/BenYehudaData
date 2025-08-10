@@ -1,0 +1,41 @@
+{
+  "id": 3445,
+  "url": "https://benyehuda.org/author/3445",
+  "metadata": {
+    "name": "יצחק קיסין",
+    "sort_name": "קיסין, יצחק ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1886",
+      "death_year": "1950"
+    },
+    "bio_snippet": "משורר, מתרגם, סופר ומחבר מאמרים ביידיש [מתוך הלקסיקון לספרות יידיש חדשה (Leksikon Fun Der Nayer Yidisher Literatur)]",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 171
+  },
+  "texts": {
+    "author": [
+      57798,
+      57799,
+      57800
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

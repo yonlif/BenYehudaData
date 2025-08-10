@@ -1,0 +1,81 @@
+{
+  "id": 159,
+  "url": "https://benyehuda.org/author/159",
+  "metadata": {
+    "name": "ישראל חצקביץ",
+    "sort_name": "חצקביץ, ישראל",
+    "other_designations": "י. אדם",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1897",
+      "death_year": "1939"
+    },
+    "bio_snippet": "משורר, סופר ומתרגם עברי, איש קיבוץ גבעת השלושה.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir",
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 6913
+  },
+  "texts": {
+    "author": [
+      282,
+      763,
+      1270,
+      5872,
+      6193,
+      6517,
+      8242,
+      8564,
+      24841,
+      24842,
+      24843,
+      24844,
+      24845,
+      24846,
+      24847,
+      24848,
+      24849,
+      24850,
+      24851,
+      24852,
+      24853,
+      24854,
+      24855,
+      24856,
+      24857,
+      24861,
+      24862,
+      24863,
+      24864,
+      24865,
+      24866,
+      24867,
+      24868,
+      24869
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      24858,
+      24859,
+      24860
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      24874
+    ]
+  }
+}

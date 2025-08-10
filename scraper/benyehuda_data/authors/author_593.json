@@ -1,0 +1,43 @@
+{
+  "id": 593,
+  "url": "https://benyehuda.org/author/593",
+  "metadata": {
+    "name": "נעמה ישעיהו",
+    "sort_name": "ישעיהו, נעמה",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "סופרת ישראלית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 5245
+  },
+  "texts": {
+    "author": [
+      20937,
+      20938,
+      21003,
+      27955
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

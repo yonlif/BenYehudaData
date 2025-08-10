@@ -1,0 +1,39 @@
+{
+  "id": 1840,
+  "url": "https://benyehuda.org/author/1840",
+  "metadata": {
+    "name": "ישראל גלילי",
+    "sort_name": "גלילי, ישראל ",
+    "other_designations": "ישראל ברצ'נקו",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1911",
+      "death_year": "1986"
+    },
+    "bio_snippet": "ראש המפקדה הארצית של \"ההגנה\", פוליטיקאי ישראלי, חבר כנסת ושר בממשלות ישראל",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 532
+  },
+  "texts": {
+    "author": [
+      35882
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 193,
+  "url": "https://benyehuda.org/author/193",
+  "metadata": {
+    "name": "אנטון צ'כוב",
+    "sort_name": "צ'כוב, אנטון",
+    "other_designations": "אנטון פבלוביץ' צ'כוב; צ'כוב; אנטון צ'חוב; אנטון צ'עכוב; אנטון צ'עחוב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1860",
+      "death_year": "1904"
+    },
+    "bio_snippet": "סופר ומחזאי רוסי, הנחשב לאחד מכותבי הסיפורים הקצרים והמחזאים הטובים בהיסטוריה.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "drama",
+      "prose"
+    ],
+    "impressions_count": 100862
+  },
+  "texts": {
+    "author": [
+      255,
+      4679,
+      6664,
+      7195,
+      24804,
+      32073,
+      32078,
+      40924,
+      46341,
+      49967
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      16639,
+      20167,
+      32344,
+      32405,
+      32534
+    ]
+  }
+}

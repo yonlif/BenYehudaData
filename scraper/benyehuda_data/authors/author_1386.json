@@ -1,0 +1,39 @@
+{
+  "id": 1386,
+  "url": "https://benyehuda.org/author/1386",
+  "metadata": {
+    "name": "אליעזר הלוי ",
+    "sort_name": "הלוי, אליעזר ",
+    "other_designations": "לואי לווה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1809",
+      "death_year": "1889"
+    },
+    "bio_snippet": "מלומד יהודי בריטי ממוצא גרמני, אשר שימש כעוזרו ומזכירו של משה מונטיפיורי במשך כחמישים שנה",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 365
+  },
+  "texts": {
+    "author": [
+      32699
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

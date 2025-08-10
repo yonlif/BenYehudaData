@@ -1,0 +1,80 @@
+{
+  "id": 772,
+  "url": "https://benyehuda.org/author/772",
+  "metadata": {
+    "name": "אליעזר שמאלי",
+    "sort_name": "שמאלי, אליעזר",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1901",
+      "death_year": "1985"
+    },
+    "bio_snippet": "מחנך וסופר ילדים נודע בתקופת היישוב ובימי ראשית המדינה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 16013
+  },
+  "texts": {
+    "author": [
+      22628,
+      22629,
+      22630,
+      22631,
+      22632,
+      22633,
+      22634,
+      22635,
+      22636,
+      22743,
+      22744,
+      22745,
+      22746,
+      22747,
+      22748,
+      22749,
+      22750,
+      22751,
+      22752,
+      22753,
+      22754,
+      23060,
+      23061,
+      23062,
+      23063,
+      23064,
+      23065,
+      23066,
+      23067,
+      23068,
+      23069,
+      23070,
+      23475,
+      23476,
+      23477,
+      23478,
+      23479,
+      23480,
+      23481,
+      28322,
+      28953,
+      34662
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

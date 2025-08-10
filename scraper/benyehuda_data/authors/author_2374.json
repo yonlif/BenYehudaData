@@ -1,0 +1,39 @@
+{
+  "id": 2374,
+  "url": "https://benyehuda.org/author/2374",
+  "metadata": {
+    "name": "אלברט הווארד",
+    "sort_name": "הווארד, אלברט ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1873",
+      "death_year": "1947"
+    },
+    "bio_snippet": "בוטניקאי אנגלי, המערבי הראשון שעסק בחקלאות בר קיימא (שאותה למד מהאיכרים ההודים), ומראשוני התנועה האורגנית",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 178
+  },
+  "texts": {
+    "author": [
+      44678
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": 207,
+  "url": "https://benyehuda.org/author/207",
+  "metadata": {
+    "name": "יוסף אבן זבארה",
+    "sort_name": "זבארה, יוסף אבן",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1140",
+      "death_year": ""
+    },
+    "bio_snippet": "היה רופא, בקי בתלמוד הבבלי ובתלמוד הירושלמי, מתרגם מערבית, עסק בפילוסופיה דתית ובקי בספרות היוונית.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "fables",
+      "poetry"
+    ],
+    "impressions_count": 3603
+  },
+  "texts": {
+    "author": [
+      355,
+      356,
+      357,
+      358,
+      359,
+      360,
+      361,
+      362,
+      363,
+      8687,
+      9047,
+      9054
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

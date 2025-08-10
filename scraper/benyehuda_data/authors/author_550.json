@@ -1,0 +1,41 @@
+{
+  "id": 550,
+  "url": "https://benyehuda.org/author/550",
+  "metadata": {
+    "name": "אברהם מנחם מנדל מור",
+    "sort_name": "מור, אברהם מנחם מנדל",
+    "other_designations": "מוהר, מאהר, אמ\"מ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1815",
+      "death_year": "1868"
+    },
+    "bio_snippet": "משכיל עברי, לוחם למען תנועת ההשכלה בגליציה [ע\"פ ENCYCLOPEDIA.COM]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 2776
+  },
+  "texts": {
+    "author": [
+      13231
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      28921
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

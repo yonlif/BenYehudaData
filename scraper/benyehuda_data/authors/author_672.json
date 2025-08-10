@@ -1,0 +1,39 @@
+{
+  "id": 672,
+  "url": "https://benyehuda.org/author/672",
+  "metadata": {
+    "name": "לואי-פרנסואה ז'ופרה",
+    "sort_name": "ז'ופרה, לואי-פרנסואה",
+    "other_designations": "לואי-פרנסואה ג'ופרה; לואי-פרנסוא ז'ופרה; לואי-פרנסוא ג'ופרה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1770",
+      "death_year": "1840"
+    },
+    "bio_snippet": "משורר וממשיל צרפתי.",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "fables"
+    ],
+    "impressions_count": 57
+  },
+  "texts": {
+    "author": [
+      18960
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

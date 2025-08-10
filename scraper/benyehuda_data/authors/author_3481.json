@@ -1,0 +1,39 @@
+{
+  "id": 3481,
+  "url": "https://benyehuda.org/author/3481",
+  "metadata": {
+    "name": "מאיר פרבר",
+    "sort_name": "פרבר, מאיר ",
+    "other_designations": "מרסל פרבר; מאיר ראובני (שם עט)",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1908",
+      "death_year": "1993"
+    },
+    "bio_snippet": "עיתונאי, סופר, מחזאי ומשורר; כתב בעברית ובגרמנית [על־פה האנציקלופדיה לחלוצי הישוב ובוניו / דוד תדהר]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 111
+  },
+  "texts": {
+    "author": [
+      57888
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

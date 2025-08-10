@@ -1,0 +1,42 @@
+{
+  "id": 254,
+  "url": "https://benyehuda.org/author/254",
+  "metadata": {
+    "name": "ויליאם בלייק",
+    "sort_name": "בלייק, ויליאם",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1757",
+      "death_year": "1827"
+    },
+    "bio_snippet": "היה משורר, מיסטיקן, צייר ואמן תחריטים בריטי.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1647
+  },
+  "texts": {
+    "author": [
+      1768,
+      58844,
+      58845,
+      58846
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 383,
+  "url": "https://benyehuda.org/author/383",
+  "metadata": {
+    "name": "יצחק בן לוי אבן מר שאול",
+    "sort_name": "מר שאול, יצחק בן לוי אבן",
+    "other_designations": "יצחק אבן מר שאול",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 466
+  },
+  "texts": {
+    "author": [
+      9027
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

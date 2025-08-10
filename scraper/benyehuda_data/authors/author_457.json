@@ -1,0 +1,39 @@
+{
+  "id": 457,
+  "url": "https://benyehuda.org/author/457",
+  "metadata": {
+    "name": "ג'ון רסקין",
+    "sort_name": "רסקין, ג'ון",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1819",
+      "death_year": "1900"
+    },
+    "bio_snippet": "מבקר אמנות ותרבות, סוציאליסט מוקדם ומבקר חברתי אנגלי. מחשובי מבקרי האמנות בתקופה הוויקטוריאנית. עסק גם בציור, ספרות ושירה.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 1298
+  },
+  "texts": {
+    "author": [
+      1169
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

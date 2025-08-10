@@ -1,0 +1,39 @@
+{
+  "id": 1381,
+  "url": "https://benyehuda.org/author/1381",
+  "metadata": {
+    "name": "אלפרד דרייפוס",
+    "sort_name": "דרייפוס, אלפרד ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1859",
+      "death_year": "1935"
+    },
+    "bio_snippet": "קצין ממוצא יהודי בצבא צרפת, שהואשם בבגידה ובריגול על לא עוול בכפו, בפרשה שזכתה לשם \"פרשת דרייפוס\"\r\n\r\n",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "letters"
+    ],
+    "impressions_count": 1145
+  },
+  "texts": {
+    "author": [
+      32993
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

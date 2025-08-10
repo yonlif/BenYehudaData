@@ -1,0 +1,39 @@
+{
+  "id": 755,
+  "url": "https://benyehuda.org/author/755",
+  "metadata": {
+    "name": "יורם בילו",
+    "sort_name": "בילו, יורם",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1942",
+      "death_year": ""
+    },
+    "bio_snippet": " פרופסור אמריטוס במחלקה לסוציולוגיה, לאנתרופולוגיה ולפסיכולוגיה באוניברסיטה העברית בירושלים, וחתן פרס ישראל בחקר הסוציולוגיה והאנתרופולוגיה לשנת תשע\"ג.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 534
+  },
+  "texts": {
+    "author": [
+      21868
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

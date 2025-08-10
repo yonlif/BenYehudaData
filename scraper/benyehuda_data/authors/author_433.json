@@ -1,0 +1,39 @@
+{
+  "id": 433,
+  "url": "https://benyehuda.org/author/433",
+  "metadata": {
+    "name": "ינס פטר יעקבסן",
+    "sort_name": "יעקבסן, ינס פטר",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1847",
+      "death_year": "1885"
+    },
+    "bio_snippet": "מדען, סופר ומשורר דני. נחשב לאבי הספרות הנטורליסטית בסקנדינביה, ולאחד ממבשריה של הספרות המודרניסטית באירופה.",
+    "languages": [
+      "da"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1537
+  },
+  "texts": {
+    "author": [
+      10776
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

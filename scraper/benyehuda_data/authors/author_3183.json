@@ -1,0 +1,40 @@
+{
+  "id": 3183,
+  "url": "https://benyehuda.org/author/3183",
+  "metadata": {
+    "name": "מרדכי גלדמן",
+    "sort_name": "גלדמן, מרדכי ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1946",
+      "death_year": "2021"
+    },
+    "bio_snippet": "משורר, פסיכולוג, צייר, פסל, מבקר ספרות ואמנות ישראלי, חתן פרס ביאליק למפעל חיים בשירה לשנת תש\"ע 2010",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 238
+  },
+  "texts": {
+    "author": [
+      54808,
+      56287
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

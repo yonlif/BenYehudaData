@@ -1,0 +1,39 @@
+{
+  "id": 623,
+  "url": "https://benyehuda.org/author/623",
+  "metadata": {
+    "name": "ישראל וייסברם",
+    "sort_name": "וייסברם, ישראל",
+    "other_designations": "ישראל ווייסברעם; ישראל וייסברעם",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1839",
+      "death_year": "1917"
+    },
+    "bio_snippet": " סופר ספרות עברית בוורשה בתקופת ההשכלה.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 509
+  },
+  "texts": {
+    "author": [
+      17262
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

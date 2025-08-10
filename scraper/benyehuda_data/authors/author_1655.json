@@ -1,0 +1,42 @@
+{
+  "id": 1655,
+  "url": "https://benyehuda.org/author/1655",
+  "metadata": {
+    "name": "שלמה בכור חוצין",
+    "sort_name": "חוצין, שלמה בכור ",
+    "other_designations": "רשב\"ח; שבח; שבח ס\"ט; שלמה בן יהושע בכור חוצין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1843",
+      "death_year": "1892"
+    },
+    "bio_snippet": " פוסק, פייטן, עיתונאי, מתרגם, בעל בית דפוס, ובין בולטי הרבנים בבבל במחצית השנייה של המאה ה־19",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 317
+  },
+  "texts": {
+    "author": [
+      43968,
+      43969,
+      43970,
+      43971
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

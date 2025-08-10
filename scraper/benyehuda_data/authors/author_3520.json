@@ -1,0 +1,39 @@
+{
+  "id": 3520,
+  "url": "https://benyehuda.org/author/3520",
+  "metadata": {
+    "name": "סימיאס",
+    "sort_name": "סימיאס",
+    "other_designations": "סימיאס איש תבי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "המאה ה־5 לפנה״ס",
+      "death_year": "המאה ה־4 לפנה״ס"
+    },
+    "bio_snippet": " פילוסוף יווני מתבי בשלהי המאה החמישית וראשית המאה הרביעית לפנה\"ס. דיוגנס לארטיוס מציין את שמם של עשרים ושלושה דיאלוגים פרי עטו, אך דבר לא שרד מהם. הוא אחד הדוברים בדיאלוג הסוקרטי פיידון, פרי עטו של אפלטון",
+    "languages": [
+      "grc"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 21
+  },
+  "texts": {
+    "author": [
+      58659
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

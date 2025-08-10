@@ -1,0 +1,38 @@
+{
+  "id": 633,
+  "url": "https://benyehuda.org/author/633",
+  "metadata": {
+    "name": "אברהם לודויפול",
+    "sort_name": "לודויפול, אברהם",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1865",
+      "death_year": "1921"
+    },
+    "bio_snippet": "עיתונאי, פובליציסט ומתרגם עברי ופעיל ציבור ציוני.",
+    "languages": [],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 350
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      17464,
+      22658
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

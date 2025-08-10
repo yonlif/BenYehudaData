@@ -1,0 +1,52 @@
+{
+  "id": 800,
+  "url": "https://benyehuda.org/author/800",
+  "metadata": {
+    "name": "יהואש",
+    "sort_name": "יהואש",
+    "other_designations": "שלמה בלומגארטן; שלמה בלומגרטן  ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1872",
+      "death_year": "1927"
+    },
+    "bio_snippet": "סופר ומשורר יהודי אשר כתב יידיש.  ידוע תרגומו של התנ\"ך ליידיש, הידוע בשם \"תרגום יהואש\" (\"תרגום פֿון יהואש\")",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1985
+  },
+  "texts": {
+    "author": [
+      5977,
+      23565,
+      23566,
+      23567,
+      23568,
+      23569,
+      23570,
+      52012,
+      52013,
+      52014,
+      52015,
+      52016,
+      52017,
+      52018
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

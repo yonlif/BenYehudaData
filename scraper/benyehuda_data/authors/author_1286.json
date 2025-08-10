@@ -1,0 +1,80 @@
+{
+  "id": 1286,
+  "url": "https://benyehuda.org/author/1286",
+  "metadata": {
+    "name": "אברהם אפשטיין [1880]",
+    "sort_name": "אפשטיין, אברהם ",
+    "other_designations": "אברהם אפשטין; אברהם עשפטין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1880",
+      "death_year": "1952"
+    },
+    "bio_snippet": "מורה, סופר ומתרגם, בעברית וביידיש",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 6043
+  },
+  "texts": {
+    "author": [
+      34654,
+      34655,
+      34656,
+      34657,
+      34658,
+      34659,
+      34660,
+      34724,
+      34725,
+      34730,
+      34731,
+      34732,
+      34912,
+      34919,
+      34920,
+      34921,
+      34960,
+      34961,
+      34962,
+      34963,
+      34966,
+      34967,
+      35171,
+      35172,
+      35264,
+      35265,
+      35266,
+      35267,
+      35268,
+      35269,
+      35270,
+      35271,
+      35272,
+      35273,
+      35275,
+      35276,
+      35277,
+      35278,
+      35279,
+      35280,
+      35281,
+      35282
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

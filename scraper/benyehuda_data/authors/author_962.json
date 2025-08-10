@@ -1,0 +1,39 @@
+{
+  "id": 962,
+  "url": "https://benyehuda.org/author/962",
+  "metadata": {
+    "name": "חיים המבורגר",
+    "sort_name": "המבורגר, חיים ",
+    "other_designations": "חיים אליהו יוסף המבורגר, חיים בן נטע צבי הירש",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1868",
+      "death_year": "1951"
+    },
+    "bio_snippet": "מינהלן, מומחה לכספים ולסדרי הדואר בירושלים של המאה ה-19. עסק בניהול בכולל אונגרין בירושלים, עבד בבנק ונחשב למומחה לאיתור שטרי כסף מזויפים. השתתף בניסיון להקים כפר עברי בסביבות ירושלים. שיתף פעולה עם הקרן הקיימת לישראל",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 4821
+  },
+  "texts": {
+    "author": [
+      41660
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

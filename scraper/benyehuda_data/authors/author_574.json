@@ -1,0 +1,45 @@
+{
+  "id": 574,
+  "url": "https://benyehuda.org/author/574",
+  "metadata": {
+    "name": "אלזה לסקר-שילר",
+    "sort_name": "לסקר-שילר, אלזה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1869",
+      "death_year": "1945"
+    },
+    "bio_snippet": "משוררת, סופרת וציירת גרמנייה יהודייה מפורסמת. לסקר-שילר ידועה בשל סגנון חייה הבוהמייני בברלין. הייתה אחת מהנשים הבודדות השייכות לזרם השירה האקספרסיוניסטית. ברחה מהמשטר הנאצי ובילתה את שנותיה האחרונות בארץ ישראל.",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 2088
+  },
+  "texts": {
+    "author": [
+      14101,
+      56415,
+      56416,
+      56417,
+      56418
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      32543
+    ]
+  }
+}

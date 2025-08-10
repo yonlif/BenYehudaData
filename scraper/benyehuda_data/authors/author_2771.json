@@ -1,0 +1,39 @@
+{
+  "id": 2771,
+  "url": "https://benyehuda.org/author/2771",
+  "metadata": {
+    "name": "פנחס לפיד",
+    "sort_name": "לפיד, פנחס ",
+    "other_designations": "פינחס לפיד",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1922",
+      "death_year": "1997"
+    },
+    "bio_snippet": "תאולוג יהודי והיסטוריון ישראלי. דיפלומט ישראלי מ־1951 עד 1969. קונסול במילאנו, ומכריע בהשגת הכרה במדינת ישראל הצעירה באזור. כתב יותר מ־35 ספרים במהלך חייו. היה נשוי לרות לפיד שאיתה חלק את תחומי העניין והעשייה שלו",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 745
+  },
+  "texts": {
+    "author": [
+      49948
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

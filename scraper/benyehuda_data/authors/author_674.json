@@ -1,0 +1,39 @@
+{
+  "id": 674,
+  "url": "https://benyehuda.org/author/674",
+  "metadata": {
+    "name": "מיכאיל חראסקוב",
+    "sort_name": "חראסקוב, מיכאיל",
+    "other_designations": "מיכאיל חרסקוב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1733",
+      "death_year": "1807"
+    },
+    "bio_snippet": "משורר ומחזאי רוסי.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "fables"
+    ],
+    "impressions_count": 75
+  },
+  "texts": {
+    "author": [
+      19197
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

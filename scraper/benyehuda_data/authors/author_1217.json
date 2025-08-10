@@ -1,0 +1,62 @@
+{
+  "id": 1217,
+  "url": "https://benyehuda.org/author/1217",
+  "metadata": {
+    "name": "ברכה סרי",
+    "sort_name": "סרי, ברכה ",
+    "other_designations": "פועה מרי־דור",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1940",
+      "death_year": "2013"
+    },
+    "bio_snippet": "משוררת ישראלית, כלת פרס ראש הממשלה לסופרים עבריים לשנת תש\"ע",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 6878
+  },
+  "texts": {
+    "author": [
+      30598,
+      32695,
+      32696,
+      32697,
+      32700,
+      32701,
+      32707,
+      32708,
+      32709,
+      32710,
+      32711,
+      32712,
+      32713,
+      32714,
+      32715,
+      32716,
+      32717,
+      32718,
+      32719,
+      32720,
+      32721,
+      32722,
+      32723
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

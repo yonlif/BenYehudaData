@@ -1,0 +1,40 @@
+{
+  "id": 320,
+  "url": "https://benyehuda.org/author/320",
+  "metadata": {
+    "name": "לב לבנדה",
+    "sort_name": "לבנדה, לב",
+    "other_designations": "לֵב (יהודה לֶיְבּ) אוסיפוביץ לֶבַנדָה ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1835",
+      "death_year": "1888"
+    },
+    "bio_snippet": "היה סופר, פובליציסט ומחנך יהודי-רוסי, מטיף להתבוללות ברוסיה ולימים פעיל ב\"חובבי ציון\".",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1392
+  },
+  "texts": {
+    "author": [
+      6085,
+      31824
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

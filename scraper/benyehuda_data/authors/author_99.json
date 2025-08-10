@@ -1,0 +1,42 @@
+{
+  "id": 99,
+  "url": "https://benyehuda.org/author/99",
+  "metadata": {
+    "name": "דוד זמושץ'",
+    "sort_name": "זמושץ', דוד",
+    "other_designations": "זמושץ, זאמושטש, דוד בן יוסף",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1789",
+      "death_year": "1854"
+    },
+    "bio_snippet": "סופר, משורר, מחזאי, מתרגם ומורה [ע\"פ ויקיפדיה האנגלית]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 1021
+  },
+  "texts": {
+    "author": [
+      3570,
+      24215,
+      31913
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

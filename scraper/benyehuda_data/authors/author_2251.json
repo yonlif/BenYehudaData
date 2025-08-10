@@ -1,0 +1,39 @@
+{
+  "id": 2251,
+  "url": "https://benyehuda.org/author/2251",
+  "metadata": {
+    "name": "מנחם בן בנימין מרקנטי",
+    "sort_name": "מרקנטי, מנחם בן בנימין ",
+    "other_designations": "מנחם בן בנימין מריקנטי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "פייטן, חי במחצית הראשונה של המאה ה־14 ברקנטי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 199
+  },
+  "texts": {
+    "author": [
+      40728
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

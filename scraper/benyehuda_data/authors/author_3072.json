@@ -1,0 +1,39 @@
+{
+  "id": 3072,
+  "url": "https://benyehuda.org/author/3072",
+  "metadata": {
+    "name": "נחום זרחי",
+    "sort_name": "זרחי, נחום ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1925",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד נהלל, נעצר ב\"שבת השחורה\" בדגניה ב'. נפל במלחמת העצמאות במבצע עין (הוא מבצע חורב - בנגב ובמזרח סיני) [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 122
+  },
+  "texts": {
+    "author": [
+      54495
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

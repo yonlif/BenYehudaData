@@ -1,0 +1,40 @@
+{
+  "id": 297,
+  "url": "https://benyehuda.org/author/297",
+  "metadata": {
+    "name": "ויליאם בטלר ייטס",
+    "sort_name": "ייטס, ויליאם בטלר",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1865",
+      "death_year": "1939"
+    },
+    "bio_snippet": "ויליאם בטלר ייטס היה משורר, מחזאי ומיסטיקן אירי, חתן פרס נובל לספרות לשנת 1923.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 2257
+  },
+  "texts": {
+    "author": [
+      4306,
+      56404
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

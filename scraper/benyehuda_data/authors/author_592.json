@@ -1,0 +1,51 @@
+{
+  "id": 592,
+  "url": "https://benyehuda.org/author/592",
+  "metadata": {
+    "name": "אברהם נגב",
+    "sort_name": "נגב, אברהם",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1923",
+      "death_year": "2004"
+    },
+    "bio_snippet": "ארכאולוג ישראלי, מומחה בנושא ההתיישבות במדבר והנבטים.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir",
+      "reference"
+    ],
+    "impressions_count": 21308
+  },
+  "texts": {
+    "author": [
+      16164,
+      24414,
+      24887,
+      38306,
+      43495
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      24414,
+      24550,
+      25402,
+      25403,
+      25447
+    ]
+  }
+}

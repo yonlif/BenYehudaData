@@ -1,0 +1,39 @@
+{
+  "id": 3278,
+  "url": "https://benyehuda.org/author/3278",
+  "metadata": {
+    "name": "יואב בן־ארי",
+    "sort_name": "בן־ארי, יואב ",
+    "other_designations": "יואב בן-ארי; יואב בן ארי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1979",
+      "death_year": ""
+    },
+    "bio_snippet": "סופר, כותב מאמרים ויועץ חינוכי.  קובץ הסיפורים כל הוורידים הולכים אל הלב (2013) זיכה אותו בפרס שרת התרבות לסופרים בראשית דרכם [על־פי אפיק, ספרות ישראלית]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 170
+  },
+  "texts": {
+    "author": [
+      56477
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

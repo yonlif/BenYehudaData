@@ -1,0 +1,52 @@
+{
+  "id": 3080,
+  "url": "https://benyehuda.org/author/3080",
+  "metadata": {
+    "name": "דוד ט\"ש",
+    "sort_name": "ט\"ש, דוד ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1928",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד ליטא,  סטודנט באוניברסיטה העברית בירושלים. נפל עם מחלקת הל\"ה לגוש עציון הנצור. השאיר בעיזבונו מאמרים ושירים שכונסו אחר מותו בספר בשם \"דוד ט\"ש – אחד מלמד־הא\" [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir",
+      "poetry"
+    ],
+    "impressions_count": 596
+  },
+  "texts": {
+    "author": [
+      54292,
+      54293,
+      54294,
+      54295,
+      54296,
+      54297,
+      54298,
+      54627,
+      54628,
+      54629,
+      54630,
+      54935
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

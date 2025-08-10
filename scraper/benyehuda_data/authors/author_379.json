@@ -1,0 +1,56 @@
+{
+  "id": 379,
+  "url": "https://benyehuda.org/author/379",
+  "metadata": {
+    "name": "יצחק חיים קסטיליוני",
+    "sort_name": "קסטיליוני, יצחק חיים",
+    "other_designations": "יצחק קסטיליוני",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1840",
+      "death_year": "1911"
+    },
+    "bio_snippet": "רב, משורר ומתמטיקאי איטלקי, כיהן כרבה הראשי של רומא והסמכות הרוחנית הראשית של יהדות איטליה בין השנים ה'תרס\"ג-ה'תרע\"א (1903–1911). תרגם את המשנה לאיטלקית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 1581
+  },
+  "texts": {
+    "author": [
+      8849,
+      40810,
+      42259,
+      42260,
+      42261,
+      42262,
+      42263,
+      58780,
+      58781,
+      58782,
+      58922,
+      58929
+    ],
+    "editor": [
+      58906,
+      58941,
+      58942,
+      58943
+    ],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

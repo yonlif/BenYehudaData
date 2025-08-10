@@ -1,0 +1,39 @@
+{
+  "id": 664,
+  "url": "https://benyehuda.org/author/664",
+  "metadata": {
+    "name": "וסילי טרדיאקובסקי",
+    "sort_name": "טרדיאקובסקי, וסילי",
+    "other_designations": "וסילי טרדיקובסקי; וסילי טרדייקובסקי; ואסילי טרדיאקובסקי; ואסילי טרדייקובסקי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1703",
+      "death_year": "1769"
+    },
+    "bio_snippet": "משורר רוסי, ממניחי היסודות לספרות הרוסית המודרנית.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "fables"
+    ],
+    "impressions_count": 54
+  },
+  "texts": {
+    "author": [
+      19195
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

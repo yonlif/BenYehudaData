@@ -1,0 +1,39 @@
+{
+  "id": 355,
+  "url": "https://benyehuda.org/author/355",
+  "metadata": {
+    "name": "טויבע פעסיל פיינשטיין",
+    "sort_name": "פיינשטיין, טויבע פעסיל",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": "enlightenment",
+      "birth_year": "",
+      "death_year": "1918"
+    },
+    "bio_snippet": "הייתה בת למשפחת למדנים ליטאית מיוחסת; עיקר פעילותה היה בענייני גמ\"ח, עזרה לחולים והכנסת כלה.",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 1189
+  },
+  "texts": {
+    "author": [
+      7500
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

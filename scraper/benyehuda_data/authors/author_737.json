@@ -1,0 +1,39 @@
+{
+  "id": 737,
+  "url": "https://benyehuda.org/author/737",
+  "metadata": {
+    "name": "ויירה פיגנר",
+    "sort_name": "פיגנר, ויירה",
+    "other_designations": "ורה פיגנר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": "revival",
+      "birth_year": "1852",
+      "death_year": "1942"
+    },
+    "bio_snippet": "מהפכנית רוסיה.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 1141
+  },
+  "texts": {
+    "author": [
+      21035
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

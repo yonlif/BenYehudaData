@@ -1,0 +1,39 @@
+{
+  "id": 1537,
+  "url": "https://benyehuda.org/author/1537",
+  "metadata": {
+    "name": "אברהם אבולעפיה",
+    "sort_name": "אבולעפיה, אברהם ",
+    "other_designations": "אברהם בן שמואל",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1240",
+      "death_year": "1291"
+    },
+    "bio_snippet": "רב ומקובל, נחשב לנציג הבולט של זרם הקבלה האקסטטית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 2029
+  },
+  "texts": {
+    "author": [
+      33742
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

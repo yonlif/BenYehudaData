@@ -1,0 +1,39 @@
+{
+  "id": 2821,
+  "url": "https://benyehuda.org/author/2821",
+  "metadata": {
+    "name": "סטיבן סונדהיים",
+    "sort_name": "סונדהיים, סטיבן ",
+    "other_designations": "סטיבן ג'ושוע סונדהיים",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1930",
+      "death_year": "2021"
+    },
+    "bio_snippet": " מלחין ופזמונאי יהודי אמריקאי",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 209
+  },
+  "texts": {
+    "author": [
+      12592
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

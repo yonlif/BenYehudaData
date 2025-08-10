@@ -1,0 +1,45 @@
+{
+  "id": 597,
+  "url": "https://benyehuda.org/author/597",
+  "metadata": {
+    "name": "דוד כהנא",
+    "sort_name": "כהנא, דוד",
+    "other_designations": "דוד בן יצחק כהנא",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1838",
+      "death_year": "1915"
+    },
+    "bio_snippet": "חוקר והיסטוריון עברי, מהדיר ספרות תורנית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 4265
+  },
+  "texts": {
+    "author": [
+      17990,
+      25754,
+      29979,
+      38471,
+      40814,
+      45758
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": 275,
+  "url": "https://benyehuda.org/author/275",
+  "metadata": {
+    "name": "מיכאיל לרמונטוב",
+    "sort_name": "לרמונטוב, מיכאיל",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1814",
+      "death_year": "1841"
+    },
+    "bio_snippet": "סופר ומשורר רומנטי רוסי, מכונה לעתים \"משורר הקווקזים\". לרמונטוב נחשב למשורר הרוסי הגדול ביותר בתקופה שלאחר מות אלכסנדר פושקין ועד פטירתו.",
+    "languages": [
+      "ru",
+      "he"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 4944
+  },
+  "texts": {
+    "author": [
+      2493,
+      17780,
+      17989,
+      22431,
+      24858,
+      24859,
+      24860,
+      39736,
+      51789
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

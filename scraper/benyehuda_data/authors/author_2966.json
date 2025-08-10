@@ -1,0 +1,56 @@
+{
+  "id": 2966,
+  "url": "https://benyehuda.org/author/2966",
+  "metadata": {
+    "name": "הלית ישורון",
+    "sort_name": "ישורון, הלית",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1942",
+      "death_year": ""
+    },
+    "bio_snippet": "מתרגמת, עורכת, משוררת ושחקנית ישראלית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir",
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 1210
+  },
+  "texts": {
+    "author": [
+      54039,
+      54057,
+      54172,
+      54884,
+      54885,
+      56379,
+      56465,
+      57247,
+      57248
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      54059,
+      54060,
+      54061,
+      54150,
+      56687
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

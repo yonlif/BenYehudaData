@@ -1,0 +1,39 @@
+{
+  "id": 3347,
+  "url": "https://benyehuda.org/author/3347",
+  "metadata": {
+    "name": "פול ואלרי",
+    "sort_name": "ואלרי, פול ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1871",
+      "death_year": "1945"
+    },
+    "bio_snippet": "משורר, סופר ומבקר ספרות צרפתי",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 89
+  },
+  "texts": {
+    "author": [
+      56687
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

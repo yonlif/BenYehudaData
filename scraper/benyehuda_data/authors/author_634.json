@@ -1,0 +1,39 @@
+{
+  "id": 634,
+  "url": "https://benyehuda.org/author/634",
+  "metadata": {
+    "name": "גסטון מספרו",
+    "sort_name": "מספרו, גסטון",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1846",
+      "death_year": "1916"
+    },
+    "bio_snippet": "אגיפטולוג וארכאולוג צרפתי. שימש במשך שנים רבות כמנהל מחלקת העתיקות המצרית. הוא טבע את המונח \"גויי הים\" בהתייחסו לקואליציית השבטים שתקפה את מזרח הים התיכון ואת מצרים במאות ה-13 וה-12 לפנה\"ס. מספרו חיבר למעלה מ-1,200 מאמרים על מצרים העתיקה.",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 760
+  },
+  "texts": {
+    "author": [
+      17464
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

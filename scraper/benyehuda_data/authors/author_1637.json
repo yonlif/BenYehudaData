@@ -1,0 +1,48 @@
+{
+  "id": 1637,
+  "url": "https://benyehuda.org/author/1637",
+  "metadata": {
+    "name": "פיודור טיוטצ'ב",
+    "sort_name": "טיוטצ'ב, פיודור ",
+    "other_designations": "פיודור טיוצ'ב; פיודור איבנוביץ' טיוצ'ב; פיודור איבנוביץ' טיוטצ'ב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1803",
+      "death_year": "1873"
+    },
+    "bio_snippet": "משורר ודיפלומט רוסי",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 376
+  },
+  "texts": {
+    "author": [
+      35049,
+      58730,
+      58731,
+      58732,
+      58733,
+      58734,
+      58735,
+      58736
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      32401
+    ]
+  }
+}

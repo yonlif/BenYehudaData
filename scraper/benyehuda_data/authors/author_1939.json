@@ -1,0 +1,39 @@
+{
+  "id": 1939,
+  "url": "https://benyehuda.org/author/1939",
+  "metadata": {
+    "name": "אפרים מרגנסבורג",
+    "sort_name": "מרגנסבורג, אפרים ",
+    "other_designations": "אפרים בר יצחק; אפרים בר' יצחק בר' אברהם מרגנסבורג; רבינו אפרים; רבי אפרים הגדול; רבי אפרים הגיבור; ר' אפרים הצרפתי; ר' יקיר; ר' אפרים מאלמניא",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1110",
+      "death_year": "1175"
+    },
+    "bio_snippet": "מבעלי התוספות ומראשוני תלמידיו של רבנו תם, וכן תלמידו של ריב\"א. התגורר בגרמניה. חיבר את הפיוט המפורסם על עקדת יצחק – \"אם אפס רבע הקן\"",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 232
+  },
+  "texts": {
+    "author": [
+      37889
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 2295,
+  "url": "https://benyehuda.org/author/2295",
+  "metadata": {
+    "name": "משה זכות",
+    "sort_name": "זכות, משה ",
+    "other_designations": "משה בן מרדכי זכות; הרמ\"ז; Mosè Zacuto",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1625",
+      "death_year": "1697"
+    },
+    "bio_snippet": " רב, מקובל, ומשורר יהודי ממוצא פורטוגזי. נצר למשפחת זכות שהגיעה מפורטוגל להולנד אחר הגירוש.\r\n\r\nהרמ\"ז כיהן כרב קהילת יהדות מנטובה וכראש ישיבה בה ובקהילת הספרדים בוונציה, והוא נחשב לאחד מגדולי המקובלים ביהדות איטליה במאה ה־17. דרך בית מדרשו נפוצו כתביו של ר' חיים ויטל העוסקים בקבלת האר\"י וכן מנהגי התפילה המבוססים עליהם.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 813
+  },
+  "texts": {
+    "author": [
+      40767,
+      42053,
+      42054,
+      42055,
+      42056
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 482,
+  "url": "https://benyehuda.org/author/482",
+  "metadata": {
+    "name": "וילהלם הרצברג",
+    "sort_name": "הרצברג, וילהלם",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1827",
+      "death_year": "1897"
+    },
+    "bio_snippet": "סופר ומחנך יהודי פרוסי, ממייסדי בית היתומים העברי הראשון בירושלים ובית הספרים \"מדרש אברבנאל וגנזי יוסף\" (לימים הספרייה הלאומית).",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 737
+  },
+  "texts": {
+    "author": [
+      11350
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

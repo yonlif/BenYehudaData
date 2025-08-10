@@ -1,0 +1,49 @@
+{
+  "id": 686,
+  "url": "https://benyehuda.org/author/686",
+  "metadata": {
+    "name": "אבנר הולצמן",
+    "sort_name": "הולצמן, אבנר",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1956",
+      "death_year": ""
+    },
+    "bio_snippet": "חוקר ספרות ישראלי, פרופסור לספרות עברית באוניברסיטת תל אביב; חבר האקדמיה הלאומית הישראלית למדעים[1]; חבר-יועץ באקדמיה ללשון העברית.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 5435
+  },
+  "texts": {
+    "author": [
+      17850,
+      24805,
+      25292,
+      37811,
+      37840,
+      45024
+    ],
+    "editor": [
+      2225,
+      18661
+    ],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

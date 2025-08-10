@@ -1,0 +1,44 @@
+{
+  "id": 694,
+  "url": "https://benyehuda.org/author/694",
+  "metadata": {
+    "name": "אנדרי ביילי",
+    "sort_name": "ביילי, אנדרי",
+    "other_designations": "בוריס ניקולאביץ' בוּגאֵב; בוריס בוגאב; בוריס ניקולייביץ' בוגאב; בוריס בוגב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1880",
+      "death_year": "1934"
+    },
+    "bio_snippet": "אחד מהסימבוליסטים החשובים בספרות הרוסית, וכן משורר, תאורטיקן ספרותי ומבקר ספרות. על הרומן פרי עטו פטרבורג אמר ולדימיר נבוקוב כי הוא אחד מארבעת הרומנים הגדולים של המאה ה-20.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1412
+  },
+  "texts": {
+    "author": [
+      19003,
+      19004,
+      19005,
+      19006,
+      19007,
+      19008
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

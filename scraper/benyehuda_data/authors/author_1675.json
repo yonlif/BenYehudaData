@@ -1,0 +1,40 @@
+{
+  "id": 1675,
+  "url": "https://benyehuda.org/author/1675",
+  "metadata": {
+    "name": "ג'ון וילמוט הרוזן מרוצ'סטר",
+    "sort_name": "רוצ'סטר, ג'ון וילמוט הרוזן מ־",
+    "other_designations": "ג'ון וילמוט, ג'ון וילמוט הרוזן השני מרוצ'סטר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1647",
+      "death_year": "1680"
+    },
+    "bio_snippet": "משורר ואיש חצר באנגליה בתקופת הרסטורציה",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 327
+  },
+  "texts": {
+    "author": [
+      34411,
+      34412
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

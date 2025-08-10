@@ -1,0 +1,37 @@
+{
+  "id": 2012,
+  "url": "https://benyehuda.org/author/2012",
+  "metadata": {
+    "name": "שמשון ענבל",
+    "sort_name": "ענבל, שמשון ",
+    "other_designations": "שמשון ענבל (קלינגר)",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1929",
+      "death_year": "2012"
+    },
+    "bio_snippet": "דיפלומט, עורך ומתרגם עברי פורה ומילונאי ישראלי",
+    "languages": [],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 80
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      38386
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1979,
+  "url": "https://benyehuda.org/author/1979",
+  "metadata": {
+    "name": "ישעיהו יצחק פיינסוד ",
+    "sort_name": "פיינסוד, ישעיהו יצחק ",
+    "other_designations": "ישעיהו יצחק פינסוד",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1903",
+      "death_year": "1953"
+    },
+    "bio_snippet": "מורה בחינוך המקצועי, מהנדס, ממונה על החינוך המקצועי במשרד העבודה ומחבר ספרי לימוד [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 301
+  },
+  "texts": {
+    "author": [
+      43040
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

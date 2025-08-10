@@ -1,0 +1,60 @@
+{
+  "id": 387,
+  "url": "https://benyehuda.org/author/387",
+  "metadata": {
+    "name": "יצחק אפשטיין",
+    "sort_name": "אפשטיין, יצחק",
+    "other_designations": "יצחק אפשטין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1863",
+      "death_year": "1943"
+    },
+    "bio_snippet": "מחנך, חוקר לשון, הוגה דעות וממחדשי השפה העברית בארץ ישראל.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "drama",
+      "memoir",
+      "reference"
+    ],
+    "impressions_count": 6229
+  },
+  "texts": {
+    "author": [
+      10580,
+      10581,
+      10582,
+      17459,
+      19161,
+      25636,
+      25637,
+      25638,
+      38385,
+      58667,
+      58668,
+      58669,
+      58670,
+      58671
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      19266
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      11745,
+      43080
+    ]
+  }
+}

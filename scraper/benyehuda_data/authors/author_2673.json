@@ -1,0 +1,39 @@
+{
+  "id": 2673,
+  "url": "https://benyehuda.org/author/2673",
+  "metadata": {
+    "name": "שלמה אבן וירגה",
+    "sort_name": "אבן וירגה, שלמה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1460",
+      "death_year": "1554"
+    },
+    "bio_snippet": " היסטוריון ורופא יהודי ספרדי בדור גירוש ספרד, מחבר הספר ההיסטוריוגרפי \"שבט יהודה\"",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 1132
+  },
+  "texts": {
+    "author": [
+      48057
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2555,
+  "url": "https://benyehuda.org/author/2555",
+  "metadata": {
+    "name": "ברנרד אייזמן",
+    "sort_name": "אייזמן, ברנרד ",
+    "other_designations": "",
+    "intellectual_property": "unknown",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "",
+    "languages": [
+      "unk"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 94
+  },
+  "texts": {
+    "author": [
+      45947
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

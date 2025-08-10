@@ -1,0 +1,39 @@
+{
+  "id": 453,
+  "url": "https://benyehuda.org/author/453",
+  "metadata": {
+    "name": "פנחס  בן ישעיה פסיס",
+    "sort_name": "פסיס, פנחס  בן ישעיה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1868",
+      "death_year": "1904"
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 858
+  },
+  "texts": {
+    "author": [
+      11015
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

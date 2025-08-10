@@ -1,0 +1,39 @@
+{
+  "id": 1836,
+  "url": "https://benyehuda.org/author/1836",
+  "metadata": {
+    "name": "וולט דיסני",
+    "sort_name": "דיסני, וולט ",
+    "other_designations": "וולטר אליאס דיסני",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1901",
+      "death_year": "1966"
+    },
+    "bio_snippet": "מפיק סרטי הנפשה, אנימטור, מייסד חברת וולט דיסני ומקים פארק השעשועים \"דיסנילנד\" ",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 917
+  },
+  "texts": {
+    "author": [
+      35738
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

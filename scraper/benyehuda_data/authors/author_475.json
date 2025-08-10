@@ -1,0 +1,39 @@
+{
+  "id": 475,
+  "url": "https://benyehuda.org/author/475",
+  "metadata": {
+    "name": "דוד יודילוביץ",
+    "sort_name": "יודילוביץ, דוד",
+    "other_designations": "יודלביץ, יודילביץ, יודה-לב-איש, דוד בן יעקב יהודה ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1863",
+      "death_year": "1943"
+    },
+    "bio_snippet": "איש ביל\"ו, מורה וסופר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 431
+  },
+  "texts": {
+    "author": [
+      33127
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

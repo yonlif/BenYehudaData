@@ -1,0 +1,40 @@
+{
+  "id": 1327,
+  "url": "https://benyehuda.org/author/1327",
+  "metadata": {
+    "name": "יעקב בודק",
+    "sort_name": "בודק, יעקב ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1819",
+      "death_year": "1855"
+    },
+    "bio_snippet": "סופר משכיל מגליציה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 582
+  },
+  "texts": {
+    "author": [
+      50042,
+      50045
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": 390,
+  "url": "https://benyehuda.org/author/390",
+  "metadata": {
+    "name": "ברוך קרוא",
+    "sort_name": "קרוא, ברוך",
+    "other_designations": "ברוך קרופניק; ברוך קרא",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1889",
+      "death_year": "1972"
+    },
+    "bio_snippet": "סופר עברי, עיתונאי, עורך, מבקר ומתרגם בתקופת היישוב והמדינה. חתן פרס טשרניחובסקי לתרגומי מופת פעמיים (1952 ו-1959).",
+    "languages": [],
+    "genres": [
+      "article",
+      "memoir",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 2779
+  },
+  "texts": {
+    "author": [],
+    "editor": [
+      34653
+    ],
+    "illustrator": [],
+    "translator": [
+      9607,
+      9608,
+      10868,
+      10870,
+      11014,
+      12284,
+      13636,
+      15079,
+      16644,
+      17237,
+      17461,
+      17794,
+      17988,
+      18530,
+      20308,
+      20310,
+      21438,
+      45891,
+      49248,
+      54032
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

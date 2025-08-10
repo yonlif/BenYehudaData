@@ -1,0 +1,39 @@
+{
+  "id": 2119,
+  "url": "https://benyehuda.org/author/2119",
+  "metadata": {
+    "name": "אנטונין סובה",
+    "sort_name": "סובה, אנטונין ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1864",
+      "death_year": "1928"
+    },
+    "bio_snippet": "משורר צ'כי ומנהל הספרייה הלאומית של פראג",
+    "languages": [
+      "cs"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 142
+  },
+  "texts": {
+    "author": [
+      39823
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

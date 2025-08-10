@@ -1,0 +1,93 @@
+{
+  "id": 59,
+  "url": "https://benyehuda.org/author/59",
+  "metadata": {
+    "name": "ישראל חיים טביוב",
+    "sort_name": "טביוב, ישראל חיים",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1857",
+      "death_year": "1920"
+    },
+    "bio_snippet": "סופר, עיתונאי, מתרגם ומחנך בתקופת התחייה, מחברם של ספרי לימוד בשפה העברית.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "drama",
+      "fables",
+      "memoir",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 511889
+  },
+  "texts": {
+    "author": [
+      199,
+      894,
+      4582,
+      4945,
+      5274,
+      5591,
+      6237,
+      6560,
+      8515,
+      15100,
+      17467,
+      24530,
+      24753,
+      29157,
+      33343,
+      33344,
+      33345,
+      39292,
+      39293,
+      39294,
+      39295,
+      39296,
+      39297,
+      39298,
+      39299,
+      39300,
+      39301,
+      39302,
+      39303,
+      39304,
+      39305,
+      39306,
+      39307,
+      39308,
+      39309,
+      39310,
+      39311,
+      39312,
+      39313,
+      39315,
+      47900
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      4232,
+      5916,
+      6949,
+      8761,
+      10870,
+      31970,
+      34208,
+      34209
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

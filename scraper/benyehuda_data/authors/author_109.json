@@ -1,0 +1,56 @@
+{
+  "id": 109,
+  "url": "https://benyehuda.org/author/109",
+  "metadata": {
+    "name": "שלמה רובין",
+    "sort_name": "רובין, שלמה",
+    "other_designations": "ראָבין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1823",
+      "death_year": "1910"
+    },
+    "bio_snippet": "מראשי תנועת ההשכלה בגליציה, סופר עברי פורה ומתרגם לעברית של ספרי מדע פופולרי רבים, ספרי הגות וספרים קלאסיים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 30636
+  },
+  "texts": {
+    "author": [
+      256,
+      672,
+      1197,
+      1516,
+      2961,
+      4294,
+      4577,
+      4719,
+      8487,
+      10908,
+      15012,
+      31623,
+      40868,
+      53241
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      18379,
+      53251
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

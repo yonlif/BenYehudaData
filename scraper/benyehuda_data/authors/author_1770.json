@@ -1,0 +1,39 @@
+{
+  "id": 1770,
+  "url": "https://benyehuda.org/author/1770",
+  "metadata": {
+    "name": "אנטוני קשבינה",
+    "sort_name": "קשבינה, אנטוני ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "עיתונאי וסופר פולני",
+    "languages": [
+      "pl"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 323
+  },
+  "texts": {
+    "author": [
+      34994
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

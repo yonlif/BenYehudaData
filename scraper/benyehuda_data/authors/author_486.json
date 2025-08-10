@@ -1,0 +1,60 @@
+{
+  "id": 486,
+  "url": "https://benyehuda.org/author/486",
+  "metadata": {
+    "name": "חיים יחיאל בורנשטיין",
+    "sort_name": "בורנשטיין, חיים יחיאל",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1845",
+      "death_year": "1928"
+    },
+    "bio_snippet": "חוקר, תוכן, כרונולוג ומתרגם. עסק בחקר לוח השנה בכלל ולוח השנה העברי בפרט. תרגם את המחזה \"המלט\" לעברית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "drama",
+      "poetry",
+      "reference"
+    ],
+    "impressions_count": 9426
+  },
+  "texts": {
+    "author": [
+      11370,
+      15080,
+      15099,
+      15823,
+      17868,
+      18395,
+      24755,
+      34348,
+      36629,
+      44891,
+      44892
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      15095,
+      18964,
+      24464,
+      24465,
+      24466,
+      24467,
+      24468
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

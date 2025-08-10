@@ -1,0 +1,39 @@
+{
+  "id": 1387,
+  "url": "https://benyehuda.org/author/1387",
+  "metadata": {
+    "name": "מרדכי לנסקי",
+    "sort_name": "לנסקי, מרדכי ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1890",
+      "death_year": "1964"
+    },
+    "bio_snippet": "רופא, סופר, כותב מאמרים וביקורות. פעל גם בגטו ורשה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 3864
+  },
+  "texts": {
+    "author": [
+      32694
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

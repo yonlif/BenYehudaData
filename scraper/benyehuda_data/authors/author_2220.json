@@ -1,0 +1,39 @@
+{
+  "id": 2220,
+  "url": "https://benyehuda.org/author/2220",
+  "metadata": {
+    "name": "יהודה בר מנחם",
+    "sort_name": "בר מנחם, יהודה ",
+    "other_designations": "יהודה בן מנחם",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "מרומא, חי במחצית הראשונה של המא הי\"ב",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 118
+  },
+  "texts": {
+    "author": [
+      38420
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

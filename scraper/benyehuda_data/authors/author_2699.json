@@ -1,0 +1,75 @@
+{
+  "id": 2699,
+  "url": "https://benyehuda.org/author/2699",
+  "metadata": {
+    "name": "בת שבע אלטשולר",
+    "sort_name": "אלטשולר, בת שבע ",
+    "other_designations": "בת־שבע אלטשולר;  בת-שבע אלטשולר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1928",
+      "death_year": "1948"
+    },
+    "bio_snippet": "משוררת, פעילה במחתרת לח\"י שם היה כינויה \"דינה\", נפלה במלחמת העצמאות [ע\"פ אתר \"יזכור]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 2254
+  },
+  "texts": {
+    "author": [
+      52311,
+      52312,
+      52313,
+      52314,
+      52315,
+      52316,
+      52317,
+      52318,
+      52319,
+      52320,
+      52321,
+      52322,
+      52323,
+      52324,
+      52325,
+      52326,
+      52327,
+      52328,
+      52329,
+      52330,
+      52331,
+      52332,
+      52333,
+      52334,
+      52335,
+      52351,
+      52352,
+      52353,
+      52354,
+      54281,
+      54282,
+      54283,
+      54284,
+      54285,
+      54286,
+      54287,
+      54288
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

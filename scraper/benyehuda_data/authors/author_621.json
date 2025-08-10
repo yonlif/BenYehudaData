@@ -1,0 +1,48 @@
+{
+  "id": 621,
+  "url": "https://benyehuda.org/author/621",
+  "metadata": {
+    "name": "יואל משה סלומון",
+    "sort_name": "סלומון, יואל משה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1838",
+      "death_year": "1912"
+    },
+    "bio_snippet": "שד\"ר, עיתונאי, עורך ומדפיס, מפורצי חומות ירושלים וממייסדי פתח תקווה.\r\n\r\n",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 2673
+  },
+  "texts": {
+    "author": [
+      31292,
+      31293,
+      31294,
+      31295,
+      31296,
+      31297,
+      31298,
+      31299,
+      31300,
+      31301
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

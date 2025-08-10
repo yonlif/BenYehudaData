@@ -1,0 +1,39 @@
+{
+  "id": 1916,
+  "url": "https://benyehuda.org/author/1916",
+  "metadata": {
+    "name": "אהרן רוזנפלד",
+    "sort_name": "רוזנפלד, אהרן ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1846",
+      "death_year": "1916"
+    },
+    "bio_snippet": " סופר, משורר ועיתונאי עברי יהודי־רוסי בתקופת התחייה, מורה ורב מטעם הממשלה במשלח ידו",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 275
+  },
+  "texts": {
+    "author": [
+      49638
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

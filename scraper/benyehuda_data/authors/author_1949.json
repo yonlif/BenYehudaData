@@ -1,0 +1,42 @@
+{
+  "id": 1949,
+  "url": "https://benyehuda.org/author/1949",
+  "metadata": {
+    "name": "רחל ינאית בן־צבי",
+    "sort_name": "בן־צבי, רחל ינאית ",
+    "other_designations": "רחל ינאית בן-צבי; רחל ינאית בן צבי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1886",
+      "death_year": "1979"
+    },
+    "bio_snippet": " סופרת ומחנכת, אגרונומית בהשכלתה. מהפעילות המרכזיות של תנועת העבודה, פעילה בהגנה העצמית היהודית ביישוב ואשת ציבור במדינת ישראל. אשתו של איש הציבור, ההיסטוריון ונשיא מדינת ישראל השני, יצחק בן־צבי.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir",
+      "reference"
+    ],
+    "impressions_count": 7314
+  },
+  "texts": {
+    "author": [
+      37455,
+      47043,
+      50572
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

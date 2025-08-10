@@ -1,0 +1,39 @@
+{
+  "id": 2316,
+  "url": "https://benyehuda.org/author/2316",
+  "metadata": {
+    "name": "אברהם יצחק קאשטילו",
+    "sort_name": "קאשטילו, אברהם יצחק ",
+    "other_designations": "אברהם יצחק בן יוסף קאשטילו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1726",
+      "death_year": "1789"
+    },
+    "bio_snippet": "רב, דרשן ומשורר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 105
+  },
+  "texts": {
+    "author": [
+      40788
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

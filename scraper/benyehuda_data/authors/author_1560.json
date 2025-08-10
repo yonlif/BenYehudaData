@@ -1,0 +1,60 @@
+{
+  "id": 1560,
+  "url": "https://benyehuda.org/author/1560",
+  "metadata": {
+    "name": "בנימין הרשב",
+    "sort_name": "הרשב, בנימין ",
+    "other_designations": "בנימין הרושובסקי; בנימין הרשב (הרושובסקי), ה. בנימין, גבי דניאל",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1928",
+      "death_year": "2015"
+    },
+    "bio_snippet": "חוקר ספרות, מומחה לספרות השוואתית, משורר ביידיש (בשם העט ה. בנימין) ובעברית (בשם העט גבי דניאל), מתרגם ועורך ישראלי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "drama",
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 891
+  },
+  "texts": {
+    "author": [
+      54809,
+      54881,
+      56034,
+      56097,
+      56306
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      35543,
+      54882,
+      56096,
+      56098,
+      56099,
+      56100,
+      56101,
+      56102,
+      56103,
+      56104,
+      56105,
+      56106,
+      56307
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

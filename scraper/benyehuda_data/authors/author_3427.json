@@ -1,0 +1,41 @@
+{
+  "id": 3427,
+  "url": "https://benyehuda.org/author/3427",
+  "metadata": {
+    "name": "פרננדו פסואה",
+    "sort_name": "פסואה, פרננדו ",
+    "other_designations": "פרננדו אנטוניו נוגיירה פסואה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1888",
+      "death_year": "1935"
+    },
+    "bio_snippet": "סופר ומשורר, נחשב לגדול המשוררים המודרניים של פורטוגל",
+    "languages": [
+      "pt"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 112
+  },
+  "texts": {
+    "author": [
+      29488,
+      29490,
+      29492
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

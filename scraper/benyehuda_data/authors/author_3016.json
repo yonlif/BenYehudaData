@@ -1,0 +1,39 @@
+{
+  "id": 3016,
+  "url": "https://benyehuda.org/author/3016",
+  "metadata": {
+    "name": "יוסף בונאבנטורה",
+    "sort_name": "בונאבנטורה, יוסף ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1891",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד פיזה שבאיטליה, פרופסור לפסיכולוגיה בפירנצה במשך עשרות שנים. עם עלותו ארצה עמד בראש הקתדרה לפסיכולוגיה באוניברסיטה העברית בירושלים. נפל בשיירת המדענים והרופאים בדרכה להר הצופים. השאיר מחקרים באיטלקית ובעברית [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 113
+  },
+  "texts": {
+    "author": [
+      54863
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 3134,
+  "url": "https://benyehuda.org/author/3134",
+  "metadata": {
+    "name": "אלדד פן",
+    "sort_name": "פן, אלדד ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1928",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד ירושלים, בנו של הצייר אבל פן. השתתף בהגנת הגליל העליון, בקרבות על קיבוץ מעלה החמישה, נווה אילן והקסטל. נפל בכפר עציון. הניח בעזבונו סיפורים, פיליטונים ויומן [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 203
+  },
+  "texts": {
+    "author": [
+      54354,
+      54936
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

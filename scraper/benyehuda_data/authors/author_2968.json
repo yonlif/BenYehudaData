@@ -1,0 +1,40 @@
+{
+  "id": 2968,
+  "url": "https://benyehuda.org/author/2968",
+  "metadata": {
+    "name": "זלדה",
+    "sort_name": "זלדה",
+    "other_designations": "שיינא זלדה שניאורסון־מישקובסקי; שיינא זלדה שניאורסון-מישקובסקי; שיינא זלדה שניאורסון מישקובסקי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1914",
+      "death_year": "1984"
+    },
+    "bio_snippet": "משוררת ישראלית. מחברת השיר \"לכל איש יש שם\"",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 899
+  },
+  "texts": {
+    "author": [
+      54145,
+      54146
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

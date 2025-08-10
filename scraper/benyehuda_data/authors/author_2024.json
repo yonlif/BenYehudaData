@@ -1,0 +1,42 @@
+{
+  "id": 2024,
+  "url": "https://benyehuda.org/author/2024",
+  "metadata": {
+    "name": "משולם בן קלונימוס",
+    "sort_name": "בן קלונימוס, משולם ",
+    "other_designations": "משלם בן קלונימוס; משלם בר קלונימוס; משולם בר קלונימוס; רבנו משולם; משולם הגדול; משולם הרומי; רבנו משלם; משלם הגדול; משלם הרומי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "950",
+      "death_year": "1010"
+    },
+    "bio_snippet": "פוסק בן תקופת הגאונים, פרשן המשנה ופייטן",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 892
+  },
+  "texts": {
+    "author": [
+      38409,
+      41612,
+      41613,
+      41614
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

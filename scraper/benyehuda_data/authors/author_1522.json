@@ -1,0 +1,48 @@
+{
+  "id": 1522,
+  "url": "https://benyehuda.org/author/1522",
+  "metadata": {
+    "name": "מרדכי בן־עמי",
+    "sort_name": "בן־עמי, מרדכי ",
+    "other_designations": "מרדכי בן-עמי, מרדכי בן עמי, בן־עמי (רבינוביץ'),  חיים מרדכי (מארק) רבינוביץ', חיים מרדכי רבינוביץ',  ריש גלותא",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1854",
+      "death_year": "1932"
+    },
+    "bio_snippet": " סופר, עיתונאי ובעל טור ציוני יהודי־רוסי, שכתב בעיקר ברוסית ומעט ביידיש",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1529
+  },
+  "texts": {
+    "author": [
+      33690,
+      47164,
+      47166,
+      47167,
+      48340,
+      48341,
+      48342,
+      50467,
+      50468,
+      50469
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

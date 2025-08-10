@@ -1,0 +1,40 @@
+{
+  "id": 3222,
+  "url": "https://benyehuda.org/author/3222",
+  "metadata": {
+    "name": "דן צלקה",
+    "sort_name": "צלקה, דן ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1936",
+      "death_year": "2005"
+    },
+    "bio_snippet": "סופר, מסאי, משורר ומתרגם ישראלי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 179
+  },
+  "texts": {
+    "author": [
+      56357,
+      58502
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

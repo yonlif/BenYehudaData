@@ -1,0 +1,46 @@
+{
+  "id": 836,
+  "url": "https://benyehuda.org/author/836",
+  "metadata": {
+    "name": "יחיאל לרר",
+    "sort_name": "לרר, יחיאל",
+    "other_designations": "יחיאל לערער",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1910",
+      "death_year": "1943"
+    },
+    "bio_snippet": "משורר יידי, פעיל בפעילות הספרותית בגטו ורשה. נספה במחנה ההשמדה טרבלינקה",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "memoir",
+      "poetry"
+    ],
+    "impressions_count": 1671
+  },
+  "texts": {
+    "author": [
+      24448,
+      24449,
+      24450,
+      24451,
+      31025
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      31026
+    ]
+  }
+}

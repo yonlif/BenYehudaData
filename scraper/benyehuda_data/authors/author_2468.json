@@ -1,0 +1,39 @@
+{
+  "id": 2468,
+  "url": "https://benyehuda.org/author/2468",
+  "metadata": {
+    "name": "פרנסואה רבלה",
+    "sort_name": "רבלה, פרנסואה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1494",
+      "death_year": "1553"
+    },
+    "bio_snippet": " סופר, כומר, רופא ומשפטן, הומניסט ורפורמטור בכל עניין שבו נגע עטו. חי בימיהם של פרנסואה הראשון ואנרי השני, מלכי צרפת בתקופת הרנסאנס הצרפתי, בשינון, אנדר ולואר, צרפת.",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 488
+  },
+  "texts": {
+    "author": [
+      44825
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

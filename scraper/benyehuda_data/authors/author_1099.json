@@ -1,0 +1,60 @@
+{
+  "id": 1099,
+  "url": "https://benyehuda.org/author/1099",
+  "metadata": {
+    "name": "יונה ברקמן",
+    "sort_name": "ברקמן, יונה ",
+    "other_designations": "יונה בערקמאן",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1904",
+      "death_year": "1998"
+    },
+    "bio_snippet": "משורר ומתרגם בשפה היידית",
+    "languages": [],
+    "genres": [
+      "drama",
+      "prose"
+    ],
+    "impressions_count": 96
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      33402,
+      33403,
+      33404,
+      33405,
+      33406,
+      33408,
+      33409,
+      33410,
+      33411,
+      33412,
+      33413,
+      33414,
+      33415,
+      33416,
+      33419,
+      33420,
+      33421,
+      33422,
+      33423,
+      33424,
+      33425,
+      33426,
+      38335
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

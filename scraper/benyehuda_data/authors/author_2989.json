@@ -1,0 +1,46 @@
+{
+  "id": 2989,
+  "url": "https://benyehuda.org/author/2989",
+  "metadata": {
+    "name": "ששון סומך",
+    "sort_name": "סומך, ששון",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1933",
+      "death_year": "2019"
+    },
+    "bio_snippet": "פרופסור בחוג ללימודי הערבית והאסלאם שבאוניברסיטת תל אביב, חתן פרס ישראל בחקר המזרחנות לשנת תשס\"ה 2005 ופרס א.מ.ת למזרחנות לשנת 2008",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 196
+  },
+  "texts": {
+    "author": [
+      56126
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      54154,
+      54156,
+      54812,
+      56127,
+      56128
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

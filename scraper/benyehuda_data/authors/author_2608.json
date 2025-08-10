@@ -1,0 +1,40 @@
+{
+  "id": 2608,
+  "url": "https://benyehuda.org/author/2608",
+  "metadata": {
+    "name": "יהודית הלוי־צוויק",
+    "sort_name": "הלוי־צוויק, יהודית ",
+    "other_designations": "יהודית הלוי-צוויק; יהודית הלוי צוויק",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1923",
+      "death_year": "2012"
+    },
+    "bio_snippet": "חוקרת ספרות ומחנכת ישראלית, פרופסור לספרות באוניברסיטת חיפה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 808
+  },
+  "texts": {
+    "author": [
+      56549,
+      57028
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

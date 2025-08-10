@@ -1,0 +1,45 @@
+{
+  "id": 1756,
+  "url": "https://benyehuda.org/author/1756",
+  "metadata": {
+    "name": "אברהם מאיר הברמן",
+    "sort_name": "הברמן, אברהם מאיר ",
+    "other_designations": "הימן הירושלמי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1901",
+      "death_year": "1980"
+    },
+    "bio_snippet": "משורר ישראלי וחוקר הספרות העברית בימי הביניים; מומחה לחקר השירה והפיוט ולתולדות הספר העברי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 1510
+  },
+  "texts": {
+    "author": [
+      34753,
+      34754,
+      34755,
+      39399,
+      39400,
+      39401,
+      39402
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

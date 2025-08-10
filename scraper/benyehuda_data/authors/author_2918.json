@@ -1,0 +1,39 @@
+{
+  "id": 2918,
+  "url": "https://benyehuda.org/author/2918",
+  "metadata": {
+    "name": "אריה אליאב",
+    "sort_name": "אליאב, אריה ",
+    "other_designations": "לובה אליאב; אריה (לובה) אליאב; בן עמי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1921",
+      "death_year": "2010"
+    },
+    "bio_snippet": "פעיל עלייה, התיישבות ושלום, חבר הכנסת, סופר והוגה דעות, חתן פרס ישראל על תרומה מיוחדת לחברה ולמדינה לשנת תשמ\"ח (1988)",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 683
+  },
+  "texts": {
+    "author": [
+      52801
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

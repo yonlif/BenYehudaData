@@ -1,0 +1,50 @@
+{
+  "id": 622,
+  "url": "https://benyehuda.org/author/622",
+  "metadata": {
+    "name": "אשר ביילין",
+    "sort_name": "ביילין, אשר",
+    "other_designations": "אשר בילין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1881",
+      "death_year": "1948"
+    },
+    "bio_snippet": " סופר, עיתונאי, פובליציסט ומחזאי שכתב בעברית וביידיש. ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "letters",
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 2541
+  },
+  "texts": {
+    "author": [
+      17261,
+      21522,
+      21523,
+      21524,
+      21896,
+      21897,
+      21898
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      32519,
+      44329
+    ]
+  }
+}

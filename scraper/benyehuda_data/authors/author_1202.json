@@ -1,0 +1,37 @@
+{
+  "id": 1202,
+  "url": "https://benyehuda.org/author/1202",
+  "metadata": {
+    "name": "שמואל אייזנשטדט",
+    "sort_name": "אייזנשטדט, שמואל ",
+    "other_designations": "שמואל איזנשטדט; שמואל איזנשטט",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1886",
+      "death_year": "1970"
+    },
+    "bio_snippet": "משפטן והיסטוריון של המשפט, בלשן ומו\"ל",
+    "languages": [],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 650
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      57529
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1411,
+  "url": "https://benyehuda.org/author/1411",
+  "metadata": {
+    "name": "יהודה לואיס ויינברג",
+    "sort_name": "ויינברג, יהודה לואיס ",
+    "other_designations": "יהודה לואיס וינברג",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1877",
+      "death_year": "1960"
+    },
+    "bio_snippet": "עורך־דין, משורר בגרמנית ומתרגם מעברית לגרמנית",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 717
+  },
+  "texts": {
+    "author": [
+      33075
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

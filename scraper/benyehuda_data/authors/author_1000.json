@@ -1,0 +1,39 @@
+{
+  "id": 1000,
+  "url": "https://benyehuda.org/author/1000",
+  "metadata": {
+    "name": "משה באסולה",
+    "sort_name": "באסולה, משה ",
+    "other_designations": "משה בסולה, ר' משה ברבי מרדכי באסולה, הצרפתי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1480",
+      "death_year": "1560"
+    },
+    "bio_snippet": "רב ומקובל. בשנת 1521 סייר בארץ ישראל כשנה חצי, והנציח את רשמיו בספר הקרוי \"ספר המסעות\". הספר הוא מקור עשיר לתיאור ארץ ישראל, אתריה ותושביה באותן שנים, ובמיוחד הקהילה היהודית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 1103
+  },
+  "texts": {
+    "author": [
+      27952
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

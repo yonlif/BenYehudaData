@@ -1,0 +1,41 @@
+{
+  "id": 2944,
+  "url": "https://benyehuda.org/author/2944",
+  "metadata": {
+    "name": "נח טמיר",
+    "sort_name": "טמיר, נח ",
+    "other_designations": "נח זווין; נח זוין",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1889",
+      "death_year": "1986"
+    },
+    "bio_snippet": "מורה, סופר, פובליציסט, מחזאי; ערך חוברות להורים בענייני חינוך",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 333
+  },
+  "texts": {
+    "author": [
+      53695,
+      57636,
+      57638
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 176,
+  "url": "https://benyehuda.org/author/176",
+  "metadata": {
+    "name": "שניאור זלמן חשין",
+    "sort_name": "חשין, שניאור זלמן",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1903",
+      "death_year": "1959"
+    },
+    "bio_snippet": "שופט בית המשפט העליון מיום הקמתו, ולימים ממלא מקום קבוע של נשיא בית המשפט העליון. ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir",
+      "reference"
+    ],
+    "impressions_count": 10726
+  },
+  "texts": {
+    "author": [
+      5725,
+      8581,
+      37610,
+      37611,
+      37612,
+      37613,
+      40926
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

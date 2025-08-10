@@ -1,0 +1,39 @@
+{
+  "id": 996,
+  "url": "https://benyehuda.org/author/996",
+  "metadata": {
+    "name": "ז'אן רסין",
+    "sort_name": "רסין, ז'אן ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1639",
+      "death_year": "1699"
+    },
+    "bio_snippet": "מחזאי צרפתי",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 1690
+  },
+  "texts": {
+    "author": [
+      27908
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

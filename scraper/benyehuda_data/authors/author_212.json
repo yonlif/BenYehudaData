@@ -1,0 +1,39 @@
+{
+  "id": 212,
+  "url": "https://benyehuda.org/author/212",
+  "metadata": {
+    "name": "בחיי אבן פקודה",
+    "sort_name": "פקודה, בחיי אבן",
+    "other_designations": "בחיי אבן בקודה; רבינו בחיי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1050",
+      "death_year": "1120"
+    },
+    "bio_snippet": "רבי בחיי בן יוסף אִבְּן פַּקוּדָה היה דיין, הוגה דעות ופילוסוף יהודי שגדל וחי בעיר סרגוסה שבספרד המוסלמית בתור הזהב של יהדות ספרד, ומחבר הספר תורת חובות הלבבות.",
+    "languages": [
+      "ar"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1457
+  },
+  "texts": {
+    "author": [
+      437
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

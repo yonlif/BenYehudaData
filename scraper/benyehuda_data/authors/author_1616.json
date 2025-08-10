@@ -1,0 +1,47 @@
+{
+  "id": 1616,
+  "url": "https://benyehuda.org/author/1616",
+  "metadata": {
+    "name": "שלמה בונפיד",
+    "sort_name": "בונפיד, שלמה ",
+    "other_designations": "שלמה בן ראובן בונפיד",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "סוף המאה ה־14",
+      "death_year": "1445"
+    },
+    "bio_snippet": "מאחרוני המשוררים העבריים בספרד הנוצרית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 778
+  },
+  "texts": {
+    "author": [
+      34329,
+      34330,
+      34331,
+      34332,
+      34333,
+      34334,
+      34335,
+      34336,
+      34337
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

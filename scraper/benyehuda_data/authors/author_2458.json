@@ -1,0 +1,39 @@
+{
+  "id": 2458,
+  "url": "https://benyehuda.org/author/2458",
+  "metadata": {
+    "name": "שאול גינזבורג",
+    "sort_name": "גינזבורג, שאול ",
+    "other_designations": "שאול מויסייביץ' גינזבורג;  הקורא",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1866",
+      "death_year": "1940"
+    },
+    "bio_snippet": "היסטוריון חשוב וחלוצי של יהדות רוסיה לדורותיה, עורך, עיתונאי ומבקר ספרות, עסקן ציבורי ועורך דין יהודי־רוסי במפנה המאה ה־20. כתב, ואף ערך והוציא לאור מספר כתבי עת ברוסית, ביידיש ובעברית",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 152
+  },
+  "texts": {
+    "author": [
+      55939
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

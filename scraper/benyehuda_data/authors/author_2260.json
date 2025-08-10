@@ -1,0 +1,40 @@
+{
+  "id": 2260,
+  "url": "https://benyehuda.org/author/2260",
+  "metadata": {
+    "name": "משה בן יצחק מריאיטי",
+    "sort_name": "מריאיטי, משה בן יצחק ",
+    "other_designations": "Mosè da Rieti",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1398",
+      "death_year": "1460"
+    },
+    "bio_snippet": "פייטן, נולד בריאטי בשנת 1398, חי בפרוגה בגרני וברומא, מת אחרי שנת 1460",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 155
+  },
+  "texts": {
+    "author": [
+      40737,
+      41707
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

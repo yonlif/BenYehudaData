@@ -1,0 +1,41 @@
+{
+  "id": 890,
+  "url": "https://benyehuda.org/author/890",
+  "metadata": {
+    "name": "תדאוש ז'לינסקי",
+    "sort_name": "ז'לינסקי, תדאוש ",
+    "other_designations": "תדאוש סטפן ז'לינסקי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1859",
+      "death_year": "1944"
+    },
+    "bio_snippet": "פילולוג פולני, היסטוריון ומתרגם יצירות קלאסיות לרוסית",
+    "languages": [
+      "pl"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 7720
+  },
+  "texts": {
+    "author": [
+      25542,
+      30864,
+      30865
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

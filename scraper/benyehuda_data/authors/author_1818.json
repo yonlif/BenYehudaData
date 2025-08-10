@@ -1,0 +1,39 @@
+{
+  "id": 1818,
+  "url": "https://benyehuda.org/author/1818",
+  "metadata": {
+    "name": "דני דידרו",
+    "sort_name": "דידרו, דני ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1713",
+      "death_year": "1784"
+    },
+    "bio_snippet": " סופר ופילוסוף צרפתי, ממבשרי עידן הנאורות בצרפת. מחבר האנציקלופדיה הגדולה - האנציקלופדיה המודרנית הראשונה, יחד עם ד'אלמבר, ז'אן־ז'אק רוסו ווולטייר (שנקראו \"האנציקלופדיסטים\"). נרדף ונכלא בשל דעותיו, שכללו ביקורת נוקבת על החברה ועל המשטר וקריאה לכונן חברה שאינה כפופה לכנסייה, הפועלת על פי ערכי הרציונליזם, ומנוגדת למסורת הדתית של צרפת בזמנו",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 1085
+  },
+  "texts": {
+    "author": [
+      35685
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

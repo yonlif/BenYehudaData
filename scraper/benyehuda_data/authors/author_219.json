@@ -1,0 +1,44 @@
+{
+  "id": 219,
+  "url": "https://benyehuda.org/author/219",
+  "metadata": {
+    "name": "אז'ן סי",
+    "sort_name": "סי, אז'ן",
+    "other_designations": "מארי-ז'וזף סי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1804",
+      "death_year": "1857"
+    },
+    "bio_snippet": "אז'ן סי, כינויו של הסופר הצרפתי מארי-ז'וזף סי, מייסד הספרות הקלה ואבי הרומן בהמשכים, שזכה להיקרא בחייו \"מלך הרומן העממי\", משום היותו הסופר הנקרא ביותר בתקופתו בסיפורת הצרפתית.",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 3196
+  },
+  "texts": {
+    "author": [
+      1798,
+      2119,
+      2746,
+      7660,
+      8627
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": 2838,
+  "url": "https://benyehuda.org/author/2838",
+  "metadata": {
+    "name": "ישראל יהושע זינגר",
+    "sort_name": "זינגר, ישראל יהושע ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1893",
+      "death_year": "1944"
+    },
+    "bio_snippet": "סופר, מחזאי ועיתונאי יידיש",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1087
+  },
+  "texts": {
+    "author": [
+      50774,
+      50775,
+      50949,
+      50950,
+      50951,
+      50952,
+      50953,
+      52244,
+      52245,
+      53694
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

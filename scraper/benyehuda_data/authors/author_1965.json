@@ -1,0 +1,39 @@
+{
+  "id": 1965,
+  "url": "https://benyehuda.org/author/1965",
+  "metadata": {
+    "name": "צפרא רוזנר",
+    "sort_name": "רוזנר, צפרא ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1922",
+      "death_year": "2006"
+    },
+    "bio_snippet": "בת העלייה החמישית, מוותיקי רעננה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 205
+  },
+  "texts": {
+    "author": [
+      37912
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

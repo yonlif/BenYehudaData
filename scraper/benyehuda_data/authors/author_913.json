@@ -1,0 +1,49 @@
+{
+  "id": 913,
+  "url": "https://benyehuda.org/author/913",
+  "metadata": {
+    "name": "דוד רוקח",
+    "sort_name": "רוקח דוד ",
+    "other_designations": "דוד אפוטקר, אפטייקער",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1916",
+      "death_year": "1985"
+    },
+    "bio_snippet": "משורר עברי, מתרגם, חוקר ועורך. את שירתו כתב תחילה בפולנית וביידיש, ואחר כך בעברית. שירתו הלירית הייתה זרה למגמות המרכזיות בשירה העברית. עסק גם ברישום וציור",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1655
+  },
+  "texts": {
+    "author": [
+      25908,
+      25909,
+      25910,
+      25911,
+      25912,
+      25913,
+      25914,
+      25915,
+      25916,
+      25917,
+      25918
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

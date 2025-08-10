@@ -1,0 +1,39 @@
+{
+  "id": 365,
+  "url": "https://benyehuda.org/author/365",
+  "metadata": {
+    "name": "זאב ל' פילד",
+    "sort_name": "פילד, זאב ל'",
+    "other_designations": "Walter L. Field  מבוא",
+    "intellectual_property": "unknown",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 401
+  },
+  "texts": {
+    "author": [
+      7982
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

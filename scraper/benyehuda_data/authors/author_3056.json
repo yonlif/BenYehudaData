@@ -1,0 +1,39 @@
+{
+  "id": 3056,
+  "url": "https://benyehuda.org/author/3056",
+  "metadata": {
+    "name": "משה ישראל הורן",
+    "sort_name": "הורן, משה ישראל ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1915",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד וינה, סטודנט למדעי היהדות באוניברסיטה העברית בירושלים, מורה. נפצע ומת מפצעיו בהגנה על שרפת שליד בית וגן בירושלים. הניח אישה וילד. בעיזבונו נמצאו מחקרים בספרות ובמדעי היהדות [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 138
+  },
+  "texts": {
+    "author": [
+      54846
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

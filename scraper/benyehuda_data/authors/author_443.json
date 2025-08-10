@@ -1,0 +1,47 @@
+{
+  "id": 443,
+  "url": "https://benyehuda.org/author/443",
+  "metadata": {
+    "name": "דמיטרי מרז'קובסקי",
+    "sort_name": "מרז'קובסקי, דמיטרי",
+    "other_designations": "דימיטרי מרז'קובסקי;  דימיטרי סרגיביץ מרז'קובסקי ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1866",
+      "death_year": "1941"
+    },
+    "bio_snippet": "סופר רוסי.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 1410
+  },
+  "texts": {
+    "author": [
+      10918,
+      18665,
+      35058,
+      35059,
+      58705,
+      58706,
+      58716,
+      58717
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

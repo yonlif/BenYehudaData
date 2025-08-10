@@ -1,0 +1,39 @@
+{
+  "id": 3479,
+  "url": "https://benyehuda.org/author/3479",
+  "metadata": {
+    "name": "מאיר בן פינחס קונלסקי",
+    "sort_name": "קונלסקי, מאיר בן פינחס",
+    "other_designations": "מאיר בן פינחס קאנלסקי; מאיר בן פנחס קונלסקי; מאיר בן פנחס קאנלסקי; מאיר בן פינחס קנלסקי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 119
+  },
+  "texts": {
+    "author": [
+      57902
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

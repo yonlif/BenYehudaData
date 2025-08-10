@@ -1,0 +1,39 @@
+{
+  "id": 642,
+  "url": "https://benyehuda.org/author/642",
+  "metadata": {
+    "name": "ציליה דראפקין",
+    "sort_name": "דראפקין, ציליה",
+    "other_designations": "צילה דראפקין; צילה דרפקין; ציליה דרפקין; צילה דרופקין; ציליה דרופקין",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1887",
+      "death_year": "1956"
+    },
+    "bio_snippet": "משוררת יידיש, שכתבה גם ברוסית.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1310
+  },
+  "texts": {
+    "author": [
+      5182
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

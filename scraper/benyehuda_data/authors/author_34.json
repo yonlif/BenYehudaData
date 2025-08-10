@@ -1,0 +1,45 @@
+{
+  "id": 34,
+  "url": "https://benyehuda.org/author/34",
+  "metadata": {
+    "name": "אליהו גולומב",
+    "sort_name": "גולומב, אליהו",
+    "other_designations": "אליהו בן-נפתלי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1893",
+      "death_year": "1945"
+    },
+    "bio_snippet": "המפקד הבלתי מוכתר של ארגון \"ההגנה\", ממעצבי כוח המגן היהודי בארץ ישראל בתקופת המנדט.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 3157
+  },
+  "texts": {
+    "author": [
+      7103,
+      35611
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      11724,
+      28960,
+      43849
+    ]
+  }
+}

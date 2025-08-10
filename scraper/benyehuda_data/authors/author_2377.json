@@ -1,0 +1,93 @@
+{
+  "id": 2377,
+  "url": "https://benyehuda.org/author/2377",
+  "metadata": {
+    "name": "נורית זרחי",
+    "sort_name": "זרחי, נורית",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1941",
+      "death_year": ""
+    },
+    "bio_snippet": "משוררת, פזמונאית, סופרת ועיתונאית ישראלית. כלת פרס ישראל בתחום הספרות והשירה לשנת ה'תשפ\"א (2021)",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 7222
+  },
+  "texts": {
+    "author": [
+      43477,
+      43676,
+      43677,
+      43678,
+      43679,
+      43680,
+      43681,
+      43682,
+      43683,
+      43684,
+      43685,
+      43686,
+      43687,
+      43688,
+      43689,
+      43690,
+      43691,
+      43692,
+      43693,
+      43694,
+      43695,
+      43696,
+      43697,
+      43698,
+      43699,
+      43700,
+      43701,
+      43702,
+      43703,
+      43704,
+      43705,
+      43706,
+      43707,
+      43708,
+      43709,
+      43710,
+      43711,
+      43712,
+      43713,
+      50317,
+      50318,
+      50319,
+      50320,
+      50321,
+      50322,
+      50323,
+      50324,
+      50325,
+      50326,
+      50327,
+      50328
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      29992
+    ]
+  }
+}

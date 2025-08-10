@@ -1,0 +1,43 @@
+{
+  "id": 871,
+  "url": "https://benyehuda.org/author/871",
+  "metadata": {
+    "name": "ברוך קורצווייל",
+    "sort_name": "קורצווייל, ברוך",
+    "other_designations": "בנדיקט קורצווייל",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1907",
+      "death_year": "1972"
+    },
+    "bio_snippet": "חוקר ספרות ושירה ישראלי, שנודע במיוחד במחקריו על כתבי ש\"י עגנון. כתב גם ספרי הגות. קיבל את פרס ביאליק לספרות",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 3076
+  },
+  "texts": {
+    "author": [
+      25251,
+      54976,
+      54977,
+      54978
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

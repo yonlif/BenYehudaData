@@ -1,0 +1,68 @@
+{
+  "id": 197,
+  "url": "https://benyehuda.org/author/197",
+  "metadata": {
+    "name": "דונש בן לברט",
+    "sort_name": "בן לברט, דונש ",
+    "other_designations": "דונש הלוי בן לברט; אדונים הלוי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "920",
+      "death_year": "990"
+    },
+    "bio_snippet": "פרשן, משורר ומדקדק יהודי ספרדי, בתקופת תור הזהב של יהדות ספרד",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 13983
+  },
+  "texts": {
+    "author": [
+      321,
+      327,
+      352,
+      30054,
+      30079,
+      30080,
+      30081,
+      30082,
+      30083,
+      30084,
+      30091,
+      36833,
+      36838,
+      36839,
+      36840,
+      36841,
+      36842,
+      36843,
+      36844,
+      36845,
+      36846,
+      36847,
+      36848,
+      36849,
+      36850,
+      36851,
+      36852,
+      36853,
+      44162,
+      44248
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

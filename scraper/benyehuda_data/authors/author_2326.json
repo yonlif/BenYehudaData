@@ -1,0 +1,39 @@
+{
+  "id": 2326,
+  "url": "https://benyehuda.org/author/2326",
+  "metadata": {
+    "name": "אברהם ברוך פיפרנו",
+    "sort_name": "פיפרנו, אברהם ברוך ",
+    "other_designations": "אברהם ברוך פיפירנו; אברהם ברוך בן משה רפאל פיפירנו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1800",
+      "death_year": "1863"
+    },
+    "bio_snippet": "רב ומשורר מליוורנו",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 217
+  },
+  "texts": {
+    "author": [
+      40803
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "id": 202,
+  "url": "https://benyehuda.org/author/202",
+  "metadata": {
+    "name": "יוסף אבן אביתור",
+    "sort_name": "אביתור, יוסף אבן",
+    "other_designations": "יוסף בן יצחק בן שטנאת בן אביתור",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "900",
+      "death_year": "970"
+    },
+    "bio_snippet": "היה חכם ומשורר יהודי-ספרדי, מראשוני משוררי יהדות ספרד.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 3146
+  },
+  "texts": {
+    "author": [
+      320,
+      322,
+      329,
+      354,
+      28954,
+      30838,
+      42228
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

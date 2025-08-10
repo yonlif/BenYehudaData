@@ -1,0 +1,39 @@
+{
+  "id": 3467,
+  "url": "https://benyehuda.org/author/3467",
+  "metadata": {
+    "name": "הנרי קיילר באנר",
+    "sort_name": "באנר, הנרי קיילר ",
+    "other_designations": "הנרי קיילר בנר; הנרי קוילר באנר; ה. באנר; ה. ק. באנר; ה\"ק באנר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1855",
+      "death_year": "1896"
+    },
+    "bio_snippet": "סופר, עיתונאי ומשורר אמריקאי",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 2
+  },
+  "texts": {
+    "author": [
+      19297
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

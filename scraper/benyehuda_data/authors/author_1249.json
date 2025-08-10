@@ -1,0 +1,86 @@
+{
+  "id": 1249,
+  "url": "https://benyehuda.org/author/1249",
+  "metadata": {
+    "name": "יחיאל חבשוש",
+    "sort_name": "חבשוש, יחיאל ",
+    "other_designations": "יחיאל בן אהרן",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1911",
+      "death_year": "2002"
+    },
+    "bio_snippet": "סוחר ופעיל בענייני ציבור ופילנטרופיה, סופר, משורר וחוקר יהדות תימן",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 3673
+  },
+  "texts": {
+    "author": [
+      38047,
+      38048,
+      38049,
+      38050,
+      38051,
+      38052,
+      38053,
+      38054,
+      38055,
+      38056,
+      38057,
+      38058,
+      38059,
+      38060,
+      38061,
+      38062,
+      51073,
+      51257,
+      51258,
+      51259,
+      51260,
+      51261,
+      51262,
+      51263,
+      51264,
+      51265,
+      51266,
+      51267,
+      51268,
+      51269,
+      51270,
+      51504,
+      51505,
+      51506,
+      51507,
+      51508,
+      51509,
+      51510,
+      51511,
+      51512,
+      51717,
+      51718,
+      51719,
+      51720,
+      51721,
+      51722,
+      51723
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

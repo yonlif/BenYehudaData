@@ -1,0 +1,39 @@
+{
+  "id": 730,
+  "url": "https://benyehuda.org/author/730",
+  "metadata": {
+    "name": "ביירנסטרנה ביירנסון",
+    "sort_name": "ביירנסון, ביירנסטרנה",
+    "other_designations": "בְּיֶרְנְסְטְיֶרְנֶה מרטינוס בְּיֶרְנְסוֹן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1832",
+      "death_year": "1910"
+    },
+    "bio_snippet": "משורר, מחזאי וסופר נורווגי, זוכה פרס נובל לספרות לשנת 1903.",
+    "languages": [
+      "no"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 925
+  },
+  "texts": {
+    "author": [
+      20918
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2007,
+  "url": "https://benyehuda.org/author/2007",
+  "metadata": {
+    "name": "אברהם אליהו הרכבי",
+    "sort_name": "הרכבי, אברהם אליהו",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1835",
+      "death_year": "1919"
+    },
+    "bio_snippet": "היסטוריון ומזרחן, ביבליוגרף וספרן יהודי רוסי. פרסם מחקרים על תקופת הגאונים, הקראות",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 319
+  },
+  "texts": {
+    "author": [
+      43496
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2120,
+  "url": "https://benyehuda.org/author/2120",
+  "metadata": {
+    "name": "ג'יימס סטיבנס",
+    "sort_name": "סטיבנס, ג'יימס ",
+    "other_designations": "ג'מס סטיפנס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1880",
+      "death_year": "1950"
+    },
+    "bio_snippet": "סופר ומשורר אירי",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 163
+  },
+  "texts": {
+    "author": [
+      39822
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

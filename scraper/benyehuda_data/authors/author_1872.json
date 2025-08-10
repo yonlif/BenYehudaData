@@ -1,0 +1,55 @@
+{
+  "id": 1872,
+  "url": "https://benyehuda.org/author/1872",
+  "metadata": {
+    "name": "עמנואל פרנשיס",
+    "sort_name": "פרנשיס,  עמנואל ",
+    "other_designations": " עמנואל פראנשיס;  עמנואל בן דוד פרנשיס; Immanuel Frances",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1618",
+      "death_year": "1710"
+    },
+    "bio_snippet": "משורר יהודי איטלקי, הושפע מהשירה האיטלקית והספרדית. גם אחיו יעקב היה משורר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama",
+      "poetry"
+    ],
+    "impressions_count": 1044
+  },
+  "texts": {
+    "author": [
+      38064,
+      40768,
+      42057,
+      42058,
+      42059,
+      42060,
+      42061,
+      42073,
+      42074,
+      42075,
+      42097,
+      42098,
+      42099,
+      42100,
+      42101,
+      42102
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "id": 653,
+  "url": "https://benyehuda.org/author/653",
+  "metadata": {
+    "name": "פייר לוטי",
+    "sort_name": "לוטי, פייר",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1850",
+      "death_year": "1923"
+    },
+    "bio_snippet": "קצין וסופר צרפתי.",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1660
+  },
+  "texts": {
+    "author": [
+      18632,
+      28123
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

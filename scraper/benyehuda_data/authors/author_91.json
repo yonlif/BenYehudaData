@@ -1,0 +1,56 @@
+{
+  "id": 91,
+  "url": "https://benyehuda.org/author/91",
+  "metadata": {
+    "name": "יהושע ברזילי",
+    "sort_name": "ברזילי, יהושע ",
+    "other_designations": "יהושע ברזלי; יהושע ברזילי אייזנשטט; יהושע ברזלי אייזנשטט; יהושע בן מאיר משה ברזלי; כמהם הגלעדי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1855",
+      "death_year": "1918"
+    },
+    "bio_snippet": "סופר ופעיל ציוני.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama",
+      "memoir",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 5133
+  },
+  "texts": {
+    "author": [
+      2054,
+      2368,
+      2682,
+      2992,
+      3319,
+      3636,
+      3958,
+      4272,
+      4598,
+      4971,
+      5296,
+      50571
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      864,
+      42868
+    ]
+  }
+}

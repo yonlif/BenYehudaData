@@ -1,0 +1,90 @@
+{
+  "id": 1097,
+  "url": "https://benyehuda.org/author/1097",
+  "metadata": {
+    "name": "זאב ליבנה",
+    "sort_name": "ליבנה, זאב ",
+    "other_designations": "וולף לייב בן הלל לרמן, זאב לבנה",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1896",
+      "death_year": "1991"
+    },
+    "bio_snippet": "סופר ומורה, כתב ספרי לימוד רבים בדקדוק ובנושאי טבע. כתב גם ביידיש",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 2550
+  },
+  "texts": {
+    "author": [
+      33351,
+      33352,
+      33353,
+      33354,
+      33355,
+      33356,
+      33357,
+      33377,
+      33378,
+      33379,
+      33380,
+      33381,
+      33382,
+      33383,
+      33386,
+      33387,
+      33388,
+      33393,
+      33394,
+      33395,
+      33396,
+      33397,
+      33398,
+      33399
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      33401,
+      33402,
+      33403,
+      33404,
+      33405,
+      33406,
+      33407,
+      33408,
+      33409,
+      33410,
+      33411,
+      33412,
+      33413,
+      33414,
+      33415,
+      33416,
+      33419,
+      33420,
+      33421,
+      33422,
+      33423,
+      33424,
+      33425,
+      33426,
+      38335
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

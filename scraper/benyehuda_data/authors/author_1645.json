@@ -1,0 +1,40 @@
+{
+  "id": 1645,
+  "url": "https://benyehuda.org/author/1645",
+  "metadata": {
+    "name": "זינאידה גיפּיוס",
+    "sort_name": "גיפיוס, זינאידה ",
+    "other_designations": "זינאידה גיפיוס; זינאידה ניקולייבנה גיפּיוס; זינאידה ניקולייבנה היפּיוס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1869",
+      "death_year": "1945"
+    },
+    "bio_snippet": "משוררת, מחזאית, סופרת, עורכת והוגת דעות דתית רוסית, מחשובות הזרם הסימבוליסטי",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 311
+  },
+  "texts": {
+    "author": [
+      35071,
+      35072
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

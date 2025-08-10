@@ -1,0 +1,56 @@
+{
+  "id": 2264,
+  "url": "https://benyehuda.org/author/2264",
+  "metadata": {
+    "name": "אברהם חיים אלחנני",
+    "sort_name": "אלחנני, אברהם חיים ",
+    "other_designations": "איש יהודה; א. אלחנן; אברהם; א.ח.א.",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1909",
+      "death_year": "2009"
+    },
+    "bio_snippet": "עיתונאי וסופר עברי ירושלמי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 1363
+  },
+  "texts": {
+    "author": [
+      41821,
+      58623,
+      58624,
+      58625,
+      58626,
+      58627,
+      58628,
+      58629,
+      58630,
+      58631,
+      58632,
+      58633,
+      58634,
+      58635,
+      58636,
+      58637,
+      58638
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": 808,
+  "url": "https://benyehuda.org/author/808",
+  "metadata": {
+    "name": "חיים הרצוג",
+    "sort_name": "הרצוג, חיים",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1918",
+      "death_year": "1997"
+    },
+    "bio_snippet": "איש צבא, פוליטיקאי, עורך דין וסופר ישראלי שכיהן כנשיאהּ השישי של מדינת ישראל בשנים 1983–1993. בין תפקידיו היה שגריר ישראל באו\"ם, אלוף בצה\"ל וחבר כנסת",
+    "languages": [
+      "he",
+      "en"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 35672
+  },
+  "texts": {
+    "author": [
+      23769,
+      28326,
+      30652,
+      30660,
+      30693,
+      30694,
+      30695,
+      30696,
+      30697,
+      30698,
+      30699,
+      30700,
+      30701,
+      30702,
+      30703,
+      30704,
+      30705,
+      30706,
+      30707,
+      30810
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

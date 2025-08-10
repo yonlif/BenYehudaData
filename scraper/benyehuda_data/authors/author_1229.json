@@ -1,0 +1,39 @@
+{
+  "id": 1229,
+  "url": "https://benyehuda.org/author/1229",
+  "metadata": {
+    "name": "שלמה אראל ",
+    "sort_name": "אראל, שלמה ",
+    "other_designations": "ארליך",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1916",
+      "death_year": "1996"
+    },
+    "bio_snippet": "שליח במדינות צפון אמריקה ודרומה, עובד משרד הביטחון",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 1153
+  },
+  "texts": {
+    "author": [
+      30690
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

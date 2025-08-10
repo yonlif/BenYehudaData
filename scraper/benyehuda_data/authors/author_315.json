@@ -1,0 +1,39 @@
+{
+  "id": 315,
+  "url": "https://benyehuda.org/author/315",
+  "metadata": {
+    "name": "אפרים קישון",
+    "sort_name": "קישון, אפרים",
+    "other_designations": "פֶרֶנץ הופמן ",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1924",
+      "death_year": "2005"
+    },
+    "bio_snippet": "אפרים קישון היה סופר, סאטיריקן, מחזאי, תסריטאי ובמאי קולנוע ותיאטרון ישראלי, חתן פרס ישראל. ",
+    "languages": [
+      "hu"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 11813
+  },
+  "texts": {
+    "author": [
+      5412
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

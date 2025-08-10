@@ -1,0 +1,40 @@
+{
+  "id": 112,
+  "url": "https://benyehuda.org/author/112",
+  "metadata": {
+    "name": "יהודה אפל",
+    "sort_name": "אפל, יהודה",
+    "other_designations": "יהודה לֶיְבּ אֶפֶל ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1857",
+      "death_year": "1934"
+    },
+    "bio_snippet": "עיתונאי עברי ופעיל ציוני, מראשוני תנועת חיבת ציון בווילנה. ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 5818
+  },
+  "texts": {
+    "author": [
+      656,
+      1183
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

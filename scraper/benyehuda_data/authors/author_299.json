@@ -1,0 +1,39 @@
+{
+  "id": 299,
+  "url": "https://benyehuda.org/author/299",
+  "metadata": {
+    "name": "אנני בוק",
+    "sort_name": "בוק, אנני",
+    "other_designations": "נוימן הופר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1867",
+      "death_year": "1944"
+    },
+    "bio_snippet": "סופרת, מתרגמת, ופסנתרנית גרמנית.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 547
+  },
+  "texts": {
+    "author": [
+      4371
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

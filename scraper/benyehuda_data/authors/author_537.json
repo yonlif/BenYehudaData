@@ -1,0 +1,39 @@
+{
+  "id": 537,
+  "url": "https://benyehuda.org/author/537",
+  "metadata": {
+    "name": "טיטוס ליוויוס",
+    "sort_name": "ליוויוס, טיטוס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "59 לפנה\"ס",
+      "death_year": "17"
+    },
+    "bio_snippet": "היה היסטוריון רומאי מהבולטים של תור הזהב בתרבות הרומאית.",
+    "languages": [
+      "la"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 350
+  },
+  "texts": {
+    "author": [
+      18053
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

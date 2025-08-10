@@ -1,0 +1,39 @@
+{
+  "id": 3004,
+  "url": "https://benyehuda.org/author/3004",
+  "metadata": {
+    "name": "אבי אלטמן",
+    "sort_name": "אלטמן, אבי ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1923",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד וינה. נפל בקרב על קבוצת גזר, הניח אישה וילד [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 123
+  },
+  "texts": {
+    "author": [
+      54419
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

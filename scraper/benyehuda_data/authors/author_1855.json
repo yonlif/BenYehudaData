@@ -1,0 +1,39 @@
+{
+  "id": 1855,
+  "url": "https://benyehuda.org/author/1855",
+  "metadata": {
+    "name": "אהרן חכימאן",
+    "sort_name": "חכימאן, אהרן ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "חי במחצית הראשונה של המאה ה־14",
+      "death_year": ""
+    },
+    "bio_snippet": "פייטן, חי בבגדד במחצית הראשונה של המאה ה־14",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 200
+  },
+  "texts": {
+    "author": [
+      37888
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

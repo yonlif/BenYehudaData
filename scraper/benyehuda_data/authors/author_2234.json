@@ -1,0 +1,39 @@
+{
+  "id": 2234,
+  "url": "https://benyehuda.org/author/2234",
+  "metadata": {
+    "name": "משה בן יוסף",
+    "sort_name": "בן יוסף, משה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "מרומא, חי באמצע המאה הי\"ג",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 109
+  },
+  "texts": {
+    "author": [
+      38431
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

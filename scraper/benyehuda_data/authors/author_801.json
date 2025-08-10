@@ -1,0 +1,45 @@
+{
+  "id": 801,
+  "url": "https://benyehuda.org/author/801",
+  "metadata": {
+    "name": "שטפן צווייג",
+    "sort_name": "צווייג, שטפן",
+    "other_designations": "סטפן צווייג; צוויג; צוייג; צויג",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1881",
+      "death_year": "1942"
+    },
+    "bio_snippet": "סופר יהודי־אוסטרי",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "drama",
+      "reference"
+    ],
+    "impressions_count": 8525
+  },
+  "texts": {
+    "author": [
+      23588,
+      31538,
+      32508
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      32788,
+      32790
+    ]
+  }
+}

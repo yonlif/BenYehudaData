@@ -1,0 +1,53 @@
+{
+  "id": 409,
+  "url": "https://benyehuda.org/author/409",
+  "metadata": {
+    "name": "חיים מיכל מיכלין",
+    "sort_name": "מיכלין, חיים מיכל",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1867",
+      "death_year": "1937"
+    },
+    "bio_snippet": "עסקן ציבורי ופעיל בבניית שכונות בירושלים ויישוב ארץ ישראל.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "letters",
+      "memoir"
+    ],
+    "impressions_count": 6217
+  },
+  "texts": {
+    "author": [
+      16423,
+      16424,
+      16425,
+      16426,
+      16427,
+      16428,
+      16429,
+      16430,
+      16431,
+      16432,
+      16433,
+      16434,
+      16435
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

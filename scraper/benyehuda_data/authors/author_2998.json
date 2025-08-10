@@ -1,0 +1,44 @@
+{
+  "id": 2998,
+  "url": "https://benyehuda.org/author/2998",
+  "metadata": {
+    "name": "דוד וינפלד",
+    "sort_name": "וינפלד, דוד",
+    "other_designations": "דוד ויינפלד; דויד וינפלד; דויד ויינפלד",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1937",
+      "death_year": ""
+    },
+    "bio_snippet": "חוקר ספרות, מתרגם, מבקר, מסאי ועורך ספרותי ישראלי, חתן פרס עקביהו לשנת 2011 פרס טשרניחובסקי לתרגום לשנת 2018.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 243
+  },
+  "texts": {
+    "author": [
+      54731,
+      54813
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      54158,
+      56408
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 2328,
+  "url": "https://benyehuda.org/author/2328",
+  "metadata": {
+    "name": "זיוה שמיר",
+    "sort_name": "שמיר, זיוה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1946",
+      "death_year": ""
+    },
+    "bio_snippet": "פרופסור אמריטה לספרות עברית באוניברסיטת תל אביב",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 5670
+  },
+  "texts": {
+    "author": [
+      43494,
+      44183,
+      45925,
+      50567,
+      52104,
+      52105,
+      52106,
+      52107,
+      52108,
+      52115,
+      52116,
+      52121,
+      52122,
+      52123,
+      52124,
+      54169
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

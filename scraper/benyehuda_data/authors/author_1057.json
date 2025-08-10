@@ -1,0 +1,43 @@
+{
+  "id": 1057,
+  "url": "https://benyehuda.org/author/1057",
+  "metadata": {
+    "name": "יצחק פרליס",
+    "sort_name": "פרליס, יצחק ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1910",
+      "death_year": "1983"
+    },
+    "bio_snippet": "חוקר תקופת השואה, מורה ומנהל בית ספר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 5491
+  },
+  "texts": {
+    "author": [
+      29110,
+      29445,
+      50348,
+      55913
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

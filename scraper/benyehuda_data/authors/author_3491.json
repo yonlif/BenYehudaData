@@ -1,0 +1,40 @@
+{
+  "id": 3491,
+  "url": "https://benyehuda.org/author/3491",
+  "metadata": {
+    "name": "חיים הלל בן־ששון",
+    "sort_name": "בן־ששון, חיים הלל ",
+    "other_designations": "חיים הלל בן ששון; חיים הלל בן-ששון",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1914",
+      "death_year": "1977"
+    },
+    "bio_snippet": "היסטוריון ישראלי, פרופסור בחוג להיסטוריה של עם ישראל באוניברסיטה העברית בירושלים. תחום התמחותו הוא תולדות היהודים בימי הביניים, ובנוסף, סוגיות בתולדות היהודים בארץ ישראל בעת החדשה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 123
+  },
+  "texts": {
+    "author": [
+      57988,
+      58006
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

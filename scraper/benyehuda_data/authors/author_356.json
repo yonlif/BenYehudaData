@@ -1,0 +1,39 @@
+{
+  "id": 356,
+  "url": "https://benyehuda.org/author/356",
+  "metadata": {
+    "name": "לאה גרפינקל",
+    "sort_name": "גרפינקל, לאה",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1948",
+      "death_year": ""
+    },
+    "bio_snippet": "חוקרת ספרות יידיש ישראלית. ",
+    "languages": [],
+    "genres": [
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 361
+  },
+  "texts": {
+    "author": [],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      7500,
+      47635
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

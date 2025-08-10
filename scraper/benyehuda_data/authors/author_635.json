@@ -1,0 +1,49 @@
+{
+  "id": 635,
+  "url": "https://benyehuda.org/author/635",
+  "metadata": {
+    "name": "יוסף אגסי",
+    "sort_name": "אגסי, יוסף",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1927",
+      "death_year": "2023"
+    },
+    "bio_snippet": " פילוסוף ישראלי, היה פרופסור בחוג לפילוסופיה של אוניברסיטת תל אביב.\r\n\r\nתרם אקדמית בעיקר בתחומי הלוגיקה, השיטה המדעית והפילוסופיה של המדע, ועסק גם בשאלות חברה ולאום.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 14154
+  },
+  "texts": {
+    "author": [
+      17468,
+      17481,
+      17610,
+      17869,
+      18534,
+      24698,
+      35437,
+      35438,
+      35439,
+      38580
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

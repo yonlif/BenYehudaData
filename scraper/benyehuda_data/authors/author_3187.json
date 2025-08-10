@@ -1,0 +1,51 @@
+{
+  "id": 3187,
+  "url": "https://benyehuda.org/author/3187",
+  "metadata": {
+    "name": "אורי צבי גרינברג",
+    "sort_name": "גרינברג, אורי צבי ",
+    "other_designations": "אצ\"ג; אורי צבי טור מלכא",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1896",
+      "death_year": "1981"
+    },
+    "bio_snippet": "משורר, סופר ועיתונאי ישראלי, מגדולי המשוררים האקספרסיוניסטים בשירה העברית בכל הזמנים, חבר הכנסת הראשונה מטעם סיעת חרות. חתן פרס ישראל לספרות יפה (1957) וזוכה שלושה פרסי ביאליק לספרות יפה (1947, 1954, 1977)",
+    "languages": [
+      "he",
+      "yi"
+    ],
+    "genres": [
+      "article",
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 1594
+  },
+  "texts": {
+    "author": [
+      54814,
+      54815,
+      56096,
+      56100,
+      56101,
+      56102,
+      56103,
+      56104,
+      56105,
+      56106
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

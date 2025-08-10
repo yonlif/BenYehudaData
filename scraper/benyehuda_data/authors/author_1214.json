@@ -1,0 +1,73 @@
+{
+  "id": 1214,
+  "url": "https://benyehuda.org/author/1214",
+  "metadata": {
+    "name": "יהודה בורלא",
+    "sort_name": "בורלא, יהודה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1886",
+      "death_year": "1969"
+    },
+    "bio_snippet": "סופר ישראלי, זוכה פרס ישראל",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 6981
+  },
+  "texts": {
+    "author": [
+      32473,
+      32674,
+      32825,
+      32988,
+      33166,
+      33479,
+      39996,
+      56896,
+      56909,
+      56910,
+      57092,
+      57095,
+      57096,
+      57097,
+      57098,
+      57101,
+      57102,
+      57594,
+      57974,
+      57976,
+      57977,
+      58062,
+      58099,
+      58265,
+      58485,
+      58486,
+      58487,
+      58488,
+      58512,
+      58591,
+      58715,
+      58838
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      35715,
+      49023
+    ]
+  }
+}

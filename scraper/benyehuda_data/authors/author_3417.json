@@ -1,0 +1,53 @@
+{
+  "id": 3417,
+  "url": "https://benyehuda.org/author/3417",
+  "metadata": {
+    "name": "שמעון זנדבנק",
+    "sort_name": "זנדבנק, שמעון ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1933",
+      "death_year": ""
+    },
+    "bio_snippet": "מתרגם מאנגלית ומגרמנית וחוקר ספרות ישראלי, חתן פרס ישראל לתרגום שירה תשנ\"ו (1996). פרופסור אמריטוס בחוג לספרות כללית והשוואתית באוניברסיטה העברית וחבר האקדמיה ללשון העברית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "poetry"
+    ],
+    "impressions_count": 241
+  },
+  "texts": {
+    "author": [
+      57232,
+      57665
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      57233,
+      57234,
+      57235,
+      57236,
+      57237,
+      57666,
+      57667,
+      57668,
+      57669,
+      57670,
+      58505
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

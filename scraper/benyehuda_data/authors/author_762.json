@@ -1,0 +1,39 @@
+{
+  "id": 762,
+  "url": "https://benyehuda.org/author/762",
+  "metadata": {
+    "name": "זוסמן סגלוביץ'",
+    "sort_name": "סגלוביץ', זוסמן",
+    "other_designations": "זוסמאן סעגאלאוויטש",
+    "intellectual_property": "unknown",
+    "person": {
+      "gender": "unknown",
+      "period": "revival",
+      "birth_year": "1884",
+      "death_year": "1949"
+    },
+    "bio_snippet": "סופר ומשורר יידי.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 1227
+  },
+  "texts": {
+    "author": [
+      22505
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

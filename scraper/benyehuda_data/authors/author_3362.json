@@ -1,0 +1,39 @@
+{
+  "id": 3362,
+  "url": "https://benyehuda.org/author/3362",
+  "metadata": {
+    "name": "אריה אופיר",
+    "sort_name": "אופיר, אריה ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1904",
+      "death_year": "1995"
+    },
+    "bio_snippet": "חבר קיבוץ אפיקים, מתעד קורות הקיבוץ [על פי דף מידע קיבוץ אפיקים]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 99
+  },
+  "texts": {
+    "author": [
+      56926
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

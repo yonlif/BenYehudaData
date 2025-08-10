@@ -1,0 +1,52 @@
+{
+  "id": 1463,
+  "url": "https://benyehuda.org/author/1463",
+  "metadata": {
+    "name": "יוסי בן יוסי",
+    "sort_name": "יוסי בן יוסי",
+    "other_designations": "היתום, כהן גדול",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "ancient",
+      "birth_year": "פעל במאה הרביעית או החמישית",
+      "death_year": ""
+    },
+    "bio_snippet": "פייטן יהודי שפעל בתקופה הקדם־קלאסית של הפיוט, ומשוער כי פעילותו היתה במאה הרביעית או החמישית.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 4048
+  },
+  "texts": {
+    "author": [
+      33320,
+      33321,
+      33322,
+      33928,
+      33929,
+      33930,
+      33933,
+      33934,
+      33935,
+      33936,
+      34203,
+      34204,
+      34205,
+      34206
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

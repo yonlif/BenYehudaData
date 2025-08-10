@@ -1,0 +1,41 @@
+{
+  "id": 652,
+  "url": "https://benyehuda.org/author/652",
+  "metadata": {
+    "name": "אלעזר שולמן",
+    "sort_name": "שולמן, אלעזר",
+    "other_designations": "אלעזר שולמאן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1837",
+      "death_year": "1904"
+    },
+    "bio_snippet": "סופר עברי של סיפורים קצרים, עיתונאי וחוקר יידיש [ע\"פ yivoencyclopedia]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 6022
+  },
+  "texts": {
+    "author": [
+      18607,
+      44553
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

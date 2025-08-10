@@ -1,0 +1,48 @@
+{
+  "id": 6,
+  "url": "https://benyehuda.org/author/6",
+  "metadata": {
+    "name": "אברהם מאפו",
+    "sort_name": "מאפו, אברהם",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1808",
+      "death_year": "1867"
+    },
+    "bio_snippet": "סופר עברי בן תנועת ההשכלה, אשר ספריו שימשו כבסיס רעיוני לתנועת הציונות; מחבר הרומן הראשון בשפה העברית – אהבת ציון. ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "letters",
+      "prose"
+    ],
+    "impressions_count": 31480
+  },
+  "texts": {
+    "author": [
+      957,
+      1432,
+      1729,
+      2043,
+      2358,
+      2671
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      31314,
+      41049
+    ]
+  }
+}

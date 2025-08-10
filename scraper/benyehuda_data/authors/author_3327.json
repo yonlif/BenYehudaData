@@ -1,0 +1,39 @@
+{
+  "id": 3327,
+  "url": "https://benyehuda.org/author/3327",
+  "metadata": {
+    "name": "גלעד ורקר",
+    "sort_name": "ורקר, גלעד ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1999",
+      "death_year": ""
+    },
+    "bio_snippet": "סטודנט ללימודים הומניסטיים, אסלאם ומזרח תיכון במרכז האקדמי שלם בירושלים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 112
+  },
+  "texts": {
+    "author": [
+      56597
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

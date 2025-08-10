@@ -1,0 +1,39 @@
+{
+  "id": 1016,
+  "url": "https://benyehuda.org/author/1016",
+  "metadata": {
+    "name": "יוסף מייזל",
+    "sort_name": "מייזל, יוסף ",
+    "other_designations": "יוסף מיזל",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1882",
+      "death_year": "1958"
+    },
+    "bio_snippet": "ארכיונאי והיסטוריון",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 3224
+  },
+  "texts": {
+    "author": [
+      28175
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 354,
+  "url": "https://benyehuda.org/author/354",
+  "metadata": {
+    "name": "רייצע בת מרדכי חן טוב",
+    "sort_name": "טוב, רייצע בת מרדכי חן",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "",
+      "death_year": "1906"
+    },
+    "bio_snippet": "הייתה אחת משלוש נשים ביישוב הישן שהוציאו לאור בשלהי המאה התשע־עשרה קונטרסים.",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 789
+  },
+  "texts": {
+    "author": [
+      8749
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

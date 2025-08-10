@@ -1,0 +1,39 @@
+{
+  "id": 2810,
+  "url": "https://benyehuda.org/author/2810",
+  "metadata": {
+    "name": "אירווינג ברלין",
+    "sort_name": "ברלין, אירווינג ",
+    "other_designations": "ישראל ביילין",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1888",
+      "death_year": "1989"
+    },
+    "bio_snippet": " פזמונאי ומלחין יהודי אמריקאי, יליד האימפריה הרוסית, כותב פורה שרבים מהשירים שכתב והלחין למחזות זמר הפכו לנכסי צאן ברזל של התרבות הפופולרית האמריקאית",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 77
+  },
+  "texts": {
+    "author": [
+      12557
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "id": 1003,
+  "url": "https://benyehuda.org/author/1003",
+  "metadata": {
+    "name": "ישראל שף",
+    "sort_name": "שף, ישראל ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1865",
+      "death_year": "1938"
+    },
+    "bio_snippet": "סופר ילדים ומתרגם",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 1181
+  },
+  "texts": {
+    "author": [
+      28131
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      28045,
+      53715
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

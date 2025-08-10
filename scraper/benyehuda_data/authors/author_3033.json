@@ -1,0 +1,41 @@
+{
+  "id": 3033,
+  "url": "https://benyehuda.org/author/3033",
+  "metadata": {
+    "name": "סבו גולנד",
+    "sort_name": "גולנד, סבו ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1928",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד תל אביב, מגיל צעיר כתב שירים, סיפורים ודברי הגות. למד ספרות עברית וערבית והיסטוריה באוניברסיטה העברית בירושלים. במלחמת העצמאות הצטרף לקבוצת הסטודנטים המגויסים ונפל בקבוצת הל\"ה שיצאה לעזרת הגוש עציון הנצור [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 192
+  },
+  "texts": {
+    "author": [
+      54289,
+      54290,
+      54291
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

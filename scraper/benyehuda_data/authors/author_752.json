@@ -1,0 +1,67 @@
+{
+  "id": 752,
+  "url": "https://benyehuda.org/author/752",
+  "metadata": {
+    "name": "דוד שחם",
+    "sort_name": "שחם, דוד",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1923",
+      "death_year": "2012"
+    },
+    "bio_snippet": "סופר, מתרגם, פובליציסט, עורך כתבי עת ואנציקלופדיות ועסקן פוליטי, בנו של אליעזר שטיינמן ואחיו של נתן שחם.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 12826
+  },
+  "texts": {
+    "author": [
+      21838,
+      21839,
+      21840,
+      21841,
+      21842,
+      21843,
+      21844,
+      21852,
+      21853,
+      21854,
+      21855,
+      21856,
+      21857,
+      21858,
+      21863,
+      21864,
+      21865,
+      21866,
+      21867,
+      30821,
+      31407,
+      31470,
+      33342,
+      33349,
+      33517,
+      33586,
+      34013,
+      34014,
+      34210
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

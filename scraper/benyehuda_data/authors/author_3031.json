@@ -1,0 +1,39 @@
+{
+  "id": 3031,
+  "url": "https://benyehuda.org/author/3031",
+  "metadata": {
+    "name": "אפרים גובר",
+    "sort_name": "גובר, אפרים ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1927",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד רחובות. שירת בבריגדה, ולחם באיטליה ובארצות השפלה. גורש לקפריסין עם מעפילים שסייע בהעלאתם הבלתי לגלית ארצה. נפל במלחמת העצמאות בהגנה על טירת שלום נגד כוחות עירקיים. קטעים מיומנו וממכתביו פורסמו ב\"ספר האחים\". לזכר שני האחים שנפלו (אפרים וצבי) נקרא מושב עולים סמוך \"כפר אחים\" [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 144
+  },
+  "texts": {
+    "author": [
+      54938
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

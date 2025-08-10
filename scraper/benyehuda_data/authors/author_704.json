@@ -1,0 +1,40 @@
+{
+  "id": 704,
+  "url": "https://benyehuda.org/author/704",
+  "metadata": {
+    "name": "פרנסואה קופה",
+    "sort_name": "קופה, פרנסואה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1842",
+      "death_year": "1905"
+    },
+    "bio_snippet": "משורר, מחזאי וסופר צרפתי.",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 87
+  },
+  "texts": {
+    "author": [
+      19509,
+      19510
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

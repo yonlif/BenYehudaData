@@ -1,0 +1,46 @@
+{
+  "id": 754,
+  "url": "https://benyehuda.org/author/754",
+  "metadata": {
+    "name": "לוין קיפניס",
+    "sort_name": "קיפניס, לוין",
+    "other_designations": "אבי-שי; ל' אביטל; יגאל ספרא; קל ",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1890",
+      "death_year": "1990"
+    },
+    "bio_snippet": "סופר ומשורר ילדים ישראלי, שכתב בעיקר בעברית וכן ביידיש, חתן פרס ישראל לספרות ילדים (1978).",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 3343
+  },
+  "texts": {
+    "author": [
+      21769,
+      25241,
+      27902,
+      57635,
+      57640
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      16421
+    ]
+  }
+}

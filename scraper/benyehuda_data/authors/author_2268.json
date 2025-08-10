@@ -1,0 +1,39 @@
+{
+  "id": 2268,
+  "url": "https://benyehuda.org/author/2268",
+  "metadata": {
+    "name": "בנימין בן יואב מן הכנסת",
+    "sort_name": "מן הכנסת, בנימין בן יואב ",
+    "other_designations": "בנימין ממונטלצ'ינו; Guglielmo da Montalcino",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "1487"
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 98
+  },
+  "texts": {
+    "author": [
+      40740
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

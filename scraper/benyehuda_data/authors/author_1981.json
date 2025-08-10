@@ -1,0 +1,55 @@
+{
+  "id": 1981,
+  "url": "https://benyehuda.org/author/1981",
+  "metadata": {
+    "name": "מרדכי רבינזון ",
+    "sort_name": "רבינזון, מרדכי ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1877",
+      "death_year": "1953"
+    },
+    "bio_snippet": "מחבר מאמרים, רשימות ומסות על סופרים וספרים, מתרגם",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 1479
+  },
+  "texts": {
+    "author": [
+      41621,
+      41622,
+      41667,
+      41668,
+      41728,
+      41729,
+      41730,
+      41731,
+      41732,
+      41733,
+      44084,
+      44092,
+      47921,
+      47922
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      58866
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

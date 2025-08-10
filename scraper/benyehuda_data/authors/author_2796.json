@@ -1,0 +1,39 @@
+{
+  "id": 2796,
+  "url": "https://benyehuda.org/author/2796",
+  "metadata": {
+    "name": "אברהם ויסוצקי",
+    "sort_name": "ויסוצקי, אברהם ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1883",
+      "death_year": "1949"
+    },
+    "bio_snippet": "רופא שיניים, סופר בשפה הרוסית ומחבר מאמרים מדעיים בתחום עיסוקו, יליד אוקראינה [ע\"פ האנציקלופדיה של חלוצי הישוב ובוניו / דוד תדהר]",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 548
+  },
+  "texts": {
+    "author": [
+      50013
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

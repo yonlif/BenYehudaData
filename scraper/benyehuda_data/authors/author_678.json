@@ -1,0 +1,40 @@
+{
+  "id": 678,
+  "url": "https://benyehuda.org/author/678",
+  "metadata": {
+    "name": "דניס דוידוב",
+    "sort_name": "דוידוב, דניס",
+    "other_designations": "דניס דבידוב; דניס דודוב; דניס דווידוב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1784",
+      "death_year": "1839"
+    },
+    "bio_snippet": "חייל ומשורר רוסי.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "fables"
+    ],
+    "impressions_count": 77
+  },
+  "texts": {
+    "author": [
+      19237,
+      19238
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

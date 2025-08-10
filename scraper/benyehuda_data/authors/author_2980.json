@@ -1,0 +1,39 @@
+{
+  "id": 2980,
+  "url": "https://benyehuda.org/author/2980",
+  "metadata": {
+    "name": "ישראל הר",
+    "sort_name": "הר, ישראל ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1932",
+      "death_year": "2019"
+    },
+    "bio_snippet": "משורר ועורך ישראלי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 136
+  },
+  "texts": {
+    "author": [
+      54157
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

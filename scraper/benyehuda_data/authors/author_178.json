@@ -1,0 +1,63 @@
+{
+  "id": 178,
+  "url": "https://benyehuda.org/author/178",
+  "metadata": {
+    "name": "בן אביגדור",
+    "sort_name": "אביגדור, בן",
+    "other_designations": "אברהם ליב שַלקוביץ; בן־אביגדור; בן-אביגדור",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1866",
+      "death_year": "1921"
+    },
+    "bio_snippet": "שם העט של אברהם ליב שַלקוביץ, סופר עברי, סופר ילדים, עורך וחלוץ המו\"לות העברית המודרנית במזרח אירופה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 13336
+  },
+  "texts": {
+    "author": [
+      467,
+      905,
+      1369,
+      1671,
+      1985,
+      2304,
+      2614,
+      2932,
+      3250,
+      3575,
+      3678,
+      4219,
+      7693,
+      8010,
+      8336,
+      8660,
+      10869,
+      20309,
+      24668,
+      24669,
+      24672,
+      24673,
+      24674
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

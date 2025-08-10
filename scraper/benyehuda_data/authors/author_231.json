@@ -1,0 +1,79 @@
+{
+  "id": 231,
+  "url": "https://benyehuda.org/author/231",
+  "metadata": {
+    "name": "מקס נורדאו",
+    "sort_name": "נורדאו, מקס",
+    "other_designations": "מכס נורדאו",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1849",
+      "death_year": "1923"
+    },
+    "bio_snippet": "היה הוגה דעות, נואם וסופר, רופא, יהודי יליד הונגריה, ממייסדי התנועה הציונית, הוגה חזון \"יהדות השרירים\".",
+    "languages": [
+      "de",
+      "hu"
+    ],
+    "genres": [
+      "article",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 17788
+  },
+  "texts": {
+    "author": [
+      904,
+      1239,
+      1367,
+      1792,
+      1961,
+      2020,
+      2171,
+      2307,
+      2609,
+      2736,
+      2911,
+      3118,
+      3750,
+      3952,
+      4866,
+      4939,
+      5100,
+      5720,
+      5726,
+      6042,
+      6192,
+      6323,
+      6385,
+      6389,
+      6449,
+      6574,
+      7176,
+      7216,
+      7668,
+      7880,
+      8182,
+      19494,
+      19495,
+      45254
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      2397,
+      7667,
+      11738
+    ]
+  }
+}

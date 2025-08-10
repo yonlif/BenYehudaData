@@ -1,0 +1,39 @@
+{
+  "id": 2950,
+  "url": "https://benyehuda.org/author/2950",
+  "metadata": {
+    "name": "מרים נווינסקא",
+    "sort_name": "נווינסקא, מרים ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "משוררת מתקופת ההשכלה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 117
+  },
+  "texts": {
+    "author": [
+      53636
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

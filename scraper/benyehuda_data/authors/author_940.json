@@ -1,0 +1,39 @@
+{
+  "id": 940,
+  "url": "https://benyehuda.org/author/940",
+  "metadata": {
+    "name": "דוד בן חסין",
+    "sort_name": "בן חסין, דוד ",
+    "other_designations": "דוד בן אהרון בן חסין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1727",
+      "death_year": "1792"
+    },
+    "bio_snippet": "מגדולי המשוררים והפייטנים של יהודי מרוקו. התפרנס מעבודה כסופר סת\"ם. השתמש בשירתו בכל רובדי הלשון העברית ובעיקר לשון המקרא ולשון חז\"ל, ושירתו הושפעה גם מן הקבלה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 521
+  },
+  "texts": {
+    "author": [
+      38063
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

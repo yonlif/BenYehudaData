@@ -1,0 +1,39 @@
+{
+  "id": 2288,
+  "url": "https://benyehuda.org/author/2288",
+  "metadata": {
+    "name": "יוסף ידידיה קרמי",
+    "sort_name": "קרמי, יוסף ידידיה ",
+    "other_designations": "יוסף ידידיה בן בנימין יקותיאל קרמי; Josef Carmi",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1580",
+      "death_year": "המחצ"
+    },
+    "bio_snippet": " רב מקובל ופייטן בן יהדות איטליה, נודע בעיקר בשל סידור התפילה שלו \"כנף רננים\"",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 125
+  },
+  "texts": {
+    "author": [
+      40759
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

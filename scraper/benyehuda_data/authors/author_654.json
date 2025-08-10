@@ -1,0 +1,39 @@
+{
+  "id": 654,
+  "url": "https://benyehuda.org/author/654",
+  "metadata": {
+    "name": "בונים הלר",
+    "sort_name": "הלר, בונים",
+    "other_designations": "בינם הלר; בינעם הלר; בונים העלער; בינעם העלער; בינם העלער",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1908",
+      "death_year": "1998"
+    },
+    "bio_snippet": "משורר יידי יהודי פולני, מן הבולטים במשוררי היידיש בגוש הסובייטי. מ-1957 התגורר בישראל.",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 3955
+  },
+  "texts": {
+    "author": [
+      18633
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

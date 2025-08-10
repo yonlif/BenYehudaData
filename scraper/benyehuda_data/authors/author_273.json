@@ -1,0 +1,47 @@
+{
+  "id": 273,
+  "url": "https://benyehuda.org/author/273",
+  "metadata": {
+    "name": "תאופיל גוטייה",
+    "sort_name": "גוטייה, תאופיל",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1811",
+      "death_year": "1872"
+    },
+    "bio_snippet": "משורר, סופר ומבקר אמנות צרפתי.",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 3354
+  },
+  "texts": {
+    "author": [
+      2424,
+      9189,
+      9190,
+      9191,
+      9192,
+      9193,
+      9194,
+      9195
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

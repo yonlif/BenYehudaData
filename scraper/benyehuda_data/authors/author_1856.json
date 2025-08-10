@@ -1,0 +1,39 @@
+{
+  "id": 1856,
+  "url": "https://benyehuda.org/author/1856",
+  "metadata": {
+    "name": "שלמה בן מזל טוב",
+    "sort_name": "בן מזל טוב, שלמה ",
+    "other_designations": "שלמה בר מזל טוב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "1545"
+    },
+    "bio_snippet": "פייטן, בן הדור הראשון לאחר גירוש ספרד, חי ופעל בקושטא",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 195
+  },
+  "texts": {
+    "author": [
+      37952
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

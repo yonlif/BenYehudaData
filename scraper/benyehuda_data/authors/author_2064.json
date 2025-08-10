@@ -1,0 +1,39 @@
+{
+  "id": 2064,
+  "url": "https://benyehuda.org/author/2064",
+  "metadata": {
+    "name": "ש\"י איש הורוויץ",
+    "sort_name": "איש הורוויץ, ש\"י ",
+    "other_designations": "ש\"י איש הורביץ; שאול ישראל הורוויץ; ש\"י איש־הורוויץ; ש\"י איש־הורביץ; ש\"י הורביץ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1861",
+      "death_year": "1922"
+    },
+    "bio_snippet": "פובליציסט, היסטוריון, מו\"ל, הוגה דעות ופעיל עברי וציוני; עורך כתב העת 'העתיד'",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 236
+  },
+  "texts": {
+    "author": [
+      55745
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

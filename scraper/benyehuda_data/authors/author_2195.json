@@ -1,0 +1,88 @@
+{
+  "id": 2195,
+  "url": "https://benyehuda.org/author/2195",
+  "metadata": {
+    "name": "נסים מצליח",
+    "sort_name": "מצליח, נסים",
+    "other_designations": "ניסים מצליח",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "לא ידוע",
+      "death_year": "1816"
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 3261
+  },
+  "texts": {
+    "author": [
+      41424,
+      41425,
+      41426,
+      41427,
+      41428,
+      41429,
+      41430,
+      41431,
+      41432,
+      41433,
+      41478,
+      41479,
+      41480,
+      41481,
+      41482,
+      41483,
+      41484,
+      41485,
+      41486,
+      41487,
+      41488,
+      41489,
+      41490,
+      41491,
+      41492,
+      41493,
+      41494,
+      41495,
+      41496,
+      41497,
+      41498,
+      41499,
+      41500,
+      41501,
+      41502,
+      41581,
+      41582,
+      41583,
+      41584,
+      41585,
+      41586,
+      41587,
+      41588,
+      41589,
+      41590,
+      41661,
+      41662,
+      41663,
+      41664,
+      41665
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

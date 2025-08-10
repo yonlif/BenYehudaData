@@ -1,0 +1,64 @@
+{
+  "id": 2163,
+  "url": "https://benyehuda.org/author/2163",
+  "metadata": {
+    "name": "מיכל איבנסקי ",
+    "sort_name": "איבנסקי, מיכל",
+    "other_designations": "מיכאל איבנסקי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1880",
+      "death_year": "1954"
+    },
+    "bio_snippet": "עיתונאי בעיתונות היידית והעברית בארצות־הברית בענייני תנועת הפועלים [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 3134
+  },
+  "texts": {
+    "author": [
+      53638,
+      53639,
+      53640,
+      53641,
+      53642,
+      53643,
+      53644,
+      53645,
+      53931,
+      53932,
+      53933,
+      53934,
+      53963,
+      53964,
+      53965,
+      53966,
+      53967,
+      53968,
+      54834,
+      54835,
+      54836,
+      54837,
+      54962,
+      54963,
+      54964,
+      54965
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

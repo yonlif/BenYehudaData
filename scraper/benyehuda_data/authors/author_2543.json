@@ -1,0 +1,39 @@
+{
+  "id": 2543,
+  "url": "https://benyehuda.org/author/2543",
+  "metadata": {
+    "name": "יונה אליהו ויזנר",
+    "sort_name": "ויזנר, יונה אליהו ",
+    "other_designations": "יונה יוליוס ויזנר; יונס יוליוס ויזנר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1814",
+      "death_year": "1889"
+    },
+    "bio_snippet": "רב, חוקר תלמוד ומחבר מאמרים על הגאוגרפיה ההיסטורית של ארץ ישראל [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 272
+  },
+  "texts": {
+    "author": [
+      46106
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

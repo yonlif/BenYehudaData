@@ -1,0 +1,39 @@
+{
+  "id": 1445,
+  "url": "https://benyehuda.org/author/1445",
+  "metadata": {
+    "name": "אברהם חזן גירונדי",
+    "sort_name": "גירונדי, אברהם חזן ",
+    "other_designations": "אברהם החזן גירונדי, אברהם בן יצחק חזן גירונדי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 473
+  },
+  "texts": {
+    "author": [
+      33286
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

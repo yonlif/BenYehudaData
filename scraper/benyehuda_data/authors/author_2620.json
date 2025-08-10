@@ -1,0 +1,39 @@
+{
+  "id": 2620,
+  "url": "https://benyehuda.org/author/2620",
+  "metadata": {
+    "name": "מיכאל דודזון ",
+    "sort_name": "דודזון , מיכאל ",
+    "other_designations": "מיכאל דוידזון",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1950",
+      "death_year": ""
+    },
+    "bio_snippet": " פסיכיאטר ישראלי, פרופסור אמריטוס לפסיכיאטריה בבית הספר לרפואה ע\"ש סאקלר של אוניברסיטת תל אביב ופרופסור לפסיכיאטריה בפקולטה לרפואה שליד בית החולים מאונט סיני בניו יורק. כיום הוא מכהן גם כן כפרופסור וראש קתדרה לפסיכיאטריה בבבית הספר לרפואה של אוניברסיטת ניקוסיה בקפריסין. דודזון התפרסם במיוחד בעקבות מחקריו בתחום הפסיכופרמקולוגיה, הנוירוכימיה והביולוגיה המולקולרית של מחלת אלצהיימר וסכיזופרניה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 108
+  },
+  "texts": {
+    "author": [
+      47230
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

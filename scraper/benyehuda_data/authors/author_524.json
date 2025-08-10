@@ -1,0 +1,41 @@
+{
+  "id": 524,
+  "url": "https://benyehuda.org/author/524",
+  "metadata": {
+    "name": "אליעזר ברוצקוס",
+    "sort_name": "ברוצקוס, אליעזר",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1907",
+      "death_year": "1987"
+    },
+    "bio_snippet": "מתכנן ערים ומהנדס ישראלי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 1417
+  },
+  "texts": {
+    "author": [
+      12633,
+      56493
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

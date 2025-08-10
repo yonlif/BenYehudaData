@@ -1,0 +1,39 @@
+{
+  "id": 3287,
+  "url": "https://benyehuda.org/author/3287",
+  "metadata": {
+    "name": "חגית קופפר צ'רקה",
+    "sort_name": "קופפר צ'רקה, חגית ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "משוררת ומורה לספרות וללשון עברי [על־פי משיב הרוח]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 130
+  },
+  "texts": {
+    "author": [
+      56596
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

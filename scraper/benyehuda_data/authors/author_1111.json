@@ -1,0 +1,43 @@
+{
+  "id": 1111,
+  "url": "https://benyehuda.org/author/1111",
+  "metadata": {
+    "name": "אדולף קוהוט",
+    "sort_name": "קוהוט, אדולף ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1848",
+      "death_year": "1917"
+    },
+    "bio_snippet": "עיתונאי גרמני־הונגרי, היסטוריון של ספרות ותרבות, ביוגרף, קריין ומתרגם",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 1022
+  },
+  "texts": {
+    "author": [
+      29160,
+      29161,
+      29162,
+      29163,
+      48599
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

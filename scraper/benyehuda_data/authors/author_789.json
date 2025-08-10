@@ -1,0 +1,39 @@
+{
+  "id": 789,
+  "url": "https://benyehuda.org/author/789",
+  "metadata": {
+    "name": "י. י. סיגל ",
+    "sort_name": "סיגל, י. י.",
+    "other_designations": "י. י. סיגאל; יעקב יצחק סיגל",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1896",
+      "death_year": "1954"
+    },
+    "bio_snippet": "משורר יידי, עורך ומבקר קנדי ממוצא אוקראיני",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 94
+  },
+  "texts": {
+    "author": [
+      57856
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

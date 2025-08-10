@@ -1,0 +1,39 @@
+{
+  "id": 2021,
+  "url": "https://benyehuda.org/author/2021",
+  "metadata": {
+    "name": "דוד בן הונא",
+    "sort_name": "בן הונא, דוד ",
+    "other_designations": "דוד בר־הונא; דוד בר-הונא",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "פייטן בן המאה העשירית, כנראה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 117
+  },
+  "texts": {
+    "author": [
+      38406
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

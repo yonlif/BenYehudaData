@@ -1,0 +1,53 @@
+{
+  "id": 900,
+  "url": "https://benyehuda.org/author/900",
+  "metadata": {
+    "name": "שלמה ניצן",
+    "sort_name": "ניצן, שלמה",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1921",
+      "death_year": "2006"
+    },
+    "bio_snippet": "סופר עברי, מתרגם ועורך. זוכה פרס ראש הממשלה לסופרים עבריים על שם לוי אשכול ופרס ברנר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 5529
+  },
+  "texts": {
+    "author": [
+      25661,
+      25662,
+      25663,
+      26117,
+      26118,
+      26119,
+      31150,
+      49203,
+      57106,
+      57107,
+      57131,
+      57132,
+      57133
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      26120
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 863,
+  "url": "https://benyehuda.org/author/863",
+  "metadata": {
+    "name": "אברהם משה דילון",
+    "sort_name": "דילון, אברהם משה ",
+    "other_designations": "אברהם משה זוחוביצקי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1883",
+      "death_year": "1934"
+    },
+    "bio_snippet": "משורר יידי, מזוהה עם התנועה האימפרסיוניסטית בניו יורק של כותבי יידיש, \"די יונגע\"",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 599
+  },
+  "texts": {
+    "author": [
+      24739,
+      24740,
+      24741
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

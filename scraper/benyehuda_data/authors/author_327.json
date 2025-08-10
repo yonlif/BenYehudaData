@@ -1,0 +1,54 @@
+{
+  "id": 327,
+  "url": "https://benyehuda.org/author/327",
+  "metadata": {
+    "name": "שלמה אנ־סקי",
+    "sort_name": "אנ־סקי, שלמה",
+    "other_designations": "ש. אנ-סקי; שלמה זיינביל רפופורט; שלמה זיינויל ראפופורט; ש. אנסקי; שלמה אנסקי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1863",
+      "death_year": "1920"
+    },
+    "bio_snippet": "סופר, משורר ומחזאי ביידיש וברוסית, מחבר המחזה הנודע \"הדיבוק\", פולקלוריסט יהודי וסוציאליסט פעיל. ",
+    "languages": [
+      "ru",
+      "yi"
+    ],
+    "genres": [
+      "drama",
+      "letters",
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 19762
+  },
+  "texts": {
+    "author": [
+      3755,
+      3780,
+      6598,
+      7062,
+      7901,
+      8142,
+      17109,
+      31515,
+      40950
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      6614,
+      31479
+    ]
+  }
+}

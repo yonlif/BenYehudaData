@@ -1,0 +1,51 @@
+{
+  "id": 3007,
+  "url": "https://benyehuda.org/author/3007",
+  "metadata": {
+    "name": "ברוך אמון",
+    "sort_name": "אמון, ברוך ",
+    "other_designations": "ברוך רובינשטיין; ברוך בובי אמון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1927",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד ארצות הברית, סטודנט בפקולטה במדעי הרוח באוניברסיטה העברית בירושלים. נפל בכיבוש משלט חירבת־אבו־לחם. כתב שירה [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 627
+  },
+  "texts": {
+    "author": [
+      54525,
+      54526,
+      54527,
+      54528,
+      54529,
+      54530,
+      54531,
+      54532,
+      54533,
+      54534,
+      54535,
+      54536,
+      54537
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": 7,
+  "url": "https://benyehuda.org/author/7",
+  "metadata": {
+    "name": "אהרן דוד מרקסון",
+    "sort_name": "מרקסון, אהרן דוד",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1885",
+      "death_year": "1932"
+    },
+    "bio_snippet": "מחנך, מתרגם וסופר יהודי אמריקאי ממוצא ליטאי.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "letters",
+      "memoir",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 4595
+  },
+  "texts": {
+    "author": [
+      231,
+      668,
+      1495,
+      1793,
+      3245,
+      3309,
+      3340,
+      7177,
+      7824,
+      8145,
+      8465,
+      45610,
+      45611,
+      45612,
+      45613,
+      45614,
+      45615
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      1169,
+      3274,
+      6848
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

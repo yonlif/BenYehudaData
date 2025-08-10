@@ -1,0 +1,39 @@
+{
+  "id": 3186,
+  "url": "https://benyehuda.org/author/3186",
+  "metadata": {
+    "name": "אילה ברש־הכהן",
+    "sort_name": "ברש־הכהן, אילה ",
+    "other_designations": "אילה ברש הכהן; אילה ברש-הכהן",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1917",
+      "death_year": "2007"
+    },
+    "bio_snippet": "בתו של אשר ברש",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 173
+  },
+  "texts": {
+    "author": [
+      54814
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

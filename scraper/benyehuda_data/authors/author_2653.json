@@ -1,0 +1,39 @@
+{
+  "id": 2653,
+  "url": "https://benyehuda.org/author/2653",
+  "metadata": {
+    "name": "אלן־פורנייה",
+    "sort_name": "אלן־פורנייה",
+    "other_designations": "אלן-פורנייה; אלן פורנייה; אנרי־אלבאן פורנייה; אנרי-אלבאן פורנייה; אנרי אלבאן פורנייה; אנרי־אלבאן פורנייה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1886",
+      "death_year": "1914"
+    },
+    "bio_snippet": " סופר צרפתי",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 437
+  },
+  "texts": {
+    "author": [
+      47623
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

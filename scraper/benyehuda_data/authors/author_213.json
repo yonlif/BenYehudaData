@@ -1,0 +1,39 @@
+{
+  "id": 213,
+  "url": "https://benyehuda.org/author/213",
+  "metadata": {
+    "name": "אוהב בן מאיר הנשיא",
+    "sort_name": "הנשיא, אוהב בן מאיר",
+    "other_designations": "אבן שורטמקש (Ibn Shortmeqas)",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "המ",
+      "death_year": ""
+    },
+    "bio_snippet": "אוהב בן מאיר הנשיא (המאה האחת עשרי- המאה השתים עשרי) , שמשורר דת מספרד. ישנה אי-ודאות בקשר לזהותו של רבי אוהב בן מאיר הנשיא. שמו הערבי, אבן שורטמקש (Ibn Shortmeqas), נזכר אמנם בספרו של אברהם אבן דאוד, \"ספר הקבלה\", אבל באותו ספר כותב המחבר על אודות רבי יוסף הנשיא בן מהג'ר (Mahagar). שלושה מפיוטיו של אוהב התפרסמו בקונסטנטינופול (1585) ודקלמו אותם בסיציליה. פיוט אחר שלו נמצא בגניזה בקהיר.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 407
+  },
+  "texts": {
+    "author": [
+      366
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

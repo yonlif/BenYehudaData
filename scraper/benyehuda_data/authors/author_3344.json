@@ -1,0 +1,43 @@
+{
+  "id": 3344,
+  "url": "https://benyehuda.org/author/3344",
+  "metadata": {
+    "name": "ישראל בר־כוכב",
+    "sort_name": "בר כוכב, ישראל",
+    "other_designations": "ישראל בר כוכב; ישראל בר-כוכב; ישראל ברקובסקי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1950",
+      "death_year": "2021"
+    },
+    "bio_snippet": "משורר ומרצה ישראלי. ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 514
+  },
+  "texts": {
+    "author": [
+      56448,
+      56449,
+      57731,
+      57732,
+      57733
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

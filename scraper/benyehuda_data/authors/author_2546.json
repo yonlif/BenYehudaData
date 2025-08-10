@@ -1,0 +1,39 @@
+{
+  "id": 2546,
+  "url": "https://benyehuda.org/author/2546",
+  "metadata": {
+    "name": "הנריק איבסן",
+    "sort_name": "איבסן, הנריק ",
+    "other_designations": "הנריק יוהאן איבסן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1828",
+      "death_year": "1906"
+    },
+    "bio_snippet": "מחזאי נורווגי רב השפעה, האחראי במידה רבה להופעתה של הדרמה הריאליסטית המודרנית",
+    "languages": [
+      "no"
+    ],
+    "genres": [
+      "drama"
+    ],
+    "impressions_count": 1611
+  },
+  "texts": {
+    "author": [
+      45890
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

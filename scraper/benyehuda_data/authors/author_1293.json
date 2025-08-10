@@ -1,0 +1,41 @@
+{
+  "id": 1293,
+  "url": "https://benyehuda.org/author/1293",
+  "metadata": {
+    "name": "משה יצחק וולך ",
+    "sort_name": "וולך, משה יצחק ",
+    "other_designations": "ולך, משה יצחק בן אליעזר יהודה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1870",
+      "death_year": "1952"
+    },
+    "bio_snippet": "מורה, סוחר, פעיל ציוני, סופר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "fables"
+    ],
+    "impressions_count": 1128
+  },
+  "texts": {
+    "author": [
+      38304,
+      38309,
+      40593
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

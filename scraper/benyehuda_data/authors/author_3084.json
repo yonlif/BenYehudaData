@@ -1,0 +1,39 @@
+{
+  "id": 3084,
+  "url": "https://benyehuda.org/author/3084",
+  "metadata": {
+    "name": "יעקב כהן",
+    "sort_name": "כהן, יעקב ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1924",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד ברלין, סטודנט באוניברסיטה העברית בירושלים. במלחמת העצמאות השתתף בפעולות קומנדו ובליווי שיירות. נפל במחלקת הל\"ה שיצאה לעזור לגוש עציון הנצור [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 114
+  },
+  "texts": {
+    "author": [
+      55014
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

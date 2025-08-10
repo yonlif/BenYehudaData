@@ -1,0 +1,39 @@
+{
+  "id": 1930,
+  "url": "https://benyehuda.org/author/1930",
+  "metadata": {
+    "name": "מרדכי בן מאיר קלמנס",
+    "sort_name": "קלמנס, מרדכי בן מאיר ",
+    "other_designations": "מרדכי בן מאיר בןיצחק קלמנס; מרדכי בן מאיר בןיצחק קלמנס מלובלין; מרדכי מאיר קלמנס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "המאה ה־18",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר מגליציה, פעל במאה ה־18",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 146
+  },
+  "texts": {
+    "author": [
+      37903
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

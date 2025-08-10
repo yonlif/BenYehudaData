@@ -1,0 +1,39 @@
+{
+  "id": 97,
+  "url": "https://benyehuda.org/author/97",
+  "metadata": {
+    "name": "מנחם מנדל איילבום",
+    "sort_name": "איילבום, מנחם מנדל",
+    "other_designations": "אילבוים, איילבוים",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1812",
+      "death_year": "1880"
+    },
+    "bio_snippet": "מזכיר הכוללים בצפת, מחבר ביקורות על ה\"חלוקה\" [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "letters"
+    ],
+    "impressions_count": 3139
+  },
+  "texts": {
+    "author": [
+      8164
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

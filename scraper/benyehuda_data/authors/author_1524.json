@@ -1,0 +1,74 @@
+{
+  "id": 1524,
+  "url": "https://benyehuda.org/author/1524",
+  "metadata": {
+    "name": "טודרוס בן יהודה אבולעפיה",
+    "sort_name": "אבולעפיה, טודרוס בן יהודה ",
+    "other_designations": "טדרוס בן יהודה אבולעפיה, טדרוס בן יהודה אבו אל עאפיה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1247",
+      "death_year": "1306"
+    },
+    "bio_snippet": " משורר עברי מספרד הנוצרית בימי הביניים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 5964
+  },
+  "texts": {
+    "author": [
+      33652,
+      33653,
+      33654,
+      33655,
+      33656,
+      33657,
+      33658,
+      33659,
+      33660,
+      33661,
+      33662,
+      33663,
+      33664,
+      33665,
+      33666,
+      33667,
+      33668,
+      33669,
+      33670,
+      33671,
+      33672,
+      33673,
+      33674,
+      33675,
+      33676,
+      33677,
+      33678,
+      33679,
+      33680,
+      33681,
+      33682,
+      33683,
+      33684,
+      33685,
+      33686,
+      33687
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": 367,
+  "url": "https://benyehuda.org/author/367",
+  "metadata": {
+    "name": "ג'ורג' אליוט",
+    "sort_name": "אליוט, ג'ורג'",
+    "other_designations": "מרי אן אוונס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1819",
+      "death_year": "1880"
+    },
+    "bio_snippet": "ג'ורג' אליוט הוא שם העט של הסופרת הבריטית מרי אן אוונס. אליוט נולדה בחווה ליד נאניטון שבמחוז ווריקשייר, וכתבה על החיים בעיירות השדה ברבות מיצירותיה. היא השתמשה בשם-עט גברי, לדבריה, כדי להבטיח יחס רציני ליצירותיה",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 5385
+  },
+  "texts": {
+    "author": [
+      8072
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      29753
+    ]
+  }
+}

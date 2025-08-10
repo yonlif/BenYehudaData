@@ -1,0 +1,41 @@
+{
+  "id": 259,
+  "url": "https://benyehuda.org/author/259",
+  "metadata": {
+    "name": "פרנסיס תומפסון",
+    "sort_name": "תומפסון, פרנסיס",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "unknown",
+      "period": null,
+      "birth_year": "1859",
+      "death_year": "1907"
+    },
+    "bio_snippet": "היה משורר ומיסטיקן אנגלי.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1131
+  },
+  "texts": {
+    "author": [
+      1841,
+      7983,
+      13615
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

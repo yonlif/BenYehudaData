@@ -1,0 +1,39 @@
+{
+  "id": 343,
+  "url": "https://benyehuda.org/author/343",
+  "metadata": {
+    "name": "קונרד אייקן",
+    "sort_name": "אייקן, קונרד",
+    "other_designations": "",
+    "intellectual_property": "unknown",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "היה משורר ונובליסט אמריקאי.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 748
+  },
+  "texts": {
+    "author": [
+      7076
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

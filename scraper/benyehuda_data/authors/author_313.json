@@ -1,0 +1,60 @@
+{
+  "id": 313,
+  "url": "https://benyehuda.org/author/313",
+  "metadata": {
+    "name": "פרידריך שילר",
+    "sort_name": "שילר, פרידריך",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1775",
+      "death_year": "1805"
+    },
+    "bio_snippet": "היה משורר, מחזאי, פילוסוף והיסטוריון גרמני, הנחשב ביחד עם יוהאן וולפגנג פון גתה לנציגה הבולט ביותר של הקלאסיקה של ויימאר.",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "drama",
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 9674
+  },
+  "texts": {
+    "author": [
+      5089,
+      8684,
+      8698,
+      8699,
+      8700,
+      10778,
+      18625,
+      18626,
+      19072,
+      21168,
+      47060,
+      47061,
+      47062,
+      47063,
+      47064,
+      47065,
+      47066,
+      53738,
+      56089,
+      56090
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

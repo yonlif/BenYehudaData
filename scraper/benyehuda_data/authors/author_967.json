@@ -1,0 +1,39 @@
+{
+  "id": 967,
+  "url": "https://benyehuda.org/author/967",
+  "metadata": {
+    "name": "משה אלטבאואר",
+    "sort_name": "אלטבאואר, משה ",
+    "other_designations": "מ. אבידני",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1904",
+      "death_year": "1998"
+    },
+    "bio_snippet": "בלשן ומתרגם ישראלי, פרופסור לבלשנות באוניברסיטה העברית בירושלים. חתן פרס ישראל לבלשנות. כתב ערכים לאנציקלופדיה העברית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 1821
+  },
+  "texts": {
+    "author": [
+      33720
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 998,
+  "url": "https://benyehuda.org/author/998",
+  "metadata": {
+    "name": "בן־עמי פיינגולד",
+    "sort_name": "פיינגולד, בן־עמי ",
+    "other_designations": "בן עמי, בן-עמי, פינגולד",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1931",
+      "death_year": "2020"
+    },
+    "bio_snippet": "סופר, פרופסור לספרות ומבקר תיאטרון, מחשובי מבקרי התרבות בישראל, וגם מהבולטים במבקרי תרבות הפופ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 605
+  },
+  "texts": {
+    "author": [
+      27916
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

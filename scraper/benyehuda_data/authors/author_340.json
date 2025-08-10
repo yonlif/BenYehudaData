@@ -1,0 +1,53 @@
+{
+  "id": 340,
+  "url": "https://benyehuda.org/author/340",
+  "metadata": {
+    "name": "אברהם ליסין",
+    "sort_name": "ליסין, אברהם",
+    "other_designations": "אברהם וַאלט; אברהם לסין; אברהם ליאסין; אברהם ואלט",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1872",
+      "death_year": "1938"
+    },
+    "bio_snippet": "משורר ועיתונאי יידי של תנועת הפועלים בגולה, מגדולי השירה היידית האמריקאית",
+    "languages": [
+      "ru",
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 2791
+  },
+  "texts": {
+    "author": [
+      7057,
+      23493,
+      25505,
+      25506,
+      25507,
+      25508,
+      25509,
+      52019,
+      52020,
+      52021,
+      52022,
+      52023,
+      52024,
+      52025
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

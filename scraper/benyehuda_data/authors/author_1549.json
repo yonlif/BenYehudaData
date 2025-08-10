@@ -1,0 +1,39 @@
+{
+  "id": 1549,
+  "url": "https://benyehuda.org/author/1549",
+  "metadata": {
+    "name": "יוסף אבן סולי",
+    "sort_name": "אבן סולי, יוסף ",
+    "other_designations": "יוסף בן דוד אבן סולי, אבן־סולי, אבן-סולי, אבן־אלבנסולי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "פעל",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר וחזן",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 522
+  },
+  "texts": {
+    "author": [
+      33983
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

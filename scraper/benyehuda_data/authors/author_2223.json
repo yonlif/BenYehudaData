@@ -1,0 +1,40 @@
+{
+  "id": 2223,
+  "url": "https://benyehuda.org/author/2223",
+  "metadata": {
+    "name": "ירחמיאל בן שלמה",
+    "sort_name": "בן שלמה, ירחמיאל ",
+    "other_designations": "ירחמיאל בר שלמה; ירחמאל בן שלמה",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "חכם יהודי איטלקי שחיבר את הספר \"דברי הימים\" במאה ה־12",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 265
+  },
+  "texts": {
+    "author": [
+      38423,
+      41609
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

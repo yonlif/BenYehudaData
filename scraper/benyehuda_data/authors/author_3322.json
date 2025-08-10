@@ -1,0 +1,39 @@
+{
+  "id": 3322,
+  "url": "https://benyehuda.org/author/3322",
+  "metadata": {
+    "name": "הילה נעימה גורנת",
+    "sort_name": "גורנת, הילה נעימה ",
+    "other_designations": "הילה גורנת",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1998",
+      "death_year": ""
+    },
+    "bio_snippet": "כותבת, משוררת, ראפרית ויוצרת תוכן [על־פי דף פייסבוק של החוג לספרות אוניברסיטת תל־אביב]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 130
+  },
+  "texts": {
+    "author": [
+      56481
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

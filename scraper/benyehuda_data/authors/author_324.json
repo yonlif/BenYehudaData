@@ -1,0 +1,39 @@
+{
+  "id": 324,
+  "url": "https://benyehuda.org/author/324",
+  "metadata": {
+    "name": "שרה הירש",
+    "sort_name": "הירש, שרה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "",
+      "death_year": ""
+    },
+    "bio_snippet": "סופרת",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 14096
+  },
+  "texts": {
+    "author": [
+      6399
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

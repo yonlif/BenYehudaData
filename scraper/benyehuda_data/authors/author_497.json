@@ -1,0 +1,40 @@
+{
+  "id": 497,
+  "url": "https://benyehuda.org/author/497",
+  "metadata": {
+    "name": "אהרון זאב אשכולי",
+    "sort_name": "אשכולי, אהרון זאב",
+    "other_designations": "אהרון זאב ויינטראוב ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1901",
+      "death_year": "1948"
+    },
+    "bio_snippet": "היסטוריון ישראלי, חוקר יהדות וחסידות, חוקר התנועות המשיחיות, מתרגם, מורה ורב צבאי.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 4549
+  },
+  "texts": {
+    "author": [
+      11713,
+      11714
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

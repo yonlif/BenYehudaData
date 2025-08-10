@@ -1,0 +1,39 @@
+{
+  "id": 317,
+  "url": "https://benyehuda.org/author/317",
+  "metadata": {
+    "name": "וילהלם ירוזלם",
+    "sort_name": "ירוזלם, וילהלם",
+    "other_designations": "ירושלם",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1854",
+      "death_year": "1923"
+    },
+    "bio_snippet": "היה מורה, פילוסוף וסוציולוג אוסטרי יהודי.",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 5373
+  },
+  "texts": {
+    "author": [
+      5518
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

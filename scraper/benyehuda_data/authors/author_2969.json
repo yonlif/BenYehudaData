@@ -1,0 +1,39 @@
+{
+  "id": 2969,
+  "url": "https://benyehuda.org/author/2969",
+  "metadata": {
+    "name": "פרנץ רוזנצוויג",
+    "sort_name": "רוזנצוויג, פרנץ ",
+    "other_designations": "פרנץ לוי רוזנצוויג",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1886",
+      "death_year": "1929"
+    },
+    "bio_snippet": "פילוסוף יהודי־גרמני, מחנך ומתרגם",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 87
+  },
+  "texts": {
+    "author": [
+      54147
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

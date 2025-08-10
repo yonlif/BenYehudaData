@@ -1,0 +1,39 @@
+{
+  "id": 2000,
+  "url": "https://benyehuda.org/author/2000",
+  "metadata": {
+    "name": "אברהם יעקב סלוצקי",
+    "sort_name": "סלוצקי, אברהם יעקב ",
+    "other_designations": "איס\"י הבבלי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1861",
+      "death_year": "1918"
+    },
+    "bio_snippet": " סופר ופובליציסט יהודי־רוסי (אוקראיני) ציוני דתי. הוגה שמו של המזרחי",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 126
+  },
+  "texts": {
+    "author": [
+      53703
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

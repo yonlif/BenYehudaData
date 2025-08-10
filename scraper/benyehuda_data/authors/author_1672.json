@@ -1,0 +1,39 @@
+{
+  "id": 1672,
+  "url": "https://benyehuda.org/author/1672",
+  "metadata": {
+    "name": "ג'ון ובסטר",
+    "sort_name": "ובסטר, ג'ון ",
+    "other_designations": "ג'ון וובסטר",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1580",
+      "death_year": "1632"
+    },
+    "bio_snippet": "מחזאי יעקוביני אנגלי, בן זמנו של שיקספיר",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 211
+  },
+  "texts": {
+    "author": [
+      34430
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": 217,
+  "url": "https://benyehuda.org/author/217",
+  "metadata": {
+    "name": "פיודור מיכאילוביץ' דוסטויבסקי",
+    "sort_name": "דוסטויבסקי, פיודור מיכאילוביץ'",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1821",
+      "death_year": "1881"
+    },
+    "bio_snippet": "מגדולי וחשובי הסופרים בתולדות הספרות הרוסית בפרט, והספרות העולמית בכלל. דוסטויבסקי כתב סיפורים קצרים, מאמרים ורומנים, ושימש כעורך בכמה כתבי עת שיצאו לאור ברוסיה בזמנו.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 48449
+  },
+  "texts": {
+    "author": [
+      380,
+      14179,
+      53343
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      1740,
+      17836,
+      20142,
+      20160,
+      20177,
+      21292,
+      30662,
+      32335,
+      32551,
+      32552,
+      32775,
+      43805,
+      44275,
+      44282
+    ]
+  }
+}

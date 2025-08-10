@@ -1,0 +1,40 @@
+{
+  "id": 1661,
+  "url": "https://benyehuda.org/author/1661",
+  "metadata": {
+    "name": "פרנסיס בומנט",
+    "sort_name": "בומנט, פרנסיס ",
+    "other_designations": "פרנסיס בומונט",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1584",
+      "death_year": "1616"
+    },
+    "bio_snippet": "מחזאי בתאטרון הרנסנס האנגלי, ועיקר פרסומו בא לו משיתוף פעולה עם ג'והן פלטשר",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 56
+  },
+  "texts": {
+    "author": [
+      34453,
+      34454
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

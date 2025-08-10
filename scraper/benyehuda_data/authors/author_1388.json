@@ -1,0 +1,39 @@
+{
+  "id": 1388,
+  "url": "https://benyehuda.org/author/1388",
+  "metadata": {
+    "name": "אהרן ורדי",
+    "sort_name": "ורדי, אהרן ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "?",
+      "death_year": "1949"
+    },
+    "bio_snippet": "סופר",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 1226
+  },
+  "texts": {
+    "author": [
+      32729
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

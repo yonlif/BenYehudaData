@@ -1,0 +1,47 @@
+{
+  "id": 126,
+  "url": "https://benyehuda.org/author/126",
+  "metadata": {
+    "name": "שמואל נחום כהנובסקי",
+    "sort_name": "כהנובסקי, שמואל נחום",
+    "other_designations": "ש\"ן כהנובסקי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1856",
+      "death_year": "1926"
+    },
+    "bio_snippet": "סופר, פרסם סדרת סיפורים שעסקו בחיי היהודים בפולין וברוסיה [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 4360
+  },
+  "texts": {
+    "author": [
+      2341,
+      2654,
+      7319,
+      7641,
+      7967,
+      8285,
+      23844,
+      47962,
+      47964
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

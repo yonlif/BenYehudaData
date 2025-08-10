@@ -1,0 +1,70 @@
+{
+  "id": 903,
+  "url": "https://benyehuda.org/author/903",
+  "metadata": {
+    "name": "חמדה בן־יהודה",
+    "sort_name": "בן־יהודה, חמדה ",
+    "other_designations": "בן-יהודה, בן יהודה, שושנה לבנה, ביילה יונס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": "revival",
+      "birth_year": "1873",
+      "death_year": "1951"
+    },
+    "bio_snippet": "סופרת, עיתונאית, אשתו השנייה ויד ימינו של מחיה השפה העברית, אליעזר בן-יהודה, ואחותה הצעירה של אשתו הראשונה, דבורה בן-יהודה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 15690
+  },
+  "texts": {
+    "author": [
+      30998,
+      31021,
+      44969,
+      45131,
+      45132,
+      45173,
+      45174,
+      50314,
+      56887,
+      56888,
+      56889,
+      56890,
+      57032,
+      57598,
+      57599,
+      57600,
+      57601,
+      57602,
+      57603,
+      57604,
+      57605,
+      57606,
+      57607,
+      57608,
+      57609,
+      57610,
+      57611,
+      57612,
+      57613
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      47313
+    ]
+  }
+}

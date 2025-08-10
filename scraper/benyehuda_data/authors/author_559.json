@@ -1,0 +1,51 @@
+{
+  "id": 559,
+  "url": "https://benyehuda.org/author/559",
+  "metadata": {
+    "name": "ריכרד דמל",
+    "sort_name": "דמל, ריכרד",
+    "other_designations": "ריכארד דמל; ריכארד דיהמל;  ריכרד דימל ריכרד דהמל; ריכרד דימל",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1863",
+      "death_year": "1920"
+    },
+    "bio_snippet": "משורר וסופר גרמני.",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 2140
+  },
+  "texts": {
+    "author": [
+      13606,
+      13607,
+      13608,
+      13609,
+      13610,
+      13611,
+      13612,
+      39815,
+      39816,
+      46832
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      30930
+    ]
+  }
+}

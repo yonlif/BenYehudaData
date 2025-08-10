@@ -1,0 +1,40 @@
+{
+  "id": 3551,
+  "url": "https://benyehuda.org/author/3551",
+  "metadata": {
+    "name": "פרץ נפתלי",
+    "sort_name": "נפתלי, פרץ ",
+    "other_designations": "פריץ נפתלי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1888",
+      "death_year": "1961"
+    },
+    "bio_snippet": " כלכלן ועיתונאי כלכלי יהודי גרמני וישראלי, פעיל ציוני סוציאל־דמוקרט, מנהיג פועלים, מרצה לכלכלה בטכניון ובבית הספר הגבוה למשפט ולכלכלה, מנכ\"ל בנק הפועלים, חבר מועצת עיריית תל אביב, חבר הכנסת מטעם מפא\"י ושר בממשלות ישראל",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 49
+  },
+  "texts": {
+    "author": [
+      58961,
+      58973
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

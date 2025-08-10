@@ -1,0 +1,39 @@
+{
+  "id": 2977,
+  "url": "https://benyehuda.org/author/2977",
+  "metadata": {
+    "name": "עוזר רבין",
+    "sort_name": "רבין, עוזר ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1921",
+      "death_year": "1999"
+    },
+    "bio_snippet": "משורר עברי ישראלי, חתן פרס ביאליק לשירה, ופרס ראש הממשלה ליצירה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 154
+  },
+  "texts": {
+    "author": [
+      54153
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

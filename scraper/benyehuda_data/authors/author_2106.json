@@ -1,0 +1,65 @@
+{
+  "id": 2106,
+  "url": "https://benyehuda.org/author/2106",
+  "metadata": {
+    "name": "שלמה ברמן",
+    "sort_name": "ברמן, שלמה",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1857",
+      "death_year": "1927"
+    },
+    "bio_snippet": "סופר ומחבר ספרי לימוד בעלי תפוצה מרובה במשך עשרות שנים; עסק בחקר היסטורי וביבליוגרפי [ע\"פ לקסיקון הספרות העברית החדשה מאת ג. קרסל]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 1811
+  },
+  "texts": {
+    "author": [
+      55704,
+      56147,
+      56148,
+      56149,
+      56428,
+      56440,
+      56542,
+      56543,
+      56544,
+      56786,
+      57591,
+      57597,
+      57645,
+      57946,
+      57947,
+      57948,
+      57949
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      41037,
+      41038,
+      41039,
+      41040,
+      41041,
+      41042,
+      41043,
+      41044
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

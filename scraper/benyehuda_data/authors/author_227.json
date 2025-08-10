@@ -1,0 +1,40 @@
+{
+  "id": 227,
+  "url": "https://benyehuda.org/author/227",
+  "metadata": {
+    "name": "קרל אמיל פרנצוז",
+    "sort_name": "פרנצוז, קרל אמיל",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1848",
+      "death_year": "1904"
+    },
+    "bio_snippet": "היה סופר ועיתונאי, אוסטרי-יהודי, יליד בוקובינה (כיום בתחומי אוקראינה)",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 883
+  },
+  "texts": {
+    "author": [
+      752,
+      3143
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

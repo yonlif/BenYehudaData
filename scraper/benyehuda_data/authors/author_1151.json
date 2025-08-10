@@ -1,0 +1,39 @@
+{
+  "id": 1151,
+  "url": "https://benyehuda.org/author/1151",
+  "metadata": {
+    "name": "יונה דב בלומברג",
+    "sort_name": "בלומברג, יונה דב ",
+    "other_designations": "יונה דב בן יהודה, בלומברג-הררי, בלומברג־הררי, בלומברג הררי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1850",
+      "death_year": "1931"
+    },
+    "bio_snippet": "חובב ציון ומראשוני תנועת המזרחי, פרסם מאמרים ב\"המליץ\" ובעתונות \"המזרחי\" [ע\"פ האנציקלופדיה של חלוצי הישוב ובוניו / דוד תדהר]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 489
+  },
+  "texts": {
+    "author": [
+      29702
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

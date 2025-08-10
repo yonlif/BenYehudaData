@@ -1,0 +1,39 @@
+{
+  "id": 2270,
+  "url": "https://benyehuda.org/author/2270",
+  "metadata": {
+    "name": "עובדיה מברטנורא",
+    "sort_name": "מברטנורא, עובדיה ",
+    "other_designations": "עובדיה ירא מברטנורא; עובדיה בן אברהם ירא מברטינורא; הרע\"ב; הר\"ב; Obadia jarè da Bertinoro",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1440",
+      "death_year": "1515"
+    },
+    "bio_snippet": "פרשן, רב העיר ירושלים ומנהיג הקהילה היהודית בה בשלהי התקופה הממלוכית. נודע בעיקר בשל פירושו למשנה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 241
+  },
+  "texts": {
+    "author": [
+      40742
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

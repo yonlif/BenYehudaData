@@ -1,0 +1,80 @@
+{
+  "id": 70,
+  "url": "https://benyehuda.org/author/70",
+  "metadata": {
+    "name": "נחמה פוחצ'בסקי",
+    "sort_name": "פוחצ'בסקי, נחמה",
+    "other_designations": "פיינשטיין־פוחצ'בסקי; נחמה פיינשטיין-פוחצ'בסקי; נחמה פיינשטיין פוחצ'בסקי; נפ\"ש; בת צבי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": "revival",
+      "birth_year": "1869",
+      "death_year": "1934"
+    },
+    "bio_snippet": "איכרה, סופרת, שופטת וסופרז'יסטית, מחלוצות ראשון לציון. ",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "letters",
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 14860
+  },
+  "texts": {
+    "author": [
+      305,
+      814,
+      1309,
+      1622,
+      1931,
+      2249,
+      2550,
+      2872,
+      5686,
+      6013,
+      6335,
+      6658,
+      6989,
+      7318,
+      7640,
+      7939,
+      7942,
+      7944,
+      53334,
+      53335,
+      53336,
+      53337,
+      53338,
+      53339,
+      53340,
+      53341,
+      53698,
+      53699,
+      53700,
+      53701,
+      53702,
+      53713,
+      53714,
+      53717,
+      53722,
+      53902
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      47611,
+      53785
+    ]
+  }
+}

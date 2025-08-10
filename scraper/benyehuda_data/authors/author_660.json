@@ -1,0 +1,42 @@
+{
+  "id": 660,
+  "url": "https://benyehuda.org/author/660",
+  "metadata": {
+    "name": "קונרד פרדיננד מאייר",
+    "sort_name": "מאייר, קונרד פרדיננד",
+    "other_designations": "קונרד פרדיננד מייר; קונראד פרדיננד מאייר; קונרד פרדינאנד מאייר; קונראד פרדינאנד מאייר; קונראד פרדינאנד מייר ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1825",
+      "death_year": "1898"
+    },
+    "bio_snippet": "משורר וסופר שווייצי.",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 421
+  },
+  "texts": {
+    "author": [
+      18627,
+      39811,
+      39812,
+      39813
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

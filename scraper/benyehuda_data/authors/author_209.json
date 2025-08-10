@@ -1,0 +1,39 @@
+{
+  "id": 209,
+  "url": "https://benyehuda.org/author/209",
+  "metadata": {
+    "name": "יצחק אבן קפרון",
+    "sort_name": "קפרון, יצחק אבן",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "ה",
+      "death_year": "ה"
+    },
+    "bio_snippet": "",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 351
+  },
+  "texts": {
+    "author": [
+      326
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

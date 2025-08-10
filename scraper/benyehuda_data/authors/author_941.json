@@ -1,0 +1,39 @@
+{
+  "id": 941,
+  "url": "https://benyehuda.org/author/941",
+  "metadata": {
+    "name": "כרמית גיא",
+    "sort_name": "גיא, כרמית ",
+    "other_designations": "",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1949",
+      "death_year": ""
+    },
+    "bio_snippet": "עורכת ושדרנית רדיו וטלוויזיה, עיתונאית, סופרת ומתרגמת ישראלית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 7726
+  },
+  "texts": {
+    "author": [
+      26528
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

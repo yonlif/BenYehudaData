@@ -1,0 +1,39 @@
+{
+  "id": 3089,
+  "url": "https://benyehuda.org/author/3089",
+  "metadata": {
+    "name": "אסף כץ",
+    "sort_name": "כץ, אסף ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1923",
+      "death_year": "1948"
+    },
+    "bio_snippet": "יליד עין חרוד. עסק בהעלאת מעפילים והיה בין משחררי עצורי מחנה המעצר בעתלית. במלחמת העצמאות נלחם בקרבות בגליל המערבי ובג'נין, ונהרג בקרב על כפר ינוח [על פי \"גווילי אש\"]",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 119
+  },
+  "texts": {
+    "author": [
+      54502
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

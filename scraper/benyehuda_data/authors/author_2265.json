@@ -1,0 +1,39 @@
+{
+  "id": 2265,
+  "url": "https://benyehuda.org/author/2265",
+  "metadata": {
+    "name": "פלוטרכוס",
+    "sort_name": "פלוטרכוס",
+    "other_designations": "פלוטארכוס; פלוטרך; לוקיוס מסטריוס פלוטרכוס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "46 בערך",
+      "death_year": "120"
+    },
+    "bio_snippet": "פילוסוף, היסטוריון ומסאי יווני",
+    "languages": [
+      "el"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 770
+  },
+  "texts": {
+    "author": [
+      41737
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

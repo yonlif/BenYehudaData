@@ -1,0 +1,60 @@
+{
+  "id": 615,
+  "url": "https://benyehuda.org/author/615",
+  "metadata": {
+    "name": "אברהם רייזן ",
+    "sort_name": "רייזן, אברהם",
+    "other_designations": "אברהם ריזין; אברהם רייזין; אברום ריזין; אברהם רייזין",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1876",
+      "death_year": "1953"
+    },
+    "bio_snippet": "משורר יידיש, מספר, סופר ילדים ומחזאי, עורך ועיתונאי יהודי־אמריקאי ממוצא מזרח אירופי",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "drama",
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 1907
+  },
+  "texts": {
+    "author": [
+      17108,
+      40973,
+      40993,
+      40994,
+      41725,
+      41726,
+      41727,
+      43823,
+      43824,
+      43825,
+      43826,
+      57559,
+      57561,
+      57785,
+      57786,
+      57787,
+      57791,
+      57792
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      32537
+    ]
+  }
+}

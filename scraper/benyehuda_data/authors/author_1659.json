@@ -1,0 +1,39 @@
+{
+  "id": 1659,
+  "url": "https://benyehuda.org/author/1659",
+  "metadata": {
+    "name": "פיליפ סידני",
+    "sort_name": "סידני, פיליפ ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1554",
+      "death_year": "1586"
+    },
+    "bio_snippet": "משורר אנגלי, איש חצר, מלומד וחייל, מהבולטים באנשי התקופה האליזבטנית",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 216
+  },
+  "texts": {
+    "author": [
+      34443
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

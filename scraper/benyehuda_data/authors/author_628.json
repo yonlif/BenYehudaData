@@ -1,0 +1,49 @@
+{
+  "id": 628,
+  "url": "https://benyehuda.org/author/628",
+  "metadata": {
+    "name": "מרדכי גבירטיג",
+    "sort_name": "גבירטיג, מרדכי",
+    "other_designations": "מרדכי ברטיג; מרדכי בערטיג; מרדכי געבירטיג; מרדכי געבירטיק",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1877",
+      "death_year": "1942"
+    },
+    "bio_snippet": "משורר ומלחין יידי יהודי-פולני (גליצאי), שנודע בין היתר כמחבר המילים והלחן לשיר \"העיירה בוערת\".",
+    "languages": [
+      "yi"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 2378
+  },
+  "texts": {
+    "author": [
+      17371,
+      24729,
+      24742,
+      24743,
+      24744,
+      29408,
+      52026,
+      52027,
+      52028
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      29385
+    ]
+  }
+}

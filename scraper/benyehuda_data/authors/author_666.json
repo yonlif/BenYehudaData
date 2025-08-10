@@ -1,0 +1,39 @@
+{
+  "id": 666,
+  "url": "https://benyehuda.org/author/666",
+  "metadata": {
+    "name": "רוברט סאות'י",
+    "sort_name": "סאות'י, רוברט",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1774",
+      "death_year": "1843"
+    },
+    "bio_snippet": "משורר אנגלי מהזרם הרומנטי.",
+    "languages": [
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 75
+  },
+  "texts": {
+    "author": [
+      19212
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

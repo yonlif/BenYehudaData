@@ -1,0 +1,39 @@
+{
+  "id": 2002,
+  "url": "https://benyehuda.org/author/2002",
+  "metadata": {
+    "name": "מרים חַשצֶ'בַאצקי",
+    "sort_name": "חשצ'באצקי,  מרים ",
+    "other_designations": " מרים חשצ'באצקי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": null,
+      "birth_year": "1924",
+      "death_year": "1942"
+    },
+    "bio_snippet": "נערה מגטו ראדומסק שנספתה בשואה",
+    "languages": [
+      "pl"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 681
+  },
+  "texts": {
+    "author": [
+      38638
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

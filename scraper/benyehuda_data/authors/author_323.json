@@ -1,0 +1,46 @@
+{
+  "id": 323,
+  "url": "https://benyehuda.org/author/323",
+  "metadata": {
+    "name": "יהודה לודוויג פיליפסון",
+    "sort_name": "פיליפסון, יהודה לודוויג",
+    "other_designations": "יהודה לודויג בן משה פיליפסון; לודויג פהיליפזון; לודויג פיליפזון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1811",
+      "death_year": "1889"
+    },
+    "bio_snippet": "ד\"ר יהודה לודוויג פיליפסון היה רב רפורמי, מייסד העיתון Allgemeine Zeitung des Judentums‏ ועורכו, מתרגם התנ\"ך לגרמנית, פובליציסט ומחבר ספרי הגות דתית ורומנים היסטוריים. ",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "drama",
+      "prose"
+    ],
+    "impressions_count": 3609
+  },
+  "texts": {
+    "author": [
+      6383,
+      6875,
+      10670,
+      13352,
+      43501,
+      48019,
+      58511
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

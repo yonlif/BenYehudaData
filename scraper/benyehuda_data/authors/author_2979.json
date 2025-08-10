@@ -1,0 +1,46 @@
+{
+  "id": 2979,
+  "url": "https://benyehuda.org/author/2979",
+  "metadata": {
+    "name": "עזה צבי",
+    "sort_name": "צבי, עזה ",
+    "other_designations": "עזה (עזקה) צבי",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "female",
+      "period": "modern",
+      "birth_year": "1934",
+      "death_year": "2011"
+    },
+    "bio_snippet": "מבקרת ספרות, מסאית ומתרגמת ישראלית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 534
+  },
+  "texts": {
+    "author": [
+      54155,
+      54807,
+      56374,
+      57722
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      57238
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": 1141,
+  "url": "https://benyehuda.org/author/1141",
+  "metadata": {
+    "name": "נחמן סירקין",
+    "sort_name": "סירקין, נחמן ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1868",
+      "death_year": "1924"
+    },
+    "bio_snippet": "הוגה דעות ואחד מאבות הציונות הסוציאליסטית",
+    "languages": [
+      "yi",
+      "he"
+    ],
+    "genres": [
+      "article",
+      "memoir"
+    ],
+    "impressions_count": 1842
+  },
+  "texts": {
+    "author": [
+      37407,
+      37408,
+      37666,
+      37667,
+      37668
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      52400
+    ]
+  }
+}

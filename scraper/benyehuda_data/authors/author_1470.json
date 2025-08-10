@@ -1,0 +1,71 @@
+{
+  "id": 1470,
+  "url": "https://benyehuda.org/author/1470",
+  "metadata": {
+    "name": "יניי",
+    "sort_name": "יניי",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "ancient",
+      "birth_year": "פעל כנראה במאה ה־5 או ה־6 לספירה",
+      "death_year": ""
+    },
+    "bio_snippet": " פייטן ארץ־ישראלי קדום שחי ככל הנראה במאה ה־5 או ה־6 לספירה,  תחת השלטון הביזנטי בארץ ישראל. אחד הפייטנים הקדומים ביותר, ונחשב כמי שהכניס את החריזה לשירה העברית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 5358
+  },
+  "texts": {
+    "author": [
+      33330,
+      33331,
+      33332,
+      33333,
+      33334,
+      34421,
+      34422,
+      34423,
+      34424,
+      34425,
+      34426,
+      34427,
+      34428,
+      34429,
+      35041,
+      35042,
+      35043,
+      35044,
+      35045,
+      35046,
+      35047,
+      35887,
+      35888,
+      35889,
+      35890,
+      35891,
+      35892,
+      35893,
+      35894,
+      35895,
+      35896,
+      51138,
+      56620
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

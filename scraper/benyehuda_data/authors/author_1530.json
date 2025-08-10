@@ -1,0 +1,39 @@
+{
+  "id": 1530,
+  "url": "https://benyehuda.org/author/1530",
+  "metadata": {
+    "name": "פינחס הלוי",
+    "sort_name": "הלוי, פינחס ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "פעיל ב־מאה ה־13",
+      "death_year": ""
+    },
+    "bio_snippet": "משורר בחצרו של דון יצחק בטולידו",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 173
+  },
+  "texts": {
+    "author": [
+      33740
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

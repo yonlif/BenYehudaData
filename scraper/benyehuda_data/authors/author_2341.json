@@ -1,0 +1,48 @@
+{
+  "id": 2341,
+  "url": "https://benyehuda.org/author/2341",
+  "metadata": {
+    "name": "שלמה מעתוק",
+    "sort_name": "מעתוק, שלמה ",
+    "other_designations": "סלמאן מעתוק; סלימאן מעתוק",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "המאה ה־18",
+      "death_year": ""
+    },
+    "bio_snippet": "אסטרונום ומשורר יהודי בבגדד, שפיוטיו משולבים בליטורגיות של יהודי עיראק",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 816
+  },
+  "texts": {
+    "author": [
+      42902,
+      42903,
+      42904,
+      42905,
+      42906,
+      42907,
+      42908,
+      42909,
+      42910,
+      42911
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "id": 132,
+  "url": "https://benyehuda.org/author/132",
+  "metadata": {
+    "name": "יהודה ליב קצנלסון",
+    "sort_name": "קצנלסון, יהודה ליב בנימין בן ישראל",
+    "other_designations": "בוקי בן יגלי ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1846",
+      "death_year": "1917"
+    },
+    "bio_snippet": "רופא, סופר ופובליציסט יהודי-עברי מתקופת התחייה. \r\nידוע בשם העט בוקי בן יגלי.\r\n\r\n",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "letters",
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 11658
+  },
+  "texts": {
+    "author": [
+      460,
+      899,
+      1355,
+      1666,
+      1973,
+      1978,
+      2294,
+      2607,
+      2924,
+      3233,
+      3558,
+      3876,
+      4216,
+      4523,
+      4858,
+      5223,
+      5539,
+      6186,
+      6509,
+      6841,
+      7170,
+      7171,
+      53407,
+      55912,
+      57448,
+      57449
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      5866
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      1602,
+      3248,
+      5910,
+      7497,
+      10091,
+      10142,
+      21848,
+      41456
+    ]
+  }
+}

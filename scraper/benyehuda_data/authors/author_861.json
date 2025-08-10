@@ -1,0 +1,40 @@
+{
+  "id": 861,
+  "url": "https://benyehuda.org/author/861",
+  "metadata": {
+    "name": "שרה שפירא",
+    "sort_name": "שפירא, שרה ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": "enlightenment",
+      "birth_year": "1866",
+      "death_year": "1932"
+    },
+    "bio_snippet": " משוררת עברייה, באימפריה הרוסית וברוסיה",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 790
+  },
+  "texts": {
+    "author": [
+      24727,
+      24728
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

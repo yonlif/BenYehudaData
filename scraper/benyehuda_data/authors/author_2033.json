@@ -1,0 +1,39 @@
+{
+  "id": 2033,
+  "url": "https://benyehuda.org/author/2033",
+  "metadata": {
+    "name": "קלונימוס בן שבתי",
+    "sort_name": "בן שבתי, קלונימוס ",
+    "other_designations": "קלונימוס בר שבתאי; קלונימוס בר־שבתאי; קלונימוס בר-שבתאי; קלונימוס בר־שבתי; קלונימוס בר-שבתי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "?",
+      "death_year": "1096"
+    },
+    "bio_snippet": "בן רומא שהיגר לאשכנז, ראש הישיבה בוורמס מסביבות 1070",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 157
+  },
+  "texts": {
+    "author": [
+      38416
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

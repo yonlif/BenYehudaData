@@ -1,0 +1,53 @@
+{
+  "id": 2434,
+  "url": "https://benyehuda.org/author/2434",
+  "metadata": {
+    "name": "ששון בן ישראל",
+    "sort_name": "בן ישראל, ששון ",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "?",
+      "death_year": "?"
+    },
+    "bio_snippet": "משורר, חי בבבל",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 632
+  },
+  "texts": {
+    "author": [
+      44195,
+      44196,
+      44197,
+      44198,
+      44199,
+      44200,
+      44201,
+      44202,
+      44203,
+      44204,
+      44205,
+      44206,
+      44207,
+      44208,
+      44209
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

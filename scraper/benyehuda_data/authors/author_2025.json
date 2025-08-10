@@ -1,0 +1,40 @@
+{
+  "id": 2025,
+  "url": "https://benyehuda.org/author/2025",
+  "metadata": {
+    "name": "משה בן קלונימוס",
+    "sort_name": "בן קלונימוס, משה ",
+    "other_designations": "משה בר קלונימוס",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "המאה ה־10",
+      "death_year": "המאה ה־10"
+    },
+    "bio_snippet": "פייטן בן המאה ה־10. נולד בצפון איטליה והיגר למגנצא, בן למשפחת קלונימוס אשר לבניה חלק חשוב ביצירה הרוחנית בצפון איטליה ובאשכנז, וממנה צמחו פייטנים, מחברי ספרי הלכה ומנהיגים לקהילות צפון איטליה ואשכנז במשך מאות שנים",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 250
+  },
+  "texts": {
+    "author": [
+      38410,
+      41623
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

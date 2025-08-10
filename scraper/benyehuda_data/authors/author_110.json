@@ -1,0 +1,51 @@
+{
+  "id": 110,
+  "url": "https://benyehuda.org/author/110",
+  "metadata": {
+    "name": "בוריס שץ",
+    "sort_name": "שץ, בוריס",
+    "other_designations": "ברוך שץ; שלמה זלמן דב ברוך שץ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1866",
+      "death_year": "1932"
+    },
+    "bio_snippet": "צייר ופסל יהודי, יוזם ומייסד האקדמיה לאומנות ועיצוב בצלאל בירושלים. ",
+    "languages": [
+      "ru",
+      "he",
+      "yi"
+    ],
+    "genres": [
+      "article",
+      "memoir",
+      "prose"
+    ],
+    "impressions_count": 12906
+  },
+  "texts": {
+    "author": [
+      7203,
+      7590,
+      7625,
+      7653,
+      9965,
+      23808
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      11743,
+      43201
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": 1201,
+  "url": "https://benyehuda.org/author/1201",
+  "metadata": {
+    "name": "יוחנן לוי",
+    "sort_name": "לוי, יוחנן ",
+    "other_designations": "הנס לוי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1901",
+      "death_year": "1945"
+    },
+    "bio_snippet": "היסטוריון של הבית השני ובלשן, חתן פרס ישראל במדעי הרוח",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 4977
+  },
+  "texts": {
+    "author": [
+      30441,
+      30442,
+      30443,
+      31964,
+      31965,
+      31966,
+      31967,
+      31968,
+      31969,
+      43027,
+      44257
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

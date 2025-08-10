@@ -1,0 +1,41 @@
+{
+  "id": 1565,
+  "url": "https://benyehuda.org/author/1565",
+  "metadata": {
+    "name": "שם טוב ארדוטיאל",
+    "sort_name": "ארדוטיאל, שם טוב ",
+    "other_designations": "שם טוב בן יצחק ארדוטיאל; דון סנטו דה קריון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1290",
+      "death_year": "1369"
+    },
+    "bio_snippet": "משורר יהודי־ספרדי מהמאה הארבע עשרה, המשורר היהודי הראשון שחיבר יצירות בשפה הספרדית",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 482
+  },
+  "texts": {
+    "author": [
+      34131,
+      38150
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1030,
+  "url": "https://benyehuda.org/author/1030",
+  "metadata": {
+    "name": "יעקב פרנק",
+    "sort_name": "פרנק, יעקב ",
+    "other_designations": "יעקב יוסף בן יהודה ליב",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1726",
+      "death_year": "1791"
+    },
+    "bio_snippet": "מיסטיקאי ומנהיג יהודי אנטינומיסטי שהגדיר את עצמו כמשיח בפולין של המאה ה־18. סחף אחריו כת מאמינים, ונחשב כאחד מממשיכי דרכו של שבתי צבי. הוא ייסד את כת הפרנקיסטים, ובסתיו 1759 התנצר עם קבוצה מתלמידיו. החיה את השבתאות, תנועתו של שבתי צבי, בגלגול חדש",
+    "languages": [
+      "pl"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 531
+  },
+  "texts": {
+    "author": [
+      28201
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

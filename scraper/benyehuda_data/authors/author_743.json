@@ -1,0 +1,42 @@
+{
+  "id": 743,
+  "url": "https://benyehuda.org/author/743",
+  "metadata": {
+    "name": "עומר כיאם",
+    "sort_name": "כיאם, עומר",
+    "other_designations": "עומר ח'יאם",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1048",
+      "death_year": "1131"
+    },
+    "bio_snippet": "מתמטיקאי, אסטרונום, פילוסוף ומשורר פרסי. ",
+    "languages": [
+      "fa",
+      "en"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 7710
+  },
+  "texts": {
+    "author": [
+      5877,
+      21179,
+      25961
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

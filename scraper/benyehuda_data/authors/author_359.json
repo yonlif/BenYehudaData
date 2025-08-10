@@ -1,0 +1,39 @@
+{
+  "id": 359,
+  "url": "https://benyehuda.org/author/359",
+  "metadata": {
+    "name": "רבקה ליפא אניקסטר",
+    "sort_name": "אניקסטר, רבקה ליפא",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "female",
+      "period": "enlightenment",
+      "birth_year": "",
+      "death_year": "1893"
+    },
+    "bio_snippet": "הייתה אחת משלוש נשים ביישוב הישן שהוציאו לאור בשלהי המאה התשע־עשרה קונטרסים.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 728
+  },
+  "texts": {
+    "author": [
+      7529
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3304,
+  "url": "https://benyehuda.org/author/3304",
+  "metadata": {
+    "name": "א.ת.א. הופמן",
+    "sort_name": "הופמן, א.ת.א. ",
+    "other_designations": "ארנסט תאודור וילהלם הופמן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1776",
+      "death_year": "1822"
+    },
+    "bio_snippet": "סופר גרמני, מן הבולטים בזרם הרומנטי, משפטן, מלחין, מבקר מוזיקה, צייר וקריקטוריסט. הופמן הוא גם נושא אופרה מפורסמת של ז'אק אופנבך, \"סיפורי הופמן\"",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 423
+  },
+  "texts": {
+    "author": [
+      56293
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2117,
+  "url": "https://benyehuda.org/author/2117",
+  "metadata": {
+    "name": "אמיל ורהארן",
+    "sort_name": "ורהארן, אמיל ",
+    "other_designations": "אמיל אדולפוס גוסטבוס ורהארן; אמיל ורהרן",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1855",
+      "death_year": "1916"
+    },
+    "bio_snippet": "משורר ומסאי בלגי בשפה הצרפתית, פלמי במוצאו. נחשב אחד מנציגיו הבולטים של הסימבוליזם בשירה האירופית, מושפע בתחילת דרכו גם על ידי הנטורליזם",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 242
+  },
+  "texts": {
+    "author": [
+      39819
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

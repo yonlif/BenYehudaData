@@ -1,0 +1,39 @@
+{
+  "id": 544,
+  "url": "https://benyehuda.org/author/544",
+  "metadata": {
+    "name": "וגטיוס",
+    "sort_name": "וגטיוס",
+    "other_designations": "וגטיוס; פּוּבְּלִיוּס פְלַבְיוּס וֶגֶטְיוּס רֶנָאטוּס; פובליוס פלביוס וגטיוס רנאטוס",
+    "intellectual_property": "unknown",
+    "person": {
+      "gender": "unknown",
+      "period": null,
+      "birth_year": "ה",
+      "death_year": "ה"
+    },
+    "bio_snippet": "סופר רומאי, שכתב בסוף המאה ה-4 לספירה או בתחילת המאה ה-5 חיבור בענייני צבא ששרד לימינו.",
+    "languages": [
+      "la"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 197
+  },
+  "texts": {
+    "author": [
+      18053
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

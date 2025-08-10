@@ -1,0 +1,39 @@
+{
+  "id": 2923,
+  "url": "https://benyehuda.org/author/2923",
+  "metadata": {
+    "name": "אוגוסט פורל",
+    "sort_name": "פורל, אוגוסט ",
+    "other_designations": "אוגוסט אנרי פורל",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1848",
+      "death_year": "1931"
+    },
+    "bio_snippet": "פסיכיאטר, חוקר מבנה המוח אנושי ושל הנמלים. ידוע בתרומתו המוקדמות לסקסולוגיה ולפסיכולוגיה",
+    "languages": [
+      "fr"
+    ],
+    "genres": [
+      "reference"
+    ],
+    "impressions_count": 630
+  },
+  "texts": {
+    "author": [
+      53287
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": 2723,
+  "url": "https://benyehuda.org/author/2723",
+  "metadata": {
+    "name": "שמשון יעקב קרויטנר",
+    "sort_name": "קרויטנר, שמשון יעקב ",
+    "other_designations": "ש\"י קרויטנר",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1917",
+      "death_year": "2007"
+    },
+    "bio_snippet": "סופר,  היסטוריון פופולרי של תולדות היישוב",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article",
+      "prose"
+    ],
+    "impressions_count": 863
+  },
+  "texts": {
+    "author": [
+      48603,
+      48673,
+      48674,
+      48675,
+      48676
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

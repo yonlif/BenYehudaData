@@ -1,0 +1,40 @@
+{
+  "id": 528,
+  "url": "https://benyehuda.org/author/528",
+  "metadata": {
+    "name": "אינוקנטי אננסקי",
+    "sort_name": "אננסקי, אינוקנטי",
+    "other_designations": "אינוקנטי פיודורוביץ' אננסקי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1855",
+      "death_year": "1909"
+    },
+    "bio_snippet": "משורר, מתרגם, מלומד ומבקר רוסי, שייך לזרם הסימבוליסטי הרוסי. השפיע על האקמאיסטים.",
+    "languages": [
+      "ru"
+    ],
+    "genres": [
+      "poetry"
+    ],
+    "impressions_count": 1142
+  },
+  "texts": {
+    "author": [
+      2628,
+      35054
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

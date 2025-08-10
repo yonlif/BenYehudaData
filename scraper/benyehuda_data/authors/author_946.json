@@ -1,0 +1,42 @@
+{
+  "id": 946,
+  "url": "https://benyehuda.org/author/946",
+  "metadata": {
+    "name": "שלמה מימון",
+    "sort_name": "מימון, שלמה ",
+    "other_designations": "שלמה בן יהושע, סלומון מימון",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "enlightenment",
+      "birth_year": "1753",
+      "death_year": "1800"
+    },
+    "bio_snippet": "פילוסוף יהודי בן תנועת ההשכלה, שהשפעתו הייתה גדולה גם בחוגי הפילוסופיה הכללית. התפרסם בעיקר בשל השגותיו על תורת ההכרה הקאנטיאנית. העריץ את הרמב\"ם (ומשום כך שינה את שם משפחתו ל\"מימון\"). תורתו הפילוסופית ידועה בשם \"הספקנות הביקורתית\", והיא שילוב של תורת קאנט עם זו של הפילוסוף הגרמני פיכטה. גורש מקהילות יהודיות שונות כיוון שנחשב ל\"מופקר\" וכופר",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "memoir"
+    ],
+    "impressions_count": 4479
+  },
+  "texts": {
+    "author": [
+      34208,
+      34209
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": [
+      32783
+    ]
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "id": 501,
+  "url": "https://benyehuda.org/author/501",
+  "metadata": {
+    "name": "מנשה לוין",
+    "sort_name": "לוין, מנשה",
+    "other_designations": "מנשה לווין",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "revival",
+      "birth_year": "1903",
+      "death_year": "1981"
+    },
+    "bio_snippet": "סופר, מתרגם ומשורר עברי.",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "drama",
+      "letters",
+      "prose",
+      "reference"
+    ],
+    "impressions_count": 9605
+  },
+  "texts": {
+    "author": [
+      12669,
+      12670,
+      12671,
+      12672,
+      12673,
+      12674,
+      12675,
+      12676,
+      12677,
+      12678,
+      12679,
+      12680,
+      12681,
+      12682,
+      12683,
+      12684,
+      12685,
+      12686,
+      12687,
+      12688,
+      12689,
+      12690,
+      12691,
+      12692,
+      12693,
+      12694,
+      12695,
+      12696,
+      12697,
+      12698,
+      12699,
+      12700,
+      12940,
+      12941,
+      18738,
+      18739,
+      18740
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [
+      14043,
+      15995,
+      18975,
+      35685,
+      35687
+    ],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

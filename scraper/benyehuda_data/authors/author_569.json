@@ -1,0 +1,42 @@
+{
+  "id": 569,
+  "url": "https://benyehuda.org/author/569",
+  "metadata": {
+    "name": "משה בן מימון",
+    "sort_name": "מימון, משה בן",
+    "other_designations": "",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "medieval",
+      "birth_year": "1138",
+      "death_year": "1204"
+    },
+    "bio_snippet": "מכונה גם בראשי תיבות רמב\"ם, בערבית מוכר כמוסא בן מימון או כאבן עבד אללה, ובלשונות אירופה כמיימונידס) היה מגדולי הפוסקים בכל הדורות, מחשובי הפילוסופים בימי הביניים, איש אשכולות, מדען, רופא, חוקר ומנהיג. אחד האישים החשובים והנערצים ביותר ביהדות. עליו נאמר \"ממשה עד משה לא קם כמשה\" והוא הוכתר בכינוי \"הנשר הגדול\". הרמב\"ם החזיק במשנה רציונליסטית מובהקת שבאה לידי ביטוי בכתביו. הוא הוכר כפילוסוף וכרופא גם בתרבות הערבית והאירופית.",
+    "languages": [
+      "ar",
+      "he"
+    ],
+    "genres": [
+      "article",
+      "reference"
+    ],
+    "impressions_count": 9147
+  },
+  "texts": {
+    "author": [
+      14019,
+      52398
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

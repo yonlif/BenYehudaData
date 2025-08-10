@@ -1,0 +1,45 @@
+{
+  "id": 2175,
+  "url": "https://benyehuda.org/author/2175",
+  "metadata": {
+    "name": "יהודה רוזנטל",
+    "sort_name": "רוזנטל, יהודה ",
+    "other_designations": "יהודה רוזנטאל",
+    "intellectual_property": "permission_for_selected",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1904",
+      "death_year": "1976"
+    },
+    "bio_snippet": "חוקר יהדות, פרופ' לפרשנות התנ\"ך וספרות",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "article"
+    ],
+    "impressions_count": 961
+  },
+  "texts": {
+    "author": [
+      41260,
+      41261,
+      41263,
+      41264,
+      41265,
+      42556,
+      42557
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

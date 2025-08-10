@@ -1,0 +1,51 @@
+{
+  "id": 505,
+  "url": "https://benyehuda.org/author/505",
+  "metadata": {
+    "name": "צבי זוירי",
+    "sort_name": "זוירי, צבי",
+    "other_designations": "צבי זאוירי; ז'בורז'נסקי; צבי זווירי",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": "modern",
+      "birth_year": "1912",
+      "death_year": "1948"
+    },
+    "bio_snippet": "סופר ילדים ונוער עברי ומורה ישראלי. השתתף במלחמת העצמאות ונהרג בקרב לטרון",
+    "languages": [
+      "he"
+    ],
+    "genres": [
+      "poetry",
+      "prose"
+    ],
+    "impressions_count": 1710
+  },
+  "texts": {
+    "author": [
+      11765,
+      11766,
+      11767,
+      11768,
+      11769,
+      11770,
+      11771,
+      54585,
+      54586,
+      54587,
+      54588,
+      54589
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}

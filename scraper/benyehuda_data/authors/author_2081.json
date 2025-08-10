@@ -1,0 +1,39 @@
+{
+  "id": 2081,
+  "url": "https://benyehuda.org/author/2081",
+  "metadata": {
+    "name": "איזק אשר פרנקולם",
+    "sort_name": "פרנקולם, איזק אשר ",
+    "other_designations": "יצחק אשר פרנקולם ; א. ריספארט ",
+    "intellectual_property": "public_domain",
+    "person": {
+      "gender": "male",
+      "period": null,
+      "birth_year": "1788",
+      "death_year": "1849"
+    },
+    "bio_snippet": "סופר יהודי־גרמני, עורך, מטיף ומורה דת",
+    "languages": [
+      "de"
+    ],
+    "genres": [
+      "prose"
+    ],
+    "impressions_count": 297
+  },
+  "texts": {
+    "author": [
+      39281
+    ],
+    "editor": [],
+    "illustrator": [],
+    "translator": [],
+    "photographer": [],
+    "designer": [],
+    "contributor": [],
+    "other": []
+  },
+  "enrichment": {
+    "texts_about": []
+  }
+}
