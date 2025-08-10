@@ -9,8 +9,8 @@
     "person": {
       "gender": "male",
       "period": null,
-      "birth_year": " 20 במרץ 43 לפנה״ס",
-      "death_year": "17 לספירה"
+      "birth_year": "-43",
+      "death_year": "17"
     },
     "bio_snippet": "פּוּבְּלִיוּס אוֹבִידִיוּס נָאסוֹ היה משורר רומאי ידוע, שכתב על אהבה ועל נשים מופקרות, וסיפורי מיתולוגיה.",
     "languages": [

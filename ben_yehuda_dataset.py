@@ -1,6 +1,7 @@
 from pathlib import Path
 import json
 import csv
+from re import A
 from torch.utils.data import Dataset
 import string
 import matplotlib.pyplot as plt
@@ -43,6 +44,8 @@ class BenYehudaDataset(Dataset):
             reader = csv.DictReader(f)
             for row in reader:
                 path = row.get('path', '').strip()
+                if "6722" in path:
+                    print()
                 author_id = int(path.split('/')[1][1:])
                 if not author_id or not path:
                     continue
@@ -52,7 +55,8 @@ class BenYehudaDataset(Dataset):
                 if author_id in self.author_years and txt_path.is_file():
                     self.samples.append((txt_path, self.author_years[author_id]))
                 else:
-                    print(f"Skipping {txt_path} because it doesn't exist or author_id {author_id} is not in author_years")
+                    pass
+                    # print(f"Skipping {txt_path} because it doesn't exist or author_id {author_id} is not in author_years")
 
     def __len__(self):
         return len(self.samples)

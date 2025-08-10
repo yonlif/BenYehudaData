@@ -9,8 +9,8 @@
     "person": {
       "gender": "male",
       "period": null,
-      "birth_year": "70/80 לפנה\"ס",
-      "death_year": "אחרי 15 לספירה"
+      "birth_year": "-80",
+      "death_year": "20"
     },
     "bio_snippet": "היה סופר, אדריכל ומהנדס אזרחי וצבאי רומאי בן המאה ה-1 לפנה\"ס.",
     "languages": [
