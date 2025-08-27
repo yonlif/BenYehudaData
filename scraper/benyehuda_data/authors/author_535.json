@@ -9,8 +9,8 @@
     "person": {
       "gender": "male",
       "period": null,
-      "birth_year": "106",
-      "death_year": "43 לפנה\"ס"
+      "birth_year": "-106",
+      "death_year": "-43"
     },
     "bio_snippet": "היה נואם, מדינאי, סופר ופילוסוף ברפובליקה הרומית המאוחרת. הוא נחשב לאמן הפרוזה בשפה הלטינית.",
     "languages": [

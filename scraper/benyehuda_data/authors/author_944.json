@@ -9,8 +9,8 @@
     "person": {
       "gender": "male",
       "period": null,
-      "birth_year": "84 לפנה\"ס?",
-      "death_year": "54 לפנה\"ס"
+      "birth_year": "-84",
+      "death_year": "-54"
     },
     "bio_snippet": "משורר רומאי",
     "languages": [

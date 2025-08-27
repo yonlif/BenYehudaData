@@ -9,8 +9,8 @@
     "person": {
       "gender": "male",
       "period": null,
-      "birth_year": "15 באוקטובר 70 לפנה״ס",
-      "death_year": " 21 בספטמבר 19 לפנה״ס"
+      "birth_year": "-70",
+      "death_year": "-19"
     },
     "bio_snippet": "היה משורר רומי. יצירתו ה\"אינאיס\" נחשבה לאפוס הלאומי הרומאי.",
     "languages": [

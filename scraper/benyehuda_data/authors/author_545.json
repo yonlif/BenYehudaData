@@ -9,8 +9,8 @@
     "person": {
       "gender": "male",
       "period": null,
-      "birth_year": "100",
-      "death_year": "44 לפנה\"ס"
+      "birth_year": "-100",
+      "death_year": "-44"
     },
     "bio_snippet": "היה מנהיג צבאי ופוליטי חשוב ברפובליקה הרומית. ",
     "languages": [

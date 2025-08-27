@@ -9,8 +9,8 @@
     "person": {
       "gender": "male",
       "period": null,
-      "birth_year": "86 לפנה\"ס",
-      "death_year": "35 לפנה\"ס"
+      "birth_year": "-86",
+      "death_year": "-35"
     },
     "bio_snippet": "מדינאי והיסטוריון רומאי. ידוע בעיקר בשל חיבורו על קשר קאטילינה ועל מלחמת יוגורתא.",
     "languages": [

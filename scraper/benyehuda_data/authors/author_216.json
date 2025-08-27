@@ -9,8 +9,8 @@
     "person": {
       "gender": "male",
       "period": null,
-      "birth_year": "8 בדצמבר 65 לפנה\"ס",
-      "death_year": "27 בנובמבר 8 לפנה\"ס"
+      "birth_year": "-65",
+      "death_year": "-8"
     },
     "bio_snippet": "קווינטוס הורטיוס פלקוס היה משורר רומי מפורסם.",
     "languages": [

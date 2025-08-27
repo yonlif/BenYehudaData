@@ -22,12 +22,15 @@ class BenYehudaDataset(Dataset):
         authors_dir = Path(authors_dir)
         pseudocatalogue_path = Path(pseudocatalogue_path)
 
+        invalid_years_counter = 0
         # Load author birth/death years
         for author_file in authors_dir.glob('author_*.json'):
             with author_file.open(encoding=encoding) as f:
                 data = json.load(f)
                 author_id = int(data['id'])
-                person = data['metadata'].get('person', {})
+                metadata = data['metadata']
+                person = metadata.get('person', {})
+                author_name = metadata.get('name')
                 birth = person.get('birth_year')
                 death = person.get('death_year')
                 if birth and death:
@@ -35,25 +38,26 @@ class BenYehudaDataset(Dataset):
                         birth = int(birth)
                         death = int(death)
                     except ValueError:
-                        print(f"Invalid year format for author {author_id}: {birth}, {death}")
+                        invalid_years_counter += 1
+                        print(f"Invalid year format for author `{author_name}` #{author_id}: {birth}, {death}")
                         continue
-                    self.author_years[author_id] = (int(birth), int(death))
+                    self.author_years[author_name] = (int(birth), int(death))
+        print(f"Could not parse birth or death years for {invalid_years_counter} authors")
 
         # Read pseudocatalogue.csv
         with pseudocatalogue_path.open(encoding=encoding) as f:
             reader = csv.DictReader(f)
             for row in reader:
                 path = row.get('path', '').strip()
-                if "6722" in path:
-                    print()
+                author_name = row.get("authors")
                 author_id = int(path.split('/')[1][1:])
-                if not author_id or not path:
+                if not author_name or not path:
                     continue
                 if path.startswith('/'):
                     path = path[1:]
                 txt_path = self.txt_dir / f'{path}.txt'
-                if author_id in self.author_years and txt_path.is_file():
-                    self.samples.append((txt_path, self.author_years[author_id]))
+                if author_name in self.author_years and txt_path.is_file():
+                    self.samples.append((txt_path, self.author_years[author_name]))
                 else:
                     pass
                     # print(f"Skipping {txt_path} because it doesn't exist or author_id {author_id} is not in author_years")
@@ -70,19 +74,23 @@ class BenYehudaDataset(Dataset):
 def plot_dataset_statistics(text_lengths, birth_years, death_years):
     plt.figure(figsize=(15, 4))
     plt.subplot(1, 3, 1)
+    text_lengths = list(map(lambda x: x / 1000, text_lengths))
     plt.hist(text_lengths, bins=50, color='skyblue', edgecolor='black')
+    plt.yscale('log')
     plt.title('Text Length Distribution')
-    plt.xlabel('Text Length (characters)')
+    plt.xlabel('Text Length (thousand characters)')
     plt.ylabel('Count')
 
     plt.subplot(1, 3, 2)
     plt.hist(birth_years, bins=30, color='lightgreen', edgecolor='black')
+    plt.yscale('log')
     plt.title('Birth Year Distribution')
     plt.xlabel('Birth Year')
     plt.ylabel('Count')
 
     plt.subplot(1, 3, 3)
     plt.hist(death_years, bins=30, color='salmon', edgecolor='black')
+    plt.yscale('log')
     plt.title('Death Year Distribution')
     plt.xlabel('Death Year')
     plt.ylabel('Count')

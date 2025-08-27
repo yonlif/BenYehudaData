@@ -9,8 +9,8 @@
     "person": {
       "gender": "male",
       "period": null,
-      "birth_year": "3 לפנה״ס",
-      "death_year": "12 באפריל 65"
+      "birth_year": "-3",
+      "death_year": "65"
     },
     "bio_snippet": "פילוסוף, מדינאי ומחזאי רומאי ב\"תקופת הכסף\" של הספרות הלטינית",
     "languages": [

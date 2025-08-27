@@ -9,8 +9,8 @@
     "person": {
       "gender": "male",
       "period": "medieval",
-      "birth_year": "המאה העשירית",
-      "death_year": "המאה העשירית"
+      "birth_year": "950",
+      "death_year": "1000"
     },
     "bio_snippet": "פייטן, פעיל באמצע המאה העשירית",
     "languages": [
